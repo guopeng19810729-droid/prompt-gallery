@@ -6,3 +6,5 @@ Thumbs.db
 .wrangler/
 .dev.vars
 
+
+.import-state.json
