@@ -1518,5 +1518,76 @@ window.GALLERY_CASES = [
     "nsfw": true,
     "driveId": "156TR0bWkX3i5VW5OvFmI3p7Oj6o--RbT",
     "driveUrl": "https://drive.google.com/file/d/156TR0bWkX3i5VW5OvFmI3p7Oj6o--RbT/view"
+  },
+  {
+    "id": "086",
+    "xid": "2097924458652856696",
+    "title": "35mm 胶片风竖幅人像",
+    "category": "人物角色",
+    "model": "",
+    "source": "@0xkyne",
+    "sourceUrl": "https://x.com/0xkyne/status/2097924458652856696",
+    "image": "https://pbs.twimg.com/media/HR1TB-0bEAAbdHw.jpg",
+    "images": [
+      "https://pbs.twimg.com/media/HR1TB-0bEAAbdHw.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "感谢分享提示词 我只能说，会玩还是你们会玩😅  提示词： 9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎",
+    "prompt": "9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎层次，长刘海自然垂落并部分遮住右眼。面部年轻精致但保持真实成年感，眼神平静、克制、略带专注，直视镜头。妆容自然柔和，清淡自然唇色，眼部轮廓清晰，保留真实皮肤纹理、细微毛孔、轻微肤色起伏和自然面部不对称。  服装为宽松的米白色短袖 Crop T-shirt，柔软棉质面料，高圆领设计，下摆停留在上腹部区域，完整露出纤细腰腹与自然肚脐。T 恤胸前中央印有醒目的蓝色英文字样：  “who is 0xkyne?”  字体清晰、完整、水平排列，以少量橙红色图形或字体细节作为视觉点缀。  主文字下方印有较小的中文：  “风花雪月”  要求文字拼写准确、结构清晰、无乱码、无额外字符。  下身搭配极简肉色低腰比基尼式下装，腰线位于胯骨附近，设计简洁纤细，颜色接近自然裸肤色，与整体低饱和胶片色调协调。  姿势具有随性时尚 Editorial 感。左臂高举至头顶上方，肘部自然弯曲，手臂形成向上的延伸线条；右臂放松并自然垂落于身体侧面。肩部轻微不对称，躯干保持自然伸展，腹部没有刻意收紧或夸张扭转。  相机采用略低于胸部高度的中低机位，镜头轻微向上拍摄，避免夸张仰拍和广角畸变。约 50mm 等效焦距，人物距离镜头较近。  构图从头顶上方保留少量空间开始，完整纳入面部、肩部、举起的左臂、胸腹区域以及肚脐下方少量胯部区域。人物占据画面绝大部分高度，主体居中略偏一侧，形成自然、不完全对称的时尚杂志构图。  场景为极简室内空间，背景是一整面浅灰色微纹理墙面，没有多余家具、装饰或杂物。  柔和室内灯光从人物左前方约 45° 方向照射，脸颊、肩膀、手臂与腹部形成柔和自然高光，另一侧保留轻微阴影。人物身后浅灰墙面出现一道低对比度、边缘柔软的真实投影，增强空间层次。  整体采用真实 35mm 彩色负片摄影质感，低至中等对比度，柔和高光滚降，略带暖灰和奶油色倾向，蓝色与橙红色印花保持适度鲜明。细腻均匀的胶片颗粒，轻微自然色偏，极轻微镜头柔化和真实光学质感。  保留棉质 T 恤织物纤维、衣物褶皱、皮肤毛孔、细碎发丝、腹部自然纹理以及真实阴影过渡。  照片级真实感，真实相机摄影，natural skin texture, subtle film grain, 35mm analog photography, editorial portrait, realistic fabric texture, soft indoor lighting, gentle shadow falloff, restrained vintage color grading。  避免：塑料皮肤、过度磨皮、美颜滤镜、动漫感、CGI、插画感、过度锐化、HDR 过强、鱼眼、超广角畸变、异常透视、额外手臂、手指畸形、身体结构错误、文字乱码、重复文字、错误拼写、额外 Logo、背景杂物。",
+    "nsfw": false
+  },
+  {
+    "id": "087",
+    "xid": "2098711105237573685",
+    "title": "夜风 Coser 磨砂玻璃板",
+    "category": "人物角色",
+    "model": "GPT Image 2",
+    "source": "@haiqushe",
+    "sourceUrl": "https://x.com/haiqushe/status/2098711105237573685",
+    "image": "https://pbs.twimg.com/media/HSAeeZUbMAATSaH.jpg",
+    "images": [
+      "https://pbs.twimg.com/media/HSAeeZUbMAATSaH.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "GPT Image 2 直出，Prompt 提示词:  明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风",
+    "prompt": "明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风与潮湿空气中微乱。 她双手持一块长方形磨砂玻璃风格亚克力板，置于身体前方遮挡身体，从锁骨下方到肋骨位置。亚克力板上以手写风格文字写着“我们一起逛街吧！”，字体自然带手写波动，荧光笔颜色鲜艳。透过磨砂玻璃板，人物与背景微微透视可见。 下身超短下装+黑色半透明丝袜或高跟短靴。姿态自然微侧，一肩略低，腰胯轻微反差，上身微前倾，性感张力强但不刻意摆拍。 CCD直闪纪实抓拍，雨后夜晚繁忙十字路口，红灯等待时刻。背景密集车流、人流、雨伞、霓虹广告牌、信号灯、店招与大楼灯箱，行人与车辆明显动态模糊拖影，地面潮湿发亮，映出红绿灯、车灯与招牌斑斓反光。闪光灯直打人物，人物清晰明亮，背景混沌流动，强烈反差。整体真实、喧闹、潮湿、漂亮，日系胶片+千禧CCD随手拍气质。 负面：上衣、内衣",
+    "nsfw": false
+  },
+  {
+    "id": "088",
+    "xid": "2098814431891435627",
+    "title": "玫瑰香槟粉 CCD · 古风蕾丝",
+    "category": "人物角色",
+    "model": "GPT Image 2.5",
+    "source": "@liyue_ai",
+    "sourceUrl": "https://x.com/liyue_ai/status/2098814431891435627",
+    "image": "https://pbs.twimg.com/media/HSB8IiZacAARPoC.jpg",
+    "images": [
+      "https://pbs.twimg.com/media/HSB8IiZacAARPoC.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "这还是我认识的GPT吗？ 过于夸张了😂  GPT Image 2.5提示词： 滤镜：玫瑰香槟粉 CCD 闪光灯滤镜，  脸型：韩式女瓜子脸     服装：古风蕾丝，马油袜   场景：高级KTV包间  动作：一男一女在酒吧对饮  镜头：突出上",
+    "prompt": "滤镜：玫瑰香槟粉 CCD 闪光灯滤镜， \n脸型：韩式女瓜子脸    \n服装：古风蕾丝，马油袜  \n场景：高级KTV包间 \n动作：一男一女在酒吧对饮 \n镜头：突出上围和腿 \n比例：9:16",
+    "nsfw": true
+  },
+  {
+    "id": "089",
+    "xid": "2098631945198698640",
+    "title": "Grok CCD 生活照 · 蕾丝套装",
+    "category": "人物角色",
+    "model": "Grok",
+    "source": "@msjiaozhu",
+    "sourceUrl": "https://x.com/msjiaozhu/status/2098631945198698640",
+    "image": "https://pbs.twimg.com/media/HR_Wn5CaIAA-eQu.jpg",
+    "images": [
+      "https://pbs.twimg.com/media/HR_Wn5CaIAA-eQu.jpg",
+      "https://pbs.twimg.com/media/HR_Wn7kaEAAWBZw.jpg",
+      "https://pbs.twimg.com/media/HR_Wn7la0AAKsQJ.jpg",
+      "https://pbs.twimg.com/media/HR_Wn7macAAroT6.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "受 @maplejohn01 启发，挖掘出了 Grok 的天花板😍这效果真的不比 GPT Image 2.5 差啊！  还有个视频太露骨了不敢放主贴，你们自己调小音量再看🤣  提示词👇 Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚",
+    "prompt": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚美女，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
+    "nsfw": true
   }
 ];
