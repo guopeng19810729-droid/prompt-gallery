@@ -1,0 +1,6 @@
+﻿.git
+.wrangler
+.dev.vars
+.gitignore
+README.md
+wrangler.toml
