@@ -2,3 +2,7 @@
 Thumbs.db
 *.zip
 .vscode/
+
+.wrangler/
+.dev.vars
+

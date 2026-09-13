@@ -1,0 +1,8 @@
+﻿# Cloudflare Workers static assets (Git auto-deploy)
+name = "prompt-gallery"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+[assets]
+directory = "./"
+not_found_handling = "none"
