@@ -7,7 +7,8 @@ window.SKILLS = [
     "url": "https://x.com/cgnot996/status/2084455880234508392",
     "group": "客户端",
     "blurb": "🎉 Grok App v0.2.5 版本来啦～ 🔗DS V4 Flash + Grok 多模态组合使用，从此告别睁眼瞎！ ⚙️预设 DeepSeek，OpenCode Go 等配置，填写 Key 即可使用。 🗃️右侧资源面板重做，再次摸着 Codex 过河，逻辑更清晰。 🛠️全面兼容 Codex 插件，也支持了爆火的 ChatCut。 现在可以在 Grok App 里面套娃使用 Grok Build 啦。 欢迎大家下载体验，多提意见和 PR～ @elonmusk @SpaceXAI @milichab @belce_dogru 也希望官方可以注意到我们的项目",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2080452247893463550",
@@ -17,7 +18,8 @@ window.SKILLS = [
     "url": "https://x.com/cgnot996/status/2080452247893463550",
     "group": "客户端",
     "blurb": "🎉Grok App 现已开源！ 支持 Mac M系列芯片/Intel，支持 Windows X86 除了正常的 Agent 交互之外，还做了： ⌛️手动+通过 AI 创建 定时任务 📚全功能的资源面板 🔗第三方模型供应商接入 欢迎各位下载体验，非常希望有能力的小伙伴提 PR 一起维护这个项目！ 开源地址⬇️欢迎 Star",
-    "video": false
+    "video": false,
+    "addedAt": "2026.07.24"
   },
   {
     "id": "2088920272812564546",
@@ -27,7 +29,8 @@ window.SKILLS = [
     "url": "https://x.com/goan999999/status/2088920272812564546",
     "group": "Codex工作流",
     "blurb": "Codex 5.6 如何拥有用不完的token？ 你是不是还在为ChatGPT plus 额度不够用而发愁？是不是每天都在等待Tibo @thsottiaux 重置额度？ 别等了！告诉你一个能让Codex拥有无限子弹的办法。 如果你是 Mac 系统，在 Codex 对话中输入的prompt： 请在 ~/.codex/agents/luna-worker.toml 创建一个名为 luna_worker 的自定义代理。 使用以下配置： model = \"gpt-5.6-luna\" model_reasoning_effort = \"max\" 如果你是 Windows 系统，在PowerShell 中执行： New-Item -ItemType Directory -Force \"$HOME\\.codex\\agents\" @' model = \"gpt-5.6-luna\" model_reasoning_effort = \"max\" '@ | Set-Content \"$HOME\\.codex\\agents\\luna-worker.toml\" 配置完成后： 1️⃣主 Agent：负责需求分析、架构设计、任务拆解。 2️⃣子 Agent：负责代码实现、测试验证、资料整理、问题排查。 让不同 Agent 负责不同任务，这样非常节省token，用plus进行vibe coding基本够用。",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.16"
   },
   {
     "id": "2093594726075379875",
@@ -37,7 +40,8 @@ window.SKILLS = [
     "url": "https://x.com/goan999999/status/2093594726075379875",
     "group": "Codex工作流",
     "blurb": "Codex 5.6 装上这个 Skill，能少写 90% 废代码 很多人用 Codex，需求一丢进去，AI 就开始给你堆组件、装依赖、写一大堆根本用不到的代码。token 越烧越多，代码反而越难维护。 这个 GitHub 项目叫 ponytail。它会在 Codex 写代码前先强制判断：这件事真的需要写吗？项目里有没有现成代码？标准库能不能解决？浏览器原生能力能不能解决？能不能只写一行？ 只有这些路都走不通，才写最少、真正能跑的代码，在也不会出现垃圾代码了。 比如你让 AI 做日期选择器，普通 Agent 可能给你装库、写组件、加样式；ponytail 会直接告诉它：浏览器本身就有 <input type=\"date\">。 安装提示词，直接复制给 Codex： “请帮我安 。先在终端依次执行：codex plugin marketplace add DietrichGebert/ponytail，然后执行 codex plugin add ponytail@ponytail。安装完成后打开 /hooks，检查并信任 Ponytail 的两个 lifecycle hooks，最后提示我重启 Codex 并新开一个会话。以后所有编码任务默认启用 full 模式；需要更强力地减少过度设计时，使用 @ponytail ultra。” 少写无用代码 = 少花 Token + 更快交付 + 更少 Bug",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.29"
   },
   {
     "id": "2084268294115316141",
@@ -47,7 +51,8 @@ window.SKILLS = [
     "url": "https://x.com/BTCqzy1/status/2084268294115316141",
     "group": "Codex工作流",
     "blurb": "Codex 5.6 这个 GitHub 插件一定要装，能让你省下90%的token！ 90% 的人都把 Codex 用反了。 一上来就让它： 帮我写一个 App。 分享一条我在用的绝佳省token技巧，先给 Codex 连接 GitHub 插件，然后输入提示词： 我要开发一个 XXX。暂时不要创建文件，也不要输出代码。先在 GitHub 调研同类开源项目，筛选出最有参考价值的方案。分析它们解决了什么问题、采用什么架构、依赖哪些技术、目前是否活跃，以及有哪些设计值得复用或避开。最后结合我的需求，给出技术选型、系统架构、MVP 范围和开发顺序。得到我的确认后，再进入实现阶段。 这样 Codex 会先做三件事： 1️⃣ 找到经过真实项目验证的方案 2️⃣ 研究别人已经踩过的坑 3️⃣ 根据你的需求做出技术取舍 等方向确定后，再让它开始写代码。",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.03"
   },
   {
     "id": "2084588885024358640",
@@ -57,7 +62,8 @@ window.SKILLS = [
     "url": "https://x.com/yupi996/status/2084588885024358640",
     "group": "Codex工作流",
     "blurb": "DeepSeek V4 Flash 接入 Codex + 识图，2 分钟搞定！😎 ",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2084546504967000479",
@@ -67,7 +73,8 @@ window.SKILLS = [
     "url": "https://x.com/mybitstar/status/2084546504967000479",
     "group": "工具与自动化",
     "blurb": "一个做独立开发的朋友，每月给各家 AI API 充值充到肉疼。昨天他甩给我一个 GitHub 项目，说白嫖了三个月，一分钱没花。 我扒了一下，真有点东西： 有人把 29 家 AI 公司的免费额度全叠在一起，凑出每月 40 亿 token 的免费推理量，做成一个开源代理，一个 key 全搞定。 - 40亿 tokens/月，等于 ChatGPT Plus 一年用量 - 29 家免费额度叠着用：Google、Groq、Mistral、智谱、ModelScope 全在 - 358 个免费模型端点，DeepSeek、Qwen3、GLM-5 都能调 - 一个 OpenAI 兼容接口，Claude Code、Cursor、Codex 改个地址就能接 🔧 用法（5 步）： ① Docker 一键装：curl -fsSL | bash ② 打开 localhost:3001 管理台 ③ 把各家免费 key 填进去（Google/Groq/智谱随便加） ④ 拿统一 API key，指向 http://localhost:3001/v1 ⑤ Claude Code 一行命令自动配好：npx freellmapi setup-claude 避坑： - 免费额度各家说变就变，批量任务会排队，别拿来跑生产 - 项目 README 自己写了\"个人实验用途\"，核心业务别押上去 - 免费 key 不要泄露，虽然它帮你加密存储了 最离谱的是这项目 3 个月前才 2.3k stars，现在 17.6k——三个月涨了 7 倍，社区已经替你验证过了。 做独立开发、跑 AI 工具的兄弟能省一大笔 API 费，学生党更是直接白嫖。",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2082380663379173644",
@@ -77,7 +84,8 @@ window.SKILLS = [
     "url": "https://x.com/BTCqzy1/status/2082380663379173644",
     "group": "Codex工作流",
     "blurb": "为什么你的 Codex 5.6 搓出来的 3D 像一堆方块，别人的是产品级？ 之前给大家分享的一个宝藏开源项目img2threejs，接入 Codex 5.6 后，就能完成： 2D 图像 → 结构分析 → Three.js 程序化模型 → 浏览器实时交互 它真正拉开差距的地方在于，给 AI 加了一套完整的程序化建模操作系统： 1️⃣AI 深度拆解轮廓、比例、细节特征 2️⃣从 Blockout 到灯光、交互，步步精进 3️⃣浏览器渲染对比，不完美就修改 4️⃣保留运行时层级、轴点和插槽 所以真正拉开你和产品级差距的，是你有没有把建模标准、检查点和返工机制，像 img2threejs 一样，写进你的提示词。 这才是 Codex 5.6 真正开挂的玩法！ 我把我的promote放在评论区，可以参考～ 项目地址：",
-    "video": true
+    "video": true,
+    "addedAt": "2026.07.29"
   },
   {
     "id": "2084916064228626584",
@@ -87,7 +95,8 @@ window.SKILLS = [
     "url": "https://x.com/huoshan007/status/2084916064228626584",
     "group": "Codex工作流",
     "blurb": "卧槽，这哥们把Codex从零到一的完整路径全给摊开了。 Annotate、Fork、Archive、Plan、Plugin、Skill……一套组合拳。 说真的，你少刷10分钟短视频，把这套东西啃明白。 明天起来可能就多了个能搞钱的手艺。 最骚的是，人家真不卖课。 纯纯白给，手把手教你玩。 这哪是教程，这是赛博菩萨吧。 ",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.05"
   },
   {
     "id": "2084834535485952125",
@@ -97,7 +106,8 @@ window.SKILLS = [
     "url": "https://x.com/Bitturing/status/2084834535485952125",
     "group": "工具与自动化",
     "blurb": "有人开发了一个免费AI网关， 每月提供15.3亿tokens。 290个提供商、90+免费方案、一个端点—— 开箱即用Claude Code、Cursor、Codex、Copilot和Cline， 具有自动降级功能，永不触及限制。 额外节省15-95%的tokens。 完全免费开始。 这就是OmniRoute， 它让API付费变成可选项。 代码库：",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.05"
   },
   {
     "id": "2084192158685519921",
@@ -107,7 +117,8 @@ window.SKILLS = [
     "url": "https://x.com/dashiAIxz/status/2084192158685519921",
     "group": "Codex工作流",
     "blurb": "有幸收到飞书团队的邀请，分享了我们团队近期在做的 Vibe Coding 项目——dashi-taskboard 🚀 这是一套重塑现有 Codex 工作流的项目管理工具，通过任务看板的方式，把你从海量的 Codex 对话中拯救出来。 项目现已在 GitHub 完全开源，欢迎大家安装体验、提 Issue 和反馈建议！  ",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.03"
   },
   {
     "id": "2093333170083275125",
@@ -117,7 +128,8 @@ window.SKILLS = [
     "url": "https://x.com/xiaoduoya_/status/2093333170083275125",
     "group": "Codex工作流",
     "blurb": "Plus用户的网页版额度永远用不完，但codex只能跑五分钟..... 于是我做了这个： 一个技能，让Codex干活时，把思考让给网页版Sol， 规划、审查代码全在网页端完成，Luna只负责执行。 视频是 Codex 自己打开 ChatGPT 连接、自己对话、自己干活的全过程，我全程没进行干预。 已经开源了，欢迎体验提PR~",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.28"
   },
   {
     "id": "2082267454232011131",
@@ -127,7 +139,8 @@ window.SKILLS = [
     "url": "https://x.com/huoshan007/status/2082267454232011131",
     "group": "Codex工作流",
     "blurb": "给大家一个实用又能性能拉满的Hermes”配置。 这套 Hermes 配置，属于穷但很能打那种。 我自己配完试了一圈，真有点离谱： 聊天：DeepSeek V4 Flash，性价比直接拉满 视觉：Qwen3 VL 30B，单次不到 1 分 搜索：Tavily，每月免费 1000 次 生图：GPT Image 2，4 分一次 语音：Edge TTS，免费 转写：腾讯云 ASR，每月免费 2 小时 这玩意最骚的是，基本没花几个钱，但功能已经像个正经 AI 工作台了。 有种骑共享单车追高铁，还真追上了的感觉。",
-    "video": false
+    "video": false,
+    "addedAt": "2026.07.29"
   },
   {
     "id": "2084521245023125904",
@@ -137,7 +150,8 @@ window.SKILLS = [
     "url": "https://x.com/gengdaJ/status/2084521245023125904",
     "group": "工具与自动化",
     "blurb": "豆包真的进飞书了！豆包的模型能力+飞书的知识管理，这两组合做国内AI自媒体有亿点东西啊！​ ​ 豆包负责打开抖音网页版，操控浏览器，批量抓取视频和数据，同时飞书负责把数据结构化写入飞书多维表格字段。​ ​ 我让豆包帮我抓取了抖音站内Codex排名前十的视频，记录链接、标题、博主名、粉丝数、逐字稿、标签、封面图，新建一个飞书多维表格写入。​ ​ 登录浏览器→搜索Codex→挨个点进详情页搜集数据→新建飞书多维表格字段→写入数据​ ​ 整个过程都完成得很好，所有我要求的数据都成功采集了下来，而且很神奇的是，我让豆包帮我把抓取到的第一个视频尝试转成逐字稿，但是我忘了告诉它用ASR，结果它直接在抖音里面打开了“AI抖音”生成逐字稿😅真会省Token。。。​ ​ 除了Seed2.1，豆包还有Seedance2.5，所以上述的视频对标拆解完了，我甚至还能让豆包直接给我根据搜集到的信息生成视频。。。",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2084491201152008305",
@@ -147,7 +161,8 @@ window.SKILLS = [
     "url": "https://x.com/CycleDecoded/status/2084491201152008305",
     "group": "工具与自动化",
     "blurb": "一个叫 WebRover 的开源 AI Agent，你给它一句话，它自己打开浏览器、识别网页元素、点击、翻页、抓数据、搞定任务，最后把你要的结果整理得明明白白。 开源协议：MIT License 定位：自主式 Web 自动化 AI 智能体 💡 这玩意凭什么能炸？ 纯自然语言操控：不用写复杂的 Puppeteer/Sel…",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2093611485956321752",
@@ -157,7 +172,8 @@ window.SKILLS = [
     "url": "https://x.com/huoshan007/status/2093611485956321752",
     "group": "工具与自动化",
     "blurb": "兄弟们，我挖到个声音工具，听完真有点后背发凉。 CosyVoice2，我一开始以为又是那种“开源但不好用”的玩具，结果 Demo 一放出来，我靠，太像真人了。 输入一句“有点疲惫的年轻男声”，它直接吐一段，气口、停顿、尾音都很自然。 更狠的是，丢几秒参考音频，它连说话习惯都能学个七七八八，不是塑料机器音那种。 我自己戴耳机听了两遍，第一反应是：短视频配音真要变天了。 开源，能商用。 做口播、课程、播客、小游戏配音的，真可以研究下： 最离谱的是，这玩意他给你免费用了。",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.29"
   },
   {
     "id": "2084622562278121755",
@@ -167,7 +183,8 @@ window.SKILLS = [
     "url": "https://x.com/CycleDecoded/status/2084622562278121755",
     "group": "工具与自动化",
     "blurb": "随便给它一张照片，你在摄像头里就能直接“变成”另一个人，实时换脸连帧都不卡，连直播都能用。 项目叫 Deep-Live-Cam，在 GitHub 上一路暴涨（目前已有 30k+ Stars，开源协议 MIT）。它最狠的地方在于：根本不需要你训练模型，也不用喂几百张图，一张照片，直接上手搞定。 🔥 核心卖点 一张图即插即…",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.04"
   },
   {
     "id": "2083533360513888711",
@@ -177,7 +194,8 @@ window.SKILLS = [
     "url": "https://x.com/yhslgg/status/2083533360513888711",
     "group": "视频与出图Skill",
     "blurb": "你刷抖音、快手、小红书，会发现大量一看就是 AI 做的视频——人会动、镜头会飞、质感假得明显——但作品底下经常没有「AI 生成」那几个字。 他们是怎么做到的？ 圈里传得最多的，不是什么黑科技，大概分三层。 第一层，清壳。 生成工具常在文件里写隐式标识：元数据 AIGC 字段、C2PA 内容凭证，部分视频流还带 SEI。StripShot、AIClean、QuickMetaWipe、Calabi Sanitizer 这类工具，核心就是抹掉这些标签，而且多强调本地处理、不上传。再狠一点，往里注入 iPhone、Sony 的 EXIF 档案，属性面板看起来像实拍。 第二层，改指纹。 中文自媒体圈常见「批量改视频 MD5」：文件末尾塞几个无害字节，哈希变了，网盘秒传、部分重复检测会失效——但画面一帧没动，跟内容是不是 AI 无关。 第三层，二次处理。 很多人再走剪映导出、手机重编码，甚至录屏再剪。封装和压缩一换，外壳信息更容易丢干净，文件也更像「本地剪过的正常成片」。 所以你看到的「没 AI 标识」，很多时候不是检测全失效了，是创作者先把文件外壳洗成了普通人机导出的样子。像素统计特征、时序伪影、平台内容侧识别，清壳清不掉。 别把改 MD5、写 EXIF，当成去 AI 味的全部。",
-    "video": true
+    "video": true,
+    "addedAt": "2026.08.01"
   },
   {
     "id": "2082663974752125306",
@@ -187,7 +205,8 @@ window.SKILLS = [
     "url": "https://x.com/huoshan007/status/2082663974752125306",
     "group": "视频与出图Skill",
     "blurb": "兄弟们，玩 Seedance 还在自己憋提示词的，可以停一下了。 有人直接整理了2000多条能出片的成品提示词。 短剧、广告、动漫、UGC全有，点开先看效果，喜欢哪个直接复制。 运镜、节奏、角色一致性，甚至每个镜头怎么切，都给你写明白了。 以前要反复抽卡试出来的东西，现在直接抄作业，再改成自己的。 链接： 做AI视频的，这个库不收藏真说不过去。",
-    "video": false
+    "video": false,
+    "addedAt": "2026.07.30"
   },
   {
     "id": "2088120905948102957",
@@ -197,7 +216,8 @@ window.SKILLS = [
     "url": "https://x.com/LoveUolanda/status/2088120905948102957",
     "group": "视频与出图Skill",
     "blurb": "分享 自己做的 h3 视频反推skill 目前网上找的大多数是普通的提示词推理出来基本不可用的。 这个skill 加入了h3官方提示词和我的反推结果的调教。 明确要求了反推不能简单使用关键帧进行分析， 需要按比例进行更多帧的分析。解决了反推后复原不可靠的问题。  #反推 #ai教程 #MinimaxH3",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.14"
   },
   {
     "id": "2092146590870053350",
@@ -207,7 +227,8 @@ window.SKILLS = [
     "url": "https://x.com/xiaoxiaodong01/status/2092146590870053350",
     "group": "视频与出图Skill",
     "blurb": "我一口气开源56个skills了，有点东西！ 56个skills相当于56个士兵 每个都各有特点 每个士兵skills，灵活度一绝，而不是死板！ 和别人的skills不一样 小小东每一个士兵skills，可以满足各种用途 （排版、用途、是否批量） 它会先问询理解你的需求后，再专业稳定出图 士兵更是能批量出图 士兵还能一次给出多种用途的所有图片 甚至，你可以在Claude中用，也并没有固定某个生图模型，灵活度拉满。 不光可以有质量，更是可以有效率 超级适合喜欢手绘美图的人，这些skills会让你 创意无限、美感多多 其中一个士兵skills地址： 从001-056的url规律 聪明的你， 能从github项目地址中，找出所有士兵。 我做提示词， 也喜欢强大的适用面广 做skills也是 感觉一大波小红书博主，会爱上我，尤其是，当你深度掌握我这些skills的使用诀窍，尤其是批量逻辑 不只上下排版，更多用法，灵活解锁 甚至因为批量逻辑，你可以接单盈利！",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.25"
   },
   {
     "id": "2082653405109998052",
@@ -217,7 +238,8 @@ window.SKILLS = [
     "url": "https://x.com/kanvis_chen/status/2082653405109998052",
     "group": "视频与出图Skill",
     "blurb": "我开源了我的skill，目前支持通过一篇文章变成短视频 最开始我其实是想拿来做录播课。 如果口播数字人要适配适配国内用户 我一般还是建议你们用codex+heygen+minimax 因为效果稳定，而且大多数人不具备硬件 为什么我不采用线上的调API接口 主要是两个原因 1. 我有大量的课程要处理（几千个课时） 2.我…",
-    "video": true
+    "video": true,
+    "addedAt": "2026.07.30"
   },
   {
     "id": "2082489124758720992",
@@ -227,7 +249,8 @@ window.SKILLS = [
     "url": "https://x.com/liyue_ai/status/2082489124758720992",
     "group": "视频与出图Skill",
     "blurb": "我的这个「女性写真导演」Skill在Github上已经1200+Star了。 距离上次发布v1.6版本已经过去半个月，期间都没有宣传，还能涨200+Star有点意外。 还没有用过的可以下载体验一下： - 20种不同的写真风格 - 6种图像工具 - 上手简单，安装后会有引导教程 下载安装地址见引用贴。 ",
-    "video": false
+    "video": false,
+    "addedAt": "2026.07.29"
   },
   {
     "id": "2082787035559977254",
@@ -237,7 +260,8 @@ window.SKILLS = [
     "url": "https://x.com/Hamburgerai/status/2082787035559977254",
     "group": "视频与出图Skill",
     "blurb": "搞了个抖音比较火的【人生剧本】skill 1.大脑是codex 2.图片生成也是codex 3.音效是 4.动效是remotion 也同样只是第一版本，还会持续打磨。 喜欢的可以关注一下，等我打磨好了一定会免费发给大家 ",
-    "video": true
+    "video": true,
+    "addedAt": "2026.07.30"
   },
   {
     "id": "2088769671185203506",
@@ -247,7 +271,8 @@ window.SKILLS = [
     "url": "https://x.com/jackzhang123vip/status/2088769671185203506",
     "group": "视频与出图Skill",
     "blurb": "最近抖音上一些很火的短视频，可以一键生成，就是下面这个项目，屌爆了 GitHub 上有个超级火的开源项目叫 MoneyPrinterTurbo，星标已经轻松突破 10 万，国外开发者都在狂赞。 它完全免费、开源，你只需要输入一个主题或关键词，就能全自动生成一条可以直接发布的高质量短视频。 整个流程高度自动化：AI 写脚本、配音、加字幕、智能匹配素材、自动剪辑合成。几分钟就能出成品，直接上传到 TikTok、Instagram Reels、YouTube Shorts。 以前做短视频要同时开五六个软件，又贵又麻烦。现在一个工具全搞定，本地运行、不限次数、零费用。 已经有人用它批量生产内容，每月多赚好几千。安装也很简单，准备好 Python 环境和 ffmpeg，几分钟就能跑起来。 项目 GitHub 地址： （目前已突破 10 万星）",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.15"
   },
   {
     "id": "2084221428111757644",
@@ -257,7 +282,8 @@ window.SKILLS = [
     "url": "https://x.com/Hamburgerai/status/2084221428111757644",
     "group": "资讯收藏",
     "blurb": "正文几乎只有链接，点原帖查看。",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.03"
   },
   {
     "id": "2084078797243191524",
@@ -267,7 +293,8 @@ window.SKILLS = [
     "url": "https://x.com/bkdgiffug/status/2084078797243191524",
     "group": "资讯收藏",
     "blurb": "有人把中国从小学到大学的教材全部整理出来了。 GitHub上有一个叫ChinaTextbook的项目，人教版教材从小学一年级到大学，全部压缩成PDF免费下载，家长老师学生都能用。覆盖范围很全：①小学1-6年级全科（含五四学制版）②初中7-9年级 ③高中全科 ④大学高数、线代、离散、概率论等。 建议收藏：",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.03"
   },
   {
     "id": "2084345806543552954",
@@ -277,7 +304,8 @@ window.SKILLS = [
     "url": "https://x.com/cevenif/status/2084345806543552954",
     "group": "资讯收藏",
     "blurb": "中老年流量，被低估太久了。 视频号里的养老人群，消费能力和下单意愿比年轻用户还猛。 养生、保健、情绪陪伴、家庭用品，高佣金产品在这个赛道转化率很夸张。 🔗：",
-    "video": false
+    "video": false,
+    "addedAt": "2026.08.03"
   },
   {
     "id": "2082429487111868449",
@@ -287,6 +315,7 @@ window.SKILLS = [
     "url": "https://x.com/Hamburgerai/status/2082429487111868449",
     "group": "资讯收藏",
     "blurb": "这种视频真的是remotion最佳载体 用户其实没那么在乎AI不AI 还是要找到好的选题和角度， 圈定你的目标用户 7个作品就搞到1.1w粉丝了 ",
-    "video": false
+    "video": false,
+    "addedAt": "2026.07.29"
   }
 ];

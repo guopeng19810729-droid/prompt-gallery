@@ -404,3 +404,43 @@ footer {
 .skill-card h3 { margin: 0 0 8px; }
 .skill-card p { margin: 0; color: var(--muted); line-height: 1.6; }
 .skill-card .src { margin-bottom: 8px; }
+
+.meta-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.meta-bar .meta { margin: 0; }
+.sort-pills {
+  display: inline-flex;
+  gap: 6px;
+}
+.sort-pill {
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,.04);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.sort-pill.on {
+  border-color: rgba(126,224,200,.4);
+  background: rgba(126,224,200,.14);
+  color: var(--accent);
+  font-weight: 650;
+}
+.tag.chip.date {
+  border-color: rgba(255,255,255,.1);
+  background: transparent;
+  color: var(--muted);
+  letter-spacing: .02em;
+}
+.skill-card h3 .skill-date {
+  color: var(--muted);
+  font-weight: 500;
+  font-size: 0.86em;
+}

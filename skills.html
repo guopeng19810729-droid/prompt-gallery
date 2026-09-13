@@ -29,7 +29,13 @@
     <section class="hero">
       <h1>技巧与工作流。</h1>
       <p class="lead">工具、教程、Skill、资讯不进瀑布流，集中放在这一页。点原帖看完整步骤。</p>
-      <div class="meta" id="skillCount"></div>
+      <div class="meta-bar">
+        <div class="meta" id="skillCount"></div>
+        <div class="sort-pills" id="skillSortPills" role="group" aria-label="按时间排序">
+          <button type="button" class="sort-pill" data-sort="asc">正序</button>
+          <button type="button" class="sort-pill on" data-sort="desc">倒序</button>
+        </div>
+      </div>
     </section>
     <section class="skill-list" id="skillList"></section>
   </main>

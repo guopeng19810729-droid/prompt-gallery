@@ -18,6 +18,7 @@
   let current = "全部";
   let query = "";
   let unlocked = sessionStorage.getItem("x_unlocked") === "1";
+  let sortDir = sessionStorage.getItem("gallery_sort") || "desc";
 
   const filters = document.getElementById("filters");
   const grid = document.getElementById("grid");
@@ -44,9 +45,32 @@
   function mediaList(c) {
     return (c.images && c.images.length ? c.images : [c.image]).filter(Boolean);
   }
+  const TW_EPOCH = 1288834974657;
+  function snowflakeDate(id) {
+    try {
+      const ms = (BigInt(String(id)) >> 22n) + BigInt(TW_EPOCH);
+      const d = new Date(Number(ms));
+      if (Number.isNaN(d.getTime())) return "";
+      const y = d.getUTCFullYear();
+      const m = String(d.getUTCMonth() + 1).padStart(2, "0");
+      const day = String(d.getUTCDate()).padStart(2, "0");
+      return `${y}.${m}.${day}`;
+    } catch (e) {
+      return "";
+    }
+  }
+  function itemDate(c) {
+    return c.addedAt || snowflakeDate(c.xid || c.id) || "";
+  }
+  function dateValue(c) {
+    const s = itemDate(c);
+    if (!s) return 0;
+    const n = Number(s.replace(/\./g, ""));
+    return Number.isFinite(n) ? n : 0;
+  }
   function visible() {
     const q = query.trim().toLowerCase();
-    return CASES.filter(c => {
+    const list = CASES.filter(c => {
       if (!unlocked && isNsfw(c)) return false;
       if (current === "XXX") return isNsfw(c);
       if (isNsfw(c)) return false;
@@ -56,6 +80,12 @@
         .join(" ")
         .toLowerCase()
         .includes(q);
+    });
+    const dir = sortDir === "asc" ? 1 : -1;
+    return list.slice().sort((a, b) => {
+      const dv = (dateValue(a) - dateValue(b)) * dir;
+      if (dv) return dv;
+      return String(a.id).localeCompare(String(b.id), "en") * dir;
     });
   }
   function syncGate() {
@@ -91,6 +121,7 @@
           <div class="tag-row">
             <div class="tag">Case ${c.id} · ${current === "XXX" ? "XXX" : c.category}</div>
             ${c.model ? `<span class="tag chip model">${c.model}</span>` : ""}
+            ${itemDate(c) ? `<span class="tag chip date">${itemDate(c)}</span>` : ""}
           </div>
           <h3>${c.title}</h3>
           <p>${c.blurb || ""}</p>
@@ -98,9 +129,17 @@
       </article>`;
     }).join("");
   }
+  function syncSortPills() {
+    const pills = document.getElementById("sortPills");
+    if (!pills) return;
+    pills.querySelectorAll("[data-sort]").forEach(btn => {
+      btn.classList.toggle("on", btn.dataset.sort === sortDir);
+    });
+  }
   function refresh() {
     syncGate();
     renderFilters();
+    syncSortPills();
     renderGrid();
   }
   function sourceHtml(c) {
@@ -160,6 +199,7 @@
         <div class="tag-row">
           <div class="tag">Case ${c.id} · ${isNsfw(c) ? "XXX" : c.category}</div>
           ${c.model ? `<span class="tag chip model">${c.model}</span>` : ""}
+          ${itemDate(c) ? `<span class="tag chip date">${itemDate(c)}</span>` : ""}
         </div>
         <h2>${c.title}</h2>
         <div class="src">${sourceHtml(c)}${imgs.length > 1 ? ` · ${imgs.length} 张` : ""}</div>
@@ -255,6 +295,17 @@
       if (!btn) return;
       current = btn.dataset.cat;
       renderFilters();
+      renderGrid();
+    });
+  }
+  const sortPills = document.getElementById("sortPills");
+  if (sortPills) {
+    sortPills.addEventListener("click", e => {
+      const btn = e.target.closest("[data-sort]");
+      if (!btn) return;
+      sortDir = btn.dataset.sort === "asc" ? "asc" : "desc";
+      sessionStorage.setItem("gallery_sort", sortDir);
+      syncSortPills();
       renderGrid();
     });
   }
