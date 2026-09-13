@@ -1527,9 +1527,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2097924458652856696",
-    "image": "https://pbs.twimg.com/media/HR1TB-0bEAAbdHw.jpg",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097924458652856696_0.jpg",
     "images": [
-      "https://pbs.twimg.com/media/HR1TB-0bEAAbdHw.jpg"
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097924458652856696_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "感谢分享提示词 我只能说，会玩还是你们会玩😅  提示词： 9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎",
@@ -1544,9 +1544,9 @@ window.GALLERY_CASES = [
     "model": "GPT Image 2",
     "source": "@haiqushe",
     "sourceUrl": "https://x.com/haiqushe/status/2098711105237573685",
-    "image": "https://pbs.twimg.com/media/HSAeeZUbMAATSaH.jpg",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098711105237573685_0.jpg",
     "images": [
-      "https://pbs.twimg.com/media/HSAeeZUbMAATSaH.jpg"
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098711105237573685_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "GPT Image 2 直出，Prompt 提示词:  明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风",
@@ -1561,14 +1561,14 @@ window.GALLERY_CASES = [
     "model": "GPT Image 2.5",
     "source": "@liyue_ai",
     "sourceUrl": "https://x.com/liyue_ai/status/2098814431891435627",
-    "image": "https://pbs.twimg.com/media/HSB8IiZacAARPoC.jpg",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098814431891435627_0.jpg",
     "images": [
-      "https://pbs.twimg.com/media/HSB8IiZacAARPoC.jpg"
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098814431891435627_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这还是我认识的GPT吗？ 过于夸张了😂  GPT Image 2.5提示词： 滤镜：玫瑰香槟粉 CCD 闪光灯滤镜，  脸型：韩式女瓜子脸     服装：古风蕾丝，马油袜   场景：高级KTV包间  动作：一男一女在酒吧对饮  镜头：突出上",
     "prompt": "滤镜：玫瑰香槟粉 CCD 闪光灯滤镜， \n脸型：韩式女瓜子脸    \n服装：古风蕾丝，马油袜  \n场景：高级KTV包间 \n动作：一男一女在酒吧对饮 \n镜头：突出上围和腿 \n比例：9:16",
-    "nsfw": true
+    "nsfw": false
   },
   {
     "id": "089",
@@ -1578,16 +1578,16 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@msjiaozhu",
     "sourceUrl": "https://x.com/msjiaozhu/status/2098631945198698640",
-    "image": "https://pbs.twimg.com/media/HR_Wn5CaIAA-eQu.jpg",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_0.jpg",
     "images": [
-      "https://pbs.twimg.com/media/HR_Wn5CaIAA-eQu.jpg",
-      "https://pbs.twimg.com/media/HR_Wn7kaEAAWBZw.jpg",
-      "https://pbs.twimg.com/media/HR_Wn7la0AAKsQJ.jpg",
-      "https://pbs.twimg.com/media/HR_Wn7macAAroT6.jpg"
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "受 @maplejohn01 启发，挖掘出了 Grok 的天花板😍这效果真的不比 GPT Image 2.5 差啊！  还有个视频太露骨了不敢放主贴，你们自己调小音量再看🤣  提示词👇 Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚",
     "prompt": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚美女，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
-    "nsfw": true
+    "nsfw": false
   }
 ];
