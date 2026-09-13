@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Prompt Gallery — GOOD GOOD STUDY, DAY DAY UP</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500;1,600&family=Great+Vibes&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <button class="brand" id="xGate" type="button" aria-label="X" title="点击输入密码">
+        <svg class="x-mark" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+          <path fill="currentColor" d="M18.244 2H21.5l-7.5 8.57L22.5 22h-6.56l-5.14-6.71L5.2 22H1.94l8.02-9.16L1.5 2h6.72l4.64 6.17L18.244 2zm-1.15 18.08h1.81L7.01 3.82H5.07l12.024 16.26z"/>
+        </svg>
+      </button>
+      <nav class="nav-links">
+        <a class="on" href="index.html">案例</a>
+        <a href="skills.html">技巧工作流</a>
+      </nav>
+      <div class="stats">made by grok</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>
+        <span class="title-line">Good Good Study,</span>
+        <span class="title-line">Day Day Up.</span>
+      </h1>
+      <div class="toolbar">
+        <input class="search" id="search" type="search" placeholder="搜索标题、分类或 Prompt…" />
+      </div>
+      <div class="pills" id="filters"></div>
+      <div class="meta" id="count"></div>
+    </section>
+    <section class="grid" id="grid"></section>
+  </main>
+
+  <footer>
+    <div class="wrap">内容来自 X 收藏整理。有 P 的可复制提示词；点开可翻多图。技巧类在另一页。</div>
+  </footer>
+
+  <div class="overlay" id="overlay">
+    <div class="sheet" id="sheet"></div>
+  </div>
+
+  <div class="overlay" id="passOverlay">
+    <form class="pass-box" id="passForm" autocomplete="off">
+      <p class="pass-title">输入密码</p>
+      <input id="passInput" type="password" inputmode="numeric" maxlength="16" placeholder="密码" />
+      <p class="pass-err" id="passErr" hidden>密码不对</p>
+      <div class="row">
+        <button class="copy" type="submit">确认</button>
+        <button class="close" type="button" id="passCancel">取消</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="data/cases.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

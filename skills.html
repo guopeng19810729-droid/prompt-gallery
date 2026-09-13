@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>技巧工作流 — Prompt Gallery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="index.html" aria-label="X">
+        <svg class="x-mark" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+          <path fill="currentColor" d="M18.244 2H21.5l-7.5 8.57L22.5 22h-6.56l-5.14-6.71L5.2 22H1.94l8.02-9.16L1.5 2h6.72l4.64 6.17L18.244 2zm-1.15 18.08h1.81L7.01 3.82H5.07l12.024 16.26z"/>
+        </svg>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">案例</a>
+        <a class="on" href="skills.html">技巧工作流</a>
+      </nav>
+      <div class="stats">made by grok</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>技巧与工作流。</h1>
+      <p class="lead">工具、教程、Skill、资讯不进瀑布流，集中放在这一页。点原帖看完整步骤。</p>
+      <div class="meta" id="skillCount"></div>
+    </section>
+    <section class="skill-list" id="skillList"></section>
+  </main>
+
+  <script src="data/skills.js"></script>
+  <script src="js/skills.js"></script>
+</body>
+</html>
