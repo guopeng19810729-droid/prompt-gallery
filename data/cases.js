@@ -3108,5 +3108,411 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.15",
     "driveId": "1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR",
     "driveUrl": "https://drive.google.com/file/d/1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR/view"
+  },
+  {
+    "id": "154",
+    "xid": "2075491927064228194",
+    "title": "原版的视频提示词就已经意想不到的简洁！ 而只能用6秒的我，让他更短更精悍！却依然…",
+    "category": "AI视频",
+    "model": "Grok",
+    "source": "@0xkyne",
+    "sourceUrl": "https://x.com/0xkyne/status/2075491927064228194",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2075491927064228194_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2075491927064228194_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2075491927064228194.mp4",
+    "blurb": "原版的视频提示词就已经意想不到的简洁！ 而只能用6秒的我，让他更短更精悍！却依然能打！！ 视频使用参考图配合Grok生成 只能说Grok在这方面太懂我们了😆 老规矩提示词在评论区👇 #AIart️️️️️️️️️️️️️️️️️️️️️️️…",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "155",
+    "xid": "2095785276526522821",
+    "title": "有这样的女朋友得早点回家！ Grok的视频生成这块儿是真的猛，这么便宜又能打的工…",
+    "category": "AI视频",
+    "model": "Grok",
+    "source": "@DDJCXX",
+    "sourceUrl": "https://x.com/DDJCXX/status/2095785276526522821",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2095785276526522821_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2095785276526522821_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2095785276526522821.mp4",
+    "blurb": "有这样的女朋友得早点回家！ Grok的视频生成这块儿是真的猛，这么便宜又能打的工具摆在这儿，谁还费劲自己剪视频啊。 提示词放下方👇",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "156",
+    "xid": "2098774443376132457",
+    "title": "【Grok飴舐め動画プロンプト共有】 起点の画像生成精度低いから直で動画化 仕様…",
+    "category": "AI视频",
+    "model": "Grok",
+    "source": "@kibunwachonmage",
+    "sourceUrl": "https://x.com/kibunwachonmage/status/2098774443376132457",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_1.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098774443376132457.mp4",
+    "blurb": "【Grok飴舐め動画プロンプト共有】 起点の画像生成精度低いから直で動画化 仕様画像構図によって通らないから使い分け【】は同じ (※童顔人物が「成人女性」追加で通ったからデフォに) (※実在人物使用、up厳禁) (※児ポ規制強化されて来てる…",
+    "prompt": "起点の画像生成精度低いから直で動画化\n\n仕様画像構図によって通らないから使い分け【】は同じ\n\n(※童顔人物が「成人女性」追加で通ったからデフォに)\n\n(※実在人物使用、up厳禁)\n\n(※児ポ規制強化されて来てる印象。生成人物でも未成年に見えるのはup等ご注意を)",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "157",
+    "xid": "2077624322844426305",
+    "title": "再熬一天就周末了兄弟们！看点好的吧！ 而像这种福利视频，就非Grok不可！ 管你…",
+    "category": "AI视频",
+    "model": "Grok",
+    "source": "@0xkyne",
+    "sourceUrl": "https://x.com/0xkyne/status/2077624322844426305",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2077624322844426305_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2077624322844426305_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2077624322844426305.mp4",
+    "blurb": "再熬一天就周末了兄弟们！看点好的吧！ 而像这种福利视频，就非Grok不可！ 管你Fable5还是GPT Sol 只要这一块干不过，那Grok就一直无法取代😆 ---视频提示词--- 0-3秒：她迅速转圈，短裙自然飘动。特写镜头：她的双腿。 …",
+    "prompt": "0-3秒：她迅速转圈，短裙自然飘动。特写镜头：她的双腿。\n3-6秒：她走向镜头。特写镜头：她的胯部。画面迅速渐黑。\n无对白，长镜头，无剪辑，保持服装完整",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "158",
+    "xid": "2063410274879873031",
+    "title": "GPT Image2 美臀秀秀 看过的都说好 提示词 请生成一张 高质感竖版女性…",
+    "category": "人物角色",
+    "model": "GPT",
+    "source": "@GeekCatX",
+    "sourceUrl": "https://x.com/GeekCatX/status/2063410274879873031",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "GPT Image2 美臀秀秀 看过的都说好 提示词 请生成一张 高质感竖版女性情绪写真，画面以 美臀 为主视觉核心，重点表现 腰臀比例、臀部轮廓、骨盆线、腰窝线条、臀腿衔接和整体身体曲线，而不是正脸。 人物为 成年女性，气质自然高级，可呈…",
+    "prompt": "提示词\n\n请生成一张 高质感竖版女性情绪写真，画面以 美臀 为主视觉核心，重点表现 腰臀比例、臀部轮廓、骨盆线、腰窝线条、臀腿衔接和整体身体曲线，而不是正脸。\n\n人物为 成年女性，气质自然高级，可呈现 温柔、清冷、慵懒、轻熟、文艺、高级感 中的一种。人物状态真实自然，不要夸张妆容，不要塑料感，不要刻意摆拍。\n\n姿态支持多种自然变化，包括 站姿、趴姿、坐姿、半躺、斜倚、倚靠 等。可表现为：\n\n背对镜头站立、侧背站立、靠窗站立、扶椅站立、回眸站姿、趴在床上、趴在沙发上、趴在窗边、坐在床边、靠在椅边、半躺在床上、倚靠墙面或门框、抬手整理头发、低头、轻微回眸 等自然动作。\n\n重点展示 臀部线条、腰臀过渡、臀腿曲线、骨盆结构与身体柔和起伏。姿势要求自然、松弛、有情绪感，不夸张、不扭曲、不低俗。\n\n服装围绕“突出臀部结构与情绪氛围”展开，可自由变化为：\n\n包臀丝质长裙、吊带真丝裙、贴身针织裙、薄纱、柔软睡裙、宽松衬衫自然滑落、开衩长裙、垂坠感面料、带褶皱的轻薄服饰 等。\n\n服装材质要求轻柔、贴合、自然垂坠、有层次、有褶皱走向，能够参与构图，并自然勾勒臀部和身体曲线。\n\n场景可设置在 窗边、卧室、床边、椅边、民宿、酒店、极简房间、安静的城市夜景室内、地毯边、沙发边 等空间，背景保持简洁、克制、干净，不喧宾夺主。\n\n镜头支持多角度表现，包括 正后方、侧后方 45 度、平视、高机位俯拍、低机位仰拍、蜘蛛视角、近景局部构图、中景全身构图。\n\n其中 蜘蛛视角 可表现为 超低机位贴近地面、床面或沙发表面拍摄，形成明显透视张力，让臀部、腰线和腿部更具空间感与延展感。\n\n光线以 逆光、侧逆光、窗边柔光 为主，强调 臀部轮廓光、腰线高光、腿部过渡阴影、边缘光与明暗层次，让画面更具 电影感、空气感、柔雾感和安静私密氛围。\n\n构图要求 竖版构图，人物是绝对主角，视觉中心明确落在 臀部与身体曲线 上，构图克制、高级、简洁，具有真实摄影感和浅景深效果。\n\n整体风格为 真实摄影感、电影感、柔雾感、细腻肤质、自然高级、安静私密、轻微胶片氛围。\n\n限制要求：\n\n不要文字，不要水印，不要 Logo，不要电商感，不要低俗化，不要夸张性感展示，不要 AI 塑料皮肤，不要肢体畸形，不要多余手脚，不要奇怪结构，不要过度磨皮。\n\n最终呈现为一张以 “美臀 + 情绪感 + 多姿态 + 多角度 + 光影氛围 + 服饰变化” 为核心的高完成度女性写真。",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "159",
+    "xid": "2099256838554554436",
+    "title": "ハロウィンちょっと早いけど、「どれが好き？」のテーマに使ってみました😆 定番の画…",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@shizuku_koino",
+    "sourceUrl": "https://x.com/shizuku_koino/status/2099256838554554436",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099256838554554436_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099256838554554436_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "ハロウィンちょっと早いけど、「どれが好き？」のテーマに使ってみました😆 定番の画像も意外と簡単に作れます プロンプトはリプ欄に置いたよー #AI美女 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️…",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "160",
+    "xid": "2099455619891646953",
+    "title": "夜景を背に黒い羽根、街の灯りまでドレスアップして。🖤🌃🪶 #AIart #AI写…",
+    "category": "插画艺术",
+    "model": "GPT",
+    "source": "@CyberTotal2026",
+    "sourceUrl": "https://x.com/CyberTotal2026/status/2099455619891646953",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099455619891646953_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099455619891646953_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "夜景を背に黒い羽根、街の灯りまでドレスアップして。🖤🌃🪶 #AIart #AI写真 #ナイトポートレート 【GPT Image2プロンプト】 主題： 夜景の黒い羽根 主体： 高層ビルを望む夜のバルコニーで、成人女性が黒いレース衣装と羽根のロ…",
+    "prompt": "主題：\n夜景の黒い羽根\n\n主体：\n高層ビルを望む夜のバルコニーで、成人女性が黒いレース衣装と羽根のローブをまとい背中を向ける縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n濃茶の髪を高い無造作なお団子にし、薄い前髪と後れ毛。細い卵形輪郭、横長の茶色い目、自然な眉、小ぶりな鼻、艶のある桃色の唇。肩越しにカメラをまっすぐ見る。 顔を肩越しにカメラへ向ける。 落ち着いた表情。\n\n服装・ポーズ：\n黒い透けるレースブラと細い背紐、黒い細紐レースボトム。黒い長い羽根のローブを肘まで落として両腕に掛ける。手すり前で背中を向け、腰をわずかにひねる。 黒い水着。\n\n背景・光：\n黒い金属手すり、眼下の道路灯、密な高層ビル群と暗い夜空。正面フラッシュが人物と黒い羽根を明るくし、街明かりは細かな玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。\n\n構図・カメラ：\n4:5の縦構図、カメラは近い後方斜めの腿上写真。人物を右中央、夜景を左上へ広げ、開いた背中と羽根ローブを大きく置く。顔と黒レースに焦点。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜間フラッシュ写真。黒レース、細い紐、光を吸う羽根、肌の艶、遠い街灯を高コントラストで写す。\n\nネガティブ：\n背面の黒レースと両腕の羽根ローブを省かない",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "161",
+    "xid": "2098849504153817461",
+    "title": "let mi start ur weekend off right",
+    "category": "AI视频",
+    "model": "",
+    "source": "@smeepsx",
+    "sourceUrl": "https://x.com/smeepsx/status/2098849504153817461",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098849504153817461_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098849504153817461_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098849504153817461.mp4",
+    "blurb": "let mi start ur weekend off right",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "162",
+    "xid": "2099367291674902763",
+    "title": "@Kyle61134910237",
+    "category": "AI视频",
+    "model": "",
+    "source": "@Kyle61134910237",
+    "sourceUrl": "https://x.com/Kyle61134910237/status/2099367291674902763",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099367291674902763_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099367291674902763_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099367291674902763.mp4",
+    "blurb": "",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "163",
+    "xid": "2099338772081160503",
+    "title": "MiniMax H3 Scarlet Riot K-Idol Film | Re…",
+    "category": "AI视频",
+    "model": "MiniMax",
+    "source": "@ImaStudio_ai",
+    "sourceUrl": "https://x.com/ImaStudio_ai/status/2099338772081160503",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099338772081160503_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099338772081160503_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099338772081160503.mp4",
+    "blurb": "MiniMax H3 Scarlet Riot K-Idol Film | Red Editorial + Luxury Motion Energy ❤️ SCARLET HITS HARD. TOO HOT TO STAY STILL. …",
+    "prompt": "Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts.\nSTYLE:\nSexy Korean Idol Campaign × Luxury Fashion Editorial × AAA Motion Graphics × Scarlet Red Concept Film.\nTheme: SCARLET RIOT\nInitials: SR\nTagline: TOO HOT TO STAY STILL.\nCHARACTER LOCK:\nUse the uploaded woman as the only identity reference. Keep the exact same face, facial proportions, skin tone, body proportions, hairstyle silhouette, age impression and Korean idol aura throughout.\nShe is a young adult East Asian woman with a refined small face, fair natural skin, long dark-brown hair, airy bangs and a clean but slightly sharp gaze. Her mood is sexy, cold, confident, elegant, expensive and slightly rebellious.\nDo NOT inherit the original light-blue outfit, skirt, white platform boots or white bag.\nWARDROBE:\nOne fixed premium red fashion look throughout:\ndeep cherry-red fitted corset top, cropped burgundy structured blazer worn open or loosely on the shoulders, high-waisted black/red mini skirt or tailored shorts, burgundy or black over-the-knee boots, gold earrings, delicate necklace, rings and bracelet.\nSexy through shoulders, collarbone, waistline, long legs, tailoring, gaze and posture — never vulgar or overly revealing.\nSCENES:\nUse multiple coordinated environments:\ncream luxury studio, cream vintage car interior, white farmhouse exterior, country road beside green fields, deep-red editorial studio, golden-hour window interior, red curtain/mirror fashion set, vintage roadside set at dusk.\nAll scenes must share one cohesive red / cream / golden-hour fashion world.\nVISUAL RATIO:\n80% motion graphics, 20% character performance.\nUse giant kinetic typography, scarlet circles, hard-edged shapes, red plaid fragments, torn paper, gold foil stamps, scan lines, film sprockets, halftone, technical grids, crosshairs, split screens, light leaks, sun flares, shutter flashes and graphic wipes.\nPalette:\nScarlet Red, Cherry Red, Burgundy, Cream, Ivory, Champagne Gold, Black, with tiny Sage Green / Sky Blue accents.\nNo purple-blue neon.\nCUTS:\n01 cream studio, giant scarlet circle, gold bars, S then R slam in; quick flashes of lips and eyes.\n02 vintage car, R becomes window frame, extreme face close-up, she shifts gaze to camera, light-leak burst.\n03 deep-red studio, giant SR, she walks from behind the letters, hand on blazer, gold dust and red ribbons.\n04 triptych: farmhouse look-back / field hair toss / red-studio lean; SCARLET HOUR scrolls behind.\n05 mirrored red studio, rotating ring: SOFT LIGHT / HARD STARE / SCARLET FEVER; slow turn, ring explodes, snap zoom to eyes.\n06 golden-hour window, giant SCARLET; she touches the S, paper-like compression, sun flare across face.\n07 country road, low-angle turn, three red ghost frames, outlined TURN rotates 180°.\n08 black-red studio, HOT / SHARP / CHIC / WILD hit one per beat with shutter flash and impact shake.\n09 farmhouse becomes white wireframe on black; red target circle, gold technical lines and crosshair lock around her.\n10 vintage car, she leans forward; red/black/cream panes shatter to reveal S → R → SR.\n11 four rapid editorial posters: 01 car-window profile, 02 red studio, 03 farmhouse turn-back, 04 cream studio seated pose.\n12 cream hero studio climax: she stands center, blazer open, chin lifts; scarlet rings, flare, gold dust, black type and red paper explode outward. Title: SCARLET RIOT.\n13 final identity card combining previous visual motifs. Huge SR behind her. Final title: SCARLET RIOT. Tagline: TOO HOT TO STAY STILL. Scarlet pulse, gold-ring flash, freeze, hard cut to black.\nPERFORMANCE:\nNo full dance. Use side turn, look-back, eye lift, hair toss, blazer touch, slight lean, one step, chin lift, controlled closed-mouth smile.\nQuiet power: the character stays calm while graphics explode around her.\nCAMERA:\n35mm environment/full-body, 50mm portraits, 85mm details.\nUse snap zooms, fast push-ins, whip pans, controlled low angles and graphic match cuts. Keep the camera stylish and controlled.\nLIGHT:\nCream soft light × deep-red edge light × golden-hour sunlight. Real skin texture, detailed fabric, leather, metal and gold jewelry.\nAUDIO:\nFashion electronic × Future Bass × Dark Pop × Hybrid Trailer Beat. Heavy bass, risers, shutter clicks, paper snaps, metallic hits, glass breaks, fabric whooshes and gold-foil stamp sounds. Peak at CUT 12.\nNEGATIVE:\nNo face drift, hairstyle change, character replacement, original blue outfit, random wardrobe change, vulgar sexuality, body morphing, extra people, anime, 3D cartoon, cyberpunk, cheap nightclub look, random scenes, messy or unreadable text, logos, subtitles, UI or watermark.\nFINAL FEEL:\nOne locked Korean-idol heroine × premium scarlet fashion styling × multi-scene luxury editorial × AAA motion graphics × strong SR branding. High-end, cold, vivid, artistic and campaign-ready.\n#MiniMaxH3 #AIVideo #KFashion #KpopStyle #FashionFilm #Editorial #ImaStudio",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "164",
+    "xid": "2099210311719084525",
+    "title": "@daph_vt",
+    "category": "AI视频",
+    "model": "",
+    "source": "@daph_vt",
+    "sourceUrl": "https://x.com/daph_vt/status/2099210311719084525",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099210311719084525_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099210311719084525_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099210311719084525.mp4",
+    "blurb": "",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "165",
+    "xid": "2099254678970056993",
+    "title": "What’s your favorite country and why?",
+    "category": "AI视频",
+    "model": "",
+    "source": "@AichyouLim",
+    "sourceUrl": "https://x.com/AichyouLim/status/2099254678970056993",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099254678970056993_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099254678970056993_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099254678970056993.mp4",
+    "blurb": "What’s your favorite country and why?",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "166",
+    "xid": "2099359799326757342",
+    "title": "GPT-6 AstraでAI美女量産するだけで おじさん達をファン化して「月10…",
+    "category": "AI视频",
+    "model": "GPT",
+    "source": "@gagarot200",
+    "sourceUrl": "https://x.com/gagarot200/status/2099359799326757342",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099359799326757342_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099359799326757342_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099359799326757342.mp4",
+    "blurb": "GPT-6 AstraでAI美女量産するだけで おじさん達をファン化して「月100万円」 稼げるのバグってるてwww うちのスキルエンジンスクールで 裏⚪︎運用がめっちゃ熱くて AI生成したかどうかをバレないように 一生懸命になってるわけじ…",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "167",
+    "xid": "2099389034254803242",
+    "title": "Có không giữ. Mất cứ nửa đêm lại: “em kh…",
+    "category": "AI视频",
+    "model": "",
+    "source": "@mianyx11",
+    "sourceUrl": "https://x.com/mianyx11/status/2099389034254803242",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099389034254803242_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099389034254803242_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099389034254803242.mp4",
+    "blurb": "Có không giữ. Mất cứ nửa đêm lại: “em khoẻ không em?”😊😊",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "168",
+    "xid": "2099497626672468309",
+    "title": "发这里总可以了吧 谁举报谁全家销户口本",
+    "category": "AI视频",
+    "model": "",
+    "source": "@sunny77l9vr",
+    "sourceUrl": "https://x.com/sunny77l9vr/status/2099497626672468309",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099497626672468309_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099497626672468309_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099497626672468309.mp4",
+    "blurb": "发这里总可以了吧 谁举报谁全家销户口本",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "169",
+    "xid": "2099480911121387877",
+    "title": "お疲れ様です☺️ モデルウォーキング 苦手かも🥹💦 上手くなるように ٩( 'ω…",
+    "category": "真人视频",
+    "model": "",
+    "source": "@PONKOAI111",
+    "sourceUrl": "https://x.com/PONKOAI111/status/2099480911121387877",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099480911121387877_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099480911121387877_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099480911121387877.mp4",
+    "blurb": "お疲れ様です☺️ モデルウォーキング 苦手かも🥹💦 上手くなるように ٩( 'ω' )و",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "170",
+    "xid": "2099332308499345522",
+    "title": "@tricon_",
+    "category": "AI视频",
+    "model": "",
+    "source": "@tricon_",
+    "sourceUrl": "https://x.com/tricon_/status/2099332308499345522",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099332308499345522_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099332308499345522_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099332308499345522.mp4",
+    "blurb": "",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "171",
+    "xid": "2099144645993505029",
+    "title": "我才18岁啊啊啊 不许叫我母猪 我要开始身材管理 #母猪 #微胖 #女高 #bb…",
+    "category": "AI视频",
+    "model": "",
+    "source": "@LelaFowlstii",
+    "sourceUrl": "https://x.com/LelaFowlstii/status/2099144645993505029",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099144645993505029_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099144645993505029_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099144645993505029.mp4",
+    "blurb": "我才18岁啊啊啊 不许叫我母猪 我要开始身材管理 #母猪 #微胖 #女高 #bbw",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "172",
+    "xid": "2099504280285991111",
+    "title": "分享一组秋天的 ChatGPT Image 2.5 穿搭提示词 她说穿在身上美在…",
+    "category": "人物角色",
+    "model": "GPT",
+    "source": "@you1873118",
+    "sourceUrl": "https://x.com/you1873118/status/2099504280285991111",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "分享一组秋天的 ChatGPT Image 2.5 穿搭提示词 她说穿在身上美在心里",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
+  },
+  {
+    "id": "173",
+    "xid": "2093584457412517905",
+    "title": "这可能是全网最全的「图片反推提示词」 收藏这一条 以后反推不用从零措辞，按图选类…",
+    "category": "插画艺术",
+    "model": "Blender",
+    "source": "@MMMusol",
+    "sourceUrl": "https://x.com/MMMusol/status/2093584457412517905",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093584457412517905_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093584457412517905_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "这可能是全网最全的「图片反推提示词」 收藏这一条 以后反推不用从零措辞，按图选类，复制即用。 1. 通用图片反推（所有图都能用） 详细反推这张图片的完整提示词，包含主体、风格、色彩、光影、构图、质感、分辨率和细节描述。 分析这张图片的视觉元…",
+    "prompt": "收藏这一条\n以后反推不用从零措辞，按图选类，复制即用。\n\n1. 通用图片反推（所有图都能用）\n\n详细反推这张图片的完整提示词，包含主体、风格、色彩、光影、构图、质感、分辨率和细节描述。\n分析这张图片的视觉元素、色调、氛围、技法和关键词，生成可直接用于 AI 绘图的精准 prompt。\n请用中英双语详细描述图片内容，拆解风格、光线、材质、镜头和配色。\n\n2. 字体 / Logo / 文字设计类\n\n反推这款字体的风格、字形特征、笔画质感、配色、排版和特效，生成字体设计提示词。\n详细描述字体：风格（现代 / 复古 / 赛博 / 手写）、粗细、衬线 / 无衬线、倒角、立体效果、光泽，以及金属 / 磨砂 / 玻璃质感。\n分析 Logo 的配色方案、构图比例、光影、材质和特效（描边、发光、渐变、浮雕），输出可复制提示词。\n\n3. 风景类（自然风景、城市风景、场景）\n\n反推这张风景图的环境、天气、时间、光线、色调、氛围、构图和景深，生成风景提示词。\n详细描述：场景主体、季节、时段（清晨 / 黄昏 / 夜晚）、天空、云层、植被、水体、色调、氛围感和镜头感。\n提取关键词：风格、色彩、光影、画质、分辨率、氛围、透视和细节质感。\n\n4. 摄影类（真人 / 人像 / 产品 / 纪实）\n\n反推这张摄影图的相机参数、镜头、光影、色调、画质、构图和氛围，生成摄影风格 prompt。\n详细描述：光线（自然光 / 硬光 / 柔光 / 逆光）、景深、焦距、画质（8K / 高清 / 胶片）、色调（冷色 / 暖色 / 复古 / 胶片感）和构图。\n提取：摄影师风格、光影、质感、分辨率、对焦、噪点、锐度和情绪氛围。\n\n5. 插画类（扁平 / 二次元 / 治愈 / 手绘）\n\n反推这张插画的绘画风格、笔触、肌理、色彩、线条、构图、氛围和画师风格。\n详细描述：手绘 / 板绘、平涂 / 厚涂、赛璐璐 / 二次元 / 治愈系 / 国风、线条粗细、色彩搭配、质感和细节。\n生成可直接用于 AI 绘画的插画关键词，包含技法、色彩、主题和氛围。\n\n6. 3D 类（C4D / Blender / 3D 渲染）\n\n反推这张 3D 图的渲染风格、材质、灯光、建模风格、精度、配色、质感，以及 C4D / Blender 特征。\n详细描述：3D 卡通 / 写实 / 黏土 / 磨砂 / 金属 / 玻璃 / 亚克力、光影（三点布光）、反射、粗糙度、Octane 渲染、软边缘和体积光。\n提取关键词：3D render、C4D、Blender、Octane、PBR 材质、柔光、高细节、8K、卡通质感、极简。\n\n7. IP 角色类（潮玩 / Q 版 / 盲盒）\n\n反推这个 IP 角色的形象设定、风格类型、五官表情、体型比例、服饰、配色、材质、光影和细节特征，生成同款 IP 角色提示词。\n详细描述：风格（Q 版 / 潮玩 / 治愈 / 国风 / 黏土 / 卡通）、头身比、发型、服饰装饰、神态、动作姿态，以及材质（哑光 / 树脂 / PVC / 陶瓷）和质感。\n提取关键词：IP 角色、盲盒风格、潮玩、C4D、3D 渲染、柔光、纯色背景、细腻质感、高细节、可爱、治愈、极简、全身造型。\n\n可以多多转给你那个还在说「帮我反推这张图」的朋友~",
+    "nsfw": false,
+    "addedAt": "2026.09.15",
+    "driveId": "",
+    "driveUrl": ""
   }
-]
+];
