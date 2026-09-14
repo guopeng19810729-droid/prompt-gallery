@@ -1596,7 +1596,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083190513495314848_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2083189857694920704/vid/avc1/1056x720/QZRcE-EnMFy-BO9m.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083190513495314848.mp4",
     "blurb": "双飞极品漂亮小姐姐，绝顶升天~ #赛飞儿 #cosplay #真人AIㅤㅤㅤㅤㅤㅤㅤ",
     "prompt": "",
     "nsfw": true,
