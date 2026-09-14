@@ -183,6 +183,7 @@
     const prompted = hasPrompt(c);
     const imgs = mediaList(c);
     const hasVideo = !!(c.videoUrl || c.driveId);
+    const showImageStrip = imgs.length > 0 && (hasVideo ? imgs.some(u => u && !String(u).includes("placeholder-x.png")) : imgs.length > 1);
     sheet.innerHTML = `
       <div class="gallery-stage" id="stage">
         ${hasVideo
@@ -195,6 +196,10 @@
           <div class="dots" id="dots">${imgs.map((_, i) => `<i class="${i===0?"on":""}"></i>`).join("")}</div>
         ` : ""}
       </div>
+      ${hasVideo && imgs.length ? `
+        <div class="thumb-row" id="thumbRow" style="display:flex;gap:8px;overflow:auto;padding:8px 12px 0">
+          ${imgs.map((src, i) => `<button type="button" class="thumb" data-i="${i}" style="flex:0 0 auto;border:2px solid transparent;padding:0;background:transparent;border-radius:8px;cursor:pointer"><img src="${src}" alt="" style="height:72px;width:auto;display:block;border-radius:6px;opacity:.9" /></button>`).join("")}
+        </div>` : ""}
       <div class="detail">
         <div class="tag-row">
           <div class="tag">Case ${c.id} · ${isNsfw(c) ? "XXX" : c.category}</div>
@@ -202,7 +207,7 @@
           ${itemDate(c) ? `<span class="tag chip date">${itemDate(c)}</span>` : ""}
         </div>
         <h2>${c.title}</h2>
-        <div class="src">${sourceHtml(c)}${imgs.length > 1 ? ` · ${imgs.length} 张` : ""}</div>
+        <div class="src">${sourceHtml(c)}${imgs.length > 1 ? ` · ${imgs.length} 张` : ""}${hasVideo && imgs.length ? " · 视频为主，下方可翻图" : ""}</div>
         ${prompted ? `<pre id="prompt">${c.prompt}</pre>` : `<p class="src">这条没有可复制的 Prompt，只作参考。</p>`}
         <div class="row">
           ${prompted ? `<button class="copy" id="copy">复制 Prompt</button>` : ""}
@@ -213,11 +218,36 @@
     const twVideo = document.getElementById("heroMedia");
     const videoHint = document.getElementById("videoHint");
     if (twVideo && twVideo.getAttribute("data-video-url")) {
-      attachTwimgVideo(twVideo, videoHint);
+      // Prefer direct src for R2 / non-twimg; keep blob fetch for twimg hotlink limits
+      const vurl = twVideo.getAttribute("data-video-url");
+      if (vurl && !/video\.twimg\.com/.test(vurl)) {
+        twVideo.src = vurl;
+        twVideo.load();
+        if (videoHint) videoHint.hidden = true;
+      } else {
+        attachTwimgVideo(twVideo, videoHint);
+      }
     }
     let idx = 0;
     const hero = document.getElementById("heroMedia");
     const dots = document.getElementById("dots");
+    const stage = document.getElementById("stage");
+    function showImageInStage(i) {
+      if (!imgs.length) return;
+      idx = (i + imgs.length) % imgs.length;
+      if (hasVideo && stage) {
+        stage.innerHTML = `<img id="heroMedia" src="${imgs[idx]}" alt="${c.title}" onerror="this.style.opacity='.25'" />` +
+          (prompted ? `<span class="badge-p" title="有 Prompt">P</span>` : "") +
+          (imgs.length > 1 ? `<button class="nav-btn prev" id="prev" type="button">‹</button><button class="nav-btn next" id="next" type="button">›</button><div class="dots" id="dots">${imgs.map((_, n) => `<i class="${n===idx?"on":""}"></i>`).join("")}</div>` : "");
+        const prev2 = document.getElementById("prev");
+        const next2 = document.getElementById("next");
+        if (prev2) prev2.onclick = ev => { ev.stopPropagation(); showImageInStage(idx - 1); };
+        if (next2) next2.onclick = ev => { ev.stopPropagation(); showImageInStage(idx + 1); };
+      } else if (hero) {
+        hero.src = imgs[idx];
+        if (dots) [...dots.children].forEach((el, n) => el.classList.toggle("on", n === idx));
+      }
+    }
     function show(i) {
       if (!hero || hasVideo) return;
       idx = (i + imgs.length) % imgs.length;
@@ -230,6 +260,14 @@
     const next = document.getElementById("next");
     if (prev) prev.onclick = ev => { ev.stopPropagation(); show(idx - 1); };
     if (next) next.onclick = ev => { ev.stopPropagation(); show(idx + 1); };
+    const thumbRow = document.getElementById("thumbRow");
+    if (thumbRow) {
+      thumbRow.onclick = ev => {
+        const btn = ev.target.closest("[data-i]");
+        if (!btn) return;
+        showImageInStage(Number(btn.dataset.i));
+      };
+    }
     const copyBtn = document.getElementById("copy");
     if (copyBtn) {
       copyBtn.onclick = async () => {

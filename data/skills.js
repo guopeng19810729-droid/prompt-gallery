@@ -1,5 +1,82 @@
 window.SKILLS = [
   {
+    "id": "2098480213244117065",
+    "title": "Get more out of GPT-6 Astra by revis…",
+    "author": "@OpenAIDevs",
+    "name": "OpenAI Developers",
+    "url": "https://x.com/OpenAIDevs/status/2098480213244117065",
+    "group": "Codex工作流",
+    "blurb": "Get more out of GPT-6 Astra by revisiting your skills, AGENTS.md, and task prompts.\n\nMake skill triggers specific, load guidance when it's relevant, and define what done looks like.",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2098712981018485088",
+    "title": "30 个感觉「非法」却合法的 AI 网站 1. — 免费无限 AI 生图…",
+    "author": "@nuannuan_share",
+    "name": "暖暖爱AI",
+    "url": "https://x.com/nuannuan_share/status/2098712981018485088",
+    "group": "工具与自动化",
+    "blurb": "30 个感觉「非法」却合法的 AI 网站\n\n1.  — 免费无限 AI 生图，质量直逼 Midjourney\n\n2.  — 实时 AI 生图，边画边出图\n\n3.  — AI 无限放大图片，细节自动补全\n\n4.  — AI 一键去背景/补光/擦除\n\n5.",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2099034599645217101",
+    "title": "10 个 GPT-6 Astra 违法提示词，强得有点可怕！ 先收藏起来…",
+    "author": "@meijiangAI",
+    "name": "美酱AI",
+    "url": "https://x.com/meijiangAI/status/2099034599645217101",
+    "group": "Codex工作流",
+    "blurb": "10 个 GPT-6 Astra 违法提示词，强得有点可怕！\n\n先收藏起来，后面你肯定还会用到。👇\n🧵🧵🧵\n\n1. GPT-6 Astra 改变人生方向的提示词",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2099043659513794723",
+    "title": "昨天我发现 ChatGPT 里藏着一个功能： “无限私人导师”。 它能帮…",
+    "author": "@LiumangtuCrypto",
+    "name": "流氓兔🐰",
+    "url": "https://x.com/LiumangtuCrypto/status/2099043659513794723",
+    "group": "资讯收藏",
+    "blurb": "昨天我发现 ChatGPT 里藏着一个功能：\n\n“无限私人导师”。\n\n它能帮你几乎从零开始、更快学会任何技能。\n\n这里有 8 个实用提示词，可以直接复制使用：",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2098916865619988807",
+    "title": "Xで検索してはいけないアカウント 1位: maturebook 2位:…",
+    "author": "@Camille_dancer4",
+    "name": "きみ",
+    "url": "https://x.com/Camille_dancer4/status/2098916865619988807",
+    "group": "资讯收藏",
+    "blurb": "Xで検索してはいけないアカウント\n\n1位: maturebook\n\n2位: yoru_yor2\n\n3位: V9sdX\n\n4位: str_1star\n\n5位: tutipanda_puni\n\n6位: 910cute_\n\n7位: chichigakuen\n\n8位: _m9_4\n\n9位: jef11115\n\n10位: taa110519",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2099005711875494034",
+    "title": "玩偶姐姐 爆款封面图 Skill",
+    "author": "@boniusex",
+    "name": "王大锤",
+    "url": "https://x.com/boniusex/status/2099005711875494034",
+    "group": "工具与自动化",
+    "blurb": "玩偶姐姐 爆款封面图 Skill",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
+    "id": "2087409888767205704",
+    "title": "@nanyuan0412",
+    "author": "@nanyuan0412",
+    "name": "南鸢 nuyoah",
+    "url": "https://x.com/nanyuan0412/status/2087409888767205704",
+    "group": "资讯收藏",
+    "blurb": "",
+    "video": false,
+    "addedAt": "2026.09.15"
+  },
+  {
     "id": "2084455880234508392",
     "title": "🎉 Grok App v0.2.5 版本来啦～",
     "author": "@cgnot996",
