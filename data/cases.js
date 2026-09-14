@@ -3126,8 +3126,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1Rg05KZ6eTpF0SVvB6dJMvrEPz2rAjRSM",
+    "driveUrl": "https://drive.google.com/file/d/1Rg05KZ6eTpF0SVvB6dJMvrEPz2rAjRSM/view"
   },
   {
     "id": "155",
@@ -3146,8 +3146,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1BISNwgcTbiyQteXgCBxmoEZrhbWiLoGF",
+    "driveUrl": "https://drive.google.com/file/d/1BISNwgcTbiyQteXgCBxmoEZrhbWiLoGF/view"
   },
   {
     "id": "156",
@@ -3187,8 +3187,8 @@ window.GALLERY_CASES = [
     "prompt": "0-3秒：她迅速转圈，短裙自然飘动。特写镜头：她的双腿。\n3-6秒：她走向镜头。特写镜头：她的胯部。画面迅速渐黑。\n无对白，长镜头，无剪辑，保持服装完整",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "18QyEuWcE5x0BUrmMbC_K7dHR3YD91b9c",
+    "driveUrl": "https://drive.google.com/file/d/18QyEuWcE5x0BUrmMbC_K7dHR3YD91b9c/view"
   },
   {
     "id": "158",
@@ -3209,8 +3209,8 @@ window.GALLERY_CASES = [
     "prompt": "提示词\n\n请生成一张 高质感竖版女性情绪写真，画面以 美臀 为主视觉核心，重点表现 腰臀比例、臀部轮廓、骨盆线、腰窝线条、臀腿衔接和整体身体曲线，而不是正脸。\n\n人物为 成年女性，气质自然高级，可呈现 温柔、清冷、慵懒、轻熟、文艺、高级感 中的一种。人物状态真实自然，不要夸张妆容，不要塑料感，不要刻意摆拍。\n\n姿态支持多种自然变化，包括 站姿、趴姿、坐姿、半躺、斜倚、倚靠 等。可表现为：\n\n背对镜头站立、侧背站立、靠窗站立、扶椅站立、回眸站姿、趴在床上、趴在沙发上、趴在窗边、坐在床边、靠在椅边、半躺在床上、倚靠墙面或门框、抬手整理头发、低头、轻微回眸 等自然动作。\n\n重点展示 臀部线条、腰臀过渡、臀腿曲线、骨盆结构与身体柔和起伏。姿势要求自然、松弛、有情绪感，不夸张、不扭曲、不低俗。\n\n服装围绕“突出臀部结构与情绪氛围”展开，可自由变化为：\n\n包臀丝质长裙、吊带真丝裙、贴身针织裙、薄纱、柔软睡裙、宽松衬衫自然滑落、开衩长裙、垂坠感面料、带褶皱的轻薄服饰 等。\n\n服装材质要求轻柔、贴合、自然垂坠、有层次、有褶皱走向，能够参与构图，并自然勾勒臀部和身体曲线。\n\n场景可设置在 窗边、卧室、床边、椅边、民宿、酒店、极简房间、安静的城市夜景室内、地毯边、沙发边 等空间，背景保持简洁、克制、干净，不喧宾夺主。\n\n镜头支持多角度表现，包括 正后方、侧后方 45 度、平视、高机位俯拍、低机位仰拍、蜘蛛视角、近景局部构图、中景全身构图。\n\n其中 蜘蛛视角 可表现为 超低机位贴近地面、床面或沙发表面拍摄，形成明显透视张力，让臀部、腰线和腿部更具空间感与延展感。\n\n光线以 逆光、侧逆光、窗边柔光 为主，强调 臀部轮廓光、腰线高光、腿部过渡阴影、边缘光与明暗层次，让画面更具 电影感、空气感、柔雾感和安静私密氛围。\n\n构图要求 竖版构图，人物是绝对主角，视觉中心明确落在 臀部与身体曲线 上，构图克制、高级、简洁，具有真实摄影感和浅景深效果。\n\n整体风格为 真实摄影感、电影感、柔雾感、细腻肤质、自然高级、安静私密、轻微胶片氛围。\n\n限制要求：\n\n不要文字，不要水印，不要 Logo，不要电商感，不要低俗化，不要夸张性感展示，不要 AI 塑料皮肤，不要肢体畸形，不要多余手脚，不要奇怪结构，不要过度磨皮。\n\n最终呈现为一张以 “美臀 + 情绪感 + 多姿态 + 多角度 + 光影氛围 + 服饰变化” 为核心的高完成度女性写真。",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1LrntNQ_GtM9bUM0ZRgDn53OdkuM1tZL4",
+    "driveUrl": "https://drive.google.com/file/d/1LrntNQ_GtM9bUM0ZRgDn53OdkuM1tZL4/view"
   },
   {
     "id": "159",
@@ -3289,8 +3289,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1mGqdZ4_lX5Lx4Hn6RxCvacKvVsF-_3pR",
+    "driveUrl": "https://drive.google.com/file/d/1mGqdZ4_lX5Lx4Hn6RxCvacKvVsF-_3pR/view"
   },
   {
     "id": "163",
@@ -3369,8 +3369,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1EITLIrZrFzLx-AFr0MDt5g07b8UOoGeA",
+    "driveUrl": "https://drive.google.com/file/d/1EITLIrZrFzLx-AFr0MDt5g07b8UOoGeA/view"
   },
   {
     "id": "167",
@@ -3409,8 +3409,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1g59vF0S3xDR9_LOW-peaDnK5LzTssLm8",
+    "driveUrl": "https://drive.google.com/file/d/1g59vF0S3xDR9_LOW-peaDnK5LzTssLm8/view"
   },
   {
     "id": "169",
