@@ -289,7 +289,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090069275230769175_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2090069029218111488/vid/avc1/2160x3840/LStMqzFlHejzMByp.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090069275230769175.mp4",
     "blurb": "最近很火的娃娃变装视频提示词开源 9:16 竖屏，超写实真人芭比换装短片。人物身份只参考上传的银灰发女孩图片，五官、脸型、眼距、鼻子、嘴唇、肤色",
     "prompt": "开源\n\n9:16 竖屏，超写实真人芭比换装短片。人物身份只参考上传的银灰发女孩图片，五官、脸型、眼距、鼻子、嘴唇、肤色与参考图保持一致。银灰色高马尾，轻薄空气刘海，两侧少量自然碎发。人物为真实成年女性，正常纤长模特比例，8至8.5头身，头部约占全身高度的八分之一，肩宽自然，四肢修长但符合真实人体结构，绝对不能大头小身。\n\n人物始终位于画面正中央，全身完整入镜，双脚和头顶均有留白。平视固定机位，50mm镜头观感，无推拉、无摇移、无旋转、无焦段变化。背景固定为奶油白、雾霾蓝和少量香槟金组成的梦幻时尚工作室，柔和自然光，家具、墙面、地板和阴影位置全程不变。\n\n画面前景出现一双真人尺寸巨型女性双手，双手皮肤真实，比例稳定，左右手结构正确。长杏仁形镜面银色美甲，镶嵌透明水晶、珍珠和精致立体蝴蝶结。巨手始终在人物前方活动，通过衣服、鞋子或配饰短暂遮挡人物，实现无缝换装。\n\n最终服装、鞋子、项链、手链和手提包的款式、颜色、纹理，严格以对应的上传图片为准，禁止模型自行重新设计。 00:00–00:01\n银灰发女孩穿基础内搭站在画面中央，身体自然放松，目视镜头。两只巨型美甲手分别从左下方和右下方进入，捏住连衣裙左右肩部或肩带，平稳地将裙子送到人物面前。\n\n00:01–00:02\n巨手同步向上抬起连衣裙，裙摆从人物膝盖位置上升到腰部和胸口。女孩低头看向衣服，身体位置、脸和发型保持不动。裙子逐渐遮挡基础内搭。\n\n00:02–00:03\n连衣裙继续向上移动，完整遮挡人物躯干，并在画面中央形成约0.3秒的自然遮挡。遮挡最完整的瞬间完成隐藏换装，不能用闪光、烟雾或溶解特效。\n\n00:03–00:04\n巨手向左右两侧缓慢分开并稍微下降。遮挡解除后，女孩已经完整穿好与母版图片完全一致的连衣裙，领口、腰线、裙摆和材质全部固定。\n\n00:04–00:05\n巨手轻轻整理裙子两侧肩部和腰线，布料产生细微自然摆动，随后双手从画面两侧退出。人物抬头看向镜头，保持真人芭比般克制、自然的表情。\n\n00:05–00:06\n两只巨手从画面底部左右两侧再次进入，各自捏住一只与鞋子参考图完全一致的鞋，鞋尖朝向人物双脚，缓慢送向脚边。\n\n00:06–00:07\n巨手将鞋子移动到人物双脚正前方，鞋子和手指短暂遮挡脚部。遮挡瞬间完成换鞋，双脚不能移动位置，不能穿模，不能出现多余鞋子。\n\n00:07–00:08\n巨手向两侧撤开，女孩脚上已经穿好成对的新鞋。鞋型、颜色、鞋跟和装饰左右一致。人物轻轻调整一次重心，裙摆有非常轻微的自然晃动。\n\n00:08–00:09\n硬切到固定的腰部以上中近景，不做连续镜头推近。两只巨手从画面上方左右两侧进入，拉直项链两端，将项链移动到女孩颈部前方。女孩微微抬起下巴。\n\n00:09–00:10\n巨手把项链绕到颈后，手指短暂遮挡颈部两侧。完成遮挡后，项链自然佩戴在颈部中央，吊坠位置端正，款式与项链母版一致。\n\n00:10–00:11\n巨手从上方退出，项链保持稳定，不闪烁、不变形。硬切回原来的固定全身构图，人物位置和背景透视必须与换装前一致。\n\n00:11–00:12\n女孩缓慢抬起左侧前臂，手掌向上。右上方进入一只巨型美甲手，拇指和食指捏着与参考图一致的手链，向女孩手腕靠近。\n\n00:12–00:13\n巨手将手链从女孩指尖方向轻轻滑向手腕，手指短暂遮挡手腕。遮挡解除后，手链已经正确戴好，手链大小贴合，不能悬浮或嵌入皮肤。\n\n00:13–00:14\n巨手轻轻调整手链位置后退出。女孩放松左手，同时略微抬起右侧前臂，为手提包动作留出空间。\n\n00:14–00:15\n一只巨手从右下方进入，捏住手提包的两个提手，将与母版完全一致的手提包抬到人物右侧前臂旁。包体保持真实重量感和稳定结构。\n\n00:15–00:16\n巨手将包带挂到女孩抬起的右前臂上，短暂遮挡手腕后松开。手提包自然下垂并轻轻摆动一次，不能穿过手臂或裙子。\n\n00:16–00:17\n巨手从右上方重新进入，拇指和食指像操纵真人娃娃一样，轻轻捏住女孩抬起的右手。女孩保持放松，不挣扎，手提包随手臂一起被抬高。\n\n00:17–00:18\n巨手将女孩右手略微向上提起。女孩像精致真人娃娃一样向前轻轻鞠躬约15至20度，头部、肩膀和上半身自然同步，银灰马尾和手提包轻微摆动。\n\n00:18–00:19\n女孩缓慢恢复直立，巨手松开并从右上方退出。人物面对镜头展示完整造型，双脚并拢，表情自然，保持最终造型约1秒，所有服装和配饰稳定不变。\n\n00:19–00:22\n不需要AI生成。这部分原片只是抖音搜索尾卡。剪辑时可以直接结束，或单独制作静态结束页。不要黑发、不要棕发、不要改变人物身份、不要换脸、不要欧美化五官、不要大头娃娃、不要Q版、不要塑料玩偶皮肤、不要缩短腿部、不要过细腰部、不要身体变形。",
     "nsfw": false,
@@ -561,7 +561,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093680788990476668_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093680566939910144/vid/avc1/1440x2560/Ucb9rash9-QfiNYD.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093680788990476668.mp4",
     "blurb": "叫妈妈👩小甜甜秒变妈妈 MiniMax H3 生成 prompt 👇 【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel",
     "prompt": "👇\n\n【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel Transformation），电影感时尚短片（Cinematic Fashion Film），真实手机竖屏实拍质感（Photorealistic Handheld），8K超清，暖调低光室内摄影，皮肤有真实毛孔和光泽、布料可见织纹和垂坠感，无AI塑料感，竖屏9:16\n【时长】10秒\n【场景】高级精品酒店房间，始终同一个机位、同一把椅子\n【角色】Anna @图片1（全片唯一角色）。五官、脸型、身形严格锁定参考图，变装前后不漂移。\n\n【景别与机位基准】固定机位，略低角度（相机高度约在坐姿时膝盖位置、微微仰拍），椅子居画面中央偏右，左侧大面积逆光窗帘过曝形成高光留白，右侧深色木质墙面和暗色窗帘压暗，形成强烈的明暗对比（Chiaroscuro Lighting）。全片机位不移动、不推拉摇移。\n\n【核心变装机制：抛鞋→踢腿】\n道具触发变装——Anna 坐在椅子上把一只黑色高跟凉鞋向上一抛，鞋子离手还在空中上升的那一帧硬切（Hard Cut）→ 下一帧她已经穿好全套造型，右腿猛地向上一甩踢向镜头、鞋底正对镜头（鞋子已经穿在脚上），踢腿和抛鞋形成一对跨越剪辑的镜像动作——\"抛出去的鞋，下一帧就穿在了脚上\"。踢腿后右腿缓缓收回，跷成二郎腿坐定。变装前后椅子位置、机位、光线完全一致，只有人物的穿着和姿态整个换掉。\n\n[00:00-00:01.5] 镜头1：空椅子·悬念开场（Establishing Shot）\n画面：酒店房间内，左侧落地窗透过白色薄纱窗帘漫进大片柔和白光（窗帘过曝），右侧深色木质竖条纹护墙板和深灰色厚窗帘形成暗部。画面中央偏右一把黑色哑光金属框架扶手椅（黑色皮质坐垫），椅子空着，右上角墙上隐约可见一幅装裱画的边角。深灰色哑光地板。\n画面里没有人——空椅子制造悬念。\n\n[00:01.5-00:02.5] 镜头2：入场·浴袍登场（Character Entrance）\nAnna 从画面右侧走入镜头，赤脚踩在深灰色地板上。她穿着白色酒店浴袍（厚实毛巾布料质感、腰间系带打结、左胸口绣有酒店首字母），头上裹着白色浴巾扎成高高的包头巾（turban），脸上已经画好全妆——正红色哑光唇膏（红唇是全画面唯一的高饱和色彩点）、精致眉眼。双手捧着一双黑色绑带高跟凉鞋（细带交叉款，鞋跟约8厘米）放在腰间。\n她面对镜头走到椅子前方站定，表情冷淡从容，嘴唇微微抿起，下巴微微抬高，眼神直视镜头——\"给我几秒钟\"的自信态度。\n\n[00:02.5-00:04.5] 镜头3：落座·把玩高跟鞋（Seated Tease）\nAnna 转身坐到黑色扶手椅上，浴袍下摆散开，赤足的双腿自然并拢垂在椅子前方。她把两只黑色高跟鞋放在膝盖上，双手握住鞋子，低头审视。\n表情：微微垂眼看着手中的鞋，嘴角不笑、红唇轻抿，带着一种\"我在挑选武器\"的挑剔和笃定。\n动作细节：她把两只鞋分开，左手一只右手一只，轻轻掂了掂重量，手指拨弄鞋面的黑色细带。\n\n[00:04.0-00:04.5] 镜头4：抛鞋·变装触发（The Throw）\nAnna 右手握住一只黑色高跟鞋，手腕一翻、向上一抛——鞋子脱手飞向空中，黑色细带在空中散开甩动。左手同时还握着另一只鞋。\n表情：抛鞋瞬间眼睛微微闭上，红唇轻抿，下巴微扬，一副\"就这样吧\"的随意。\n鞋子离手、还在空中上升的那一帧——**硬切（Hard Cut）**\n\n[00:04.5-00:05.5] 镜头5：踢腿亮鞋·变装完成（The Kick Reveal）\n硬切之后，Anna 依然坐在同一把黑色扶手椅上，但整个人焕然一新：\n穿着：白色浴袍和包头巾消失，头发放下来自然散落（hair down）。妆容比变装前更精致——眉形利落、眼妆深邃带微光、正红色哑光唇膏依旧，整体是高端时尚大片级别的妆面质感。身穿黑色无袖高领修身连衣裙（halter-neck mini dress，面料紧贴身体轮廓、裙摆到大腿中段），双腿穿着黑色薄透丝袜（sheer black tights，织纹细腻可见），脚上穿着刚才手里那双黑色绑带高跟凉鞋（细带交叉绑到脚踝上方）。\n关键动作：硬切的第一帧，右腿猛地向上甩踢，整条腿斜着踢向镜头方向——高跟鞋鞋底正对镜头、占据画面中央，鞋底的皮质纹理清晰可见。这一踢和上一帧的抛鞋动作形成跨越剪辑的因果呼应：\"刚才抛出去的鞋，这一帧已经穿在脚上了。\"\n表情：踢腿瞬间目光斜睨镜头，眉梢微挑，红唇微启——冷飒的\"准备好了\"。\n随后右腿缓缓从高处收回，优雅地跷在左腿上（二郎腿），身体微微向左后方靠进椅背，左手手指搭在左侧扶手边缘——慵懒、松弛、掌控一切的坐姿。\n\n[00:05.5-00:10.0] 镜头6：慵懒女王·时尚大片（Slow Fashion Pose）\n接下来4.5秒内，Anna 在椅子上做一组极慢的时尚大片姿态变换（Fashion Editorial Posing），每个动作之间自然衔接、一镜到底没有剪辑：\n① 二郎腿跷腿姿势稳定，目光从镜头缓缓移向左侧窗帘方向，侧脸轮廓被逆光勾勒出金色边缘光；\n② 右手从扶手上缓缓抬起，五指微张在空中做了一个轻柔的\"弹指/拨弄\"手势，手指骨节分明；\n③ 右手继续向上，指尖触到右侧肩旁的一缕发丝，轻轻捻起发梢向外拉出一小段，发丝在指间缠绕；\n④ 头微微向右后方仰，闭上眼睛约0.5秒，红唇微启，发丝从指间滑落；\n⑤ 缓缓睁眼，目光重新对准镜头，嘴角带出一丝极淡的微笑——但只有嘴角，眼神依然是冷的。右手回落到扶手上。\n画面在这个\"冷眼微笑\"的定格中自然结束。\n\n【音效】\n前半段（00:00-05:30）：安静的酒店房间环境音底噪——远处隐约的城市嗡鸣、空调低频运转。叠加：赤脚踩地板的轻柔脚步声、浴袍布料摩擦的窸窣声、鞋子被拿起和翻转时皮革与金属扣的轻微碰击声。\n硬切瞬间（05:30）：一声干脆利落的低频鼓点\"咚\"（Kick Drum Hit），标记变装切点。\n后半段（05:30-10:00）：慵懒的电子氛围音乐缓缓铺开（Lo-fi Chill / Downtempo），节奏极慢，配合Anna 的慢动作姿态。叠加：丝袜面料在交叉腿时的轻微摩擦声、高跟鞋跟在换姿势时轻轻碰到椅腿的\"嗒\"声、手指拨弄发丝的细微声响。\n\n【一致性锁定】\n1. 全片固定机位，不推拉摇移，不换角度。\n2. 同一把黑色扶手椅，位置不变。\n3. 变装前后光线一致：左侧窗帘逆光过曝、右侧暗部压低。\n4. 脸部严格锁定 @图片1，变装前后不出现任何面部漂移。\n5. 变装前的高跟鞋和变装后脚上穿的是同一双鞋（黑色细带交叉绑带凉鞋），细节一致。\n6. 红唇是全片唯一的高饱和色彩，变装前后保持一致。\n7. 变装只用一次硬切，不许出现任何转场特效、模糊、叠化、黑场、闪白、魔法粒子。\n8. 画面内不出现任何品牌logo、文字、字幕、水印。\n9. 不出现镜面反射或水面倒影中的人像。\n10. 后半段pose变换是连续拍摄，不再有任何剪辑切换，一镜到底。",
     "nsfw": false,
@@ -581,7 +581,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093599695570714699_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093598846438043648/vid/avc1/416x736/4O-PfLzfMFu9AFA3.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093599695570714699.mp4",
     "blurb": "调试了9个版本终于稳定下来了。 这种网红视角的短视频在h3模式使用图生视频来完成 对提示词要求非常高。 还踩了个坑 . H3 在高像素模式下，模",
     "prompt": "要求非常高。\n还踩了个坑 .\n\nH3 在高像素模式下，模型会优先追求人脸细节还原；俯拍 45‑55° 向下拍摄，人脸会产生透视形变（额头大、下巴收）。模型内部有隐性偏好：高清晰度生成时尽量避免人脸强烈透视畸变，主动把相机拉回眼平，保证人脸 “好看端正”，直接无视你的机位硬约束。\n\n也在文章分享了修复方案。\n提示词 \n\n芙宁娜｜时装走秀 💙🎭✨\n\n芙宁娜登上属于她的时尚舞台。\n随着灯光与音乐展开，优雅、戏剧感与舞台气场交织在一起，属于水之国的时装秀正式开始。\n从舞台中央走来，每一步都像一场属于芙宁娜的精彩演出。✨\n 今天的主角，当然是芙宁娜。\n\n喜欢这场走秀的话，点赞❤️收藏⭐关注🔔支持一下！\n推荐 X 标签：\n\n#芙宁娜 #Furina #原神 #GenshinImpact #时装走秀 #FashionShow\n#フリーナ #原神 #ファッションショー\n#NguyenThan #GenshinImpactVN #NhanVatGame\n\n#AIArt #AIVideo #提示词分析 #promptshare #MINIMAXH3 #ai教程",
     "nsfw": false,
@@ -643,7 +643,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093523920045699263_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093523498409046016/vid/avc1/1920x1080/gYcJqpbqKXxVo-wl.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093523920045699263.mp4",
     "blurb": "🎥 用 MiniMax H3 做了个很惬意的沿海列车片头！ 很多人问这种带一点胶片质感、从列车内部缓缓向窗外延伸的运镜怎么做？其实关键在于提示词",
     "prompt": "里的分层镜头调度（视角从车厢内滑向海景）。\n\n提示词（Prompt）直接分享给大家👇\n\n加上复古色彩与自然光效关键词Opening Title｜15秒、2.39:1、24fps真人爱情卡司PV《SUMMER, WITH YOU》。原创成年演员MIRA LIN、JULIAN PARK，海边小城35mm胶片感，奶油白/海蓝/淡黄。四镜：海岸列车无字；书店女主配“STARRING/MIRA LIN”；港口男主配“JULIAN PARK”；街角相遇后夕阳步道揭示片名。文字衬线、留白充足、遮挡转场，不接吻摆拍、无额外文字/Logo/黑屏。\n\n💡 制作小技巧：\n\n声明主体镜头位置（车窗视角内框）\n指定动态平移方向（横向滑移/跟拍）\n加上复古色彩与自然光效关键词",
     "nsfw": false,
@@ -685,7 +685,7 @@ window.GALLERY_CASES = [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092609219136799094_0.jpg",
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092609219136799094_1.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2092609180960215040/vid/avc1/816x1104/TyeuPOs6WBqi7MCK.mp4?tag=25",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2092609219136799094.mp4",
     "blurb": "ミリタリー風ゲーム系ファッション🧡 衣装のみ背景無しも分かりやすいように貼ります 衣装配布なので、人物や背景やポーズなどお好きに🐹男の子の衣装プ",
     "prompt": ". 😆\n\nThe main difference is that I didn’t use the outfit prompt alone. I first told ChatGPT the composition I wanted — crouching pose, half-body close shot, strong low-angle camera, powerful attitude, and asked it to design",
     "nsfw": false,
@@ -705,7 +705,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091167799691641015_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2091164997967908864/vid/avc1/768x1376/P_tmjY_e05Zxklf5.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2091167799691641015.mp4",
     "blurb": "使用h3复刻一个最近很火的 用手势控制角色舞蹈的视频。 只需要输入图片1 导入提示词就行了，提示词可以自定义舞蹈动作，只要不破坏手指对图片1的约",
     "prompt": "就行了，提示词可以自定义舞蹈动作，只要不破坏手指对图片1的约束。\n\n提示词\n\n\n#AIArt #AIVideo #提示词分析 #promptshare #MINIMAXH3 #ai教程",
     "nsfw": false,
@@ -743,7 +743,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090349290124140547_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2090349162915078144/vid/avc1/1080x1920/w81H1NA1g0yTMLRd.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090349290124140547.mp4",
     "blurb": "剁腿变装👚 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect ratio: 9:16 Overall sty",
     "prompt": "👇\n\nDuration: 10秒\nAspect ratio: 9:16\nOverall style: 夏季时装卡点变装，真实摄影，一镜到底（One Take），动作匹配剪辑（Action Match Cut），4K高帧率\n\nSHOT 1（00:00-00:02.20）\nSubject: 女主@图片1。初始穿白色修身短衬衫、深灰高腰喇叭裤、黑色一字带细跟凉鞋。\nAction:\n女主从右侧走入，身体侧向左方，脸转向镜头，走到中央停下。\n右腿承重；左膝轻屈，左脚向后勾起，随后快速跺回原位。双手屈于腰侧，手腕随音乐轻摆。\nEnvironment: 白墙、黑色踢脚线、浅灰瓷砖地面，影棚柔光。\nCamera: 固定全身镜头，双脚完整入画。\nConstraints: 身体保持侧姿，脸和视线始终朝向镜头。\n\nSHOT 2（00:02.20-00:08.20）\nAction:\n女主固定站在中央，反复使用同一动作：右腿承重→左膝轻屈→左脚向后勾起→左脚快速跺回原点。每次左鞋跟触地，服装瞬间硬切；换装前后脸、头发、侧身角度、手势完全衔接。\n\n00:02.20：白色细肩带短上衣、白色侧抽绳短裤。\n00:03.10：黑色半透短款上衣、金色亮片短裤、黑色丝袜。\n00:03.90：灰色细肩带短上衣、灰色高腰紧身裤。\n00:04.60：黑色高领短上衣、黑色短裤、红边黑色长筒丝袜。\n00:05.25：紫色挂颈短上衣、黑色短裤、紫色丝袜、紫色腰带。\n00:05.85：酒红露肩短上衣、黑色皮质短裤、黑色丝袜。\n00:06.40：银灰单肩短上衣、黑色高腰短裙。\n00:06.90：深蓝挂颈修身短裙、黑色丝袜。\n00:07.35：象牙白缎面短上衣、灰色修身短裤、深灰丝袜。\n00:07.80：白色修身短衬衫、黑色高腰皮质短裙。\n\nStyle: 后半段换装逐渐加速；每套都是贴身、利落的夏季造型。黑色细跟凉鞋全程不变。\nConstraints: 每次只在左脚落地帧换装；不使用闪光、烟雾或旋转遮挡。\n\nSHOT 3（00:08.20-00:10.00）\nAction:\n女主停止跺脚，保持侧身，脸看镜头；右腿承重，左膝微屈。她轻摆双手，随后微笑定格。\nCamera: 固定全身镜头，结尾轻微推进。\nAudio: 快节奏卡点音乐；每次左鞋跟落地配清脆“嗒”声。无对白、无字幕。\n\n---\nNegative: 日常通勤装，宽松T恤，卫衣，牛仔长裤，工装裤，运动服，厚外套，长裙，脸看向侧面，背对镜头，右腿跺地，左右腿交替，双脚跳跃，高抬腿，向前踢腿，脚底漂浮，换装早于落地，服装渐变，闪光，烟雾，人物瞬移，姿势断裂，额外腿脚，脸型变化，发型变化，鞋子变化，镜头晃动，背景变化，字幕，水印，标志。",
     "nsfw": false,
@@ -763,7 +763,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2089764797361582208_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2089758549849280512/vid/avc1/832x1504/EmuzP2cOu02vguTF.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2089764797361582208.mp4",
     "blurb": "很难想象，这个提示词花了48 小时， MiniMax H3 三人物运镜。遮挡衔接式贴身环绕长镜头。 提示词 三人各做一套完整贴身近距离环绕（Cl",
     "prompt": "@monsterhao 选双时钟 \n\n国内用户：\n国外用户：\n10Eros+Beta+Lightx2v正式版Minimax双时钟文生视频V1\n国内用户：\n国外用户：\n10Eros+Beta+Lightx2v正式版Minimax双时钟参考生视频V1",
     "nsfw": false,
@@ -783,7 +783,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083585853625131353_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2083585790211469312/vid/avc1/1280x720/bD0a1Imip2YYq3TP.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083585853625131353.mp4",
     "blurb": "Made with Seedance 2.0 Prompt: Create a cinematic 3D architectural visua",
     "prompt": "Create a cinematic 3D architectural visualization of a traditional Korean Hanok house on a technical blueprint background. Show a curved dark Giwa tiled roof, exposed wooden beams, raised stone foundation, Hanji sliding doors, and a wooden balcony. Add blue architectural schematics, measurements, floor plans, and cross-section overlays. Use a smooth camera rotation from side view to front view, with a colorful rainbow scanning light effect highlighting the roof and wooden joints. Warm interior lighting creates a peaceful, elegant atmosphere while showcasing the structure and design details.",
     "nsfw": false,
@@ -1109,7 +1109,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093725095353299030_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093724957322981376/vid/avc1/1280x720/aNgPYqNK5Ur8vY7k.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093725095353299030.mp4",
     "blurb": "💖美纱更新个DLC～来跟妈咪逛商场💘",
     "prompt": "",
     "nsfw": false,
@@ -1129,7 +1129,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093555520473084156_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093555463719899136/vid/avc1/720x1310/v_mCDYR-75J7QvZz.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093555520473084156.mp4",
     "blurb": "大王，你来抓我呀🥰 妖妃休逃",
     "prompt": "",
     "nsfw": false,
@@ -1149,7 +1149,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093534856223301919_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2093372691877429248/vid/avc1/784x1168/sAdvC6jgg4G1nTF1.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093534856223301919.mp4",
     "blurb": "Bombale bom bom~",
     "prompt": "",
     "nsfw": false,
@@ -1187,7 +1187,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091387750218178646_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2091386018159312896/vid/avc1/1266x3798/tDEV3WKfQrVp63Bk.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2091387750218178646.mp4",
     "blurb": "推友说要看跳舞👇🏻",
     "prompt": "",
     "nsfw": false,
@@ -1263,7 +1263,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090161696266412333_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2090161035164446720/vid/avc1/720x1094/7BP55xXsRhpd-qY5.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090161696266412333.mp4",
     "blurb": "Moonlight looks even better on Perfect Princess tonight 💕🌙",
     "prompt": "",
     "nsfw": false,
@@ -1283,7 +1283,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090088156620312922_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2090087609494323200/vid/avc1/640x960/3AcW2gDKBc1sKyCF.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090088156620312922.mp4",
     "blurb": "バニーガール（黒レースバージョン）",
     "prompt": "",
     "nsfw": false,
@@ -1303,7 +1303,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088883461922701690_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2088362753585188864/vid/avc1/720x1280/0Z6Y8qtRtyA3MNR1.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088883461922701690.mp4",
     "blurb": "No.80 74P 6V Marin Kitagawa",
     "prompt": "",
     "nsfw": false,
@@ -1342,7 +1342,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088698695063838934_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2088698642316365824/vid/avc1/720x1280/RBL-Sbc7RsISGyfj.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088698695063838934.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1362,7 +1362,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088597148308996370_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2088597083892891648/vid/avc1/720x1280/H2srdpbsxDwv1zAr.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088597148308996370.mp4",
     "blurb": "这么可爱的小兔纸 谁不想养一只",
     "prompt": "",
     "nsfw": false,
@@ -1382,7 +1382,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088458651757592835_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2088458374501498880/vid/avc1/1056x720/kGPC2NGo21vYIH7d.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088458651757592835.mp4",
     "blurb": "一龙二凤，双飞极品少女~ #同人 #cos",
     "prompt": "",
     "nsfw": true,
@@ -1402,7 +1402,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084256011494535594_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2084255942229770240/vid/avc1/1080x1920/eTENVPPErtxzBKG2.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084256011494535594.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1422,7 +1422,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083810026091696528_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2083294392832643072/vid/avc1/720x1280/_28uMFURKmSfak3m.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083810026091696528.mp4",
     "blurb": "No.66 67P 6V Boa Hancock",
     "prompt": "",
     "nsfw": false,
@@ -1442,7 +1442,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083506036485599361_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2083505984916570112/vid/avc1/720x1080/-qhcXoTEBfi9mV4G.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083506036485599361.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1518,7 +1518,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082504945832731124_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2082504928661291008/vid/avc1/882x720/0tZ7ZhH7aeDdzDFo.mp4?tag=14",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082504945832731124.mp4",
     "blurb": "Free, open-source photo-to-talking-video is impressive tooling and also ",
     "prompt": "",
     "nsfw": false,
@@ -1538,7 +1538,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082445558577574104_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2082443499396616192/vid/avc1/816x1728/PGKmGSsWQB4fhEmL.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082445558577574104.mp4",
     "blurb": "我做的数字人又升级了，之前是做我自己的数字人来口播，现在我直接创建了一个网球教练数字人配上真人指导语音，带我热身、训练和拉伸放松。动作和真人丝毫",
     "prompt": "",
     "nsfw": false,
@@ -1558,7 +1558,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082442156074319998_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2082442121546698752/vid/avc1/1080x1920/d85QGNacOn_wAH_D.mp4?tag=29",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082442156074319998.mp4",
     "blurb": "最近都在玩这种 AI 换装 从甜妹到夏日甜美 15 秒换六七套 比我一年买的衣服都多",
     "prompt": "",
     "nsfw": false,
@@ -1578,7 +1578,7 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084533323872006572_0.jpg"
     ],
-    "videoUrl": "https://video.twimg.com/amplify_video/2084532134455529472/vid/avc1/2560x1440/5hn5ltlrIDI9J_7e.mp4",
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084533323872006572.mp4",
     "blurb": "提示词： 5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。 产",
     "prompt": "5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。\n产品是——一颗普通的大白菜。 \n [0–4秒] 纯黑背景中，一颗饱满新鲜的大白菜缓缓悬浮旋转，外层叶片青翠，内芯偏浅黄绿，边缘打冷白轮廓光，叶片表面的细小水珠在微距镜头下缓缓滚动。画面高级、克制、安静，仿佛顶级科技新品登场。 白色纤细大字淡入：“白菜 Pro” 下方小字：“了不起的鲜。” \n [4–8秒] 快速节奏剪辑三个影棚级特写镜头：  白菜切面层层包裹的细密纹理微距； 外层叶片弧线与褶皱在侧逆光下的雕塑感轮廓； 细腻水雾喷洒在白菜表面，水珠附着叶脉的超慢动作。 每个镜头分别浮现一个极简大字标题： “饱满。” “脆嫩。” “清甜。”  \n[8–12秒] 白菜在空中优雅翻转，外层叶片轻微舒展，被一只手稳稳托起并轻轻转动，带出克制而高级的流光拖尾特效，音乐进入磅礴高潮。镜头保持苹果式产品英雄感，像在展示革命性旗舰硬件。 大字：“史上最强大的白菜。” 下方小字：“比上一代爽脆20%。”  \n[12–15秒] 音乐收束，纯黑画面中央只留那颗白菜静静直立悬浮，轮廓清晰，布光高级，画面留白充足。旁边浮现价格标签：“¥3起” 最后打出标语： “白菜 Pro。卷出好味。” 配一声干净、克制的结尾提示音。",
     "nsfw": false,
