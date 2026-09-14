@@ -18,7 +18,9 @@ window.GALLERY_CASES = [
     "blurb": "Prompt ⬇️⬇️⬇️ 一位年轻成年东亚女性站在纯净暖白色摄影棚背景前，画面从头顶拍至腰部附近。人物位于中央略偏右，身体正面轻微朝画面右侧，",
     "prompt": "⬇️⬇️⬇️\n一位年轻成年东亚女性站在纯净暖白色摄影棚背景前，画面从头顶拍至腰部附近。人物位于中央略偏右，身体正面轻微朝画面右侧，头部转向画面左侧约三分之二侧脸角度，下巴微微下压，双眼自然闭合，神情安静、克制、柔和，嘴唇轻闭，呈现纯净高级的美容与内衣编辑人像质感。\n\n她拥有精致鹅蛋脸、流畅下颌线、自然细眉、纤细挺直鼻梁和浅裸粉色嘴唇。妆容极淡，仅有轻薄底妆、自然睫毛、柔和米棕眼影和轻微腮红。肤色白皙偏中性暖调，保留真实毛孔、细小绒毛、自然肤色变化和柔和皮脂高光，禁止塑料磨皮。\n\n深黑色长发整齐中分，顺滑贴合头型，在后脑盘成低位双层发髻或花瓣状低发髻，耳侧有极少量碎发。右耳佩戴银色叶片造型与圆润珍珠组合耳环，金属反光细腻。\n\n她穿白色半透明花卉刺绣薄纱文胸，细肩带、有钢圈结构、边缘精细蕾丝，完全遮挡关键部位；外披乳白色轻薄雪纺或真丝罩衫，宽松长袖，自然敞开并垂落肩臂。双手在腰前轻轻整理或握住罩衫系带，手指自然、清晰。\n\n背景为无缝奶油白至浅灰白渐变，无家具和装饰。大型柔光箱从画面左前上方照射，正面使用白色反光板补光，阴影极浅，整体高键、低饱和、低对比，白色层次清晰。\n\n摄影风格：85mm或105mm人像镜头，f/2.8，平视机位，中浅景深，侧脸、耳饰和蕾丝纹理清晰，真实皮肤、发丝、珍珠、薄纱和雪纺纤维，轻微ISO 100胶片颗粒，soft fine-art beauty editorial，photorealistic。\n\n避免：睁眼、正面直视镜头、夸张表情、浓妆、凌乱发型、透明暴露、露点、错误文胸结构、错误手指、融合手臂、塑料皮肤、过度磨皮、强HDR、过度锐化、CG、动漫、文字、水印、Logo。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "15bxFA89TWsLOK8_tucAWIM21ooixg04q",
+    "driveUrl": "https://drive.google.com/file/d/15bxFA89TWsLOK8_tucAWIM21ooixg04q/view"
   },
   {
     "id": "002",
@@ -38,7 +40,9 @@ window.GALLERY_CASES = [
     "blurb": "江南美人🤍 prompt： Create a semi-realistic fashion illustration with a cinema",
     "prompt": "Create a semi-realistic fashion illustration with a cinematic feel, reminiscent of a romantic movie still.\n\nThe woman, wearing a high-slit, fitted white cheongsam with cutouts, holds a folding fan and stands amidst the white walls, gray tiles, and wooden windows of an ancient Jiangnan town. Her sideways sitting posture and the gesture of her glancing back, combined with bright natural light, a low-saturation Eastern cinematic color palette, and delicate lines, create a striking visual effect.\n\nThe man, wearing gray suit trousers and a white cardigan shirt, reveals the muscular lines of his chest.\n\nThe woman's knees rest naturally on the man's legs. He embraces her, facing her. He looks at her, and she looks back at him, blushing.\n\n50mm lens, avoiding minors, text, logos, and watermarks; dramatic upward angle; strong wind; Jiangnan fog feel.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1ldIfp8Wv2Fn--sa82azBRboextKt7gnE",
+    "driveUrl": "https://drive.google.com/file/d/1ldIfp8Wv2Fn--sa82azBRboextKt7gnE/view"
   },
   {
     "id": "003",
@@ -57,7 +61,9 @@ window.GALLERY_CASES = [
     "blurb": "跪坐回廊 prompt⬇️ 9:16竖版，高精度古风仙侠柔美梦幻写真风格，画面为古风木质回廊空间，周围有粗大的深棕色木柱、木栏杆和木台阶，背景保",
     "prompt": "⬇️\n9:16竖版，高精度古风仙侠柔美梦幻写真风格，画面为古风木质回廊空间，周围有粗大的深棕色木柱、木栏杆和木台阶，背景保留传统建筑质感。整体色调偏柔和暖木色，与人物浅色服饰形成对比。\n\n画面主体是一位24–28岁年轻成年东方女性，成年气质明确，具有自然明确的东方女性特征。她采用跪坐或半跪坐姿势，位于画面中央，身体微微前倾，头部略微侧向镜头，眼神柔和安静，表情带有一点羞怯、安静和梦幻感。\n\n人物拥有非常明显的夸张沙漏型上半身比例——胸部体积极其丰满、圆润饱满，横向与纵向体量都非常突出，明显大于肩宽与腰宽；腰部则极细、强烈内收，形成\"超丰满胸部＋极窄腰身\"的强烈反差。在跪坐前倾姿态中，胸部因重力自然垂落形成饱满弧线，腰身在俯倾中收窄流畅，整体曲线在轻纱面料下若隐若现。\n\n她留着乌黑长发，带有轻柔空气刘海，发侧佩戴粉白色花朵发饰与细小珍珠发簪，增添了古典柔美仙气氛围。妆容为精致甜美古风妆——肤色白皙通透，眼妆柔和带淡粉珠光，唇色为自然偏粉水润感，额间可有极淡的粉色花钿。整体五官处理细腻，保留真实皮肤质感，不塑料不网红。\n\n服饰为浅白色/象牙白色古风仙侠纱裙造型。上身为抹胸式内搭或束胸式上衣，外层披着轻薄半透明的白色纱衣，纱衣在肩部自然滑落，形成柔软飘逸的视觉效果。胸前有浅蓝色系带装饰，并带有淡金色刺绣、珠饰与花纹点缀。袖子宽大轻薄飘逸，为古风长袖设计。下身是同色系白色轻纱层叠长裙，裙摆铺散在木地面上，材质轻盈半透明，有层叠薄纱与精致刺绣细节。整体服饰风格偏仙气柔美、古风写真、角色扮演服装质感，带有精致的摄影服完成度。胸前佩戴一条极细的银色锁骨链，在光线下形成细小高光。\n\n柔和侧逆光从回廊侧方进入，照亮人物脸侧、发丝、纱衣边缘和头饰高光。在胸部饱满轮廓的受光面形成柔和的弧形高光，在腰线的收窄处形成自然的阴影过渡。背景木柱与台阶保持浅景深虚化，整体氛围柔和、安静、唯美。\n\n整体采用古风仙侠梦幻精修滤镜——色彩明亮通透，以暖木色与象牙白为主调，高光柔和，暗部干净，肤色自然细腻，纱衣纹理、刺绣和头饰细节清晰。避免廉价cosplay、影楼古装、现代礼服感、幼态脸、网红脸、塑料皮肤、过度磨皮、服装结构混乱、头饰堆叠。9:16。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1FCktZ5zF2xBawHQG_RzMFlVYpElw_qU6",
+    "driveUrl": "https://drive.google.com/file/d/1FCktZ5zF2xBawHQG_RzMFlVYpElw_qU6/view"
   },
   {
     "id": "004",
@@ -76,7 +82,9 @@ window.GALLERY_CASES = [
     "blurb": "Gpt Image 2 Prompt : Create a photorealistic editorial portrait. Waist-u",
     "prompt": "Create a photorealistic editorial portrait.\nWaist-up portrait, waist-level view, front-right three-quarter view\nA 20s seductive stunning Japanese or Korean woman, full bust, narrow defined waist, flat abdomen, side-parted medium soft waves, collarbone-length flow, elegant face-framing movement, chestnut-brown hair.\nWearing gray sheer layered Y2K punk camisole look, smoky gray translucent ruffle camisole with thin straps, distressed black denim micro shorts with side button straps and frayed hems, layered chain choker and black cross pendant necklace.\nShe has her head slightly tilted.\nIn Japanese business-district office sidewalk, glass-and-steel office tower frontage, clean paving.\nInspired by Kishin Shinoyama, polished Japanese portrait image language, high-key Japanese portrait color grade, elevated exposure.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1L9V-wOmsQRtO3QiCUEwDR4dYXcedBZa9",
+    "driveUrl": "https://drive.google.com/file/d/1L9V-wOmsQRtO3QiCUEwDR4dYXcedBZa9/view"
   },
   {
     "id": "005",
@@ -94,7 +102,9 @@ window.GALLERY_CASES = [
     "blurb": "Which of these two masks fits better? Imagine 2.0 : Photorealistic edito",
     "prompt": "Which of these two masks fits better? \n\nImagine 2.0 :\nPhotorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view, front view. Photographed directly from the front. Her chest and pelvis face the lens, with her torso, hips, and thighs forming a frontal knee-up silhouette.\n\nA 20s seductive stunning Japanese or Korean woman with black frame, retro round-frame glasses, and small cross earring detail, subtle gothic-inspired accessory accent, 94-58-92 body proportion anchor, full bust, narrow defined waist, rounded hips, dramatic but lean bust-waist-hip curve, young beautiful Korean idol face, refined small face, clear bright eyes, deep side-parted long soft waves, defined face-framing layers, polished wave shape, sleek close-to-head roots, restrained volume, compact hair silhouette, fine aligned strands, smooth uniform texture with a soft natural sheen, clean tapered ends, neatly framing the face, natural black hair, neon red disposable pleated face mask, covering the nose and mouth, fitted ear loops, lower face concealed, thoughtful reflective expression, slightly drawn inner brows, softened eyelids, relaxed lips, subtle facial tension.\n\nShe wears opaque mirror-polished latex full-body catsuit with a highly reflective wet-look surface producing sharp mirror reflections and bright specular highlights across every body contour while maintaining a vacuum-tight second-skin fit that provides continuous unbroken coverage from the fitted collar and long sleeves through the torso and hips to the full-length legs, sparse slim decorative strap tabs with tiny buckles and small metallic O-rings placed at the collar, and metal o rings kept in crisp classic black, short center-front zipper, waist and hips as surface-mounted jewelry-like accents over the uninterrupted latex, full body latex catsuit in bright red, center front zipper trim and decorative strap tabs in red, zipper pull, buckles, decorative studded leather waist belt worn loosely around hips with metal studs and compact off-center buckle.\n\nShe has her chin slightly raised, both arms extended forward with the hands held close together in front of the knees, and presents a wide-knee deep squat with both feet planted flat in a wide stance, both heels grounded, knees opened outward, and hips held low over the feet.\n\nThe scene is high-rise rooftop edge, rooftop guardrail and concrete parapet, modern city skyline in the distance.\n\nRainy overcast environment, grey-blue rain sky, wet-surface reflected fill light on the subject, upward bounce from damp ground or walls.\n\nAlec Soth-inspired spacious documentary image language.\n\nShot on 85mm short telephoto portrait lens, compressed facial perspective, flattering subject proportions, f/11-style deep focus, broad depth of field, 1/1000s fast-shutter look, frozen movement.\n\nHigh-key Japanese portrait color grade, elevated exposure, creamy porcelain highlights, softened shadow floor, restrained saturation.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1n_cPcJDIavyoH8mbFhKUdJV7XL7BmX4B",
+    "driveUrl": "https://drive.google.com/file/d/1n_cPcJDIavyoH8mbFhKUdJV7XL7BmX4B/view"
   },
   {
     "id": "006",
@@ -112,7 +122,9 @@ window.GALLERY_CASES = [
     "blurb": "Prompt：超写实室内酒店更衣区镜面自拍摄影，竖版约 9:16，一名年轻成年东亚女性在大型全身镜前采用极低位宽腿深蹲姿势自拍。镜头通过镜面拍摄",
     "prompt": "超写实室内酒店更衣区镜面自拍摄影，竖版约 9:16，一名年轻成年东亚女性在大型全身镜前采用极低位宽腿深蹲姿势自拍。镜头通过镜面拍摄，采用约 28–35mm 等效手机广角，人物距离镜面约 0.9–1.3 米，机位接近人物胸腹高度并略微向下。画面从头顶完整拍到赤脚，人物位于画面中央偏左，占画面高度约 82–87%；右侧保留大面积开放式木质衣柜和垂挂浴袍，左后方保留酒店床、床头灯及桌面。真实手机镜面自拍透视，不使用鱼眼，不做明显背景虚化。\n\n人物为年轻成年东亚女性，骨架中等偏小，肩部适中偏窄，上半身明显丰满，胸廓本身不宽，腰部短而清晰收束，骨盆和髋部较宽，大腿根部明显丰满厚实。整体是紧凑、自然、下半身有重量感的沙漏型比例：窄肩背＋丰满上身＋短而细的腰＋较宽髋部＋丰满臀腿＋厚实大腿。不要高挑纤细模特比例，不要长躯干，不要窄胯细腿，也不要独立球形臀或健美肌肉型。\n\n人物采用真正的极低位宽腿深蹲 / 亚洲蹲：双脚分开明显宽于肩部，双膝向左右两侧大幅打开，骨盆下降至非常接近脚踝高度，大腿几乎横向展开，小腿接近竖直。双脚赤脚踩在浅米色瓷砖地面，前脚掌完整落地，脚跟轻微抬起但仍靠近地面。臀胯和大腿因极低深蹲产生真实软组织压缩，大腿看起来短、宽、厚实。不要半蹲、跪姿、弓步或单腿高抬。\n\n上半身基本保持直立，只略微向人物右侧倾斜，骨盆接近正对镜子，躯干轻微扭转形成柔和 S 型。人物左手自然放在左侧大腿/膝盖外侧，手掌轻贴皮肤，手指放松向下；右手抬到脸部右侧，竖直握一部深色多摄智能手机自拍，手机遮挡一部分右侧脸颊，但保留大部分五官。手机壳为深棕、黑棕或带复杂纹理的深色保护壳。\n\n人物头部轻微向左倾斜，下巴略低，双眼看向手机屏幕或镜中的自己，表情安静、略带轻微冷淡感，嘴唇自然闭合或微微分开，不露齿笑。\n\n人物留深黑棕色中长发，长度到肩膀下方至胸部附近。头发被随意扎成低位松散发髻 / 低盘发，后脑勺有自然蓬松感，少量发尾和碎发向外翘起。额前中分偏轻微侧分，两侧各垂下一束较长的脸侧碎发，贴着脸颊和下颌。不要超长披发、厚齐刘海、大卷发。\n\n脸型小巧偏鹅蛋形，下颌柔和，肤色白皙偏暖、带轻微健康光泽。深棕色杏仁眼，双眼皮自然，眼线细长，睫毛清晰；眉毛自然偏细，鼻梁小巧顺直，嘴唇自然丰满、裸粉豆沙色。妆容轻薄精致，保留真实皮肤毛孔、细小肤色变化和柔和高光，不要塑料磨皮。\n\n人物穿一件深宝石蓝 / 皇家蓝色极深 V 领高叉连体泳衣。整体为纯色、无图案、无 Logo，材质为哑光偏柔光的高弹力泳装面料。\n\n上身结构是两条非常细的蓝色肩带，从肩部向下连接到胸部两侧。领口为非常深的 V 形结构，从胸口中央一路向下延伸至胸骨下方，形成明显长 V 线条。胸部两侧由较窄的蓝色布料包覆并向中心收拢，整体呈三角形结构，但保持完整正常服装覆盖。肩带和胸侧布料受到丰满上身自然拉伸，不能生成厚实运动型泳衣。\n\n连体泳衣腰部极其贴合，明显收紧纤细腰线；腹部区域保持完整纯蓝布料，没有镂空、腰带或网纱。下身采用非常高叉的腿口，两侧沿髋骨向上延伸，使大腿根部大面积露出；正面中央形成窄而长的蓝色三角形下装区域。高叉线条必须强化腰胯差，但不要变成比基尼分体。\n\n人物深蹲时泳衣布料沿腰腹、骨盆和髋部自然拉伸，不出现裙摆、短裤或额外装饰。大腿与髋部裸露区域完整，肤色自然。\n\n场景为现代高档酒店房间或更衣区。人物正对一面大型全身镜，镜框为暖棕色实木框，右侧木框从画面顶部一直延伸到底部，并把画面自然分成左侧镜像区域和右侧衣柜区域。\n\n镜子右侧是开放式深木色衣柜。顶部有一根银色金属挂衣杆，挂着数个浅木色衣架，衣架整齐但略有重叠。衣柜中悬挂多件浅灰色、米灰色酒店浴袍或厚毛巾，其中一件大号浅灰浴袍从顶部垂下，占据右侧中央的大面积区域；最右边还有一件更长的深灰浴袍垂至画面底部。织物厚实柔软，具有真实毛圈纹理和自然褶皱。衣柜内部光线较暗，带少量暖黄色隐藏灯带。\n\n镜面反射的背景是酒店卧室：左后方有一张浅米白床铺，床单略微凌乱，床边有一张木质桌面或床尾桌，上面散放衣物、数据线、小型个人用品等真实杂物。桌后/床头位置有一盏方形奶油白灯罩台灯，灯罩发出明显暖黄色光，成为背景主要暖光源之一。\n\n后方墙面和窗帘为浅米色、暖灰色，窗帘具有细密竖向褶皱。天花板上方可见黑色轨道灯系统，几盏小型黑色筒灯向下打出白色点光。空间整体为暖木色、米色与深棕色组合，具有真实高档酒店但并不过度奢华的感觉。\n\n地面为浅米灰色大尺寸瓷砖，表面略带哑光反射。人物脚下能够看到清楚但柔和的身体阴影。\n\n光线为暖黄色酒店灯光＋顶部白色轨道灯＋手机自动曝光的混合光。人物脸部、胸前、肩膀、腰腹和大腿被暖白色光线均匀照亮，肤色自然偏暖；宝石蓝泳衣颜色深而饱和，在暖色环境中形成明显视觉对比。背景床头灯带来局部金黄色光晕，衣柜内部保持较暗。\n\n整体呈真实高质量手机镜面自拍质感：轻微手机 HDR、有限动态范围、自然数码锐化、少量高 ISO 细颗粒。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1wZJjYN8437_Ztf-Yz6fU4iCKs588SwkN",
+    "driveUrl": "https://drive.google.com/file/d/1wZJjYN8437_Ztf-Yz6fU4iCKs588SwkN/view"
   },
   {
     "id": "007",
@@ -130,7 +142,9 @@ window.GALLERY_CASES = [
     "blurb": "Prompt: 超写实夜间室内镜面自拍摄影，竖版约 4:5，一名年轻成年东亚女性坐在大型落地镜前的一张浅原木方凳上，用手机开启闪光灯自拍。镜头通",
     "prompt": "超写实夜间室内镜面自拍摄影，竖版约 4:5，一名年轻成年东亚女性坐在大型落地镜前的一张浅原木方凳上，用手机开启闪光灯自拍。镜头通过镜面拍摄，采用约 35–50mm 等效手机镜头，人物距离镜面约 0.8–1.2 米，机位接近胸腹高度并略微俯拍。构图从头顶完整拍到大腿中下部和部分过膝袜，人物占画面高度约 88–92%，身体位于中央偏左，右侧腿部延伸至画面边缘。保持真实手机镜面自拍透视，不使用鱼眼，不做明显背景虚化。\n\n人物为年轻成年东亚女性，骨架中等偏小，肩部适中偏窄，上半身非常丰满但胸廓本身宽度正常，腰部明显纤细收束，腹部自然平坦，骨盆和髋部较宽，大腿根部明显丰满厚实。整体为紧凑型丰满沙漏比例：非常丰满上身＋明显细腰＋自然宽胯＋丰满臀腿＋厚实大腿。坐姿下髋部和大腿受到木凳承托，产生真实柔软组织压缩和横向展开，大腿视觉体积明显，但不要生成健美肌肉腿、巨臀细腿、窄胯纸片身材或异常蜂腰。\n\n人物斜坐在木凳前缘，骨盆轻微向人物右侧旋转，上半身向人物左后方倾斜，形成明显但自然的 S 型曲线。人物右侧肩膀略低，腰部向内收紧。左臂向身体后下方伸展并撑在凳面或身体后方作为支撑，手臂大部分沿身体左侧被遮挡；右手在胸前举一部深灰色/钛金属色三摄智能手机，手机位于脸部和胸前之间，并挡住一部分身体中央区域。\n\n双腿向画面右下方向延伸。靠近镜头的一条大腿横向占据画面下半部较大面积，膝盖弯曲，另一条腿位于其后方并部分被遮挡。人物坐姿整体舒展而不是端坐，腿部不要完全并拢，也不要盘腿。膝盖和大腿之间保持真实关节结构。\n\n人物头部微微低下并向人物右侧转动，视线看向手机屏幕而不是镜头。神态安静、冷淡、略带慵懒感，嘴唇自然闭合或轻微分开，不露齿笑。\n\n人物留非常长的深黑棕色微波浪长发，长度达到腰部甚至更低，发量浓密。头顶为自然偏中分，额前没有齐刘海，仅有较长脸侧碎发。大部分头发从人物左肩和背后垂落，形成一大片深色顺滑发丝；右侧也有少量长发沿胸前落下。发尾带轻微自然大弧度，而不是规则卷发。\n\n脸型小巧偏鹅蛋形，下颌柔和，肤色白皙偏暖。深棕色杏仁眼，双眼皮自然，眼线细长，睫毛清楚；眉毛自然偏细。鼻梁小巧顺直，鼻尖在闪光下有清楚高光；嘴唇自然丰满，裸粉偏蜜桃色，带轻微玻璃唇光泽。皮肤保留细小毛孔、肤色过渡和闪光灯下真实高光，不要过度磨皮。\n\n颈部佩戴一条极细银色链条项链，贴近锁骨，无明显大型吊坠。\n\n上身穿一件纯白/象牙白色无肩带紧身短款裹胸或抹胸式上衣。领口横向包裹胸部，没有肩带，没有袖子，肩膀和锁骨全部露出。面料为柔软弹力棉/薄针织，贴身并具有真实横向拉伸和少量皱褶。上衣整体长度到肋骨下方至腰部上方，露出一整段腰腹。颜色偏暖白，不要蕾丝、荷叶边、Logo 或复杂装饰。\n\n上衣必须保持横向无肩带包裹结构，而不是细肩带吊带、胸衣、比基尼或普通 T 恤。衣料随身体曲线自然拉伸，在胸下和侧腰形成轻微褶皱。\n\n下身穿纯白色高腰/中高腰超短贴身居家短裤。裤腰位于肚脐下方至自然腰线附近，腰头平整，面料与上衣相近，为柔软弹力棉质。短裤紧贴骨盆和丰满髋部，裤腿很短，只覆盖大腿根部。坐姿状态下短裤在髋部、大腿根和腹股沟附近产生真实布料张力及轻微横向褶皱。不要牛仔材质、运动短裤、裙子或复杂绑带。\n\n双腿穿纯白色过膝长袜/大腿袜，袜口位于大腿中下部至膝上区域。材质为柔软细密针织或半厚弹力布，颜色与服装一致。袜口为简单宽边，无蕾丝、无蝴蝶结、无条纹。靠近镜头的右侧大腿袜清楚可见并占画面右下较大区域，另一只袜子只露部分。不要生成透明丝袜、网袜或短袜。\n\n人物坐在一张浅蜂蜜色/浅橡木色小型方形木凳上。凳面为矩形厚木板，木纹清楚，边缘略圆；下方可见简单直角木腿和横撑结构。凳子尺寸不大，人物髋部几乎占满整个凳面。不要变成床、沙发、吧椅或金属椅。\n\n场景为夜间非常昏暗的现代住宅/公寓内部。人物身后几乎是一整片深黑蓝色玻璃窗或落地玻璃门，窗外完全黑暗，只能看到极少模糊反光和微弱灯点。镜面与玻璃区域产生深蓝黑色背景，使人物从黑暗中突出。\n\n画面左右边缘可见细窄黑色金属镜框/窗框，其中左侧有一条较明显的黑色竖框，最外侧还露出少量浅色墙面。整体背景极简，不要加入床铺、沙发、电视、装饰画或复杂家具。\n\n摄影的核心光线是手机镜面对拍直闪。人物右手持手机，手机顶部闪光灯正对镜子，在手机摄像头上方形成非常明亮的白色爆闪光点，局部严重过曝，并在手机边缘和人物胸前产生轻微 flare/bloom。闪光灯是整张图最亮的高光。\n\n人物脸部、胸口、肩膀、腰腹和大腿被正面冷白闪光照亮，肤色明亮、细腻，有明显但柔和的镜面高光；人物身体两侧迅速进入暗部，背景几乎完全黑掉。头发在闪光下出现深棕色高光，白色服装保持明亮但不能完全过曝。\n\n手机为深灰色/钛金属色三摄旗舰手机，透明或烟灰色保护壳，背面朝镜子，镜头模组清楚。闪光灯必须位于手机上方区域，并形成强烈直射反光。手机靠近人物身体中央，因此在镜面里略显放大",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1Odg5EYsmdueh6y0Ms2v7rQEFL0LdTmU3",
+    "driveUrl": "https://drive.google.com/file/d/1Odg5EYsmdueh6y0Ms2v7rQEFL0LdTmU3/view"
   },
   {
     "id": "008",
@@ -148,7 +162,9 @@ window.GALLERY_CASES = [
     "blurb": "健身房健身，出一身汗很爽🥰 GPT IMAGE2 提示词： 9:16 竖版，真实 iPhone 日常随手拍 × 韩国健身房生活快照 × 运动时尚",
     "prompt": "9:16 竖版，真实 iPhone 日常随手拍 × 韩国健身房生活快照 × 运动时尚自拍。一位 20–22 岁、明确成年的漂亮韩国女性，身高约 1.73 米，身材高挑纤细，拥有自然协调的运动型模特比例，头部偏小、肩颈舒展，腰身纤细紧致，双腿修长。胸部视觉约为自然 D 罩杯，丰满但不过度夸张，与 1.73 米高挑运动型身材自然协调。\n\n人物拥有精致自然的韩系女性真人五官，小巧脸型，五官集中协调。乌黑柔顺的长发扎成松弛的高马尾，少量被汗水微微打湿的碎发自然贴在额头与脸侧，呈现刚结束运动后的真实状态。\n\n肌肤强调极度白皙、通透、干净的冷白瓷肌，几乎没有明显黄调。脸部、颈部、肩部、胸前、腰腹、手臂与双腿肤色自然统一，在健身房灯光下呈现清透水润的白皙质感，同时保留真实毛孔、轻微运动汗水与自然粉润血色。\n\n人物身穿白色短款修身瑜伽运动背心，采用明显的深 V 运动领口，肩颈与锁骨自然展现，呈现自然 D 罩杯视觉的丰满曲线；衣长停留在胸廓下方，完整露出纤细紧致的腰部与部分腹部线条。下身搭配高腰紧身瑜伽短裤，裤长位于大腿上部，高弹速干运动面料具有真实纤维、弹性张力与自然褶皱。\n\n人物采用明显的侧身自拍姿态，身体与镜头形成约 70–90° 夹角。一侧肩膀靠近镜头，身体主要以侧面轮廓呈现，一条腿自然承重，另一条腿略微向前错开；腰部轻微自然收紧，肩、胸、腰、胯与修长腿部形成连续流畅的侧面运动型轮廓。\n\n人物头部从侧身姿态中轻轻转向镜头约 20–30°，形成“身体侧面 + 面部轻微回望”的视觉关系。眼神自然落向手机屏幕或镜头附近，表情放松、慵懒，嘴角带非常轻微的自然笑意，避免完全正面站姿和刻意摆拍。\n\n一只手自然拿着 iPhone 进行自拍，手臂保持放松；另一只手可轻放腰侧、自然垂落或整理高马尾。手机不要遮挡主要五官。\n\n场景位于真实现代韩国健身房内部，背景自然出现大型落地镜、哑铃架、训练长凳、深蹲架、跑步机、综合训练器械与深色橡胶运动地板。器械排列整齐，空间现代干净，具有真实商业健身房生活气息。\n\n采用9:16 竖版侧身中全景自拍构图，人物占据画面主要区域，同时保留足够健身房环境。镜头位于人物身体侧前方，避免完全正面和完全背面；使用自然手机镜头透视，控制广角畸变，保持小头、高挑、长腿与自然身体比例。\n\n刻意营造“提前找好侧身角度，但看起来只是运动后随手拍了一张”的效果：画面轻微倾斜，人物不完全严格居中，左右留白略微不均，部分健身器械自然进入画面边缘。\n\n顶部 LED 灯与环境光分布略微不均，一侧脸颊、肩颈、手臂、腰腹与腿部形成明亮柔和高光，另一侧留下自然阴影，使侧面身体轮廓更加立体清晰。皮肤表面带有少量运动后的自然水润反光。\n\n真实 iPhone 自拍，自然 HDR，运动抓拍清晰感，极白冷白肌，1.73 米高挑比例，小头小脸，侧身 70–90°，轻微回头，深 V 短款瑜伽背心，明显露腰，自然 D 罩杯视觉，高腰瑜伽短裤，纤细腰腹，修长双腿，真实运动面料，轻微汗水，韩国现代健身房，生活化随手构图，慵懒、松弛、自然的 INS 健身自拍氛围。\n\n负面提示词： 完全正面站姿，完全背对镜头，侧身角度不明显，身体扭转过度，腰部扭曲，大头，大脸，短腿，五五分身材，胸部过度夸张，异常细腰，身体比例失衡，衣物穿模，长款上衣遮腰，长裤，牛仔裤，裙子，塑料皮肤，肤色偏黄，镜像错误，重复人物，手机遮脸，健身器械结构错误，严重广角畸变，专业影棚摆拍，严重过曝，严重模糊，肢体畸形，多余手臂，多手多指，AI 伪影，乱码文字，Logo，水印。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1wKtAibEtAyoGu4vlWLb5H064G1tUzPJR",
+    "driveUrl": "https://drive.google.com/file/d/1wKtAibEtAyoGu4vlWLb5H064G1tUzPJR/view"
   },
   {
     "id": "009",
@@ -166,7 +182,9 @@ window.GALLERY_CASES = [
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] Young adult East Asian woman",
     "prompt": "(SFW)\n\n### [Subject Description]\n\nYoung adult East Asian woman with a slim, curvy feminine figure, long legs, fair luminous skin, delicate youthful facial features, and long dark hair styled into two high twin ponytails with loose strands framing her face. She wears oversized black oval sunglasses, a fitted white sleeveless scoop-neck crop top, high-waisted faded blue denim cutoff shorts with frayed hems, sheer black pantyhose, and glossy black pointed-toe stiletto pumps. She faces the camera with a calm, slightly playful expression. Her body is posed in a pronounced contrapposto: torso leaning slightly forward and to one side, one hand resting on her thigh, the other hand gripping the waistband/side of her shorts.\n\nShe possesses the best head-to-body ratio, a perfect, curvaceous, S-shaped female figure, long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines\n\n### [Scene/Background]\n\nOutdoor natural wetland setting on a dark wooden boardwalk. Dense tall wild reeds and grasses surround the subject, with a large lush dark-green evergreen-like tree filling the right background. Open field and low vegetation extend into the distance on the left. Clear expansive blue sky with a subtle warm glow near the horizon. No other people or prominent objects.\n\n### [Lighting/Ambience]\n\nSoft late-afternoon/early-evening natural light. Warm sunlight glows through the distant vegetation while cool blue ambient light dominates the sky and shadows. Gentle highlights on the woman's skin and hair, subtle rim lighting, balanced warm–cool color contrast, tranquil outdoor atmosphere.\n\n### [Composition/Angle]\n\nFull-body portrait, subject centered slightly right of frame. Low camera position approximately waist-to-knee height, looking slightly upward to emphasize the long legs and figure. Vertical composition. Subject occupies most of the frame while retaining substantial environmental context. Wooden boardwalk creates strong diagonal leading lines from the lower foreground toward the subject. Natural depth separation between foreground grasses, subject, and background foliage. Sharp focus on the woman, detailed surrounding vegetation.\n\n### [Style Reference]\n\nPhotorealistic fashion/editorial photography, polished contemporary portrait aesthetic, natural skin texture, realistic anatomy, realistic fabric and hair detail, cinematic outdoor color grading, cool blue-green environmental tones with subtle warm highlights, clean high-contrast rendering, sophisticated summer fashion editorial mood.\n\n### [Quality Parameters]\n\nUltra-detailed, high resolution, photorealistic, full-body, accurate anatomy and proportions, realistic hands and fingers, detailed hair strands, realistic skin texture, crisp clothing textures, detailed denim fraying, realistic sheer pantyhose, glossy reflections on patent leather shoes and sunglasses, natural depth of field, sharp subject focus, finely resolved reeds and foliage, cinematic dynamic range, clean image, no text, no  cropped limbs or truncated feet.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "15akMGyketbIeSeZ-wF6gePgJtXtG1bK2",
+    "driveUrl": "https://drive.google.com/file/d/15akMGyketbIeSeZ-wF6gePgJtXtG1bK2/view"
   },
   {
     "id": "010",
@@ -184,7 +202,9 @@ window.GALLERY_CASES = [
     "blurb": "近い視線に、桃色の空気まで閉じ込めて💕✨ 見上げる一瞬だけ、時間がゆっくりになる。 #AIart #AI写真 #見上げる視線 【GPT Imag",
     "prompt": "近い視線に、桃色の空気まで閉じ込めて💕✨\n見上げる一瞬だけ、時間がゆっくりになる。\n\n#AIart #AI写真 #見上げる視線\n\n【GPT Image2プロンプト】\n\n主題：\n見上げる桃色\n\n主体：\n人物の顔は画面中央に大きく置く。室内の床に座る女性を真上近くから見下ろし、手前から伸びる大きな手が顎と頬を包む縦位置写真。女性の顔を中央、前腕を左下から中央へ斜めに大きく入れる特殊な近距離構図。\n\n人物・表情：\n顔を上げてカメラをまっすぐ見つめ、艶のある唇を少し開く。小さな卵形の輪郭と細い顎、大きく横長の目と長い上下まつ毛、細い緩やかな眉、細い鼻筋と小さな鼻先、ふっくらしたピンクの唇。頬には強めの桃色チーク。長い明るい茶髪は中央寄りの分け目と薄い前髪があり、肩から床方向へ広がる。\n\n服装・ポーズ：\n淡いピンクのリブ編みトップスは深いVネック、前ボタンと胸下の小さなリボン付きで、白い短いスカートを合わせる。両膝を揃えて座り、別の人物の手が画面左下から伸びて顎の下と両頬を支える。女性自身の腕は画面外。\n\n背景・光：\n濃い茶色のカーテン、白いタイル床、画面右端の黒い家具。正面の柔らかな光が顔と胸元を明るく照らし、背景は暗く落ち着く。\n\n構図・カメラ：\nカメラの焦点は顔と手前の手に置き、見える範囲を画面端で裁切し、背景を自然にボケさせる。顔を中央に大きく見せる。3:4の縦構図、極端な俯瞰の広角近接写真。顔を上半分中央、胸元と膝を下方へ並べ、太い前腕と手を最大の前景物として強く拡大する。下端に黒い衣服の一部をぼかして入れる。\n\n質感・スタイル：\nフォトリアルな実写写真。フラッシュ感のある高精細な実写。肌の艶、長いまつ毛、リブ生地、手前の肌を鮮明にし、桃色を強調する。\n\nネガティブ：\n手前の手と前腕を小さくしない；俯瞰角度を浅くしない",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1pOUol4MPNJVjFGoSeOvI6GGqRARtTE2b",
+    "driveUrl": "https://drive.google.com/file/d/1pOUol4MPNJVjFGoSeOvI6GGqRARtTE2b/view"
   },
   {
     "id": "011",
@@ -203,7 +223,9 @@ window.GALLERY_CASES = [
     "prompt": "「便利店の回眸」\n\n神仙🌟提示词（prompt）：\n9:16 竖版，全身写实人像摄影，现代地铁站内的玻璃自拍场景，一位 20–25 岁的成年东亚女性站在地铁站玻璃隔断前自拍，人物身材高挑纤细，比例协调，头小脸小，五官精致自然，冷白皮肤通透干净，带真实毛孔与细腻肤质，长而柔顺的黑色直发自然披散在肩背与胸前，几缕发丝垂落脸侧，神情放松温柔，带淡淡笑意。她穿白色修身短款深 V 领上衣，面料柔软贴身，清晰勾勒腰线与上身曲线，下身穿低腰蓝色牛仔超短裙，肩背棕色老花风单肩包，手腕佩戴精致手链与细金色手镯，脚穿透明细带凉拖鞋，鞋底为浅米色或裸色。人物一只手拿着带浅色简洁图案手机壳的智能手机自拍，身体微微侧向玻璃，另一只手自然下垂放松，玻璃中清楚映出她的倒影与手机。背景为真实现代地铁站环境，可见银灰色金属护栏、玻璃幕墙、站台结构、格栅吊顶、冷白色顶灯，以及一列停靠中的地铁列车，空间干净通透，环境真实。整体采用生活化纪实抓拍风格，像通勤途中随手拍下的自然瞬间，不是商业摆拍。摄影风格为 ultra realistic photography, candid lifestyle portrait, subway station mirror selfie, natural ambient lighting, shallow depth of field, realistic glass reflections, sharp focus on face and eyes, full-body composition, clean urban cool-gray color palette, authentic skin texture, realistic hair strands, high resolution, premium smartphone-photo realism, relaxed INS-style daily atmosphere.\n\n负面提示词：\n动漫风，插画风，CGI，3D 建模感，AI 假脸，塑料皮肤，过度磨皮，夸张大眼，脸部变形，身材比例失衡，胸部过度夸张，手部畸形，多手多指，手机与手融合，玻璃倒影错误，镜中出现第二个人，背景杂乱，强烈广角畸变，过曝，失焦，低清晰度，文字，水印，logo。",
     "nsfw": false,
     "relatedUrl": "https://x.com/i/status/2093389380513894615",
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1JlLxdEIfQrl7KcrHAGFmiO8HL4AiUz3z",
+    "driveUrl": "https://drive.google.com/file/d/1JlLxdEIfQrl7KcrHAGFmiO8HL4AiUz3z/view"
   },
   {
     "id": "012",
@@ -221,7 +243,9 @@ window.GALLERY_CASES = [
     "blurb": "收藏提示词👇： 城市蓝墨线稿海报 以【城市名】为主题，创作一张极简高级的城市建筑线稿海报 画面使用深钴蓝色钢笔线稿 / 建筑速写表现城市最有辨识",
     "prompt": "👇：\n\n城市蓝墨线稿海报\n\n以【城市名】为主题，创作一张极简高级的城市建筑线稿海报\n\n画面使用深钴蓝色钢笔线稿 / 建筑速写表现城市最有辨识度的街道、建筑、天际线或自然景观，自动融入【城市名】具有代表性的城市元素，但不要堆砌地标，保持克制、真实、有生活感\n\n构图要求：",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "18nOV4qUTyb6FhLY64OJAGn8NNPppMls7",
+    "driveUrl": "https://drive.google.com/file/d/18nOV4qUTyb6FhLY64OJAGn8NNPppMls7/view"
   },
   {
     "id": "013",
@@ -239,7 +263,9 @@ window.GALLERY_CASES = [
     "blurb": "还是带直播 UI 更有感觉，一加上弹幕、点赞这些东西，马上就有那种刷直播时突然看到这一幕的感觉。 不带 UI 就有点像普通自拍了，差点意思。 提",
     "prompt": "，模型grok\nGpt image2要看运气，大概率被拦截。\n\n明确成年的东亚女性，黑色长直发，细框眼镜，韩系网红妆，细长上扬眼线，半眯眼直视镜头，眼神慵懒主动。嘴巴张开，舌头可见，水润高光唇妆。\n\n一只手抬至嘴前，手掌贴近下巴，五指张开，长款美甲，中指伸入口中并轻触舌面，其余手指自然展开形成 hand framing mouth。头部轻微侧倾，保持 direct gaze、half-lidded eyes、open mouth、visible tongue、playful provocative expression。\n\n穿蓝黑拼色修身短袖上衣，领口略开放，突出上半身曲线。人物坐在室内，镜头为近距离手机直播 / webcam framing，胸像至半身构图，人物居中。\n\n暖色室内灯光，轻微美颜、磨皮和低清视频压缩感，真实短视频直播截图质感，social media livestream aesthetic，9:16 竖版。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "166GrGHQ3unp1meEs1TpakT75IMdUlVGa",
+    "driveUrl": "https://drive.google.com/file/d/166GrGHQ3unp1meEs1TpakT75IMdUlVGa/view"
   },
   {
     "id": "014",
@@ -257,7 +283,9 @@ window.GALLERY_CASES = [
     "blurb": "提示词： 参考图中同一位成年女性人像，保持五官、脸型、肤色、发型与整体气质一致。黑色头发盘成低位发髻，两侧自然碎发，白色花朵发饰，珍珠耳坠，精致",
     "prompt": "参考图中同一位成年女性人像，保持五官、脸型、肤色、发型与整体气质一致。黑色头发盘成低位发髻，两侧自然碎发，白色花朵发饰，珍珠耳坠，精致自然妆容，真人写实，高级韩系时尚写真质感。\n\n生成一张干净的人物设定参考图 / Character Sheet，浅米白纯色摄影棚背景，柔和均匀布光，高清真实摄影质感。\n\n上半部分为完整全身三视图，人物从头到脚完整展示：\n正面 FRONT\n侧面 SIDE\n背面 BACK\n\n三视图必须是同一人物、同一套衣服、同一发型、同一鞋子，人物比例统一，站姿自然，衣服前后结构准确。\n\n穿搭：\n【这里替换成指定穿搭提示词】\n\n下半部分生成9个半身表情动作参考，同一人物、同一穿搭，每个表情动作明显不同，眼神方向丰富，不能全部直视镜头：\n\n1. 轻蔑不屑：微微侧头，半眯眼，嘴角轻挑，双臂抱胸，带嫌弃和看不起的感觉\n2. 无奈：闭眼或轻轻翻白眼，双手摊开耸肩，一脸拿你没办法\n3. 暗爽得意：嘴角压不住的偷笑，一只手轻碰下巴，另一只手抱胸，眼神偷偷得意\n4. 甜蜜对视：温柔看向镜头，眼神柔软，轻微甜笑，双手自然交叠放在胸前\n5. 生闷气：鼓着脸，嘴唇微抿，双手抱胸，身体稍微转开，眼神故意看向旁边\n6. 委屈撇嘴：眉毛下压，眼眶微湿，嘴角向下，轻轻撇嘴，一只手靠近嘴边，像马上要哭\n7. 毛骨悚然：眼睛明显睁大，身体缩紧，双臂抱住自己，肩膀抬起，紧张地看向侧后方\n8. 心虚躲闪：眼神快速移向旁边，不敢直视镜头，一只手轻碰脖子或下巴，神态慌张心虚\n9. 咬牙切齿：眉头紧皱，咬紧牙齿，双手叉腰或握拳，肩膀紧绷，明显愤怒但不过度夸张\n\n要求所有表情自然真实，脸部不能崩坏，不能诡异，动作必须与对应情绪一致。保持人物身份高度统一，不要出现不同脸型，不要改变发色，不要随机增加饰品。\n\n整体风格：真人写实，韩系杂志模特参考图，时尚Lookbook，人物设定集，干净浅色背景，柔和棚拍光线，真实皮肤纹理，真实头发细节，真实服装材质，高清细节，构图整齐，人物完整，不裁切手脚，不重复动作，不出现多余人物。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1OKRoQpS-6AtwTrxplxe3KBgfqI7mJsee",
+    "driveUrl": "https://drive.google.com/file/d/1OKRoQpS-6AtwTrxplxe3KBgfqI7mJsee/view"
   },
   {
     "id": "015",
@@ -275,7 +303,9 @@ window.GALLERY_CASES = [
     "blurb": "这是垫图，Midjourney V8.2 prompt 提示词见alt 其中之一： 巨大的白色玉石纪念碑，精雕细琢的龙纹浮雕，矗立在白色大理石阶",
     "prompt": "提示词见alt\n其中之一：\n\n巨大的白色玉石纪念碑，精雕细琢的龙纹浮雕，矗立在白色大理石阶梯基座上的古代中国宫殿，四周环绕着无垠的云海，一直延伸到广阔的地平线。一座弧形玻璃般反光的桥梁，没有护栏，边缘完全无遮挡地横跨云层。一位身着白袍的男子孤身身影漫步其间，他的对面，有一个穿着红色长裙有长长飘带的女子向他走来。画面气势恢宏，空间开阔，神圣纯净，晨光朦胧柔和，构图极简却无比辽阔，天空无垠，焦点清晰。数字概念艺术，8K分辨率。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1wi_410_QInTvOEd564LlCK7BfVdhCIds",
+    "driveUrl": "https://drive.google.com/file/d/1wi_410_QInTvOEd564LlCK7BfVdhCIds/view"
   },
   {
     "id": "016",
@@ -313,7 +343,9 @@ window.GALLERY_CASES = [
     "blurb": "Subject： 一名明确为成年人的东方女性，纤细修长的自然成年比例，柔和鹅蛋脸，粉白细腻瓷肌，五官精致清秀。乌黑浓密长发塑造成大体积古典高髻与",
     "prompt": "Subject： 一名明确为成年人的东方女性，纤细修长的自然成年比例，柔和鹅蛋脸，粉白细腻瓷肌，五官精致清秀。乌黑浓密长发塑造成大体积古典高髻与左右圆润侧髻，后方保留极长顺直黑发自然垂落；发髻上装饰冰蓝色半透明蝴蝶、浅蓝花饰、银白珠花与细长流苏步摇，少量蓝色蝴蝶点缀在额侧与发际附近。妆容采用清透古典水光妆，细长自然眉，淡桃粉眼影，纤细眼线，柔长睫毛，淡粉腮红与柔润豆沙红唇，神态温柔、安静、略带羞涩。\n\nWardrobe： 身穿低饱和湖蓝、天青与冰蓝色古典汉服妆造，上身为轻薄半透明纱质披帛与宽袖外层，领口自然滑落至肩部附近，形成柔和露肩轮廓；胸前与袖口装饰银白、冰蓝、浅粉立体花卉刺绣、珠饰与细密纹样；下身搭配柔软浅粉色长裙与多层薄纱，蓝色外袍自然铺落在长椅与腿侧。面料轻盈、透明层次清楚、刺绣精细。服装加入低调 VOXCAT 织标或小型吊牌。\n\nComposition： 9:16 竖幅全身至大半身构图，人物坐在中式园林回廊的黑色木质长椅上，身体位于画面中央略偏右。镜头略高于膝盖并轻微俯拍，人物上身向前倾，脸部朝下，形成从头部、肩线、手臂一路延伸至腿部和鞋子的自然斜线。双腿交叠，一条腿抬起并向画面左下方伸出，成为明显前景；长裙和蓝色薄纱从腰部向右下方大面积垂落，形成柔软的S形布料曲线。画面完整保留头饰、脸部、双腿和白色高跟鞋。\n\nAction： 人物坐姿优雅但带生活化瞬间感，低头专注地为自己穿鞋或调整鞋跟。一条腿自然交叠抬起，脚尖伸向前方，已经穿上一只白色尖头细高跟鞋；另一只手轻扶鞋跟或鞋口，手指自然靠近脚踝与鞋面；另一条腿自然弯曲靠近长椅，另一只同款白色高跟鞋可穿在脚上或自然位于附近。肩部微收，头部低垂，视线落在鞋子上，不看镜头。动作像被偶然捕捉到的古风妆造幕后瞬间。\n\nLocation： 中国传统园林回廊，红色木柱、灰色瓦顶、深灰砖墙、黑色木制栏杆与长椅组成背景，后方有绿色树木、荷叶或庭院植物。背景具有真实园林层次，但保持轻度虚化与低视觉权重；红柱、灰瓦、绿植只作为古典空间锚点，使蓝色人物服装成为画面最亮的色彩主体。\n\nCamera & Lighting： 手机摄影或轻量数码相机的人像随拍质感，约 28–50mm 等效视角，轻微广角环境感，近距离竖幅拍摄。自然阴天或树荫下明亮散射日光，从正前方偏上柔和照亮人物，皮肤高亮通透但阴影很浅；蓝色纱衣具有柔和透光效果，白色腿部与鞋面保持明亮洁净，黑发保留丝缎高光。整体曝光略偏明亮，清晰度高，带短视频古风妆造记录的真实手机成像感。\n\nStyle： 真人古风妆造摄影、现代汉服写真、园林生活感随拍、古典仕女与现代时尚错位、清透高净度数字人像、冰蓝仙气配色、轻盈薄纱、精致刺绣、自然日光、社交媒体短视频封面感。画面气质柔美、清凉、娇贵、生活化，重点不是宏大仙侠场景，而是“妆造完成后的真实休息瞬间”。\n\nColor Palette： 湖蓝 #38B9D7、冰青 #89DCE7、浅天蓝 #A7DFE5、淡粉裙 #E8CFD5、粉白肤色 #F1D7CF、乌黑发色 #111214、朱红廊柱 #9B493D、庭院植绿 #4E7547。整体以蓝青色为绝对主体，粉色负责柔化，黑发和朱红建筑负责视觉压重。\n\nTypography / Branding： 画面以纯人物摄影为主，左上角加入由 stylized “V” 与猫元素结合的简洁小型图形 logo；右下角加入低调手写艺术家签名 voxCAT，保持摄影作品署名感，不遮挡人物、鞋子与裙摆。\n\nConstraints： 人物明确为成年人，身体比例自然修长；坐姿、骨盆、肩颈、膝盖、脚踝与腿部交叠关系准确，抬腿穿鞋动作符合真实人体运动逻辑；双腿长度、膝盖位置、脚踝结构与足部比例稳定；白色尖头高跟鞋结构准确，鞋尖、鞋口、鞋跟和脚部贴合自然；手部结构自然准确，手指数量正确、比例正常、关节清晰，手指与鞋跟接触关系合理；古典发髻结构完整稳定，蓝色蝴蝶、珠花与流苏有明确固定位置和重力方向；纱衣保持真实透明层次、刺绣附着于布料表面，衣褶遵循坐姿与重力；画面干净清晰，减少无必要噪点与颗粒感，粒子特效克制，避免大面积漂浮颗粒、碎光和杂质感，整体细节稳定、减少脏乱感。\n\nOutput Specs： 9:16 竖幅，高分辨率真人古风摄影，重点保证古典高髻、冰蓝蝴蝶发饰、低头表情、蓝色刺绣薄纱、交叠长腿、手部穿鞋动作和白色尖头细高跟鞋的准确度。\n\n核心压缩公式：\n\n成年古典仕女 + 冰蓝大体积古典高髻 + 蓝蝶珠花流苏 + 湖蓝半透明刺绣汉服 + 浅粉长裙 + 园林回廊长椅 + 低头穿白色尖头细高跟鞋 + 双腿交叠前伸 + 自然散射日光 + 手机古风妆造随拍",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1WQ7GJzDdz-s52yTpeqEHqbmm-f3cS_SG",
+    "driveUrl": "https://drive.google.com/file/d/1WQ7GJzDdz-s52yTpeqEHqbmm-f3cS_SG/view"
   },
   {
     "id": "018",
@@ -331,7 +363,9 @@ window.GALLERY_CASES = [
     "blurb": "春宵苦短日高起，从此君王不早朝 GPT Image 2 杨贵妃醉酒提示词： 这是一张具有电影质感的写真专业人像摄影图片，采用淡彩、胶片摄影风格，",
     "prompt": "这是一张具有电影质感的写真专业人像摄影图片，采用淡彩、胶片摄影风格，融入了复古与超现实的元素，呈现出绝妙的构图和高级感。画面中，在躺在古代的床边一手撑着头另一个手拿着酒杯微微仰着头喝酒，一位唐代美女身着华丽的深蓝色的唐代服饰肩膀和锁骨开着的，低V领，头发微微被风吹着，化着辣妆和烟熏妆结合，不穿鞋袜，侧躺露出腿部，拥有冷白皮，皮肤细腻通透，是绝世容颜。她有着繁复的发髻，发饰和步摇，尽显贵女精致的头饰，以半身照、近景的形式出现，看着镜头微微邪笑，情感流动，营造出斑驳、虚焦的氛围，采用多层渲染，具有超高清的画质，有着发型光、发丝光和脸部补光，运用了侧逆光，体现出磨砂和朦胧美学，是一幅杰作，宛如获奖作品，有着电影质感的胶片暗角，个性视角，非对称构图，融合了奇妙的意境，超高颜值，充满既视感和现场感，情绪氛围感拉满，有透视感和胶片颗粒质感，层次丰富，写意且富有概念艺术感，16:9\n\n#今日提示词 #GPT #Image2",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "19YZUI0RXZtASYIGiNmUweCH3KLa3NDxK",
+    "driveUrl": "https://drive.google.com/file/d/19YZUI0RXZtASYIGiNmUweCH3KLa3NDxK/view"
   },
   {
     "id": "019",
@@ -349,7 +383,9 @@ window.GALLERY_CASES = [
     "blurb": "这组一出来，真的有种法式花园偶遇女主的感觉。[场景/白色栏杆 + 花墙 + 密集粉白花簇] → [把画面直接拉进“富家花园午后”的氛围里]，背景",
     "prompt": "3:4 竖幅，花墙庭院中的写实人像，成年东亚女性，深棕长发自然披散，部分发丝轻遮面部，直视镜头，眉眼放松，嘴唇微启，安静克制又带一点时尚感；一手抬起扶住头顶发根，另一只手臂向侧方自然展开，身体轻微侧倾，形成柔和 S",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "18__2EUHvNhnr84b5fJHi1t5xyp416X4T",
+    "driveUrl": "https://drive.google.com/file/d/18__2EUHvNhnr84b5fJHi1t5xyp416X4T/view"
   },
   {
     "id": "020",
@@ -367,7 +403,9 @@ window.GALLERY_CASES = [
     "blurb": "帝王人像提示词： 超写实古装帝王肖像摄影，古代皇帝端坐于华丽龙椅之上，低机位仰拍构图，人物以一种松弛却极具压迫感的姿态斜倚在龙椅中，头部轻轻靠在",
     "prompt": "超写实古装帝王肖像摄影，古代皇帝端坐于华丽龙椅之上，低机位仰拍构图，人物以一种松弛却极具压迫感的姿态斜倚在龙椅中，头部轻轻靠在一侧手掌上，手肘自然支撑在扶手或椅侧，另一侧手臂舒展开来，身体微微后仰，肩膀放松，神情沉静、冷峻、克制，不怒自威，目光略微下压，带有审视众人的帝王气场。成年东方男性面容，轮廓端正，眉眼深沉，鼻梁挺直，嘴唇自然闭合，表情不笑不怒，但充满权威感与压迫感。身穿深红与玄黑相间的龙纹帝王礼服，织金刺绣，暗纹龙鳞细节，服饰厚重庄严，材质具有真实丝绸与锦缎光泽。背景为金碧辉煌的古代宫殿内殿，龙纹雕饰、鎏金浮雕、繁复木刻与宫廷器物若隐若现，背景虚化但可感受到强烈的权力空间感。整体色调以深金、暗褐、酒红为主，暖色低照明，明暗对比强烈，面部与衣纹有柔和高光，周围环境沉入暗影，呈现电影级历史正剧质感。真实摄影机拍摄，85mm人像镜头，浅景深，胶片颗粒，低饱和，高级电影调色，庄严、威压、孤高的帝王氛围。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1dO8LIkBHBpFnYDkLHwMLJqHfmqWixZp3",
+    "driveUrl": "https://drive.google.com/file/d/1dO8LIkBHBpFnYDkLHwMLJqHfmqWixZp3/view"
   },
   {
     "id": "021",
@@ -385,7 +423,9 @@ window.GALLERY_CASES = [
     "blurb": "🔔Prompt： Overall: A monochrome romantic-gothic outfit with a cropped lac",
     "prompt": "Overall: A monochrome romantic-gothic outfit with a cropped lace top, high-waisted pleated mini skirt, sheer lace outer layer, and tall platform boots.\n\nUpper body: A black cropped camisole or bralette-style top with narrow shoulder straps, a curved neckline edged in",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "11c52K6uqD7QwJknMWUj737aFJH2-YRUg",
+    "driveUrl": "https://drive.google.com/file/d/11c52K6uqD7QwJknMWUj737aFJH2-YRUg/view"
   },
   {
     "id": "022",
@@ -403,7 +443,9 @@ window.GALLERY_CASES = [
     "blurb": "閉上眼睛💛✨ prompt： Create a semi-realistic / photorealistic romantic cinemat",
     "prompt": "Create a semi-realistic / photorealistic romantic cinematic anime illustration of two adult lovers in an elegant fantasy-romance night scene.\n\nThe adult man leans in from the left side, very close to the adult woman’s neck and shoulder, while she leans back slightly with closed or half-closed eyes, flushed cheeks, softly parted glossy lips, and a dreamy, emotionally overwhelmed expression.\n\nThe atmosphere should feel intimate, sensual, romantic, protective, elegant, and cinematic. The interaction must appear clearly consensual, affectionate, and tender, with no fear, violence, pain, or coercion.\n\nThe adult man is tall, muscular, handsome, and elegantly proportioned. He leans close beside the woman, with one arm gently holding her waist, shoulder, or upper arm in a protective embrace. His face is positioned very close to her neck and shoulder, as though whispering softly against her skin or giving her a tender protective nuzzle.\n\nOptional personalized details may be added naturally when visible, such as a symbolic neck tattoo, a heartbeat-line tattoo, initials, romantic lettering, or another character-specific marking.\n\nThe adult woman has an elegant, graceful presence, luminous skin, softly flushed cheeks, and glossy lips slightly parted. She tilts her head back or gently away, with her eyes closed or half-closed and a dreamy, shy, emotionally overwhelmed expression, as though relaxing into the man’s closeness.\n\nHer shoulders are softened, one shoulder may be subtly exposed, and her body leans naturally into his protective hold. Her posture should remain graceful, romantic, and relaxed.\n\nShe wears a luxurious pale yellow, champagne-gold, ivory-gold, or softly luminous fantasy evening dress. The dress features a delicate off-shoulder neckline, refined translucent fabric layers, subtle embroidery, gentle shimmer, a fitted bodice, flowing fabric, and tasteful high-fashion styling.\n\nThe dress should appear ethereal, feminine, luxurious, and elegant, with glowing fabric, delicate shoulder details, and realistic folds.\n\nScene and atmosphere: a romantic fantasy palace interior, luxurious lantern-lit terrace, moonlit ballroom, or elegant night garden. Use warm golden lights in the background, soft bokeh, shallow depth of field, cinematic close-up framing, glowing skin highlights, delicate atmospheric details, warm amber and soft gold illumination, elegant shadows, and a refined fantasy-drama mood.\n\nKeep the background dreamy, clean, softly blurred, and uncluttered.\n\nPose details: the man’s face is extremely close to the woman’s neck and shoulder, nearly touching, like an intimate whisper or protective nuzzle. The woman tilts her head slightly away or backward, her eyes closed, shoulders relaxed, lips softly parted, and expression shy, dreamy, and emotionally overwhelmed.\n\nThe man holds her carefully with protective tenderness. Their body language should communicate mutual trust, emotional intimacy, romantic longing, and graceful sensual tension.\n\nStyle: masterpiece, best quality, ultra-detailed, 8K, semi-realistic anime, photorealistic anime rendering, cinematic lighting, fantasy romance, luxury editorial style, delicate hands, expressive faces, realistic fabric folds, glossy skin highlights, soft luminous skin, warm golden bokeh, refined sensuality, elegant intimate atmosphere.\n\nNegative prompt: watermark, text, logo, bad anatomy, extra fingers, missing fingers, fused fingers, extra hands, extra limbs.\n\nAspect ratio: 4:5, 1024 × 1280.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1MR_pgL7hJjUQnDXjvSMh40_fmgc5XZXX",
+    "driveUrl": "https://drive.google.com/file/d/1MR_pgL7hJjUQnDXjvSMh40_fmgc5XZXX/view"
   },
   {
     "id": "023",
@@ -421,7 +463,9 @@ window.GALLERY_CASES = [
     "blurb": "ゴシックドレス プロンプト SCENE: ミカのフルボディ撮影。豪華なヨーロピアン宮殿風サロン。金装飾のモールディングが施された壁、クラシカルな",
     "prompt": "ゴシックドレス\nプロンプト\n\nSCENE:\nミカのフルボディ撮影。豪華なヨーロピアン宮殿風サロン。金装飾のモールディングが施された壁、クラシカルな額装絵画、天井から輝くシャンデリア、彫刻的な金フレームのターコイズブルーのベルベットソファを配置。背景は華やかだが人物を主役にし、金・黒・ターコイズのコントラストで高級感とゴシックな雰囲気を強調する。縦構図、近距離ポートレート、室内ファッションイラスト。\n\nMOVEMENT / FACIAL EXPRESSION:\nミカがソファに深く座り、脚は自然に曲げて座面へ流す。身体はやや斜め向き、上半身は正面寄りに起こし、片手をソファに添える。顔はカメラを静かに見つめ、唇を小さく閉じた上品な笑顔。儚さ、気品、少しミステリアスな雰囲気を出す。\n\nSKIN / TEXTURE:\n陶器のように滑らかな白肌。頬と鼻先に淡いピンクの血色感。瞳は大きく透明感があり、肌は柔らかい光でなめらかに描写。タイツには控えめな光沢を入れ、膝や脚の立体感を自然に表現する。\n\nOUTFIT / STYLING:\n黒を基調にしたゴシックロリータ風ドレス。肩が大きく開いており、透け感のある黒レースの胸元、フリル付きのハイネック、大きな黒リボン、中央にターコイズブルーの宝石ブローチ。黒いパフスリーブ、光沢のある黒コルセット、金具付きの装飾ベルト、白とアイボリーの短めフレアスカートに金刺繍。黒レースの縁取りを重ねる。脚には黒い花柄と蝶柄のシアータイツ、太もも部分にレースガーター風デザイン。\n\nHAIR:\nスモーキーアッシュグレーの長いツインテール。黒いリボンで左右を結び、毛先は柔らかく流れる。前髪は丸みのあるシースルーバングで、顔まわりに細い後れ毛を残す。\n\nLIGHTING:\nシャンデリアの暖色光が上から柔らかく降り注ぎ、髪と衣装の光沢を強調。顔には明るい拡散光、背景には金色の反射を入れる。ターコイズのソファに美しいハイライト。\n\nSTYLE / QUALITY:\n9:16、豪華な装飾、上品なゴシックファッション、縦長構図、緻密な布表現、宝石の輝き。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1jaGE4M2zUeVlSU_nj0i5YowD_znKMEtA",
+    "driveUrl": "https://drive.google.com/file/d/1jaGE4M2zUeVlSU_nj0i5YowD_znKMEtA/view"
   },
   {
     "id": "024",
@@ -439,7 +483,9 @@ window.GALLERY_CASES = [
     "blurb": "Gpt Image 2 Prompt : Create a 9:16 photorealistic editorial portrait. Wa",
     "prompt": "Create a 9:16 photorealistic editorial portrait.\nWaist-up portrait, shoulder-level view, front-left three-quarter view\nA 20s seductive stunning Japanese or Korean woman. full bust, narrow defined waist, flat abdomen, young seductive alluring beauty face, long soft waves with airy see-through bangs, gentle romantic face-framing strands, deep coffee-brown hair, rich brunette depth, soft warm reflection, soft matte skin texture, refined pores, velvety smooth finish, glancing back over the shoulder, soft sideward attention, gentle alert expression.\nShe wears light blue glossy latex dress, bodycon silhouette, smooth reflective surface.\nShe has her chin tucked toward one shoulder line with the neck softly folded by the selected pose, one hand lightly touching the corner of the mouth, fingertips near the lower lip, and presents a grounded forward-leaning seated pose, upper body angled forward with stable seated weight.\nScene: The portrait takes place in opulent opera house interior, chandelier fixtures, velvet seat rows cropped from one side, dim interior spill-light environment, exterior light leaking into a mostly dark room, soft frontal key light on the subject, even facial illumination.\nInspired by Ellen von Unwerth, playful editorial image language.\nThe camera treatment uses shot on 105mm medium telephoto lens, stronger perspective compression, narrowed field of view, optical vignetting, darker frame corners, radial edge exposure falloff.\nhigh-dynamic-range digital rendering, transparent shadows, crisp natural color, daylight-neutral contrast, clear highlight retention.",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1S8B0_CPQuBndE1ag530qioBRS6-d6w_T",
+    "driveUrl": "https://drive.google.com/file/d/1S8B0_CPQuBndE1ag530qioBRS6-d6w_T/view"
   },
   {
     "id": "025",
@@ -457,7 +503,9 @@ window.GALLERY_CASES = [
     "blurb": "Stereoscopic photo of Jennifer Lawrence, Kodak Ektar 100 colour negative",
     "prompt": "Love these reflective light effects\n\nStereoscopic photo of Jennifer Lawrence, Kodak Ektar 100 35mm film, film damage, film grain dust and scratches, creative gold yellow orange red light leaks, double exposures, cinematic --no glasses --ar 16:9 --raw --stylize 300 --hd --v 8.2",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1xqmPTew4qK35s4aAaIvJMyKYj6M9obG4",
+    "driveUrl": "https://drive.google.com/file/d/1xqmPTew4qK35s4aAaIvJMyKYj6M9obG4/view"
   },
   {
     "id": "026",
@@ -475,7 +523,9 @@ window.GALLERY_CASES = [
     "blurb": "提示词： 【画面概览】成年女性约尔·福杰在雨后清晨的高山温泉露台整理被山风掀起的披肩，定格她隔着雾气回望镜头的瞬间；唯一主视觉是墨红贴身礼裙的交",
     "prompt": "【画面概览】成年女性约尔·福杰在雨后清晨的高山温泉露台整理被山风掀起的披肩，定格她隔着雾气回望镜头的瞬间；唯一主视觉是墨红贴身礼裙的交叉镂空腰线与迎风扭转的修长轮廓，呈现写实电影感时尚肖像。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1r4aYUtLBz1yahJe5jZiHANCGMABOgCl0",
+    "driveUrl": "https://drive.google.com/file/d/1r4aYUtLBz1yahJe5jZiHANCGMABOgCl0/view"
   },
   {
     "id": "027",
@@ -493,7 +543,9 @@ window.GALLERY_CASES = [
     "blurb": "This is a SFW illustration. no suggestive intent in this illustration. お",
     "prompt": "This is a SFW illustration. no suggestive intent in this illustration.\nおはようございます☀️🌈\n本日は梅干の日ですね🍙\n昔から梅干しは健康や厄除けを願う食べ物として親しまれ、梅干しを食べると難が去る言われている事から【なん(7)がさ(3)る(0)】の語呂合わせにちなんで7月30日に記念日を制定しています～💖😆👍\n\n🍑梅干しの歴史\n\n梅は中国から日本へ伝わり、奈良時代にはすでに薬用として利用されていました。\n\n現在のような塩漬けの梅干しは平安時代頃から広まり、戦国時代には武将たちが保存食や携帯食として持ち歩いていたといわれています。\n\n江戸時代になると庶民にも広まり、日本の食卓に欠かせない保存食品となりました。\n\n💪梅干しの魅力\n\n梅干しには、\n\nクエン酸による爽やかな酸味\n食欲を促す効果\n保存性の高さ\nおにぎりやお弁当との相性の良さ\n\nなど、多くの魅力があります。\n\n昔から夏場の食欲が落ちやすい時期にも重宝され、「夏バテ対策」の食材としても親しまれています。\n\n✨豆知識\n\n昔の旅人や武士は、梅干しを携帯して水に入れて飲んだり、そのまま口にしたりしていました。\n\nまた、土用の頃に梅を天日干しする「土用干し」は、梅干し作りの大切な工程で、ちょうど7月下旬から8月上旬に行われることが多く、梅干の日の時期とも重なります。\n\n梅干の日は「難が去る」の願いを込めて、日本の伝統食・梅干しを味わう日ですね💕😋🍙🌸\n\nそして私事ですけど、フォロワー様が15000人を突破しました～💖ヾ(*´∀｀*)ﾉ🎉\n\nここまで続けてこられたのも、毎日リプやいいねをくださる皆様のお陰です～🙏\n本当にありがとうございました🙇\n\nこれからも頑張っていきますので、引き続き一緒に楽しんでもらえると嬉しいです～💖ヾ(≧▽≦)ﾉ🎊✨\n\nそれでは本日も元気に頑張っていきましょうね～～❤️(ΦωΦ)👍✨",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1sDJtZBAOXdwwp1OtqsDf8x4ojrzdI06L",
+    "driveUrl": "https://drive.google.com/file/d/1sDJtZBAOXdwwp1OtqsDf8x4ojrzdI06L/view"
   },
   {
     "id": "028",
@@ -511,7 +563,9 @@ window.GALLERY_CASES = [
     "blurb": "我果然还是喜欢饱满一点的。 提示词：绝美 23 岁东亚美女，丰腴匀称沙漏型身材，腰臀比例优雅，曲线自然柔美，气质时尚、自信、温柔，性感但含蓄端庄",
     "prompt": "绝美 23 岁东亚美女，丰腴匀称沙漏型身材，腰臀比例优雅，曲线自然柔美，气质时尚、自信、温柔，性感但含蓄端庄。单色背景系带比基尼风格，孔雀墨绿色细带比基尼，利落三角杯搭配低腰双侧系带下装，腰侧细绳自然打结，微纹理缎感面料浓郁高级，带少量墨绿色金属珠饰点缀。\n\n清冷柔亮妆容，浅橄榄棕与香槟米色眼妆，玫瑰奶茶色唇妆，黑茶色高束马尾，银绿色宝石耳钉与极细脚链。\n\n她正面坐在墨绿色雕塑感高脚凳前缘，右手自然放在大腿侧面，左手完整扶住凳面边缘，双腿稳定向前落地，轻轻抬脸直视镜头。背景有深墨绿色弧形墙面、同色雕塑高脚凳、低矮半圆体块与哑光树脂地面，单色空间冷静利落。\n\n105mm人像摄影，大腿以上构图，左侧窄幅柔光划过脸颊、锁骨与腰线，背后低强度轮廓光分离人物与背景，浅景深与细腻散景，真实皮肤纹理，精致泳装材质，冷调高级时尚大片，电影感写实摄影，8K。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1FCuGerkggmYJJHMgVcr9xIgR4Nqu50ck",
+    "driveUrl": "https://drive.google.com/file/d/1FCuGerkggmYJJHMgVcr9xIgR4Nqu50ck/view"
   },
   {
     "id": "029",
@@ -529,7 +583,9 @@ window.GALLERY_CASES = [
     "blurb": "縁側に落ちた葉影を、指先と膝でそっと受け止める。庭の緑が近い午後。🌿☀️🤍 #AIart #AI写真 #縁側 【GPT Image2プロンプト】",
     "prompt": "縁側に落ちた葉影を、指先と膝でそっと受け止める。庭の緑が近い午後。🌿☀️🤍\n\n#AIart #AI写真 #縁側\n\n【GPT Image2プロンプト】\n\n主題：\n縁側の木漏れ日\n\n主体：\n手入れされた和風庭園に面する古い木の縁側で、両手と両膝を床につく20代の女性を縦長の全身で写す。女性は画面中央から右側を大きく占め、頭と肩は左上寄り、胸元と両腕は中央左、腰は中央右、折り曲げた両脚は下半分へ広がる。上体を前へ傾け、腰を高く保ち、人物自身の右手を画面左下、左手を中央下の床板へ指を開いて置く。人物自身の左膝を手前の中央下、右膝を奥の中央へつき、右足先を右下へ伸ばす。顔をわずかに人物自身の右へ傾けながらカメラをまっすぐ見る。\n\n人物・表情：\n小さな卵形の顔、明るいアイボリー系の肌、細いダークブラウンの眉、大きな青灰色を帯びた瞳、長いまつ毛と細いアイライン、淡いピンクの頬、艶のあるコーラルベージュの唇。唇を少し開き、正面のレンズへ静かで強い視線を向ける。髪は顎下から肩上までのダークブラウンのストレートボブで、眉に届く重めの前髪、頬に沿う細い毛束、外側へ軽く跳ねる毛先を持つ。画面左上からの逆光が髪の外周、頭頂、人物自身の右肩、腕、背中に金色の細い縁を作る。耳には細い金属の小さなドロップピアス、首には華奢な銀色チェーンと一粒ペンダントを付ける。\n\n服装・ポーズ：\n生成り色の細い肩ひも付きミニワンピース。深いV字の胸元を繊細なベージュのレースで縁取り、前中央を細い生成りのリボンで結ぶ。身頃は体に沿うコルセット風の切り替えと細い縦のギャザーを持ち、全体に淡い水色の小花と細枝模様を散らす。腰から裾は短いフレアで、透明なチュールとレースの二重フリルを重ね、人物自身の右腰から後ろへ軽く広がる。足元は白い細ストラップのフラットサンダルで、人物自身の右足に甲を横切る複数の細い紐と足首ストラップを見せる。両手の指と薄い色のネイル、左手の細い指輪を明瞭にし、手首、肘、肩、膝、足首のつながりと床への接地を自然にする。\n\n背景・光：\n前景は年月を感じる明るい茶色の幅広い木製縁側で、床板の木目、継ぎ目、節、細かな擦れを画面下全体に見せる。背景左と中央は苔、低い草、丸い庭石、刈り込まれた低木で構成する日本庭園。奥には深い緑の樹木と石組みを大きくぼかす。画面右は木の柱と開いた室内の境界で、木枠の白い障子戸を右上に配置し、暗い敷居が縁側と室内を分ける。強い自然光が画面左上後方から差し、髪、肩、背中、腰、腿、腕、床板を暖かく照らす。葉を通した丸い木漏れ日と柔らかな影を肌、ドレス、床へ落とし、庭の奥と室内側は深い緑と焦げ茶の柔らかな影にする。\n\n構図・カメラ：\n縦位置3:4、縁側の床に近い低いカメラ位置から、女性の顔と体をわずかに見上げる全身ファッションポートレート。顔を左上三分の一、両手を左下と中央下、腰を右中央、左膝を中央下、右足と白いサンダルを右下に配置し、体の対角線を強調する。人物は画面の約四分の三を占め、右肘、腰、脚を右端近くに置きながら、頭、両手、膝、右足先を画面内に収める。瞳と顔を最も鮮明にし、両手、レース、床板、右足まで高い解像感を保つ。庭園は短いポートレートレンズによる柔らかな円形ぼけにする。\n\n質感・スタイル：\n高解像度の写実的な屋外ファッション写真。生成り、淡い水色、暖かな肌色、古木の茶色、苔と葉の濃緑を組み合わせる。肌は自然なきめと血色を残し、肩、腕、腿、膝に日差しの柔らかな艶を描く。短い髪の細い反射、レースの糸、透明チュール、小花柄、フリル、サンダルの細い革紐、床板の木目、苔と石の湿った質感を明瞭に描き分ける。木漏れ日の高いコントラストを保ちながら白い衣装の階調を飛ばさず、静かな和の庭と現代的なポートレートを自然に融合する。\n\nネガティブ：\n顔や視線の崩れ、余分な指、指と床の融合、手首や肘の変形、四肢の融合、膝や足首の逆折れ、手足の接地不良、体重と重力の矛盾、ドレスの過度なめくれ、衣服の食い込み、サンダルの紐と足指の破綻、床板と障子の透視歪み、木漏れ日の不自然な反復、左右反転、文字、logo、透かし、過度な美肌処理を避ける。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1qujCrNQKdhLyv_2fyF4aOB_g3d-cb4kr",
+    "driveUrl": "https://drive.google.com/file/d/1qujCrNQKdhLyv_2fyF4aOB_g3d-cb4kr/view"
   },
   {
     "id": "030",
@@ -547,7 +603,9 @@ window.GALLERY_CASES = [
     "blurb": "🍃🌸Below are the details for recreating the style, local layout, and atmo",
     "prompt": "🍃🌸Below are the details for recreating the style, local layout, and atmosphere of the photograph, without duplicating the identities of the people in the photo:\n\nGPT image reminder:#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\n这是一幅极具电影质感的超写实奇幻肖像照，描绘了一位优雅的年轻东亚女性在宁静的天然温泉中沐浴的场景，周围环绕着长满青苔的岩石和盛开的白山茶花。\n\n中景半身肖像构图。她半身浸没在清澈见底的绿松石色矿泉水中，一只手轻搭在湿润的深色岩石上，另一只手轻触下巴。她直视镜头，面带平静、温柔且略带梦幻感的微笑。\n\n她拥有白皙无瑕、如瓷器般细腻的肌肤，天然的水珠映照着柔和的晨光；面容精致年轻，有着温暖的棕色大眼睛（眼中带有细腻的眼神光）、轮廓自然的眉毛、柔和的蜜桃色腮红和光泽感珊瑚粉色双唇；深色长发盘成优雅的传统高发髻，几缕发丝自然垂落在脸颊旁。\n\n发髻上装饰着精致的花朵发饰，由白花、珍珠、精巧的金枝和垂坠的珍珠流苏组成；她佩戴着配套的长款珍珠耳环。\n\n她身穿一件飘逸的半透明汉服风格长袍，色调为柔和的白色与浅水绿色，内搭修身白裙，系有优雅的刺绣腰带。轻薄的面料自然垂落在肩头，轻柔地漂浮在水面上，呈现出湿润的半透明质感，既显露肌肤之美又不失高雅格调。\n\n环境是一处隐秘的山间温泉，四周云雾缭绕，点缀着光滑的火山岩、郁郁葱葱的植被和盛开的白花；水面上漂浮着花瓣，远处的山峦在薄雾中呈现出柔和的虚化效果。\n\n柔和的金色晨光透过树枝倾泻而下，形成丁达尔光束（体积光）、细腻的轮廓光、波光粼粼的水面反射、逼真的肌肤高光以及微妙的背景虚化效果。\n\n梦幻般的氛围，宁静、空灵、奢华，呈现出高端奇幻时尚大片的质感。\n\n超写实肌肤纹理，自然的毛孔细节，电影级调色，HDR，光线追踪照明，基于物理的渲染（PBR），浅景深效果，85mm镜头，f/1.8光圈，Sony A7R V拍摄，极致细节，RAW格式照片，8K分辨率，大师级杰作。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1cVwdFMakJ4FNytmPBtxEdNFSOXAUXYhm",
+    "driveUrl": "https://drive.google.com/file/d/1cVwdFMakJ4FNytmPBtxEdNFSOXAUXYhm/view"
   },
   {
     "id": "031",
@@ -608,7 +666,9 @@ window.GALLERY_CASES = [
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] A young adult East Asian wom",
     "prompt": "(SFW)\n\n### [Subject Description]\n\nA young adult East Asian woman in an elaborate Chinese-inspired fantasy costume, seated gracefully on a raised wooden platform. She has a delicate youthful face, fair skin, large bright blue eyes, a small straight nose, soft pink",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1l040jFsV7EDLg7SIJ5aOJeTyhka6bVRb",
+    "driveUrl": "https://drive.google.com/file/d/1l040jFsV7EDLg7SIJ5aOJeTyhka6bVRb/view"
   },
   {
     "id": "034",
@@ -629,7 +689,9 @@ window.GALLERY_CASES = [
     "blurb": "提示词： 明确成年的年轻女性，纤细高挑、匀称自然的身材比例，腰线清晰，腿部修长但不过度夸张。长而浓密的深棕黑色自然波浪卷发，蓬松柔顺，部分碎发自",
     "prompt": "明确成年的年轻女性，纤细高挑、匀称自然的身材比例，腰线清晰，腿部修长但不过度夸张。长而浓密的深棕黑色自然波浪卷发，蓬松柔顺，部分碎发自然垂落脸侧，清透自然妆容，真实细腻皮肤质感。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "11nnTDAJ0Dv_WogE32Nf3UcAh1mp5m7Je",
+    "driveUrl": "https://drive.google.com/file/d/11nnTDAJ0Dv_WogE32Nf3UcAh1mp5m7Je/view"
   },
   {
     "id": "035",
@@ -670,7 +732,9 @@ window.GALLERY_CASES = [
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] Stunning 22-year-old East As",
     "prompt": "(SFW)\n\n### [Subject Description]\n\nStunning 22-year-old East Asian beauty with a well-proportioned and full figure, naturally full breasts, a slender waist, and harmonious proportions of hips and legs, with soft and natural curves. with delicate, refined facial",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1Bfdu3LdIybpwySWA_qNURFi94zYPZtX1",
+    "driveUrl": "https://drive.google.com/file/d/1Bfdu3LdIybpwySWA_qNURFi94zYPZtX1/view"
   },
   {
     "id": "037",
@@ -729,7 +793,9 @@ window.GALLERY_CASES = [
     "blurb": "几天不见gpt现在尺度怎么这么大了 完整提示词如下⬇️： @创建图片 9:16, ccd，中国网红，冷棕色短发波波头，抱腿坐，超广角透视，前脚机",
     "prompt": "如下⬇️：\n\n@创建图片 9:16, ccd，中国网红，冷棕色短发波波头，抱腿坐，超广角透视，前脚机位，透明黑丝",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1uSmxqsUmc77aWffeqUBvOAAVpIXR-VcT",
+    "driveUrl": "https://drive.google.com/file/d/1uSmxqsUmc77aWffeqUBvOAAVpIXR-VcT/view"
   },
   {
     "id": "040",
@@ -807,7 +873,9 @@ window.GALLERY_CASES = [
     "blurb": "GPTで生成 プロンプト🔽 { \"direction\": \"友人がスマートフォンを構えた瞬間、架空の成人日本人女性が床に置いた薄手のカーディガン",
     "prompt": "GPTで生成\n\nプロンプト🔽\n\n{\n\"direction\": \"友人がスマートフォンを構えた瞬間、架空の成人日本人女性が床に置いた薄手のカーディガンを取ろうとして上体をひねる、その動作へ移る直前を偶然切り取ったファッションスナップ。人物紹介ではなく、首元から腹部までに密着したグレージュの多段カットアウトトップの構造、布の張力、肌へ落ちる細かな影を主役にする。ポーズを決めさせず、撮影される準備をしていない一瞬として表現する。\",\n\"mood\": \"暖かく静かな室内、出かける支度の途中に撮られた私的な日常感。低彩度で落ち着いた色調、通販広告やスタジオ撮影ではなく、友人のスマートフォンに残っていた自然な一枚。\",\n\"model\": \"25歳以上の架空の成人日本人女性。実在人物や有名人に似ていない一般化された人物像。健康的で自然な体格、Iカップ相当の非常に豊かなバストを持つが、身体比率は現実的で誇張しない。胸部だけを強調するポーズにはせず、衣装が身体の立体に沿った結果として自然にボリュームが伝わる。\",\n\"face\": \"顔、目、鼻、口はほぼ完全に画面外。顎先も入れず、カメラ目線は存在しない。首の付け根と輪郭外へ続く髪だけが少量写る。\",\n\"hair\": \"ダークブラウンの長い髪。大部分は画面外で、首の左側と片側の肩へ数本の毛先だけが自然に落ちる。整えすぎず、動作に伴って少し位置がずれた細い後れ毛。\",\n\"body\": \"首元からへそ下、腰骨の上端付近までを画面いっぱいに写す。腕、脚、頭部は画面外。胴体の中心軸は左上から右下へ約25度傾き、片側の肩を少し後方へ引き、反対側の腰をカメラへ近づける。片側へ重心を移す途中のため、胸郭から腹部に緩やかな非対称のS字が生じる。腹部を強く反らさない。\",\n\"skin\": \"黄みと赤みをわずかに含む暖かなライトベージュの肌。胸元、脇腹、腹部に自然な色むらと細かな肌理を残す。マット寄りで、オイルを塗ったような光沢はない。切り込みと編み紐が肌へ細く連続した影を落とし、身体の立体感が光と布の張力によって見える。\",\n\"outfit\": \"低彩度のライトグレージュ、ウォームトープ、薄いベージュグレーの中間色を持つ、幅広いバンド状ハイネックのノースリーブ・クロップドトップ。薄手のマットなストレッチジャージーで、レーヨンとポリエステルの混紡を思わせる微細な編み目。身体へ密着し、首元から腹部まで連続する多段カットアウト加工を施す。カット部分は均一な横線ではなく、中央が少し広く両端が鋭く尖った細長い葉型、アーモンド型。胸元上部は比較的大きく、腹部へ下がるほど細く短いスリットが増え、身体の丸みに沿って左右それぞれ異なる形に引き伸ばされる。肌が見える面積は衣装として成立する範囲で最大限広くする一方、透けない布地と編み込みが必要な部分を確実に覆い、偶発的な露出が起きない構造にする。\",\n\"cutout_structure\": \"鎖骨下に小さな横長スリットを1段、その下の胸元左右に5〜7段の大きな葉型スリット、腹部には7〜10段の細いスリットを配置。外側へ向かうほど穴が緩やかに広がり、中央へ向かう先端は編み込みへ直接つながる。完全な左右対称にはせず、身体をひねった側は短く圧縮され、カメラに近い側は横方向へ少し長く伸びる。切断面は整っているが、工業製品のように均一すぎない。\",\n\"central_lacing\": \"衣装と同色の幅8〜12mm程度の柔らかなチューブ状ストラップが、左右のスリット先端を中央で接続する。単純なコルセット式の靴紐ではなく、大きさの異なるX字と細長いひし形を縦方向へ繰り返し、各交点に小さな結び目と縦の節を作る。上部の編み目は大きく、腹部へ向かうほど少し細かくなる。紐には軽い張力があり、結び目の間隔や左右の角度にはごく小さな不均一さを残す。\",\n\"fabric_behavior\": \"胸元ではストレッチ生地が左右へ引かれ、葉型スリットが身体の曲面に沿って広がる。中央の編み紐には適度な張力がかかり、紐の下へ小さな影が連続する。腹部では張力が少し弱まり、数か所に浅い横ジワと斜めジワが生じる。脇腹側の布は身体の側面へ自然に回り込み、裾の一部だけが肌から数ミリ浮く。\",\n\"accessories\": \"非常に細いゴールドチェーンネックレスを一本だけ使用。首の左側と鎖骨付近に部分的に見え、カットアウトの奥へ一部が隠れる。大きなペンダント、派手なイヤリング、腕時計は入れない。\",\n\"scene_objects\": \"画面外にあるカーディガンへ手を伸ばそうとしている設定だが、腕やカーディガン本体はほぼ写さない。背景の右上端に深いグリーンの小さな光沢物が輪郭だけ入り、左下端には編み籠または紙袋の端が数センチだけ写る。小物は意味を説明できるほど鮮明にせず、生活空間の偶然の写り込みとして扱う。\",\n\"pose\": \"左肩をわずかに後ろへ引き、右側の腰をカメラへ近づける。床のカーディガンを取ろうとして体重を片脚へ移し始めた瞬間で、胸郭が数センチ前へ動き、腹部が少し遅れてついてくる。完成したモデルポーズではなく、動き出す直前の重心の偏りと衣装の引っ張られ方を優先する。\",\n\"lighting\": \"画面左上にある窓から入る柔らかな自然光と、暖色の室内灯が弱く混ざった拡散光。色温度は約4300〜4700K。コントラストは中程度以下で、強いフラッシュや硬いスポットライトは使わない。編み紐とスリットの右下側に細い影が落ち、首元は髪の影でわずかに暗くなる。白背景は完全な白飛びにせず、薄いウォームグレーの階調を残す。\",\n\"effect\": \"実写のスマートフォン写真らしい低彩度、わずかに暖色寄りのホワイトバランス、軽いJPEG圧縮感。ハイライトの一部が少し白く抜け、暗部には非常に弱い輝度ノイズが残る。過度なHDR、映画的カラーグレーディング、強いビネット、強いフィルム加工は使用しない。\",\n\"camera\": \"スマートフォンの標準広角カメラで縦位置撮影。26mm相当、被写体まで約40〜55cm。カメラ位置は胸元と同程度か数センチ上、正面よりわずかに左側から軽く見下ろす。首の付け根からへそ下までを3:4の縦構図へ収める。衣装中央の編み込みへピントを合わせつつ、胸元から腹部まで比較的鮮明に見えるスマートフォンらしい深めの被写界深度。背景を大きくぼかさない。\",\n\"imperfections\": \"カメラが時計回りに約3度傾き、胴体はさらに斜めに配置される。左右のスリットの広がり、編み目、肩の高さ、裾の位置を少し非対称にする。髪の毛が1〜2本だけ衣装へ重なり、生地には張力による細かなシワが残る。白い壁には目立たない小さな擦れ、画面端には軽いレンズ歪み、髪の先だけに手ブレ寸前の微細な動きを加える。\",\n\"background\": \"普通の室内にある白から薄いウォームグレーの壁。継ぎ目や小さな陰影が弱く見える程度で、高級スタジオの無限背景にはしない。人物が画面の約92〜95％を占めるため、背景は四隅と輪郭周辺にわずかに残るだけ。\",\n\"atmosphere\": \"出かける準備中、友人と会話しながら衣服を整える前の何気ない時間。被写体は撮影を意識しておらず、友人との距離が近いためカメラも自然に接近している。ファッションディテールは明確だが、演出された商品撮影ではなく生活の途中で偶然生まれた写真。\",\n\"composition\": \"縦3:4。首元を画面上部の左寄り、腹部を画面下部の右寄りへ置き、中央の編み込みが画面を斜め気味に縦断する。顔、腕、脚を画面外へ完全に出し、衣装と肌の境界を主な視線誘導にする。中央を厳密に揃えず、人物をわずかに右寄りへ配置。衣装の大きな編み目が上部、小さな編み目が下部へ連続していくリズムを見せる。\",\n\"negative\": \"未成年に見える人物、学生風衣装、顔の写り込み、カメラ目線、露出事故、透明な布、衣装として成立しない配置、過度な身体誇張、胸部だけを狙ったフェティッシュな構図、ローアングル、極端な反り姿勢、人形のような顔、プラスチック状の肌、過剰な美肌補正、完全な左右対称、硬いスタジオ照明、強すぎるボケ、純白の衣装、破れたTシャツ状の均一な切れ目、単純な靴紐式コルセット、実在人物や有名人に似た外見、アプリUI、文字、ロゴ\"\n}\n\n{\n\"watermark_direction\": \"ウォーターマーク文字列「@Live_life_style」を、後から画面へ貼り付けた文字ではなく、撮影時から室内に存在していた小物の加工として自然に組み込む。\",\n\"integration_method\": \"画面左下端に数センチだけ写るライトグレージュの紙袋または厚紙製ショッピングバッグへ、浅い型押し加工として「@Live_life_style」を入れる。文字全体を正面から明瞭に見せず、紙袋の折れと画面外への切れによって一部がわずかに欠ける。\",\n\"subtle_visibility\": \"最初は背景の模様に見え、注意して見ると文字列だと分かる程度。衣装や肌よりコントラストを低くし、可読性は約60〜70％に抑える。\",\n\"placement\": \"画面左下隅、人物の輪郭から少し離れた背景側。衣装中央、肌、胸元、腹部の上には配置しない。\",\n\"material_behavior\": \"印刷インクではなく、紙へ浅く押されたエンボス加工。紙袋の自然なシワに沿って文字の高さと間隔がわずかに変形し、数文字だけが折れ目で暗くなる。\",\n\"lighting_interaction\": \"左上からの暖かな光が型押しの上辺へ細いハイライトを作り、下辺に非常に薄い影を落とす。白く発光させず、背景の光量に自然に従わせる。\",\n\"camera_behavior\": \"画面端の軽い広角歪みとJPEG圧縮をウォーターマークにも同じように適用し、文字だけが異常に鮮明にならないようにする。\",\n\"avoid\": \"人物の身体への直接配置、衣装中央への配置、浮遊するデジタル文字、発光文字、真っ黒なロゴ、完全に水平で鮮明な文字、画面全体を横切る署名、後付けステッカーのような白縁\"\n}",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1WUwFEUrvELTPi4nFDxROhS_0AzVpZgJw",
+    "driveUrl": "https://drive.google.com/file/d/1WUwFEUrvELTPi4nFDxROhS_0AzVpZgJw/view"
   },
   {
     "id": "044",
@@ -825,7 +893,9 @@ window.GALLERY_CASES = [
     "blurb": "By Grok AI #GrokAI #AIArt #AICosplay",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1dJX5Oqh_VLAJNqn732IlcBQNS0GZ848b",
+    "driveUrl": "https://drive.google.com/file/d/1dJX5Oqh_VLAJNqn732IlcBQNS0GZ848b/view"
   },
   {
     "id": "045",
@@ -843,7 +913,9 @@ window.GALLERY_CASES = [
     "blurb": "1 3. 翡翠グリーン刺繍のオーバースカートチャイナ 衣装プロンプトは下に↓↓↓ TLでチャイナドレスが流れていたのでアレンジチャイナドレス。オ",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1H7mt-RRSUro2Mn2FP9SYldHDWlBabAwQ",
+    "driveUrl": "https://drive.google.com/file/d/1H7mt-RRSUro2Mn2FP9SYldHDWlBabAwQ/view"
   },
   {
     "id": "046",
@@ -861,7 +933,9 @@ window.GALLERY_CASES = [
     "blurb": "再给兄弟们来一组 昨晚也没跑多少，大概就200来张吧",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1ohdJg_oX3bBP14RDKzhYC3bihPE9WSSq",
+    "driveUrl": "https://drive.google.com/file/d/1ohdJg_oX3bBP14RDKzhYC3bihPE9WSSq/view"
   },
   {
     "id": "047",
@@ -879,7 +953,9 @@ window.GALLERY_CASES = [
     "blurb": "おやすみなさい ゆっくり休んでね Original SFW illustration.",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1iBx9Hko5TZxRqx-YsucTyCxmCY7jkbv0",
+    "driveUrl": "https://drive.google.com/file/d/1iBx9Hko5TZxRqx-YsucTyCxmCY7jkbv0/view"
   },
   {
     "id": "048",
@@ -897,7 +973,9 @@ window.GALLERY_CASES = [
     "blurb": "☺️",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1jd8EWAo-ov9O82fZAMDnqv96Wun-o8Zl",
+    "driveUrl": "https://drive.google.com/file/d/1jd8EWAo-ov9O82fZAMDnqv96Wun-o8Zl/view"
   },
   {
     "id": "049",
@@ -915,7 +993,9 @@ window.GALLERY_CASES = [
     "blurb": "Good night. 素敵な夢をᲘ︵𐑼 ♡ Original SFW illustration.",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1fmf0oS5MvOBGveFInxZk1gt1AejBBh-u",
+    "driveUrl": "https://drive.google.com/file/d/1fmf0oS5MvOBGveFInxZk1gt1AejBBh-u/view"
   },
   {
     "id": "050",
@@ -933,7 +1013,9 @@ window.GALLERY_CASES = [
     "blurb": "No.66 67P 6V Boa Hancock",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1GCRUMA3eHgBsTCfabRsgaerb_TNPJvIB",
+    "driveUrl": "https://drive.google.com/file/d/1GCRUMA3eHgBsTCfabRsgaerb_TNPJvIB/view"
   },
   {
     "id": "051",
@@ -951,7 +1033,9 @@ window.GALLERY_CASES = [
     "blurb": "No.129 76P 6V Female assassin",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1Wbu1Y6vgAkD-1xrCOu5LpEHB7DfDJIAa",
+    "driveUrl": "https://drive.google.com/file/d/1Wbu1Y6vgAkD-1xrCOu5LpEHB7DfDJIAa/view"
   },
   {
     "id": "052",
@@ -969,7 +1053,9 @@ window.GALLERY_CASES = [
     "blurb": "夜中のIllustriouse▶️Krea2✨ 黒ビキニトップス",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1eGOaWyk-8igMq1jJrh8MiTIUe4qlwTbM",
+    "driveUrl": "https://drive.google.com/file/d/1eGOaWyk-8igMq1jJrh8MiTIUe4qlwTbM/view"
   },
   {
     "id": "053",
@@ -987,7 +1073,9 @@ window.GALLERY_CASES = [
     "blurb": "今日も一日お疲れ様でした🥰💕",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "13i_TwSFfzWX7njc8teraJP-1YcDD3vKn",
+    "driveUrl": "https://drive.google.com/file/d/13i_TwSFfzWX7njc8teraJP-1YcDD3vKn/view"
   },
   {
     "id": "054",
@@ -1005,7 +1093,9 @@ window.GALLERY_CASES = [
     "blurb": "Thay đổi tư thế nhưng vẫn chứng minh được cô ấy là cùng một người. ZK Pr",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1l23djNRhU2KpnS1kqPnaUFTGy4IK0w5s",
+    "driveUrl": "https://drive.google.com/file/d/1l23djNRhU2KpnS1kqPnaUFTGy4IK0w5s/view"
   },
   {
     "id": "055",
@@ -1023,7 +1113,9 @@ window.GALLERY_CASES = [
     "blurb": "ちょっと大人っぽい夜🌙✨ たまにはこういうのも良いかも。",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1uSrzTAPcTqUuEgcTLrqSKaktTWEIeZjK",
+    "driveUrl": "https://drive.google.com/file/d/1uSrzTAPcTqUuEgcTLrqSKaktTWEIeZjK/view"
   },
   {
     "id": "056",
@@ -1041,7 +1133,9 @@ window.GALLERY_CASES = [
     "blurb": "喜多川歌麿是江户时代浮世绘美人画的代表人物。 他的女性形象很有辨识度：细长脸型、窄眼、小嘴、克制的表情，黑发被处理成大块面，再用密集刻线表现光泽",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "182nZ5QjWAmA65GSrhZ-v2nd_kW3wKkK4",
+    "driveUrl": "https://drive.google.com/file/d/182nZ5QjWAmA65GSrhZ-v2nd_kW3wKkK4/view"
   },
   {
     "id": "057",
@@ -1059,7 +1153,9 @@ window.GALLERY_CASES = [
     "blurb": "診てあげるよ♥️",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1AzlDLlliQsiQN7gyU5_ne5ShYu1lS7v2",
+    "driveUrl": "https://drive.google.com/file/d/1AzlDLlliQsiQN7gyU5_ne5ShYu1lS7v2/view"
   },
   {
     "id": "058",
@@ -1077,7 +1173,9 @@ window.GALLERY_CASES = [
     "blurb": "遮天-姬紫月 #遮天 #姬紫月 #AI生成 #国漫女神 #国漫 All images:",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "17amtVyhTcv50b5E6IBN3puJMil8bR6vd",
+    "driveUrl": "https://drive.google.com/file/d/17amtVyhTcv50b5E6IBN3puJMil8bR6vd/view"
   },
   {
     "id": "059",
@@ -1095,7 +1193,9 @@ window.GALLERY_CASES = [
     "blurb": "chic.",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1srOE51TpzwA2f4P_39gdID9zNlSaW5P6",
+    "driveUrl": "https://drive.google.com/file/d/1srOE51TpzwA2f4P_39gdID9zNlSaW5P6/view"
   },
   {
     "id": "060",
@@ -1173,7 +1273,9 @@ window.GALLERY_CASES = [
     "blurb": "変態紳士が考えた神のようなアイディアを覗き見するなら「+@grok -filter:links -filter:replies -filter:",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1BnJxeckI8pF2FEcYL7TkS2s2n5b_NESQ",
+    "driveUrl": "https://drive.google.com/file/d/1BnJxeckI8pF2FEcYL7TkS2s2n5b_NESQ/view"
   },
   {
     "id": "064",
@@ -1212,7 +1314,9 @@ window.GALLERY_CASES = [
     "blurb": "When you’re wondering whether to do it or not, do it.",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1cT_R-P41tol981Q2KTqfMMe-IrA30rZ2",
+    "driveUrl": "https://drive.google.com/file/d/1cT_R-P41tol981Q2KTqfMMe-IrA30rZ2/view"
   },
   {
     "id": "066",
@@ -1230,7 +1334,9 @@ window.GALLERY_CASES = [
     "blurb": "久しぶりに風邪を引きました😷 リリアちゃんでメイド風 SFW anime-style illustration. No nudity. #AIイ",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1bBSCN75ORFn93z5_fCg5rSVCLNUkZfRI",
+    "driveUrl": "https://drive.google.com/file/d/1bBSCN75ORFn93z5_fCg5rSVCLNUkZfRI/view"
   },
   {
     "id": "067",
@@ -1249,7 +1355,9 @@ window.GALLERY_CASES = [
     "blurb": "Every detail whispered confidence.",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1q5ENyLtNIS2D8Gt2Dp7S1OhRZs5eIWbl",
+    "driveUrl": "https://drive.google.com/file/d/1q5ENyLtNIS2D8Gt2Dp7S1OhRZs5eIWbl/view"
   },
   {
     "id": "068",
@@ -1328,7 +1436,9 @@ window.GALLERY_CASES = [
     "blurb": "No.143 54P 6V evening gown",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1dZrHyXhRug3sDK8k2YDmqcDhgjPDqfTK",
+    "driveUrl": "https://drive.google.com/file/d/1dZrHyXhRug3sDK8k2YDmqcDhgjPDqfTK/view"
   },
   {
     "id": "072",
@@ -1467,7 +1577,9 @@ window.GALLERY_CASES = [
     "blurb": "Pro at wedding night water spraying ＃吞噬星空 ＃徐欣 ＃国漫女神",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1NdMBpnFZB5GukWBhRn_t5UvwtZVEsKU_",
+    "driveUrl": "https://drive.google.com/file/d/1NdMBpnFZB5GukWBhRn_t5UvwtZVEsKU_/view"
   },
   {
     "id": "079",
@@ -1486,7 +1598,9 @@ window.GALLERY_CASES = [
     "blurb": "True value lies beneath the surface, and in the end, people are the ones",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1GFHC7Zava13LTggB_gX7SqXE5KujpobN",
+    "driveUrl": "https://drive.google.com/file/d/1GFHC7Zava13LTggB_gX7SqXE5KujpobN/view"
   },
   {
     "id": "080",
@@ -1504,7 +1618,9 @@ window.GALLERY_CASES = [
     "blurb": "",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1PL0mCfPRam4tgA2BQLaUqKv4PSDEnuv_",
+    "driveUrl": "https://drive.google.com/file/d/1PL0mCfPRam4tgA2BQLaUqKv4PSDEnuv_/view"
   },
   {
     "id": "081",
@@ -1582,7 +1698,9 @@ window.GALLERY_CASES = [
     "blurb": "提示词： 5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。 产",
     "prompt": "5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。\n产品是——一颗普通的大白菜。 \n [0–4秒] 纯黑背景中，一颗饱满新鲜的大白菜缓缓悬浮旋转，外层叶片青翠，内芯偏浅黄绿，边缘打冷白轮廓光，叶片表面的细小水珠在微距镜头下缓缓滚动。画面高级、克制、安静，仿佛顶级科技新品登场。 白色纤细大字淡入：“白菜 Pro” 下方小字：“了不起的鲜。” \n [4–8秒] 快速节奏剪辑三个影棚级特写镜头：  白菜切面层层包裹的细密纹理微距； 外层叶片弧线与褶皱在侧逆光下的雕塑感轮廓； 细腻水雾喷洒在白菜表面，水珠附着叶脉的超慢动作。 每个镜头分别浮现一个极简大字标题： “饱满。” “脆嫩。” “清甜。”  \n[8–12秒] 白菜在空中优雅翻转，外层叶片轻微舒展，被一只手稳稳托起并轻轻转动，带出克制而高级的流光拖尾特效，音乐进入磅礴高潮。镜头保持苹果式产品英雄感，像在展示革命性旗舰硬件。 大字：“史上最强大的白菜。” 下方小字：“比上一代爽脆20%。”  \n[12–15秒] 音乐收束，纯黑画面中央只留那颗白菜静静直立悬浮，轮廓清晰，布光高级，画面留白充足。旁边浮现价格标签：“¥3起” 最后打出标语： “白菜 Pro。卷出好味。” 配一声干净、克制的结尾提示音。",
     "nsfw": false,
-    "addedAt": "2026.09.12"
+    "addedAt": "2026.09.12",
+    "driveId": "1CFhPy_Dlo-x3V1ytDZZuMgT4BQ_GW07j",
+    "driveUrl": "https://drive.google.com/file/d/1CFhPy_Dlo-x3V1ytDZZuMgT4BQ_GW07j/view"
   },
   {
     "id": "085",
@@ -1620,7 +1738,9 @@ window.GALLERY_CASES = [
     "blurb": "感谢分享提示词 我只能说，会玩还是你们会玩😅  提示词： 9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎",
     "prompt": "9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎层次，长刘海自然垂落并部分遮住右眼。面部年轻精致但保持真实成年感，眼神平静、克制、略带专注，直视镜头。妆容自然柔和，清淡自然唇色，眼部轮廓清晰，保留真实皮肤纹理、细微毛孔、轻微肤色起伏和自然面部不对称。  服装为宽松的米白色短袖 Crop T-shirt，柔软棉质面料，高圆领设计，下摆停留在上腹部区域，完整露出纤细腰腹与自然肚脐。T 恤胸前中央印有醒目的蓝色英文字样：  “who is 0xkyne?”  字体清晰、完整、水平排列，以少量橙红色图形或字体细节作为视觉点缀。  主文字下方印有较小的中文：  “风花雪月”  要求文字拼写准确、结构清晰、无乱码、无额外字符。  下身搭配极简肉色低腰比基尼式下装，腰线位于胯骨附近，设计简洁纤细，颜色接近自然裸肤色，与整体低饱和胶片色调协调。  姿势具有随性时尚 Editorial 感。左臂高举至头顶上方，肘部自然弯曲，手臂形成向上的延伸线条；右臂放松并自然垂落于身体侧面。肩部轻微不对称，躯干保持自然伸展，腹部没有刻意收紧或夸张扭转。  相机采用略低于胸部高度的中低机位，镜头轻微向上拍摄，避免夸张仰拍和广角畸变。约 50mm 等效焦距，人物距离镜头较近。  构图从头顶上方保留少量空间开始，完整纳入面部、肩部、举起的左臂、胸腹区域以及肚脐下方少量胯部区域。人物占据画面绝大部分高度，主体居中略偏一侧，形成自然、不完全对称的时尚杂志构图。  场景为极简室内空间，背景是一整面浅灰色微纹理墙面，没有多余家具、装饰或杂物。  柔和室内灯光从人物左前方约 45° 方向照射，脸颊、肩膀、手臂与腹部形成柔和自然高光，另一侧保留轻微阴影。人物身后浅灰墙面出现一道低对比度、边缘柔软的真实投影，增强空间层次。  整体采用真实 35mm 彩色负片摄影质感，低至中等对比度，柔和高光滚降，略带暖灰和奶油色倾向，蓝色与橙红色印花保持适度鲜明。细腻均匀的胶片颗粒，轻微自然色偏，极轻微镜头柔化和真实光学质感。  保留棉质 T 恤织物纤维、衣物褶皱、皮肤毛孔、细碎发丝、腹部自然纹理以及真实阴影过渡。  照片级真实感，真实相机摄影，natural skin texture, subtle film grain, 35mm analog photography, editorial portrait, realistic fabric texture, soft indoor lighting, gentle shadow falloff, restrained vintage color grading。  避免：塑料皮肤、过度磨皮、美颜滤镜、动漫感、CGI、插画感、过度锐化、HDR 过强、鱼眼、超广角畸变、异常透视、额外手臂、手指畸形、身体结构错误、文字乱码、重复文字、错误拼写、额外 Logo、背景杂物。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1ESpsfhbX9NPvurkoLnqJSYGV_P9SJwc4",
+    "driveUrl": "https://drive.google.com/file/d/1ESpsfhbX9NPvurkoLnqJSYGV_P9SJwc4/view"
   },
   {
     "id": "087",
@@ -1638,7 +1758,9 @@ window.GALLERY_CASES = [
     "blurb": "GPT Image 2 直出，Prompt 提示词:  明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风",
     "prompt": "明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风与潮湿空气中微乱。 她双手持一块长方形磨砂玻璃风格亚克力板，置于身体前方遮挡身体，从锁骨下方到肋骨位置。亚克力板上以手写风格文字写着“我们一起逛街吧！”，字体自然带手写波动，荧光笔颜色鲜艳。透过磨砂玻璃板，人物与背景微微透视可见。 下身超短下装+黑色半透明丝袜或高跟短靴。姿态自然微侧，一肩略低，腰胯轻微反差，上身微前倾，性感张力强但不刻意摆拍。 CCD直闪纪实抓拍，雨后夜晚繁忙十字路口，红灯等待时刻。背景密集车流、人流、雨伞、霓虹广告牌、信号灯、店招与大楼灯箱，行人与车辆明显动态模糊拖影，地面潮湿发亮，映出红绿灯、车灯与招牌斑斓反光。闪光灯直打人物，人物清晰明亮，背景混沌流动，强烈反差。整体真实、喧闹、潮湿、漂亮，日系胶片+千禧CCD随手拍气质。 负面：上衣、内衣",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "10Dp-eiQ6A0R_L6sXPp4tdlMJ7xnEbuNm",
+    "driveUrl": "https://drive.google.com/file/d/10Dp-eiQ6A0R_L6sXPp4tdlMJ7xnEbuNm/view"
   },
   {
     "id": "088",
@@ -1656,7 +1778,9 @@ window.GALLERY_CASES = [
     "blurb": "这还是我认识的GPT吗？ 过于夸张了😂  GPT Image 2.5提示词： 滤镜：玫瑰香槟粉 CCD 闪光灯滤镜，  脸型：韩式女瓜子脸     服装：古风蕾丝，马油袜   场景：高级KTV包间  动作：一男一女在酒吧对饮  镜头：突出上",
     "prompt": "滤镜：玫瑰香槟粉 CCD 闪光灯滤镜， \n脸型：韩式女瓜子脸    \n服装：古风蕾丝，马油袜  \n场景：高级KTV包间 \n动作：一男一女在酒吧对饮 \n镜头：突出上围和腿 \n比例：9:16",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1jnFC3VIp1RJKUakV1O5XPsO_fFInbPgj",
+    "driveUrl": "https://drive.google.com/file/d/1jnFC3VIp1RJKUakV1O5XPsO_fFInbPgj/view"
   },
   {
     "id": "089",
@@ -1677,7 +1801,9 @@ window.GALLERY_CASES = [
     "blurb": "受 @maplejohn01 启发，挖掘出了 Grok 的天花板😍这效果真的不比 GPT Image 2.5 差啊！  还有个视频太露骨了不敢放主贴，你们自己调小音量再看🤣  提示词👇 Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚",
     "prompt": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚美女，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "17a7lsW-W5lgUExofaOPb2BJphA6IPghf",
+    "driveUrl": "https://drive.google.com/file/d/17a7lsW-W5lgUExofaOPb2BJphA6IPghf/view"
   },
   {
     "id": "090",
@@ -1695,7 +1821,9 @@ window.GALLERY_CASES = [
     "blurb": "一起荡秋千吗？ 超写实户外秋千人像摄影，横版约 4:3，一名年轻成年东亚女性，明确成年，侧坐在乡村公园里的木板秋千上，身体位于画面左侧，",
     "prompt": "超写实户外秋千人像摄影，横版约 4:3，一名年轻成年东亚女性，明确成年，侧坐在乡村公园里的木板秋千上，身体位于画面左侧，右侧保留大面积树林、步道与阴影环境。整体像 2000s 便携数码相机在晴朗午后随手拍下的旅行生活照，色彩明亮、对比偏强、略带旧 CCD 质感。\n\n摄影者位于人物正前方偏右约 2–3 米，采用 28–35mm 等效广角镜头，机位接近秋千座板高度并轻微向上。人物从头顶完整拍到脚部，一条腿向画面右下方长距离伸出，形成明显斜线；秋千链条从画面顶部垂下，强化纵深。不要长焦虚化，不要商业棚拍。\n\n人物为年轻成年东亚女性，中小骨架，肩膀偏窄，腰部自然纤细，腿部修长匀称，大腿有正常柔软体积，小腿逐渐收细，整体偏自然纤细比例，不要健美、粗壮腿或夸张沙漏身材。\n\n人物侧坐在一块厚实的暖棕色实木秋千板上，上半身轻微转向镜头。双手分别抓住左右两根粗金属链条，一只手位置较高、靠近脸侧，另一只手约在胸肩高度。身体略微后仰，肩膀放松。\n\n腿部姿势是重点：一条腿从秋千上向前完全伸直，脚尖指向画面右下方；另一条腿被座板和前腿部分遮挡。伸出的腿几乎与地面平行，形成非常醒目的横向延伸感。不要双腿并拢下垂，也不要蜷缩。\n\n人物留乌黑色超长直发，长度到腰部附近，中分或轻微偏分，无明显厚刘海。头发自然垂在肩膀和背后，阳光下带柔和黑褐色高光。人物转头看向镜头，脸上带轻松自然的露齿笑容，表情开朗、放松、有真实旅行抓拍感。\n\n上身穿一件非常普通的白色短袖圆领 T 恤，版型略宽松，柔软棉质，衣摆自然堆在腰部，不要紧身、不露脐、不要图案。\n\n下身穿浅米白 / 奶油白色短裤，布料偏轻薄，表面有非常细小的彩色碎花或零散小图案，以淡粉、浅红、灰蓝等低饱和色为主。短裤长度到大腿上部，轮廓自然宽松，不要牛仔短裤或百褶裙。\n\n腿部穿一双非常醒目的灰蓝 / 雾霾蓝色长筒袜或过膝袜，袜身从大腿附近一直覆盖到脚部，整体偏不透明的细针织材质。蓝色袜面上均匀散布极小的粉红、红色花点图案，图案非常细碎，不要变成大花纹或条纹。\n\n脚穿浅粉色平底鞋 / 软底芭蕾鞋，颜色为柔和珊瑚粉、蜜桃粉，鞋型简单圆头、低帮，没有高跟。伸出的脚完整可见，粉色鞋与蓝色长袜形成强烈但可爱的撞色。\n\n秋千由两根粗银灰色金属链条＋长方形木板座椅组成，链条清楚可见，从人物两侧向画面顶部延伸。座板为暖棕色木材，边缘厚实，表面略有使用痕迹。\n\n环境为晴朗乡村公园 / 山脚休闲区。人物左后方是一片明亮绿色草地和低矮植物，更远处有整齐农田、竹木围栏或乡村设施。画面中远处能看到一层淡蓝灰色山脉，轮廓被空气雾化。\n\n右侧占据约一半画面的是密集高大树林，树冠深绿色、阴影浓重，树干从地面一直延伸到画面顶部。林间有一条土质/木质步道，散落少量木制游乐设施、吊绳或秋千架结构，整体自然、朴素，不要现代城市公园。\n\n天气为非常晴朗的夏季午后，天空左上方呈高饱和浅蓝色，阳光从画面左前方照入。人物皮肤、白 T 恤、草地和伸出的腿被强烈阳光照亮；右侧树林进入明显深阴影，形成非常大的明暗反差。\n\n整体影像呈 2000s 便携数码相机 / CCD 旅行快照质感：色彩偏鲜艳，绿色和蓝色略饱和，阳光区域局部轻微过曝，暗部较深，动态范围有限，边缘轻微柔软，少量数码锐化和 JPEG 压缩感。不要现代 HDR，不要电影级调色。\n\n重点锁定：成年东亚女性＋乡村木板秋千＋横版 4:3＋超长黑直发＋自然露齿笑＋白色短袖 T 恤＋浅色小碎花短裤＋灰蓝色带细小粉色花点的长筒袜＋浅粉色平底鞋＋双手抓金属秋千链＋侧坐秋千＋一条腿水平向前完全伸直＋绿色草地＋远山＋右侧大片深色树林＋晴朗强日光＋旧数码相机旅行照质感。\n\n避免：短发、齐刘海、长裙、制服、黑丝袜、白袜、裸腿、运动鞋、高跟鞋、双腿自然垂下、站姿、室内秋千、城市街景、海滩、现代游乐园、背景严重虚化、电影光效、过度 HDR、塑料皮肤、动漫脸、CG 感、多余肢体、水印和乱码文字。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1nspElv1pEGzeWmNqOx7nU2LF_ZyLkbBh",
+    "driveUrl": "https://drive.google.com/file/d/1nspElv1pEGzeWmNqOx7nU2LF_ZyLkbBh/view"
   },
   {
     "id": "091",
@@ -1713,7 +1841,9 @@ window.GALLERY_CASES = [
     "blurb": "黑色跟黑色好像更配哦😯 超写实户外露台人像摄影，竖版约 3:4，一名年轻成年东亚女性，明确成年，侧坐在灰色编织休闲椅上，背后是深绿色森林、平静湖",
     "prompt": "超写实户外露台人像摄影，竖版约 3:4，一名年轻成年东亚女性，明确成年，侧坐在灰色编织休闲椅上，背后是深绿色森林、平静湖面与暖棕色木质栏杆。摄影者位于人物正前方略偏左约 1.5–2 米，使用 28–35mm 等效镜头，机位接近座椅高度略微向上，人物从头顶完整拍到高跟鞋，主体占画面约 80%，带轻微手机广角透视。\n\n人物为中小骨架，肩膀偏窄，腰部纤细，髋部与大腿有自然柔软体积，腿部修长，整体为紧凑自然的轻沙漏比例。不要健美身材、极端宽胯或过度纤细纸片比例。\n\n人物斜坐在椅子右侧，身体向画面左前方约 30°，上半身略向后靠，右手撑在椅面右侧，手臂基本伸直；右前臂外侧有一组黑灰色线条文字/图案纹身。头部轻微向左倾，脸转向镜头，表情平静冷淡，嘴唇自然闭合。\n\n腿部姿势是重点：一条腿高高屈膝抬起，膝盖接近胸腹高度，小腿斜向左下；另一条腿横向折叠在椅面前方，两腿形成明显交错层次，姿态慵懒但稳定。\n\n人物留乌黑色短 Bob，长度到下巴，头顶圆润顺滑，发尾轻微内扣；额前为厚而整齐的长碎齐刘海，接近眼睛上缘，两侧短发贴脸。肤色白皙偏冷，脸型小巧鹅蛋形，深色杏仁眼，淡粉眼妆与裸粉唇色，整体日系冷感妆容。\n\n上身穿一件纯黑色无肩带短款迷你连衣裙 / strapless mini dress，胸口为横向抹胸结构，顶部带细小荷叶边，面料为柔软薄棉或轻微皱褶布料。裙身宽松但腰部仍有自然收束，从胸口一直垂到大腿上部，裙摆带多层不规则细褶和轻微荷叶边。不要紧身包臀裙，不要亮面皮革。\n\n腿部穿黑色半透明大腿袜＋吊袜带结构。抬起的腿穿约 15–20D 烟黑色透明长筒袜，能明显透出肤色，袜口位于大腿根附近，为窄黑边。另一条腿的大腿上部有一圈明显的宽幅黑色花卉蕾丝袜口 / garter band，蕾丝带半透明花纹与轻微闪丝效果；数条细黑色吊袜带从裙摆下方斜向连接到袜口，形成清楚但不复杂的吊袜结构。丝袜继续覆盖小腿和脚部。不要厚黑袜、网袜或连裤袜。\n\n脚穿黑色漆皮露趾细高跟凉鞋，鞋面由多条黑色细带构成，脚踝处有扣带与小型银色金属装饰，细高跟约 9–11cm。抬起腿的鞋跟靠近椅子边缘，另一只鞋部分被腿部遮挡。\n\n椅子为灰色金属框架＋灰黑编织靠背＋灰色坐垫。人物身后是一圈暖棕红色木质露台栏杆，横向木梁贯穿画面；栏杆外是密集的深绿色山林和一条安静狭长的湖泊/河道，水面偏墨绿色，远处树木层层叠加。天空阴白、轻微过曝，没有明显太阳。\n\n光线采用阴天自然光＋正面弱闪 / 便携数码相机补光，人物脸部、肩颈、裸露大腿被明显提亮，肤色偏冷白；森林和湖面略暗，形成主体与背景分离。整体呈 2000s 日系数码相机 / CCD 户外写真质感：轻微柔焦、直闪感、少量颗粒、有限动态范围、自然皮肤纹理，不要现代 HDR 和商业级过度锐化。\n\n重点锁定：短黑 Bob＋厚刘海＋黑色抹胸荷叶边超短裙＋侧坐灰色椅子＋一腿高高屈膝＋另一腿横向折叠＋半透明黑色大腿袜＋宽幅花卉蕾丝袜口＋细吊袜带＋黑色露趾细高跟鞋＋右前臂纹身＋木质露台栏杆＋森林湖泊＋阴天＋旧数码相机弱闪质感。\n\n避免：长发、高马尾、站姿、双腿伸直、普通黑连裤袜、白袜、无吊袜带、厚棉袜、长裙、紧身皮裙、运动鞋、粗跟鞋、室内背景、城市街道、海滩、强烈阳光、电影级调色、背景严重虚化、动漫脸、CG 感、塑料皮肤、多余肢体、水印和乱码文字。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1m2cFSOF75mPAA-2paCkzsbJPi-fCvosn",
+    "driveUrl": "https://drive.google.com/file/d/1m2cFSOF75mPAA-2paCkzsbJPi-fCvosn/view"
   },
   {
     "id": "092",
@@ -1731,7 +1861,9 @@ window.GALLERY_CASES = [
     "blurb": "主人你的座位正在保温中💕 超写实复古室内女仆 Cosplay 人像摄影，竖版约 4:5，一名年轻成年东亚女性，明确成年，蜷缩侧躺在一张深酒红色天鹅",
     "prompt": "超写实复古室内女仆 Cosplay 人像摄影，竖版约 4:5，一名年轻成年东亚女性，明确成年，蜷缩侧躺在一张深酒红色天鹅绒古典扶手椅上。摄影者位于人物腿部前方偏左，以 24–28mm 等效广角镜头近距离拍摄，机位接近椅面高度，人物双腿距离镜头最近，因此产生明显但自然的近大远小透视；脸部位于画面右上，腿部从左下向中央延伸，整个人几乎填满画面。\n\n人物为中小骨架，肩部偏窄，腰部纤细，髋部和大腿有自然柔软体积，双腿匀称丰满但不粗壮。身体完全侧卧并略微蜷缩，上半身靠在右侧扶手，头部轻轻枕在双手上；两只手掌叠在脸颊旁，手肘收在胸前。头部向镜头方向转，眼睛直视镜头，嘴唇轻微张开，表情柔和、慵懒、略带笑意。\n\n人物留乌黑色下巴长度短 Bob，发尾自然内扣，额前是较长的碎齐刘海，几缕细发散落在眼睛和脸颊前，略显凌乱。头戴经典黑白女仆发箍：白色荷叶边头饰，左右带黑色蝴蝶结装饰。\n\n服装为经典黑白法式女仆短裙。上身为黑色长袖修身女仆裙，肩部和袖笼沿线有宽大的白色荷叶边，袖口为白色翻折袖口并带黑色纽扣；胸腰位置叠加白色围裙结构，腰后有明显的大型白色蝴蝶结。裙摆较短，黑色主裙外沿和内层都带多层白色波浪荷叶边，人物侧躺后裙摆自然堆叠、展开，形成大量黑白褶皱层次。保持正常完整服装覆盖。\n\n双腿穿纯白色半透明过膝长袜 / thigh-high stockings，袜口位于大腿中上部，有明显的双层浅白袜口边，袜身为细腻薄尼龙材质，约 20–30D，能轻微透出肤色。两腿大幅弯曲并交叠，一条腿从画面左下伸向镜头，另一条腿折叠在后方，膝盖靠近身体。前景袜腿因为距离镜头更近而略微放大，袜面在膝盖、小腿和脚踝位置呈自然拉伸和细小褶皱。\n\n脚穿黑色细带高跟鞋 / Mary Jane 风格高跟鞋，鞋面为黑色亮面皮革，脚踝有细扣带；前景鞋子只部分进入画面左下角，不需要完整展示。\n\n座椅是画面的重要元素：深酒红色 / 勃艮第红天鹅绒古典高背扶手椅，靠背巨大并带菱形拉扣，绒面有细腻反光；椅框为金色或古铜金色雕花木质结构，顶部与底部都有巴洛克式卷草雕刻、圆珠钉饰和复古装饰线条。人物身体陷入柔软坐垫与靠背中，产生明显真实压陷。\n\n背景为昏暗复古室内，颜色以深棕、酒红、暖灰和古铜金为主。左上可见一盏暖黄色壁灯 / 台灯形成柔和光晕，后方是深色墙面与少量木质家具轮廓，不要现代明亮房间。\n\n光线采用暖色室内环境光＋相机正面弱闪。人物脸部、肩膀和白色长袜被轻微闪光提亮，肤色偏暖白；酒红色天鹅绒保持浓郁暗红色，金色椅框出现低调反光。背景明显更暗，但仍保留环境结构。\n\n整体呈 2000s–2010s 日系 Cosplay 写真 / 便携数码相机抓拍质感：轻微柔焦、少量颗粒、有限动态范围、轻微 JPEG 压缩、自然皮肤纹理，不要现代 HDR 和商业级过度锐化。\n\n重点锁定：成年东亚女性＋短黑 Bob＋碎刘海＋黑白女仆头饰＋黑色长袖女仆短裙＋大量白色荷叶边＋白色围裙和大蝴蝶结＋纯白半透明过膝袜＋黑色细带高跟鞋＋侧卧蜷缩＋双手叠在脸颊下＋双腿朝镜头弯曲交叠＋近距离广角透视＋深酒红天鹅绒巴洛克扶手椅＋金色雕花木框＋暖暗复古室内＋弱闪旧数码相机质感。\n\n避免：站姿、正坐、长发、高马尾、现代女仆咖啡店背景、白色连衣裙、黑丝袜、网袜、裸腿、运动鞋、厚底鞋、现代沙发、明亮极简卧室、强电影光、背景严重虚化、鱼眼畸变、健美身材、过度纤细腿、塑料皮肤、动漫脸、CG 感、多余手指、多余腿、水印和乱码文字。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1ZLBgL_fKbz4ND6sZDn7DlLY6T5wiAqfA",
+    "driveUrl": "https://drive.google.com/file/d/1ZLBgL_fKbz4ND6sZDn7DlLY6T5wiAqfA/view"
   },
   {
     "id": "093",
@@ -1751,7 +1883,9 @@ window.GALLERY_CASES = [
     "blurb": "ガラッと雰囲気が変わるプロンプト コンビニで偶然見かけた美女がパンを選んでる雰囲気にしてください。衣装は少し乱れた様子でリアルな皺、たるみが有り、隙がある",
     "prompt": "コンビニで偶然見かけた美女がパンを選んでる雰囲気にしてください。衣装は少し乱れた様子でリアルな皺、たるみが有り、隙がある雰囲気。カメラに気づく様子もなく、自然にパンを選んでいる。何気なく見かけたドキッとするアングル、構図。必ずしも全身カットでなくて良いです。ポーズも座り、立ちどちらでも良いです\n\n参照画像はコンビニシーンの必要は無く何でも良いです。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1sUHIqiNMxnG_l_UY20Uw-QtPYALjax22",
+    "driveUrl": "https://drive.google.com/file/d/1sUHIqiNMxnG_l_UY20Uw-QtPYALjax22/view"
   },
   {
     "id": "094",
@@ -1770,7 +1904,9 @@ window.GALLERY_CASES = [
     "blurb": "神奇的一句话提示词！ 深夜闺房 × 男友第一视角 × 旗袍 × 黑丝 x CCD 直闪 or 深夜闺房 × 男友第一视角 × 旗袍 × CCD",
     "prompt": "深夜闺房 × 男友第一视角 × 旗袍 × 黑丝 x CCD 直闪\nor\n深夜闺房 × 男友第一视角 × 旗袍 × CCD 直闪",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1t4ZtGg1c-V-g4M2tKZ0SB0ScuMzunkQJ",
+    "driveUrl": "https://drive.google.com/file/d/1t4ZtGg1c-V-g4M2tKZ0SB0ScuMzunkQJ/view"
   },
   {
     "id": "095",
@@ -1788,7 +1924,9 @@ window.GALLERY_CASES = [
     "blurb": "少し追加して作らせていただきました！ 24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服,",
     "prompt": "24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服, 目線は正面, 見下した顔, 椅子に座った人のPOV, スマホ写真, リアルな質感, 縦向き\n成人女性らしい非常に豊かなIカップ相当の体型だが、人体構造、重力、衣服の張り方は現実的で自然。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1zqq_uBN8xOreQDUl1f0oVUFskYvtxjAp",
+    "driveUrl": "https://drive.google.com/file/d/1zqq_uBN8xOreQDUl1f0oVUFskYvtxjAp/view"
   },
   {
     "id": "096",
@@ -1806,7 +1944,9 @@ window.GALLERY_CASES = [
     "blurb": "Grok 提示词： 竖屏9:16真人实拍手机自拍短视频，分辨率720×1290，时长正好10秒，全程一段到底、中间不切镜不停顿不转场。手持智",
     "prompt": "竖屏9:16真人实拍手机自拍短视频，分辨率720×1290，时长正好10秒，全程一段到底、中间不切镜不停顿不转场。手持智能手机拍摄，轻微手抖、轻微跟焦起伏和室内自动曝光，24到30帧。画质必须像真实生活自拍，不要电影质感，不要广告大片，不要CG，不要3D渲染，不要动漫。皮肤有毛孔、细纹和自然反光，头发有真实物理摆动和轻微运动模糊，比基尼布料有抽褶和褶皱，身体随弹跳有真实惯性。画面里不要出现任何文字、字幕、水印、logo、贴纸、滤镜边框、二维码、其他人物或宠物。\n\n主体是一名东亚年轻女性，年龄约二十出头到二十五岁。肤色白皙偏暖，皮肤真实不塑料。脸型偏圆润小脸，额头有稀疏碎刘海，其余头发是又长又直的纯黑色长发，长度过胸接近腰，发质顺滑；跳舞时长发会大幅甩动，扫过脸颊、肩膀和后背。眉毛自然浓黑，眼睛大而明亮，眼妆很淡，睫毛自然。鼻子小巧。嘴唇饱满，涂着水润红粉色唇釉，微笑和大笑时露出牙齿。表情全程活泼、甜、俏皮，时而对着镜头笑，时而仰头享受音乐，时而低头看自己的衣服，不要冷脸，不要凶，不要魅惑到演电影。\n\n身材固定为细腰、宽胯、大腿肉感的沙漏型，锁骨清晰，手臂纤细，小腹平坦微软，不是健美肌肉型。胸部非常丰满、体积大、形状圆润，被抹胸紧紧托住；随着踮脚弹跳，胸部和髋部有明显但真实的上下起伏，衣服始终穿在身上。全程不穿鞋，脚在画面外或只露出一点点，不戴项链、耳环、戒指、手链、手表，唯一金属是比基尼上的金色圆环和金球坠。\n\n服装必须精确且全程不变：深巧克力棕色、可可棕色分体比基尼，不要黑、不要红、不要白。上衣是无肩带抹胸，布料有抽褶，中央有一枚金色金属圆环扣住左右两片，圆环下方垂着两根细棕色绑带，绑带末端是小金球坠；抹胸位置偏低，中间有明显乳沟，但始终是完整穿好的抹胸，绝不滑落、绝不变成裸体、绝不透明。下衣是同色棕色侧绑带高开叉泳裤，胯骨两侧各有细绳系结，绳头同样有小金球坠，绳子会随摆胯轻轻甩动。布料质感是哑光针织或罗纹泳布，不是亮面漆皮，不是丝绸。10秒内禁止换装、禁止脱衣、禁止手伸进衣服里。\n\n场景必须和房间自拍一致：狭窄的小型公寓卧室。墙壁是暖米色、奶茶色旧乳胶漆。画面左侧有深棕色厚窗帘，窗帘旁立着一面几乎到顶的深色框落地镜，镜子里能隐约照到房间和对面墙。地面是木色复合地板。镜子附近地上放着两个小纸箱、一叠书或杂志、一个小蓝瓶子。右侧白墙上有一个方形白色开关。画面最底部前景始终有一块虚化的棕色家具边缘，像床沿或沙发沿，轻轻挡住镜头下方。空间拥挤，人站在房间中央偏镜子前方。不要窗户大光斑，不要室外，不要海滩，不要泳池，不要影棚，不要第二个人。\n\n光线是室内暖黄顶灯为主，左侧有柔和散射日光，色温偏暖。脸上、肩膀、锁骨有自然高光，但不是轮廓光，不是丁达尔，不是霓虹，不是专业布光。镜头是手机竖拍，机位大约在腰到胸口的高度，略微仰拍。人物占满画面主体，大多数时候从大腿中段拍到头顶，中段会推近到胸口以上半身，再拉回全身中景。焦点在脸和身体上，前景床沿虚化，背景墙壁比较清楚。不要稳定器那种过度丝滑，不要超广角把腿拉变形。\n\n表演是社交软件那种跟着鼓点原地跳舞，不是专业编舞，也不是走秀。基本动作循环：踮脚、膝盖微屈、胯左右摆、上身随节奏弹跳、长发甩动、双手自然挥动。节奏大约每拍弹一次，每两拍甩一次头发或摆一次手。表情一直在笑。动作幅度中等偏大，重点落在头发甩动、胯摆和身体弹跳上，但不要夸张到漫画，不要故意用镜头死盯局部。衣服必须一直穿好。\n\n按10秒完整演出，时间轴必须按下面走：\n\n0.0到1.0秒：全身中景。她站在房间中央，身体略转向画面左侧，头看向镜头，嘴微张微笑。双臂自然垂在身侧，开始小幅度踮脚、左右晃胯。长发还贴在肩膀上。左侧镜子、纸箱和底部虚化床沿都要看见。\n\n1.0到2.2秒：双手抬到腰两侧，手掌摊开向外，跟着节拍轻轻甩手。头微低，眼神看镜头，笑意更明显。身体继续弹跳，长发开始离开肩膀甩起来。\n\n2.2到3.5秒：头向后仰，眼睛微闭或看天花板，长发大幅度向后飞。双臂在身侧自然摆动，表情放松享受。镜头略向前跟近，仍要看到腰和棕色泳裤。\n\n3.5到5.0秒：镜头推到半身。她略侧身，低头看自己的胯侧，双手快速拨弄比基尼两侧细绑带，动作有点忙乱。随即抬头看镜头，嘴角上扬。右后方白墙上的方形开关必须能看见。\n\n5.0到6.5秒：镜头拉回全身。右手抬到肩高轻轻挥一下，左手在身侧松松握拳。对着镜头大笑，牙齿露出。继续踮脚弹跳，头发左右甩，绑带末端金球跟着晃。\n\n6.5到8.0秒：身体转正对镜头，双臂打开再收回。突然笑得更大，头微侧，长发扫过脸。上身弹跳更明显。镜头可以略推近到胸部以上，但必须看到抹胸上的金色圆环，随即再稍拉回。\n\n8.0到9.0秒：双手抬到锁骨和胸口高度，手指微蜷，在胸前做很小的上下点拍，像打拍子。歪头看镜头，闭唇甜笑，胯继续左右摆。画面回到大腿以上的全身中景。\n\n9.0到10.0秒：头再轻轻后仰一下，眯眼笑，长发扬起；紧接着低头看自己的腰和绑带，头发垂到脸前，双手同时去拉、整理两侧比基尼绳结，像跳完一段后下意识整理衣服。停在整理绑带这个动作上结束。不要淡出，不要定格特效，不要结尾字幕。\n\n背景音乐只要节奏对上，不需要复刻原曲：轻快流行电音舞曲，约122拍每分钟，四四拍，底鼓每一拍一下，第二拍和第四拍有清脆拍手或军鼓，旋律简单好听，无歌词或只有很轻的女声气音。不要钢琴抒情，不要摇滚，不要戏曲。她每一次踮脚弹跳对准底鼓，甩发和摆手对准小节重音。\n\n必须避免：换脸、第二个人、儿童、裸体、脱掉比基尼、透明衣服、走光、胸部夸张变形、假脸塑料感、过度磨皮、电影级灯光、影棚、户外海滩、泳池、文字、字幕、水印、logo、贴纸、分镜切片、慢动作、抽帧卡顿、五官模糊、把黑发改成棕发或金发、把棕色比基尼改成黑色或红色、添加首饰、稳定器过滑、广角畸变把腿拉超长、动漫、CG、3D渲染感、镜头乱切、场景换成别的房间。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1TC8W7QJQgJPcRyrUE20Py2ezCnJplaDR",
+    "driveUrl": "https://drive.google.com/file/d/1TC8W7QJQgJPcRyrUE20Py2ezCnJplaDR/view"
   },
   {
     "id": "097",
@@ -1824,7 +1964,9 @@ window.GALLERY_CASES = [
     "blurb": "这个颜还挺OK的 低领薄衫；沙漏型体态；上身轮廓柔和饱满；腰线收束；下身曲线圆润；倚窗托腮；眉眼轻挑；花影朦胧",
     "prompt": "低领薄衫；沙漏型体态；上身轮廓柔和饱满；腰线收束；下身曲线圆润；倚窗托腮；眉眼轻挑；花影朦胧",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1h_bhUvJrzmx7uUz1WnLcYs_6Nb8xQLVr",
+    "driveUrl": "https://drive.google.com/file/d/1h_bhUvJrzmx7uUz1WnLcYs_6Nb8xQLVr/view"
   },
   {
     "id": "098",
@@ -1842,7 +1984,9 @@ window.GALLERY_CASES = [
     "blurb": "有点意思 沐浴后披纱；柔和体态；轻纱层叠；半倚软榻；闭目养神；雾气朦胧；盛唐华美",
     "prompt": "沐浴后披纱；柔和体态；轻纱层叠；半倚软榻；闭目养神；雾气朦胧；盛唐华美",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1BidcR5iwcli-Jk0ldt5KFjx9tvHBNbmf",
+    "driveUrl": "https://drive.google.com/file/d/1BidcR5iwcli-Jk0ldt5KFjx9tvHBNbmf/view"
   },
   {
     "id": "099",
@@ -1860,7 +2004,9 @@ window.GALLERY_CASES = [
     "blurb": "来段泰国舞蹈吧，双人的,表情和姿态都很动人。手势是不是有暗示什么？ 音乐和深度参考资产都在回帖里 真人实拍双人舞蹈短视频，9:16竖屏，总时长9.94秒，…",
     "prompt": "真人实拍双人舞蹈短视频，9:16竖屏，总时长9.94秒，一镜到底。 【角色与服装】 画面左侧人物使用预设角色#1\n，全程穿着预设服装#2\n；画面右侧人物使用预设角色#3\n，全程穿着预设服装#4\n。两位角色均为成年人。 两人的五官、发型、身材和身份分别严格锁定各自预设，服装款式、颜色、材质及配饰分别严格遵循#2和#4。不交换身份、不交换服装、不换装，不继承动作参考中人物的相貌和穿着。 【参考分工】 @深度视频\n视频1\n：只控制两个人的动作、姿态、重心变化、手臂轨迹、身体朝向、左右站位、前后距离、构图和运镜。忽略深度视频的黑白外观、人物身份、服装和背景材质，生成正常彩色真人画面。 严格逐帧跟随@深度视频，保持原有动作顺序、幅度、速度及两人之间自然的细微时间差，不擅自增加舞步，不把双人动作机械地同步化。以下动作文字仅用于辅助理解，具体轨迹与动作发生时间以@深度视频为准。 整个环境背景参考@参考图2\nczar_sp_A_cinematic_Brazilian_backyard_at_the_edge_of_the_jun_8923aad9-96c3-4b69-9860-7466b424516e_0\n，保持场景布局、材质、色彩和光线稳定。人物与场景的透视、接触阴影和光照方向一致。 【音频】 使用\n9月11日 (1)\n提供的音频作为唯一音轨，从0.00秒开始对齐，完整保留原有内容、节奏和速度。人物动作按@深度视频原始时间轴与音频同步，不变速、不循环、不重新配音。 不要额外BGM，不新增旁白、笑声或音效。即使出现开心张嘴的表情，也不要额外生成笑声。不要把整段音频强行转成人物逐字对口型。 【动作与表情时间轴】 0.00–1.40秒 严格承接参考首帧，两人在各自站位随节奏轻轻起伏，从微屈膝姿态自然向上回弹，双手按参考在身前低位活动；右侧角色的抬手及收手保持原来的时机。 表情：轻松自然的浅笑逐渐变得俏皮，嘴角柔和上扬。AU6轻微＋AU12低至中等强度。左侧角色短暂看向同伴后自然回看镜头，右侧角色保持亲切的镜头交流。嘴唇大部分闭合，不持续露齿。 1.40–3.20秒 顺着上一段动作，两人屈膝降低重心，身体轻微前倾，髋部向后移动，双手降至大腿前方，按照参考进行连续的低位摆手和翻掌。下降幅度、身体角度及手掌朝向严格跟随深度视频。 表情：笑容稍微收住，转为专注中带一点慵懒、俏皮的淡笑。AU12低强度，眼周保持放松。目光短暂跟随低位手势，再自然抬起看镜头，避免脸朝下而眼睛僵硬上翻。 3.20–5.50秒 保持参考中的屈膝姿态，连续进行左右重心转移及轻微上下律动，肩膀和髋部随身体自然联动，双手在低位按原轨迹摆动。保留左右人物各自的动作幅度及细小先后差。 表情：淡笑逐渐加强为柔和明亮的笑容，脸颊轻轻抬起，形成自然笑眼。AU6＋AU12中等强度。看手、看同伴、回看镜头的视线转换短促自然，不长期偏头，不固定一张笑脸。 5.50–7.60秒 继续原有低位律动及摆手动作，保持与参考一致的躯干侧倾、髋部移动和手腕翻转。每次换向都从上一动作连续完成，头部随重心轻微运动，不额外甩头。 表情：这一段最活泼，浅笑逐渐变成灿笑，短暂出现像忍不住开心笑了一下的神态，再自然恢复微笑。AU6＋AU12中等强度，短暂AU25，嘴唇轻轻分开后闭合。两人的笑容变化略有先后，呈现真人一起跳舞时的即时互动。 7.60–8.90秒 按参考继续最后几次低位摆动，手臂逐渐回收，身体开始为起身做准备；严格保留两个人不同的起身时机，不提前站直。 表情：笑容轻轻收敛为轻松、自信、略带俏皮的闭嘴笑。目光短暂落向手部动作，再回到镜头。表情与身体回收动作自然衔接，不突然板脸。 8.90–9.94秒 严格跟随参考结尾：右侧角色逐渐伸膝站起，双手自然向身体两侧落下；左侧角色保持参考中的稍低姿态，完成剩余律动。保留最终左右高度差、站位及身体朝向，不新增统一定点姿势，不提前冻结画面。 表情：右侧角色起身时逐渐露出明亮、松弛的笑容，AU6＋AU12中等强度，结尾保持自然笑眼；左侧角色顺着剩余动作自然微笑，不强行与右侧人物同时张嘴。最后一秒笑意增强，但不夸张大笑。 【镜头与真实感】 构图、机位、景别及画面边缘裁切严格参考@深度视频，保持原视频的稳定镜头，不额外推拉、摇移、环绕、切镜或数字变焦。人物自身的移动造成正常的构图变化。 皮肤保持自然纹理，表情由眼周、脸颊、嘴角和下颌协调产生，伴随自然眨眼与呼吸。AU编号仅作为表演强度提示，不生成机械化的面部动作。头发和衣料随动作产生符合材质的惯性，双脚承重与身体重心一致。 【避免】 固定微笑、全程露齿、持续张嘴、夸张大笑、表情突然切换、五官漂移、两张脸互相融合、身份互换、年龄或妆容突变、服装混用或变形、凭空换装、额外人物、肢体交叉粘连、多手多指、手腕反折、脚底滑动、动作瞬移、节奏错位、背景变形、镜头突变、黑白深度图外观、字幕和水印。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1oZg3EYccD2v_tVdFy2eWLm9dOBoQ2jM6",
+    "driveUrl": "https://drive.google.com/file/d/1oZg3EYccD2v_tVdFy2eWLm9dOBoQ2jM6/view"
   },
   {
     "id": "100",
@@ -1878,7 +2024,9 @@ window.GALLERY_CASES = [
     "blurb": "今晚可以对我坏一点",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "14gN1krWqsswqd4Jq2nTzNePsymRxvUqU",
+    "driveUrl": "https://drive.google.com/file/d/14gN1krWqsswqd4Jq2nTzNePsymRxvUqU/view"
   },
   {
     "id": "101",
@@ -1896,7 +2044,9 @@ window.GALLERY_CASES = [
     "blurb": "只敢在这里跳～",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "16QIr9P0yYRZBCpOP8u5H9PX1kRCUvUO4",
+    "driveUrl": "https://drive.google.com/file/d/16QIr9P0yYRZBCpOP8u5H9PX1kRCUvUO4/view"
   },
   {
     "id": "102",
@@ -1914,7 +2064,9 @@ window.GALLERY_CASES = [
     "blurb": "看看今天女一号跟谁伴舞来着？说出名字的我跟他互粉。 通常来说使用深度视频参考的时候比较容易受深度视频长度和动作的约束，今天我试验了一把把10秒的深度视频延长到15秒但是任然灵活的保持参考动作的内容的方法。 我在gpt",
     "prompt": "真人实拍双人舞蹈短视频，9:16竖屏，总时长15秒，一镜到底。整体轻松、俏皮，右侧角色的表情更丰富，带自然、有分寸的撩人感。 【角色与参考锁定】 画面左侧为成年预设角色#1\n，全程穿预设服装#2\n图片_20260911221648_5_537\n保持#2的发型和头饰；画面右侧为成年预设角色#3\n，全程穿预设服装#4\n图片_20260911221703_12_537\n并保持#4的发型和头饰。分别严格保持各自五官、发型、身材、服装及配饰，不换脸、不交换身份、不换装。 人物动作、站位、身体朝向、重心变化、手臂轨迹和镜头构图参考\n视频1\n深度视频，忽略其黑白外观、人物身份和原始场景。整个环境背景参考@参考图2\npon_A_Chinese_residential_neighborhood_in_the_1990s_everyday__bf0449ff-4783-46ed-8ace-bf49437fcb4d_0\n，生成正常彩色真人画面。 原视频\n视频1\n约9.94秒，扩展为15秒：保留开场及结尾的动作逻辑，在中段增加同一套舞蹈的连续动作循环。新增时长主要用于屈膝律动、左右重心切换、低位摆手和翻掌，不通过慢放、静止表情特写或重复定格延长。两人保持原有自然时间差，不机械地完全同步。 【音频】 @\n9月11日 (1)\n提供的音频从0.00秒原速播放至约9.94秒，不拉伸、不循环、不新增BGM或配音。后续舞蹈延续已建立的节拍，剩余时段不新增音轨。张嘴、微笑和眨眼属于表演，不强行对口型，不额外生成笑声。 【0.00–1.50秒｜轻盈开场】 两人在参考站位中微屈膝，随节奏自然回弹，双手沿原参考轨迹在身前低位摆动；右侧角色完成短促的抬手和回收。 左侧角色：轻松浅笑，短暂看向同伴后回看镜头。 右侧角色：先闭嘴浅笑，随后一侧嘴角略微上扬，眼神自然捕捉镜头。AU6轻微＋AU12低强度，面部放松，不持续露齿。 【1.50–3.20秒｜降低重心】 两人顺势屈膝下沉，髋部后移，身体轻微前倾，双手降到大腿前方，连续完成低位摆手和翻掌，保持原参考的动作幅度。 左侧角色：低头跟随手势，保持柔和笑意。 右侧角色：下沉时短暂垂眸，抬眼回看镜头时，一只眼轻轻半眯，另一只眼自然睁开，形成短促、俏皮的单眼挑逗感。保持约0.3秒后自然恢复双眼放松，嘴角带淡笑，不挤脸、不用力闭眼。 【3.20–5.00秒｜低位左右律动】 保持屈膝，重心从一侧连续移向另一侧，髋部与肩膀自然联动，双手顺着移动方向在低位轻摆，手腕柔和翻转。 左侧角色：自然笑眼，目光在手部与镜头之间短暂切换。 右侧角色：笑容轻轻收住，嘴唇由放松闭合过渡到小巧、圆润的“O”形，像跟随节奏发出无声的“喔”。下颌只轻微打开，保持约0.3–0.5秒，随后嘴唇放松并恢复浅笑。O形嘴期间保持双眼放松直视，不同时夸张眨眼。 【5.00–7.00秒｜延长舞蹈第一组】 从上一段重心落点继续，完成一组左右交替的低位律动：屈膝小幅回弹，双手从大腿前方向侧前方摆出，再沿原路径收回。动作速度保持不变，不停顿摆拍。 左侧角色：轻快浅笑，随身体起伏自然点头。 右侧角色：头部轻微侧倾，一侧眼睑短暂压低形成半眯眼，嘴唇保持微微分开，随后双眼恢复自然，嘴角逐渐上扬为笑眼微笑。表情在动作换向时完成，身体始终继续跳动。 【7.00–9.00秒｜延长舞蹈第二组】 继续同一套低位舞蹈语法，左右重心再切换一组。双掌随节拍交替翻向斜上方与斜下方，手肘保持柔软，肩膀随重心小幅侧落。保留两人细微的动作先后差。 左侧角色：短暂看向右侧同伴，带轻松、被逗乐的微笑，再看回镜头。 右侧角色：先露出明亮笑容，随后短暂收拢嘴角，再做一次比前段略明显的小“O”形嘴，眼神保持与镜头交流；立即自然过渡为露齿浅笑。表情有连续的准备、峰值和放松，不突然切换嘴型。 【9.00–11.20秒｜延长舞蹈第三组】 两人保持原有站位与屈膝幅度，继续低位摆手、髋部左右移动与小幅上下回弹。双手摆出、收回、翻掌连续完成，不增加新舞种或复杂脚步。 左侧角色：保持自然笑眼和轻微闭嘴笑。 右侧角色：这是表情最丰富的一段。先垂眸跟随手势，再抬眼看镜头，一只眼短暂半眯，随后自然睁开；唇部从轻微张开过渡为柔和灿笑。AU6＋AU12中等强度，短暂AU25。每次表情之间留出自然放松，不连续快速眨眼，不长时间保持O形嘴。 【11.20–13.20秒｜舞蹈继续，笑意回升】 顺着前一组动作继续左右律动，完成最后一组完整的低位摆手，身体随节拍回弹，双手逐步向身前收拢，为结尾起身做准备。 左侧角色：闭嘴浅笑逐渐增强，眼神自然回到镜头。 右侧角色：撩人的淡笑逐渐转成明亮、开心的笑容，短暂微微张嘴，随后收回自然微笑。脸颊抬起、眼周柔和收紧，像跳得开心时的即时反应，不夸张大笑。舞蹈动作持续，不因表情表演减速。 【13.20–15.00秒｜自然起身收尾】 承接原视频的结尾逻辑，右侧角色逐渐伸膝站起，双手自然落向身体两侧；左侧角色稍晚起身，继续完成剩余低位律动。保留自然的左右高度差，不强行同时定点，不提前冻结。 左侧角色：保持轻松浅笑，随最后动作自然回看镜头。 右侧角色：起身时先露出自信的闭嘴笑，最后一秒逐渐变成松弛、明亮的灿笑，眼睛恢复自然笑眼，嘴唇轻轻分开后放松。以漂亮、有感染力的笑容结束。 【表情连续性】 右侧角色的表情变化贯穿舞蹈，但每个时刻只有一个主要表情重点：半眯一只眼、小O形嘴、微张嘴、闭嘴淡笑、自然灿笑依次流动，不同时堆叠。单眼半眯表现为轻柔的眼睑变化，不是眼睛变小、眼球变形或面部抽搐；O形嘴保持真实唇部结构，不夸张撅嘴、不大幅张口。 左侧角色表情相对柔和，形成自然的双人差异。两人均保持正常眨眼、呼吸与细微面部运动。 【镜头与画面】 稳定机位、景别、透视和边缘裁切参考@深度视频，全程不加推拉、摇移、环绕或切镜。真实皮肤纹理，自然光照与接触阴影，头发及衣料随动作产生合理惯性。 避免：为了延长而慢放或定格、机械重复片段、动作中断、表情特写插镜、持续单眼紧闭、眼球错位、持续O形嘴、夸张噘嘴、固定微笑、持续露齿、身份或服装漂移、多余肢体、手指粘连、脚底滑动、衣物穿模、背景变形、镜头突变、字幕、水印。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "14aUgDl1XE7bhTCAmxbtu2IjVSM7j7G04",
+    "driveUrl": "https://drive.google.com/file/d/14aUgDl1XE7bhTCAmxbtu2IjVSM7j7G04/view"
   },
   {
     "id": "103",
@@ -1932,7 +2084,9 @@ window.GALLERY_CASES = [
     "blurb": "💦😜",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1jCdIHdtlBmAC0xW7H0Xsdld-H_tWaw3R",
+    "driveUrl": "https://drive.google.com/file/d/1jCdIHdtlBmAC0xW7H0Xsdld-H_tWaw3R/view"
   },
   {
     "id": "104",
@@ -1950,7 +2104,9 @@ window.GALLERY_CASES = [
     "blurb": "No.171 86P 6V Maillard aesthetic",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1quZF6JQRZ6EuOEwRIRX3MnWmxdKiWqfj",
+    "driveUrl": "https://drive.google.com/file/d/1quZF6JQRZ6EuOEwRIRX3MnWmxdKiWqfj/view"
   },
   {
     "id": "105",
@@ -1968,7 +2124,9 @@ window.GALLERY_CASES = [
     "blurb": "I'm so cute ~",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1e2jOpBZ2_3pS1V9WecC4YavzhJGB2v4p",
+    "driveUrl": "https://drive.google.com/file/d/1e2jOpBZ2_3pS1V9WecC4YavzhJGB2v4p/view"
   },
   {
     "id": "106",
@@ -1988,7 +2146,9 @@ window.GALLERY_CASES = [
     "blurb": "Dark Gold Theme #アズールレーン #AzurLane #AIart #AIイラスト",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1eohxLQbmERUcKDG3ZikZ3WMGfRjmVa7c",
+    "driveUrl": "https://drive.google.com/file/d/1eohxLQbmERUcKDG3ZikZ3WMGfRjmVa7c/view"
   },
   {
     "id": "107",
@@ -2006,7 +2166,9 @@ window.GALLERY_CASES = [
     "blurb": "揺れやばすぎる",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1weKXMvxazp3uZRIXJxPV--2Og5QTzrUN",
+    "driveUrl": "https://drive.google.com/file/d/1weKXMvxazp3uZRIXJxPV--2Og5QTzrUN/view"
   },
   {
     "id": "108",
@@ -2027,7 +2189,9 @@ window.GALLERY_CASES = [
     "blurb": "Denim càng “washed” đôi khi càng đẹp. Token bị “washed” 98% thì lại là câu chuyện khác. Nhìn bộ outfit này: jacket denim…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "18rN62vXRvlyeMaiCh-78w6xLoZesFFaY",
+    "driveUrl": "https://drive.google.com/file/d/18rN62vXRvlyeMaiCh-78w6xLoZesFFaY/view"
   },
   {
     "id": "109",
@@ -2045,7 +2209,9 @@ window.GALLERY_CASES = [
     "blurb": "ねえ、まだ夏は終わらせないよ？💙💛 Hey, summer's not over yet, okay? 💙💛",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1VaWxcruqfOxxxh3cnjmf38NR6ZAMQIVz",
+    "driveUrl": "https://drive.google.com/file/d/1VaWxcruqfOxxxh3cnjmf38NR6ZAMQIVz/view"
   },
   {
     "id": "110",
@@ -2066,7 +2232,9 @@ window.GALLERY_CASES = [
     "blurb": "この服を着て出かけることはできなかったけれど、 それでも素敵な服を一つ買った！",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1g7v5hkc4p7ZPKv7pL1yat-Rd7IWycVag",
+    "driveUrl": "https://drive.google.com/file/d/1g7v5hkc4p7ZPKv7pL1yat-Rd7IWycVag/view"
   },
   {
     "id": "111",
@@ -2084,7 +2252,9 @@ window.GALLERY_CASES = [
     "blurb": "双马尾＋白上衣＋黑丝连体，纯欲拉满却骚得不行 腿一夹就感觉丝袜摩擦得发烫，你要是现在在身边，肯定忍不住把我按在墙上… 当一次女菩萨！！！ 是粉哒看完不许瞎说😤 赶紧看，我要删了……🧐🧐🧐",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1KU0EOP64W9sh3Eddkw_zYDe7G8wSRoJd",
+    "driveUrl": "https://drive.google.com/file/d/1KU0EOP64W9sh3Eddkw_zYDe7G8wSRoJd/view"
   },
   {
     "id": "112",
@@ -2102,7 +2272,9 @@ window.GALLERY_CASES = [
     "blurb": "벌써 주말 끝..... #슬프다 #월요병 ⬇️30%OFF⬇️",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1vu-rNh4El6o8QCPXWqBibl_-VhipZZOt",
+    "driveUrl": "https://drive.google.com/file/d/1vu-rNh4El6o8QCPXWqBibl_-VhipZZOt/view"
   },
   {
     "id": "113",
@@ -2120,7 +2292,9 @@ window.GALLERY_CASES = [
     "blurb": "A photorealistic cinematic vertical portrait of a young woman in her early twenties, around 20 years old, reclining side…",
     "prompt": "A photorealistic cinematic vertical portrait of a young woman in her early twenties, around 20 years old, reclining sideways on a large dark brown upholstered sofa in a dim indoor setting. Her ethnicity is left unspecified because race or ethnicity should not be inferred from appearance alone. She has smooth fair skin with a softly luminous, even complexion, a delicate oval face, a gently tapered jawline, subtle cheekbones, a small straight nose, naturally shaped dark eyebrows, and softly full lips wearing muted coral-red lipstick. Her dark brown eyes are lowered toward her lap rather than looking at the camera, partially concealed by sweeping side bangs, creating a calm, introspective, slightly sensual expression. Her makeup is polished yet understated, with fine eyeliner, softly defined lashes, subtle warm blush, and natural skin texture.\n\nHer hair is very long, straight, dense, and glossy black to extremely dark brown, parted slightly off-center. A heavy side fringe curves diagonally across her forehead and partially covers one eye, while the remaining hair falls over one shoulder and continues down her torso.\n\nShe wears exactly a deep burgundy-red satin lingerie-style camisole and matching satin shorts. The camisole has very thin spaghetti straps, a fitted silky bodice, structured bust shaping, and intricate floral lace trim running along the low scalloped neckline. The matching short shorts are loose and softly gathered, made from the same reflective burgundy satin fabric, with a high-cut hem revealing most of her thighs. She is barefoot and wears no visible outer layers.\n\nHer body is positioned diagonally across the sofa. She sits with her torso leaning slightly backward and to one side, both legs bent and folded together across the seat, knees pointing toward the lower foreground and bare feet overlapping near the opposite corner. One arm extends horizontally outward along or beyond the sofa, while her other arm is raised, elbow bent, with her hand resting lightly against the back of her head and hair. Her shoulders remain relaxed.\n\nUse direct on-camera flash or a small frontal light source, creating bright highlights across her skin and glossy satin while the surroundings remain dark and subdued. Behind her, floor-to-ceiling charcoal-gray curtains form a simple textured backdrop, with the brown sofa filling the lower half of the scene. Shot from slightly above eye level with a 35–50mm full-frame lens, shallow-to-moderate depth of field, realistic fabric sheen, natural anatomy, subtle cinematic contrast, muted warm shadows, deep burgundy and charcoal color grading, intimate low-light editorial photography, highly realistic photographic detail. Aspect ratio 4:5.\n\n#AIArt #AIgirl",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR",
+    "driveUrl": "https://drive.google.com/file/d/1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR/view"
   },
   {
     "id": "114",
@@ -2138,7 +2312,9 @@ window.GALLERY_CASES = [
     "blurb": "ただのストレッチ",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1WWcjadzq59Dfv7xG64IeSQm-Iu7Lsz99",
+    "driveUrl": "https://drive.google.com/file/d/1WWcjadzq59Dfv7xG64IeSQm-Iu7Lsz99/view"
   },
   {
     "id": "115",
@@ -2156,7 +2332,9 @@ window.GALLERY_CASES = [
     "blurb": "真人国风变装短片《中式传统色彩美学》🎨 30 秒 15 套极限古装变装📺字幕还是有瑕疵 中式传统美学，唯美古装风格🎬 by Seedance 2.5",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1ZSIPUXI2IpK454VAWna8mNvPFiE-zoxI",
+    "driveUrl": "https://drive.google.com/file/d/1ZSIPUXI2IpK454VAWna8mNvPFiE-zoxI/view"
   },
   {
     "id": "116",
@@ -2174,7 +2352,9 @@ window.GALLERY_CASES = [
     "blurb": "おはようございます😊",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1F8hcvpod2E1gWLFP62UmjilNXAtYki8S",
+    "driveUrl": "https://drive.google.com/file/d/1F8hcvpod2E1gWLFP62UmjilNXAtYki8S/view"
   },
   {
     "id": "117",
@@ -2193,7 +2373,9 @@ window.GALLERY_CASES = [
     "blurb": "这衣服也太小了吧~肥奶都溢出来了~穿这种衣服在漫展会不会被野爹轮奸啊 #母狗 #巨乳 #女大 #cosplayㅤㅤㅤㅤㅤㅤㅤ",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1OYG9ilnq26n-ti4Fe3-Z9Ua0yRsqK2oX",
+    "driveUrl": "https://drive.google.com/file/d/1OYG9ilnq26n-ti4Fe3-Z9Ua0yRsqK2oX/view"
   },
   {
     "id": "118",
@@ -2211,7 +2393,9 @@ window.GALLERY_CASES = [
     "blurb": "还没跳完呢",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1bEAehyfT2lQ9RAPV-Dae8lOHKtrlFQVI",
+    "driveUrl": "https://drive.google.com/file/d/1bEAehyfT2lQ9RAPV-Dae8lOHKtrlFQVI/view"
   },
   {
     "id": "119",
@@ -2229,7 +2413,9 @@ window.GALLERY_CASES = [
     "blurb": "腾讯牛逼 !! 微信视觉组开源 WeMM-Embedding, 让多模视觉理解又上一个高度： 比如我想定位视频中，美女打开车门的那段切片，完全可以口述让模型帮找出来，太有用了 赶紧下载体验，嘎嘎香",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1yht1Mm_pVGyN9n4ggtATNaEAWOiQlmqh",
+    "driveUrl": "https://drive.google.com/file/d/1yht1Mm_pVGyN9n4ggtATNaEAWOiQlmqh/view"
   },
   {
     "id": "120",
@@ -2247,7 +2433,9 @@ window.GALLERY_CASES = [
     "blurb": "文思月｜妙音坊日常 🎵🌙 《凡人修仙传》｜文思月 乱星海妙音坊中的一日。 琴声悠扬，茶香淡淡，文思月换上一身古风装束，静静度过属于她的日常时光。 没有惊心动魄的大战，也没有刀光剑影。 只是琴音、茶盏与一段安静的时光。🍵🎶 喜欢文思月的话，点…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1UHDTK8H7UAvDMVT1nT8lsG94JR27ZYvg",
+    "driveUrl": "https://drive.google.com/file/d/1UHDTK8H7UAvDMVT1nT8lsG94JR27ZYvg/view"
   },
   {
     "id": "121",
@@ -2265,7 +2453,9 @@ window.GALLERY_CASES = [
     "blurb": "人已经上车了，魂还在上一站。 前置一开，刚好拍到灵魂加载到 37% 的样子。 Prompt 放评论区👇",
     "prompt": "超写实公共交通车厢高机位自拍摄影，画幅约 1:1 方形，一名年轻成年东亚女性，明确成年，坐在公交车/大巴车的蓝绿色座椅上，从非常高的位置近距离向下自拍。镜头几乎位于人物头顶正前上方，人物抬起脸看向镜头，形成非常明显的高机位俯拍＋近距离广角透视。画面主要集中在人物头部、脸、肩颈和少量上半身，背景还能辨认其他乘客和车厢座椅，但明显次要。整体像早期手机、旧数码相机或低码率视频中截下来的一帧，不是商业人像摄影。\n\n采用约 24–28mm 等效手机广角镜头，摄影距离约 35–55cm，镜头高度明显高于人物头顶并朝下倾斜约 45–60°。人物脸部位于画面中央偏上，头部因为距离镜头最近而略显放大，肩膀和胸口向画面下方快速缩小，产生真实手机广角的近大远小效果。不要长焦压缩，不要平视，不要标准证件照构图。\n\n人物为年轻成年东亚女性，中小骨架，肩部偏窄，颈部修长，锁骨非常清楚，上半身纤细自然。由于高机位俯拍和宽领上衣，肩颈、锁骨和上胸区域成为脸部之外最明显的身体结构。整体不是丰满身材，也不是健美型，而是纤细小骨架＋柔和肩线＋清楚锁骨＋轻薄上身轮廓。\n\n人物头部微微向后仰，颈部伸展，双眼抬高直视镜头。表情是画面的核心：眼睛睁得较大，但不是夸张瞪眼；嘴巴自然微张，上下唇之间留出明显小缝隙，可以看到一点牙齿和口腔暗部，神情带一点惊讶、发呆、迟钝和若有所思的感觉。不要微笑，不要嘟嘴，不要夸张卖萌。\n\n人物脸型偏小巧圆鹅蛋形，下颌短而柔和，脸颊略有幼态圆润感，但明确成年。肤色非常白皙偏冷，旧手机曝光使面部略显发白。五官自然：深棕黑色大杏仁眼，眼线细，睫毛清楚但不过度浓密；眉毛被刘海部分遮挡；鼻梁小巧顺直，鼻尖偏圆；嘴唇自然丰满，颜色为低饱和粉红/豆沙粉，表面略有水润感。\n\n人物留乌黑色短 Bob / 短蘑菇头与轻微狼尾混合发型，长度大约到下巴和后颈。头发非常浓密，顶部偏圆润蓬松，发尾在脸颊两侧自然内扣。额前为很长、很厚、略微分开的碎刘海，长度接近眼睛，中央和右侧有几束黑发垂下来，明显遮住部分眉毛和一只眼睛边缘。右侧脸附近还有一束较长发丝向下垂过眼角和脸颊。整体发型略凌乱，但仍保持柔顺黑亮质感。不要长发、高马尾、双马尾、大卷发。\n\n人物穿一件深炭灰 / 黑灰色宽领短袖或薄针织上衣。领口非常宽，接近宽 U 领/大圆领，由于坐姿和身体轻微倾斜，一侧领口明显向下滑，露出肩膀、锁骨和上胸部。里面能看到一件纯黑色细肩带背心 / camisole 内搭，只露出上缘和少量黑色布料。保持正常完整服装覆盖，不要生成内衣外露感或透明材质。\n\n深灰上衣面料柔软、轻薄、略带自然褶皱，肩线松垮，人物右侧肩膀附近衣料略微堆叠。胸前或右上方可以有一个非常小的浅灰白色运动品牌风刺绣图案，但不要生成清晰真实 Logo。\n\n人物坐在一辆城市公交车 / 通勤巴士 / 大巴车内部。座椅为非常醒目的蓝绿色 / 青绿色软包座椅，人物左后方座椅靠背清楚可见，边缘由深灰色塑料/金属框架包围，靠背顶部有椭圆形或长条形开孔扶手。\n\n背景左上方有一名乘客背对镜头坐着，只看到黑色短发后脑、颈部和白色上衣，人物完全虚化，不要抢主体。背景右上方还有另一名乘客，穿浅灰色上衣，身体被座椅和画框切掉，只保留模糊肩背和手臂轮廓。\n\n车厢地面为深灰蓝色，右上角可以看到一小段走道和座椅支架。背景色彩主要由青蓝座椅＋深灰地面＋白灰乘客衣服组成，具有非常明显的公共交通内部环境感。不要生成地铁站台、火车包厢、飞机机舱或豪华巴士。\n\n光线来自车厢窗户和顶部环境灯，整体偏冷青色自然光＋低照度车厢环境光。人物脸部受到手机自动曝光明显提亮，肤色偏冷白，鼻梁、眼睛和嘴唇有少量高光；头发和衣服保持深黑灰色。背景座椅呈高饱和青蓝，形成冷色对比。\n\n不要使用强烈闪光灯。人物面部可以略微过曝，背景则偏暗和发青，符合早期手机摄像头自动曝光效果。\n\n整体影像必须呈明显的2000s–2010s 低清手机 / 早期数码相机 / 低码率视频截图质感：明显轻微失焦、边缘柔软、像素感、JPEG 压缩、轻微运动模糊、低动态范围、冷青色偏色、人物脸部被自动曝光提亮。画面不要过于干净和锐利，尤其头发边缘、眼睛和背景座椅允许轻微糊化。\n\n重点锁定：年轻成年东亚女性＋公交车蓝绿色座椅＋极近距离高机位俯拍＋24–28mm 手机广角＋头部靠近镜头＋抬脸直视镜头＋嘴巴自然微张＋短黑色蓬松 Bob＋长碎刘海遮住部分眼睛＋非常白皙冷调肤色＋深灰宽领上衣一侧滑低＋里面黑色背心＋明显锁骨和肩颈＋背景左上黑发白衣乘客背影＋右上另一名乘客＋低清旧手机视频截图感＋冷青色公交车氛围。\n\n避免：长发、卷发、高马尾、整齐齐刘海、平视摄影、远景全身照、商业棚拍、精致网红自拍、人物微笑、露齿大笑、夸张嘟嘴、浓妆、艳红唇、丰满健美身材、宽肩厚背、性感内衣造型、衣服完全脱落、豪华汽车内饰、地铁站台、飞机机舱、暖黄色电影光、强闪光、背景完全虚化、8K 超锐利、现代 HDR、过度磨皮、塑料皮肤、动漫脸、CG 感、多余乘客脸部异常、多余肢体、水印",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1KM8q4QSfdpSi57Z2Sylg4GG44czbX0Kc",
+    "driveUrl": "https://drive.google.com/file/d/1KM8q4QSfdpSi57Z2Sylg4GG44czbX0Kc/view"
   },
   {
     "id": "122",
@@ -2284,7 +2474,9 @@ window.GALLERY_CASES = [
     "blurb": "闲鱼还真是中国的暗网，富贵险中求： 1、你要是学会了3x-ui/s-ui的搭建，一单能挣二三十。 2、但是你要把它包装成“TK网络环境搭建”，一单能挣99到199。 3、最后你要是把“家宽节点”放到“软路由”里去卖，包装成“TK盒子”、“看…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1Lyw5Ofx4QTtt6nXZGPQWKUyeGBN6XdDU",
+    "driveUrl": "https://drive.google.com/file/d/1Lyw5Ofx4QTtt6nXZGPQWKUyeGBN6XdDU/view"
   },
   {
     "id": "123",
@@ -2302,7 +2494,9 @@ window.GALLERY_CASES = [
     "blurb": "【MiniMax H3】I2V(FL2VA) 実用的ダンスプロンプト全公開！ [prompt share] #MiniMaxH3 いつでも誰でも踊り出しちゃう！？ 変な曲だなー🤣",
     "prompt": "全公開！ [prompt share]\n#MiniMaxH3 \n\nいつでも誰でも踊り出しちゃう！？\n\n変な曲だなー🤣",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "11OAF0eR_mx7-0sYJpf4okiPywnkHaBuX",
+    "driveUrl": "https://drive.google.com/file/d/11OAF0eR_mx7-0sYJpf4okiPywnkHaBuX/view"
   },
   {
     "id": "124",
@@ -2323,7 +2517,9 @@ window.GALLERY_CASES = [
     "blurb": "休日はもっぱら、Tシャツが乾くまでコインランドリーの乾燥機をずっと見てしまう癖がある凛々子さん24歳。推せる韓国アイドルを探し中。",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "15iQnfRT7vKz2sZo7ukyRrILbNvcJ4dL_",
+    "driveUrl": "https://drive.google.com/file/d/15iQnfRT7vKz2sZo7ukyRrILbNvcJ4dL_/view"
   },
   {
     "id": "125",
@@ -2341,7 +2537,9 @@ window.GALLERY_CASES = [
     "blurb": "Dailygirl_ 990 #美少女 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1jPHkoNgQOyn2YXJpZ3jtqjeEEnwTEYiW",
+    "driveUrl": "https://drive.google.com/file/d/1jPHkoNgQOyn2YXJpZ3jtqjeEEnwTEYiW/view"
   },
   {
     "id": "126",
@@ -2359,7 +2557,9 @@ window.GALLERY_CASES = [
     "blurb": "ファンサイトを更新しました🥰💕💕 今回もぷるぷるにしてみました✨ 遊びに来てね💋",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1-EWLRLQYBhg3lnRlZjTnEsIR8xDVcuXO",
+    "driveUrl": "https://drive.google.com/file/d/1-EWLRLQYBhg3lnRlZjTnEsIR8xDVcuXO/view"
   },
   {
     "id": "127",
@@ -2377,7 +2577,9 @@ window.GALLERY_CASES = [
     "blurb": "涨知识了",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1vCh-X1zUNuGAYimCFtSAqrfus_InEHue",
+    "driveUrl": "https://drive.google.com/file/d/1vCh-X1zUNuGAYimCFtSAqrfus_InEHue/view"
   },
   {
     "id": "128",
@@ -2395,7 +2597,9 @@ window.GALLERY_CASES = [
     "blurb": "GROK，影片我放回覆，直接做影片沒啥東西就一直走而已，我另寫提示詞，4個白花花的屁股",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1Y3mPu-BBYFLTkMMR4vxgLksuoBR1C4sw",
+    "driveUrl": "https://drive.google.com/file/d/1Y3mPu-BBYFLTkMMR4vxgLksuoBR1C4sw/view"
   },
   {
     "id": "129",
@@ -2413,7 +2617,9 @@ window.GALLERY_CASES = [
     "blurb": "睡前再当一次宠粉博主吧～ 依旧穴脸同框～",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "15l59w7O5WtHUMdlDeMXPFIsa3ky7ej4o",
+    "driveUrl": "https://drive.google.com/file/d/15l59w7O5WtHUMdlDeMXPFIsa3ky7ej4o/view"
   },
   {
     "id": "130",
@@ -2434,7 +2640,9 @@ window.GALLERY_CASES = [
     "blurb": "周末了，给大家分享一组 Macro Portrait Editorial Poster 巨幅人物局部 × 极小全身人物， 再混一点日系 Editorial、Artbook 排版和水墨笔触。 最近很喜欢这种尺度反差， 一只眼睛就能撑住大半张画…",
     "prompt": "周末了，给大家分享一组 \nMacro Portrait Editorial Poster\n\n巨幅人物局部 × 极小全身人物，\n再混一点日系 Editorial、Artbook 排版和水墨笔触。\n\n最近很喜欢这种尺度反差，\n一只眼睛就能撑住大半张画面，右下再藏一个完整人物，整张图一下就有了那种收藏级角色海报的味道。\n\n完整 Prompt 直接分享👇",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1btkl6ra9hAo2A29AcOp_DOiF_GIKUFJj",
+    "driveUrl": "https://drive.google.com/file/d/1btkl6ra9hAo2A29AcOp_DOiF_GIKUFJj/view"
   },
   {
     "id": "131",
@@ -2452,7 +2660,9 @@ window.GALLERY_CASES = [
     "blurb": "四张图片，一段提示词，这个效果还不错吧。 提示词和素材在⬇️",
     "prompt": "使用四张参考图生成一段20秒、9:16竖屏、雨夜酒店的一镜到底写实视频。\n\n核心规则：\n四张参考图不是四个独立画面，而是同一个连续长镜头中的四个自然到达点。镜头从参考图3的走廊行走状态开始，在人物持续运动中丝滑过渡到参考图4的镜前姿态，再连续跟随到参考图2的窗边坐姿，最后由她从椅子起身、转身、靠近窗边，平滑抵达参考图1的回眸近景。\n\n整个视频只有一个连续镜头，没有硬切、没有跳剪、没有淡入淡出、没有闪白、没有黑场转场、没有画面冻结、没有镜头瞬移、没有人物瞬间换位置、没有服装变化、没有脸部变化、没有额外人物、没有重复肢体或镜中第二个角色。\n\n主要角色：\n一位26岁左右的成年女性，黑色蓬松中短卷发，脸侧有几缕微湿碎发，深红色唇妆，佩戴细金色水滴耳饰。她穿香槟色缎面细肩带短裙与浅色细带高跟鞋，裙身褶皱、耳饰、发型和妆容全程保持一致。保留真实皮肤纹理、自然呼吸、锁骨阴影、缎面受灯光影响产生的细微反光。\n\n镜头外是她熟识且受邀进入房间的成年恋人，始终不露脸，只以手持摄影机的第一视角和低声回应存在。两人关系亲密且自愿。她不脱衣、不裸露、不做明确性行为；暧昧感来自低声对话、手指动作、刻意停顿、慢慢缩短的距离和回眸。\n\n地点：\n同一间高层酒店套房与相连走廊。走廊有黑金色墙面、暖黄壁灯和微湿的大理石地面；房间内有黑色梳妆台、金边大镜子、暖光台灯、白色百合、深色绒面扶手椅和落地窗。窗外下着细雨，雨滴沿玻璃滑落，远处车流和霓虹在玻璃后失焦成蓝白与红色光点。室内始终是暖黄灯光，窗外始终是冷蓝色雨夜，光线关系不能跳变。\n\n视觉风格：\n真实人物纪录片质感，手持摄影的近距离观察感，真实缎面材质、真实大理石反光、真实雨滴折射、真实低照度颗粒和自然肤质。人物的动作由前一姿态自然延续到后一姿态，不要把四张参考图处理成静态照片之间的生硬变形。\n\n摄像风格：\n由镜头外成年恋人手持专业全画幅相机一镜到底拍摄。镜头始终位于人物身前偏侧的位置，保持自然的亲密距离；跟随她走动时有克制的手持微晃和轻微上下起伏。景深从全身逐渐过渡到半身和近景，对焦只在她的眼睛、镜中倒影、耳饰和窗上雨滴之间自然移动。镜头的每一次靠近都由她转身、走向窗边、坐下或起身触发，不使用无动机的推拉、环绕或漂浮运镜。\n\n连续动作与对白：\n\n00:00–00:05\n镜头从她穿高跟鞋踏过湿亮大理石地面的脚步开始，平稳抬起，跟到她沿走廊缓慢走来。她右手轻按住裙侧自然褶皱，步伐不急，肩膀随着呼吸有很轻微的起伏。\n\n她听见镜头外的人靠近，放慢脚步却不回头，低声说：\n“我知道你会来。”\n\n镜头外的人轻声回答：\n“让你等久了。”\n\n她侧脸露出一点笑意，继续向梳妆镜走去。镜头始终跟在她左后侧，没有切换。\n\n00:05–00:09\n她顺着走廊自然走到梳妆镜前，在镜子前停住。镜头从她的肩后移动半步，因此同一画面里同时看见她的背影和镜中的侧脸，构图自然抵达参考图4的镜前状态。\n\n她抬起右手整理耳饰，指尖从耳垂轻轻滑到脸侧碎发，将头发别到耳后。她先看镜中的自己，再透过镜子看向镜头外的人。\n\n她压低声音说：\n“现在还站那么远？”\n\n镜头外的人停顿半秒，回答：\n“怕打扰你。”\n\n她的手从耳饰滑到梳妆台边缘，指腹轻轻划过台面，转身时让视线离开镜子：\n“那就别让我等第二次。”\n\n她转身的动作必须连续，裙摆、发丝和镜中倒影都符合真实物理运动。镜头后退半步给她让出空间，再跟随她走向窗边。\n\n00:09–00:15\n她从梳妆镜前走向落地窗，途中经过暖黄台灯和深色绒面扶手椅。镜头始终保持同一个运动方向，从她的侧后方缓慢绕到侧面，但不环绕人物一整圈。她伸手轻触窗帘边缘，借这个动作自然停在扶手椅旁。\n\n她转身坐进椅子，身体侧向窗外，双腿自然交叠，左手放在扶手上，右手仍轻轻握住窗帘边缘。镜头顺势降低一点，平滑抵达参考图2的窗边坐姿与侧脸构图。\n\n她看着雨滴滑过窗玻璃，声音很轻：\n“过来，陪我看会儿雨。”\n\n镜头外的人向前走近半步，手持画面随脚步有极轻微起伏，但不剧烈晃动。\n\n00:15–00:20\n她没有立刻看镜头，而是先用右手松开窗帘，指尖缓慢落到椅子扶手。她从椅子起身，动作完整连贯：身体重心前移、手掌短暂压住扶手、双腿站稳、裙摆自然回落。镜头随着她起身同步抬高，始终不切镜。\n\n她站到窗边，侧身面向雨夜，随后缓慢转过肩看向镜头外的人。镜头自然靠近到半身近景，人物姿态、窗边位置、暖灯与雨夜蓝光平滑抵达参考图1的最终回眸画面。\n\n她直视镜头外的人，停顿一秒，轻声说：\n“今晚，别急着走。”\n\n她说完不立刻微笑，只保持安静的眼神。镜头停在她的脸、窗上的雨滴和远处失焦霓虹之间，视频在持续雨声中自然结束。\n\n音频：\n全程现场收音，无配乐、无旁白、无夸张音效。持续存在窗外细雨、远处湿路面车流、室内空调低鸣、鞋跟落在大理石上的轻响、缎面布料摩擦、耳饰轻碰和人物自然呼吸。所有中文对白要嘴型同步、声线贴近耳语距离。镜头外恋人的声音略远、音量较低，符合其手持摄影机并站在人物面前的空间位置。\n\n目标：\n一镜到底记录一位成年女性在雨夜酒店房间等待恋人、以对话邀请对方靠近、从走廊走到镜前再走向窗边、最后回眸挽留的完整过程。四张参考图必须作为连续运动中的自然关键姿态出现，不能产生任何硬切感。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1wfS7-Yft6ymXOrzMFEgcJFWnGEwU5jXI",
+    "driveUrl": "https://drive.google.com/file/d/1wfS7-Yft6ymXOrzMFEgcJFWnGEwU5jXI/view"
   },
   {
     "id": "132",
@@ -2471,7 +2681,9 @@ window.GALLERY_CASES = [
     "blurb": "TikTokとインスタ「AI美女動画」 Astra自動生産で荒稼ぎしてる人多すぎ 👇 成人向けファンサイトで",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1nOxKHP3lBCOXHejt2Yf6KBT4v08GWLfi",
+    "driveUrl": "https://drive.google.com/file/d/1nOxKHP3lBCOXHejt2Yf6KBT4v08GWLfi/view"
   },
   {
     "id": "133",
@@ -2489,7 +2701,9 @@ window.GALLERY_CASES = [
     "blurb": "Codex 6 Astra 一定要去优化，非常重要！ Openai 官方昨天指出，你升级到 Astra 后，以前给 Codex 写的 AGENTS.md、Skills 和旧规则，已经开始拖慢它了，还多消耗token 先给他这段提示词，让 A…",
     "prompt": "Codex 6 Astra 一定要去优化，非常重要！\n\nOpenai 官方昨天指出，你升级到 Astra 后，以前给 Codex 写的 AGENTS.md、Skills 和旧规则，已经开始拖慢它了，还多消耗token\n\n先给他这段提示词，让 Astra 审查：\n\n“审查当前项目的 AGENTS.md 和 Skills，找出过宽的 Skill 触发、无关文档强制读取、重复检查、冲突规则，以及频繁要求确认的指令。逐条告诉我问题和最小修改建议，先不要改文件。”\n\n看完结果后，再让它配置：\n\n“根据刚才的审查结果优化 AGENTS.md 和 Skills。缩小 Skill 触发范围，删除无关文档读取，合并重复检查，解决冲突规则，并减少低风险任务中的无意义确认。保留安全边界、敏感操作确认和必要测试。修改完成后列出具体改动”\n\n最后用一个简单任务测试一下啊：\n\n“修复 README 里的一个拼写错误，只读取完成任务真正需要的文件，不要加载无关文档。”\n\n如果它还在读一堆没用的东西，说明旧规则还没清干净。\n模型升级了，规则也得一起升级。\n\n赶紧配置吧，也分享给你的朋友们！",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1WYwhUZcO-L-MaRXj_hY-me3xE5vbz18Z",
+    "driveUrl": "https://drive.google.com/file/d/1WYwhUZcO-L-MaRXj_hY-me3xE5vbz18Z/view"
   },
   {
     "id": "134",
@@ -2507,7 +2721,9 @@ window.GALLERY_CASES = [
     "blurb": "卧槽，这谁干的！！？ 一个人把 ElevenLabs 开源了，还让你装自己电脑上跑。 GitHub 都快 2 万星了，仓库叫 VoiceStudio。 你就给它一段干净的人声，它能把这声音学下来。视频也能配成 646 种语言。有声书、听写、…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1m3ice4L1yPsAkBIXLF-vZdUyT4-BHnm_",
+    "driveUrl": "https://drive.google.com/file/d/1m3ice4L1yPsAkBIXLF-vZdUyT4-BHnm_/view"
   },
   {
     "id": "135",
@@ -2527,7 +2743,9 @@ window.GALLERY_CASES = [
     "blurb": "你永远可以相信mj 的美学，提示词发评论区了",
     "prompt": "超写实真人东方神话电影人像，一名明确25岁以上的成年东亚女性，站在海拔极高的雪山云海之巅，塑造成来自雪域天界的银凰仙姬，整体融合东方仙侠、凤凰神话、冰雪圣女、高级时装Editorial与电影概念艺术。\n\n人物拥有清冷精致的东方鹅蛋脸，面部轮廓柔和而立体，下颌线纤细自然，深色杏仁眼，眼神清冷、疏离、带轻微神性；细长自然眉，挺直精致鼻梁，淡珊瑚粉色嘴唇微微张开。\n\n妆容使用极淡的冰雪仙侠妆，眼周加入少量暖橘红/浅珊瑚色眼影，与冷白雪山形成冷暖反差；真实皮肤毛孔与细微绒毛，面部具有自然透光感，不要网红脸，不要塑料磨皮。\n\n人物头发为浓密乌黑超长发，古典高位半盘发与大量披发结合。高山强风从画面右侧向左后方猛烈吹过，大量黑色发丝向天空飞扬，部分细碎发丝横穿脸颊、嘴唇与眼睛附近，形成极强的动态电影抓拍感。\n\n头顶佩戴大型银白凤凰羽翼发冠，造型融合凤凰展开的双翼、羽毛、冰晶与东方金属雕花，银色金属具有真实雕刻纹理和细小划痕。\n\n发冠两侧垂落大量细长银色珠链、水晶流苏和珍珠链，随着强风向不同方向摆动。\n\n佩戴大型珍珠垂坠耳环；额心加入一枚极小的冰蓝/银白宝石额饰。\n\n服装\n\n身穿一套月白＋象牙白＋冰银＋极淡香槟金东方仙侠高级定制礼服。\n\n内层为象牙白轻薄真丝裹胸式长裙，柔软自然褶皱，胸前采用克制的东方交叠结构。\n\n肩部与胸侧覆盖大型立体银白凤凰羽毛装饰、银色牡丹花、金属花瓣和冰晶状刺绣。\n\n外层披着极其轻薄的虹彩透明欧根纱仙袍，材质介于透明冰晶、珍珠薄膜和高级欧根纱之间，在阳光照射下产生极淡的蓝、粉、金、珍珠白虹彩反射。\n\n宽大透明衣袖覆盖银白立体牡丹刺绣、羽毛纹、冰晶纹。\n\n数条超长象牙白半透明披帛围绕人物飞舞，其中部分披帛从镜头前极近距离掠过，形成巨大的奶油色前景虚化。\n\n所有衣料都必须具有真实物理重量与风力反馈，不要静止悬浮。\n\n姿势\n\n人物身体呈优雅的三分之二侧身。\n\n上半身略微向画面右侧转动。\n\n一只手轻轻放在锁骨与胸前衣料附近，手指纤细自然。\n\n另一条手臂向画面右上方高高抬起，仿佛正在控制、抓住或穿过被狂风卷起的巨大透明披帛。\n\n头部微微抬起。\n\n视线看向画面右上方远处，而不是直接看镜头。\n\n表情安静、冷艳、略带神性，没有明显笑容。\n\n整体动作像电影中仙姬站在雪山之巅召唤风雪的一瞬间。\n\n环境\n\n背景为极其宏大的喜马拉雅式雪山群、冰川山峰和白色云海。\n\n远处大量尖锐雪峰穿过云层。\n\n天空为非常干净的低饱和冰蓝色。\n\n空气极其通透，具有高海拔环境特有的清晰度。\n\n远景雪山略微虚化，但仍能辨认真实岩石、积雪、冰川纹理。\n\n不要宫殿，不要室内，不要普通树林。\n\n光线——这张最重要的部分\n\n金色日出或傍晚Golden Hour。\n\n太阳位于人物右上方偏后位置，形成强烈但柔和的暖金色侧逆光。\n\n阳光穿过透明披帛产生大量柔和折射、耀斑、光斑和珍珠色高光。\n\n人物脸部保持柔和自然补光。\n\n鼻梁、嘴唇、肩膀和锁骨出现非常细腻的暖金高光。\n\n黑色飞舞发丝边缘产生漂亮的银金色轮廓光。\n\n银色凤凰冠和金属花卉出现克制的镜面反射。\n\n透明衣料形成明显的虹彩折射。\n\n大量近距离披帛遮挡镜头，产生奶油白、香槟金色圆形散景和梦幻Bloom。\n\n高光允许轻微溢出，但人物眼睛、五官和部分发丝必须保持清晰。\n\n构图与镜头\n\n9:16竖屏电影构图\n中近景至半身构图\n人物位于画面中央偏左\n头部约位于画面上方1/3区域\n轻微低机位仰拍\n镜头距离约1.5–2.5米\n85mm等效电影人像镜头\nf/1.8–f/2.2\n浅景深\n\n镜头前方必须存在多层半透明披帛、银白羽毛或冰晶装饰作为前景。\n\n部分前景严重失焦，占据画面右侧以及上下边缘，形成偷窥式、包围式电影构图。\n\n人物眼睛与脸部为主要焦点，背景雪山自然虚化。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1gb91XWUNre0ipc3xV-FoQ-S4qXHLdrgz",
+    "driveUrl": "https://drive.google.com/file/d/1gb91XWUNre0ipc3xV-FoQ-S4qXHLdrgz/view"
   },
   {
     "id": "136",
@@ -2546,7 +2764,9 @@ window.GALLERY_CASES = [
     "blurb": "昨天地铁上还刷到那个很火的豆包调教视频，但是不好意思点开看 今天去看已经没有了？只能找到这两个了 不过根据大家的反馈和姚顺宇自己的原话 豆包的语音生成功能确实不简单😂",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1jSeqhElPfL_WWvvPTe3n3JrMqIF21uFl",
+    "driveUrl": "https://drive.google.com/file/d/1jSeqhElPfL_WWvvPTe3n3JrMqIF21uFl/view"
   },
   {
     "id": "137",
@@ -2564,7 +2784,9 @@ window.GALLERY_CASES = [
     "blurb": "给大家在AIHOT上更新一个被催了无数遍的小功能：Tibo重置监控。 以后大家就不用怕Tibo重置Codex然后看不到浪费Token了： 日历查记录：全员重置、发重置卡分开标记，统一换算成北京时间，帖子附中文译文和原帖链接。 群里收通知：监…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1teuZ5uDZ4hn2C5Z5o86sQnVewlR6o-3w",
+    "driveUrl": "https://drive.google.com/file/d/1teuZ5uDZ4hn2C5Z5o86sQnVewlR6o-3w/view"
   },
   {
     "id": "138",
@@ -2582,7 +2804,9 @@ window.GALLERY_CASES = [
     "blurb": "作者的色批程度比诸位不知高到哪里去了 cr 义父江上月",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1OidemXCz407qkRLDuDK6nARWBv5j9U9J",
+    "driveUrl": "https://drive.google.com/file/d/1OidemXCz407qkRLDuDK6nARWBv5j9U9J/view"
   },
   {
     "id": "139",
@@ -2600,7 +2824,9 @@ window.GALLERY_CASES = [
     "blurb": "GPT6+Blender结合seedance2.5，短剧生产利直接提升一个档次 这是我帮朋友的爆款短剧《蟲垩纪》做的一个片段 短剧作者在这，非常高质量的作者！@JingHe007 以往这种运镜得抽多少张卡呀！有了白模一条直出 所以白模不仅是…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1zcIDEYK4kaX_ULXqsiWFi03y4pcOfZ9_",
+    "driveUrl": "https://drive.google.com/file/d/1zcIDEYK4kaX_ULXqsiWFi03y4pcOfZ9_/view"
   },
   {
     "id": "140",
@@ -2618,7 +2844,9 @@ window.GALLERY_CASES = [
     "blurb": "【MiniMax-H3の画質向上！Qwen3-VL-32BのINT8量子化が凄すぎる】 動画生成モデル「MiniMax-H3」で使われている巨大な32Bのマルチモーダルテキストエンコーダー「Qwen3-VL-32B」ですが、量子化の精度で生…",
     "prompt": "の指示になかなか従ってくれなかったり、動画の軌道がズレたり、不自然なノイズ（アーティファクト）が出たりすることが分かっているそうです。\n\nそこで注目なのが、独自の回転角変換（ConvRot）を取り入れた「INT8フォーマット」！精度の大幅な劣化を防ぎつつ、プロンプトの理解度や動画の細かいディテール、ダイナミクスがめちゃくちゃ向上するスイートスポットになっているとのことです！💡\n\nさらにComfyUIのダイナミックVRAM管理を使えば、12GB VRAMのようなミドルレンジの環境でも、システムRAM（64GB以上）へ効率的にオフロードしながら実用的な速度で運用できるのは本当にありがたいですね！\n\n#AI動画生成 #ComfyUI",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1U61bZnmugD8YNQ2_QLYw9mhY2QiqwTtZ",
+    "driveUrl": "https://drive.google.com/file/d/1U61bZnmugD8YNQ2_QLYw9mhY2QiqwTtZ/view"
   },
   {
     "id": "141",
@@ -2636,7 +2864,9 @@ window.GALLERY_CASES = [
     "blurb": "用 GPT-6 Astra + Three.js + Tripo，做了一个完整的 3D T 恤定制工作室。 你可以直接在浏览器里： 🎨 在 T 恤任何位置画画 💨 像喷墙一样实时喷漆 🖼️ 用 GPT Image 2.5 生成贴纸 🧵 改面…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1-rLSfS_GkKQxgqFRDz46zqT8bdVyznqZ",
+    "driveUrl": "https://drive.google.com/file/d/1-rLSfS_GkKQxgqFRDz46zqT8bdVyznqZ/view"
   },
   {
     "id": "142",
@@ -2655,7 +2885,9 @@ window.GALLERY_CASES = [
     "blurb": "🚨AI가 이렇게 까지 게임을 뽑을 수 있다고? seedance2.5냐고요? 아닙니다! 영상으로 또 사기치냐고요? 아닙니다! 이건 정말 게임 스프라이트 입니다! 이 퀄리티로 게임을 만들 수 있습니다! 이 오픈소스는 미…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1ngGwDu00G8phhJl5bv0jDd9NxIE7JKD-",
+    "driveUrl": "https://drive.google.com/file/d/1ngGwDu00G8phhJl5bv0jDd9NxIE7JKD-/view"
   },
   {
     "id": "143",
@@ -2673,7 +2905,9 @@ window.GALLERY_CASES = [
     "blurb": "Este tipo explica cómo crear páginas web profesionales con GPT-5.6 Sol. Un tutorial de 21 minutos donde explica paso a p…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1C8dofzuPCcbfpJ24XGB1GyRI299rEd3B",
+    "driveUrl": "https://drive.google.com/file/d/1C8dofzuPCcbfpJ24XGB1GyRI299rEd3B/view"
   },
   {
     "id": "144",
@@ -2691,7 +2925,9 @@ window.GALLERY_CASES = [
     "blurb": "卧槽，审核规则是认真的么~",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1SR_U76q7I-MZxy6c55cVeMliVDQvqgtO",
+    "driveUrl": "https://drive.google.com/file/d/1SR_U76q7I-MZxy6c55cVeMliVDQvqgtO/view"
   },
   {
     "id": "145",
@@ -2709,7 +2945,9 @@ window.GALLERY_CASES = [
     "blurb": "🚨UN DESARROLLADOR HA LOGRADO MULTIPLICAR POR 100 EL LÍMITE DE GPT-6 ASTRA SIN COSTE EXTRA Ha creado su propia versión de…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1kvdjSlf7Vu7P0ABADEOZT1VTdbCzveef",
+    "driveUrl": "https://drive.google.com/file/d/1kvdjSlf7Vu7P0ABADEOZT1VTdbCzveef/view"
   },
   {
     "id": "146",
@@ -2727,7 +2965,9 @@ window.GALLERY_CASES = [
     "blurb": "这是视频中涉及的白模和提示词⬇️ 现在全部公开，欢迎拿去使用和尝试，制作不易，可以的话带上我名字就行🙏",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1Jrc5-XDQxtEFlmel1Q3FhXDPS9PqeDju",
+    "driveUrl": "https://drive.google.com/file/d/1Jrc5-XDQxtEFlmel1Q3FhXDPS9PqeDju/view"
   },
   {
     "id": "147",
@@ -2745,7 +2985,9 @@ window.GALLERY_CASES = [
     "blurb": "发现一个贼牛逼的开源项目 下载对标全部视频只用了1分钟 在github上也有10k的star，群众的眼睛果然好啊",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1qpBGOTunkG5FBPjx0qoa_BRDRcqcGJWp",
+    "driveUrl": "https://drive.google.com/file/d/1qpBGOTunkG5FBPjx0qoa_BRDRcqcGJWp/view"
   },
   {
     "id": "148",
@@ -2763,7 +3005,9 @@ window.GALLERY_CASES = [
     "blurb": "兄弟们，AI视频制作这赛道我是真有点跟不上了。 刚翻到一个叫OpenMontage的开源项目，GitHub已经冲到了当天热榜第一。它不是帮你剪，是压根不用你动手——丢一句人话进去，脚本、素材、配音、字幕、成片全给你跑完。",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1mccAjhp5_USyn4DbI0Tw0QNb23awbTG6",
+    "driveUrl": "https://drive.google.com/file/d/1mccAjhp5_USyn4DbI0Tw0QNb23awbTG6/view"
   },
   {
     "id": "149",
@@ -2781,7 +3025,9 @@ window.GALLERY_CASES = [
     "blurb": "发现一个有点意思的网站：有人把 X 上的 NSFW 博主做成了一个精选画廊。 不用自己在 X 上到处翻，直接按博主 ID、昵称、简介搜索，也可以随机探索，还能按粉丝数、热度等方式筛选。网站本身主要做公开账号的归档和索引。 这个入口确实省事，…",
     "prompt": "",
     "nsfw": true,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1Nw1yMKGPKxYd4vHi-5XjP_QxZgqcaueR",
+    "driveUrl": "https://drive.google.com/file/d/1Nw1yMKGPKxYd4vHi-5XjP_QxZgqcaueR/view"
   },
   {
     "id": "150",
@@ -2799,7 +3045,9 @@ window.GALLERY_CASES = [
     "blurb": "这种怼脸拍的，和真人又什么区别，提示词放评论区了",
     "prompt": "生成一段 15秒、9:16竖屏、4K超写实真人实拍视频。\n\n画面中是一名明确成年东亚女性，自然清冷型东方面孔，小巧自然鹅蛋脸，柔和下颌线，五官比例真实，不追求网红模板式完美。\n\n人物拥有乌黑自然长发，头发随意披散，部分黑色发丝落在额头、眼睛和脸颊附近。发丝必须根根清晰，存在真实粗细差异、凌乱碎发和细小绒毛。\n\n整体为极淡的清透裸妆。\n\n自然原生眉毛，可以清晰看到眉毛毛流。\n\n深棕黑色眼睛，眼球湿润，瞳孔和虹膜具有真实反射；非常自然的细眼线与睫毛，不使用夸张假睫毛。\n\n鼻梁纤细自然，鼻尖具有明显阳光高光。\n\n嘴唇为自然饱满的淡珊瑚粉色，覆盖少量透明水润唇釉，保留完整真实唇纹。\n\n最重要的是皮肤。\n\n禁止把人物生成成传统AI美女的无瑕皮肤。\n\n脸颊、鼻翼、鼻梁必须清楚看到：\n\n真实毛孔\n细小皮肤纹理\n轻微凹凸\n少量浅色雀斑\n细小色素点\n自然小痣\n轻微肤色不均\n鼻翼真实纹理\n眼下细纹\n皮脂产生的自然高光\n面部细小绒毛\n\n皮肤具有真实成年女性状态，但整体仍然干净、健康、清透。\n\n⸻\n\n光线\n\n使用非常强烈的自然太阳直射光。\n\n阳光从人物面部侧前方照射，形成明显的高光和阴影分界。\n\n鼻梁、鼻尖、颧骨、嘴唇以及额头出现真实镜面高光。\n\n随着人物与镜头产生轻微位移，阳光被周围物体或发丝遮挡，在脸上形成不断变化的细碎光影纹理。\n\n部分画面允许出现轻微过曝高光，这是手机近距离拍摄的重要真实感来源。\n\n禁止影棚柔光。\n\n禁止完美均匀打光。\n\n⸻\n\n0–3秒｜开场怼脸\n\n直接从极端面部大特写开始。\n\n摄影机距离人物面部约 10–20cm。\n\n采用接近手机主摄或轻微长焦裁切的视觉效果。\n\n人物面部几乎占满整个9:16画面。\n\n镜头从略微侧面的角度拍摄，重点同时看到：\n\n一侧眼睛\n鼻梁\n鼻尖\n双唇\n部分脸颊\n\n人物安静看向镜头。\n\n嘴唇微微分开。\n\n没有说话。\n\n只有非常轻微的呼吸。\n\n眼球自然转动。\n\n偶尔轻微眨眼。\n\n摄影机出现非常轻微的手持漂移。\n\n⸻\n\n3–6秒｜眼睛与皮肤微距\n\n摄影机进一步靠近人物。\n\n画面开始进入真正的Macro Beauty Close-up。\n\n镜头缓慢横向移动。\n\n从眼睛移动到鼻梁，再经过脸颊。\n\n不要快速运镜。\n\n速度非常慢。\n\n此时重点不是人物动作，而是展示真实皮肤。\n\n阳光扫过脸颊后，毛孔、雀斑、细小色素点和皮肤纹理被明显照亮。\n\n人物轻微眯眼。\n\n眼皮自然下降。\n\n随后缓慢重新睁开。\n\n眼球反射出摄影设备与周围环境的自然高光。\n\n⸻\n\n6–10秒｜鼻子嘴唇超级特写\n\n镜头继续缓慢向下移动。\n\n构图逐渐变成：\n\n鼻尖 + 鼻翼 + 上唇 + 下唇 + 单侧脸颊\n\n占据几乎整个画面。\n\n此时可以裁掉部分额头和眼睛。\n\n这是原视频非常关键的构图特点：\n\n允许五官被画面边缘切掉。\n\n不要强迫完整脸部始终处于画面中央。\n\n摄影机非常靠近皮肤。\n\n清晰展示鼻翼附近的真实毛孔、脸颊细小雀斑以及皮肤表面的自然油脂。\n\n嘴唇微微张开。\n\n可以短暂露出一点牙齿。\n\n嘴唇进行非常轻微的自然运动。\n\n透明唇釉随着阳光产生湿润高光。\n\n⸻\n\n10–13秒｜镜头重新向眼睛移动\n\n摄影机沿人物脸部缓慢向上移动。\n\n从嘴唇经过鼻梁重新移动至眼睛。\n\n人物头部轻微转动约 5–10度。\n\n不是摆拍式转头。\n\n而是非常自然的小幅调整。\n\n几根黑色碎发进入镜头。\n\n部分头发覆盖眼睛附近。\n\n人物视线先看向镜头旁边。\n\n随后重新看向镜头。\n\n脸部光影发生变化。\n\n部分区域进入阴影。\n\n部分区域重新被阳光照亮。\n\n⸻\n\n13–15秒｜眼睛收尾\n\n最后停留在人物一侧眼睛和鼻梁附近的超级近距离特写。\n\n一只眼睛成为视觉中心。\n\n瞳孔中具有清晰真实的环境倒影。\n\n黑色发丝从画面上方自然垂落。\n\n阳光穿过发丝，在眼睛周围和脸颊形成细碎的条纹状阴影。\n\n人物最后轻微眨一次眼。\n\n嘴角出现几乎不可察觉的自然变化。\n\n镜头保持约1秒。\n\n结束。\n\n运镜锁定\n\n整个视频不要传统意义上的“推拉摇移大运镜”，而采用 贴着人物脸部缓慢探索的微距摄影方式。",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "17hsgzs5PKdzskoYrrqz2PxCtIdIQAv3W",
+    "driveUrl": "https://drive.google.com/file/d/17hsgzs5PKdzskoYrrqz2PxCtIdIQAv3W/view"
   },
   {
     "id": "151",
@@ -2817,7 +3065,9 @@ window.GALLERY_CASES = [
     "blurb": "官方的教程，真就是保姆级！！ Astra + Tripo 3D + Blender！ 这个三维模型生成的王炸组合，真的绝了！！ 应该是目前最稳、效果最好的三维模型生成方式！！ Tripo 官方刚刚放出了一套非常完整三维角色模型制作教程，从图…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "12Wt_wU_aJmwmqDynBf2pSCRCcAs9LHWz",
+    "driveUrl": "https://drive.google.com/file/d/12Wt_wU_aJmwmqDynBf2pSCRCcAs9LHWz/view"
   },
   {
     "id": "152",
@@ -2835,7 +3085,9 @@ window.GALLERY_CASES = [
     "blurb": "怒烧50万积分！！ 总结一套最细GPT 6 Astra+Blender建白模，结合Seedance2.5生成电影级运镜和画面教程 该视频总时长10分钟，总结了生成什么标准的白模以及怎么结合白模写提示词，过程中应该注意什么坑 包括还讲述了除B…",
     "prompt": "",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1EHlcPgdUE1JRCIhz5tTmZ4x-EW_yN8QJ",
+    "driveUrl": "https://drive.google.com/file/d/1EHlcPgdUE1JRCIhz5tTmZ4x-EW_yN8QJ/view"
   },
   {
     "id": "153",
@@ -2853,6 +3105,8 @@ window.GALLERY_CASES = [
     "blurb": "分享一组绝美的蒙纱AI古风女生提示词🙌 朦胧美的感觉真是太棒啦！🥳🥳 提示词prompt：东方古典人像摄影，清冷柔美的五官，白皙真实肤色，细长眼型，淡淡粉色眼妆，眼神安静而疏离，嘴唇自然淡粉色。",
     "prompt": "东方古典人像摄影，清冷柔美的五官，白皙真实肤色，细长眼型，淡淡粉色眼妆，眼神安静而疏离，嘴唇自然淡粉色。\n\n人物采用约45度侧身姿态，身体朝画面右侧，肩膀略微转向镜头，头部轻微回转直视镜头，形成典型的侧身回眸构图；人物位于画面中央偏右，上半身至手部入镜，脸部作为视觉中心，摄影机与人物视线接近同一高度。\n\n黑色长发，中式古典盘发，头顶自然蓬松，后侧发髻低位盘起，大量乌黑长发从发髻自然垂落至胸背位置；发髻中插入白色花朵发饰，搭配细长银色流苏发簪、珍珠与金属链状垂饰，白色飘带从发饰后方自然垂落；额前与鬓角保留大量细碎碎发。\n\n一阵自然微风吹过，额前碎发与侧脸发丝被风吹向画面左侧，大量极细发丝被逆光勾勒出明亮轮廓，形成明显的动态线条，但头发整体仍保持真实自然，不夸张、不凌乱。\n\n身穿传统东方白色古风长裙，轻薄半透明白色纱质外层，宽大柔软的衣袖自然垂落并包裹手臂，肩部与锁骨区域覆盖轻薄白纱，衣料具有真实丝绸与薄纱质感；面部下半部分被一层轻薄半透明白色面纱自然遮挡，面纱贴近鼻梁与脸颊并随微风轻轻飘动，仅露出双眼与眉眼区域。\n\n人物左手抬至胸前附近，手指自然微曲，动作优雅克制，手腕佩戴精致白色珍珠手链；手部保持真实人体比例，手指纤细自然，不僵硬。\n\n摄影环境为极暗的黑色夜景背景，背景几乎完全隐没在黑暗中，没有明显建筑，没有多余人物，没有明显环境元素；主体与背景形成强烈黑白明暗对比。\n\n光线采用强烈的侧后方逆光，从人物左后方照射，形成明显的发丝轮廓光、肩部轮廓光和白色衣料边缘高光；逆光穿透薄纱与半透明面纱产生柔和的透光效果，人物脸部仍保持柔和曝光；局部高光明显但不过曝，黑色背景深沉。\n\n画面具有强烈的电影级明暗关系，冷黑背景与人物暖白肤色形成微妙冷暖对比；高光区域出现自然镜头光晕与柔和耀斑，背景保持极浅景深，高度虚化，几乎没有可辨识环境细节。\n\n摄影风格：高级东方古典写真、电影感人像摄影、低调奢华、真实摄影质感、自然皮肤纹理、真实毛孔、真实发丝、真实纱料透光、真实布料褶皱。\n\n85mm中长焦人像镜头，约F1.4-F2.0大光圈，浅景深，主体清晰，背景完全虚化；高速快门冻结飞散发丝与衣袖动态，真实光学虚化，柔和焦外，高光散景，轻微镜头耀斑，真实光学成像。\n\n高动态范围但不过度HDR，保留深黑阴影与高光细节，柔和胶片颗粒，轻微电影级锐度，低饱和度，高级黑白灰色调，柔和高光过渡，真实摄影，不要CG感，不要塑料皮肤，不要AI磨皮。\n\n竖幅9:16构图，人物占据画面约75%面积，中近景肖像，视觉重心集中在眼睛、飞散发丝和白色衣料，构图克制留白，电影剧照质感，超写实摄影，8K细节。\n\n负向提示词：现代服装，现代发型，现代建筑，室内场景，城市背景，复杂背景，其他人物，过多道具，鲜艳颜色，浓妆，夸张美颜，塑料皮肤，AI皮肤，过度磨皮，蜡像感，CG感，3D渲染感，动漫风，油画感，过度HDR，过曝，高光死白，脸部变形，五官不对称，双眼大小不同，畸形手指，多余手指，手部融合，肢体扭曲，发丝塑料感，过度锐化，过度虚化，低清晰度，噪点，文字，水印，Logo",
     "nsfw": false,
-    "addedAt": "2026.09.15"
+    "addedAt": "2026.09.15",
+    "driveId": "1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR",
+    "driveUrl": "https://drive.google.com/file/d/1E7n4wQQc-f7zptk-n9K2o-W32BLwRJlR/view"
   }
-];
+]
