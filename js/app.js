@@ -76,7 +76,15 @@
       if (isNsfw(c)) return false;
       if (current !== "全部" && c.category !== current) return false;
       if (!q) return true;
-      return [c.title, c.blurb, c.category, c.model, c.prompt, c.source]
+      const id = String(c.id || "");
+      const idNum = String(parseInt(id, 10));
+      const qDigits = q.replace(/^case\s*/i, "").trim();
+      if (/^\d+$/.test(qDigits)) {
+        if (id === qDigits || idNum === String(parseInt(qDigits, 10)) || id.padStart(3, "0") === qDigits.padStart(3, "0")) {
+          return true;
+        }
+      }
+      return [c.id, `case ${c.id}`, c.xid, c.title, c.blurb, c.category, c.model, c.prompt, c.source]
         .join(" ")
         .toLowerCase()
         .includes(q);
