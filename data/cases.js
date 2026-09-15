@@ -3167,8 +3167,8 @@ window.GALLERY_CASES = [
     "prompt": "起点の画像生成精度低いから直で動画化\n\n仕様画像構図によって通らないから使い分け【】は同じ\n\n(※童顔人物が「成人女性」追加で通ったからデフォに)\n\n(※実在人物使用、up厳禁)\n\n(※児ポ規制強化されて来てる印象。生成人物でも未成年に見えるのはup等ご注意を)",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1wg4wR-uwxF0YrXUNkK8wN7U7RjIRKNko",
+    "driveUrl": "https://drive.google.com/file/d/1wg4wR-uwxF0YrXUNkK8wN7U7RjIRKNko/view"
   },
   {
     "id": "157",
@@ -3229,8 +3229,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1V1jpU_oVaF_hGy4vADnAhOuHVzn2PkDL",
+    "driveUrl": "https://drive.google.com/file/d/1V1jpU_oVaF_hGy4vADnAhOuHVzn2PkDL/view"
   },
   {
     "id": "160",
@@ -3249,8 +3249,8 @@ window.GALLERY_CASES = [
     "prompt": "主題：\n夜景の黒い羽根\n\n主体：\n高層ビルを望む夜のバルコニーで、成人女性が黒いレース衣装と羽根のローブをまとい背中を向ける縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n濃茶の髪を高い無造作なお団子にし、薄い前髪と後れ毛。細い卵形輪郭、横長の茶色い目、自然な眉、小ぶりな鼻、艶のある桃色の唇。肩越しにカメラをまっすぐ見る。 顔を肩越しにカメラへ向ける。 落ち着いた表情。\n\n服装・ポーズ：\n黒い透けるレースブラと細い背紐、黒い細紐レースボトム。黒い長い羽根のローブを肘まで落として両腕に掛ける。手すり前で背中を向け、腰をわずかにひねる。 黒い水着。\n\n背景・光：\n黒い金属手すり、眼下の道路灯、密な高層ビル群と暗い夜空。正面フラッシュが人物と黒い羽根を明るくし、街明かりは細かな玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。\n\n構図・カメラ：\n4:5の縦構図、カメラは近い後方斜めの腿上写真。人物を右中央、夜景を左上へ広げ、開いた背中と羽根ローブを大きく置く。顔と黒レースに焦点。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜間フラッシュ写真。黒レース、細い紐、光を吸う羽根、肌の艶、遠い街灯を高コントラストで写す。\n\nネガティブ：\n背面の黒レースと両腕の羽根ローブを省かない",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1D_U9RFPQOv0Bhi8hS0bW2O3N-Nr6OkIh",
+    "driveUrl": "https://drive.google.com/file/d/1D_U9RFPQOv0Bhi8hS0bW2O3N-Nr6OkIh/view"
   },
   {
     "id": "161",
@@ -3269,8 +3269,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1Wg8HEB5DRunNipsLF47zEdvp412lEbXd",
+    "driveUrl": "https://drive.google.com/file/d/1Wg8HEB5DRunNipsLF47zEdvp412lEbXd/view"
   },
   {
     "id": "162",
@@ -3309,8 +3309,8 @@ window.GALLERY_CASES = [
     "prompt": "Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts.\nSTYLE:\nSexy Korean Idol Campaign × Luxury Fashion Editorial × AAA Motion Graphics × Scarlet Red Concept Film.\nTheme: SCARLET RIOT\nInitials: SR\nTagline: TOO HOT TO STAY STILL.\nCHARACTER LOCK:\nUse the uploaded woman as the only identity reference. Keep the exact same face, facial proportions, skin tone, body proportions, hairstyle silhouette, age impression and Korean idol aura throughout.\nShe is a young adult East Asian woman with a refined small face, fair natural skin, long dark-brown hair, airy bangs and a clean but slightly sharp gaze. Her mood is sexy, cold, confident, elegant, expensive and slightly rebellious.\nDo NOT inherit the original light-blue outfit, skirt, white platform boots or white bag.\nWARDROBE:\nOne fixed premium red fashion look throughout:\ndeep cherry-red fitted corset top, cropped burgundy structured blazer worn open or loosely on the shoulders, high-waisted black/red mini skirt or tailored shorts, burgundy or black over-the-knee boots, gold earrings, delicate necklace, rings and bracelet.\nSexy through shoulders, collarbone, waistline, long legs, tailoring, gaze and posture — never vulgar or overly revealing.\nSCENES:\nUse multiple coordinated environments:\ncream luxury studio, cream vintage car interior, white farmhouse exterior, country road beside green fields, deep-red editorial studio, golden-hour window interior, red curtain/mirror fashion set, vintage roadside set at dusk.\nAll scenes must share one cohesive red / cream / golden-hour fashion world.\nVISUAL RATIO:\n80% motion graphics, 20% character performance.\nUse giant kinetic typography, scarlet circles, hard-edged shapes, red plaid fragments, torn paper, gold foil stamps, scan lines, film sprockets, halftone, technical grids, crosshairs, split screens, light leaks, sun flares, shutter flashes and graphic wipes.\nPalette:\nScarlet Red, Cherry Red, Burgundy, Cream, Ivory, Champagne Gold, Black, with tiny Sage Green / Sky Blue accents.\nNo purple-blue neon.\nCUTS:\n01 cream studio, giant scarlet circle, gold bars, S then R slam in; quick flashes of lips and eyes.\n02 vintage car, R becomes window frame, extreme face close-up, she shifts gaze to camera, light-leak burst.\n03 deep-red studio, giant SR, she walks from behind the letters, hand on blazer, gold dust and red ribbons.\n04 triptych: farmhouse look-back / field hair toss / red-studio lean; SCARLET HOUR scrolls behind.\n05 mirrored red studio, rotating ring: SOFT LIGHT / HARD STARE / SCARLET FEVER; slow turn, ring explodes, snap zoom to eyes.\n06 golden-hour window, giant SCARLET; she touches the S, paper-like compression, sun flare across face.\n07 country road, low-angle turn, three red ghost frames, outlined TURN rotates 180°.\n08 black-red studio, HOT / SHARP / CHIC / WILD hit one per beat with shutter flash and impact shake.\n09 farmhouse becomes white wireframe on black; red target circle, gold technical lines and crosshair lock around her.\n10 vintage car, she leans forward; red/black/cream panes shatter to reveal S → R → SR.\n11 four rapid editorial posters: 01 car-window profile, 02 red studio, 03 farmhouse turn-back, 04 cream studio seated pose.\n12 cream hero studio climax: she stands center, blazer open, chin lifts; scarlet rings, flare, gold dust, black type and red paper explode outward. Title: SCARLET RIOT.\n13 final identity card combining previous visual motifs. Huge SR behind her. Final title: SCARLET RIOT. Tagline: TOO HOT TO STAY STILL. Scarlet pulse, gold-ring flash, freeze, hard cut to black.\nPERFORMANCE:\nNo full dance. Use side turn, look-back, eye lift, hair toss, blazer touch, slight lean, one step, chin lift, controlled closed-mouth smile.\nQuiet power: the character stays calm while graphics explode around her.\nCAMERA:\n35mm environment/full-body, 50mm portraits, 85mm details.\nUse snap zooms, fast push-ins, whip pans, controlled low angles and graphic match cuts. Keep the camera stylish and controlled.\nLIGHT:\nCream soft light × deep-red edge light × golden-hour sunlight. Real skin texture, detailed fabric, leather, metal and gold jewelry.\nAUDIO:\nFashion electronic × Future Bass × Dark Pop × Hybrid Trailer Beat. Heavy bass, risers, shutter clicks, paper snaps, metallic hits, glass breaks, fabric whooshes and gold-foil stamp sounds. Peak at CUT 12.\nNEGATIVE:\nNo face drift, hairstyle change, character replacement, original blue outfit, random wardrobe change, vulgar sexuality, body morphing, extra people, anime, 3D cartoon, cyberpunk, cheap nightclub look, random scenes, messy or unreadable text, logos, subtitles, UI or watermark.\nFINAL FEEL:\nOne locked Korean-idol heroine × premium scarlet fashion styling × multi-scene luxury editorial × AAA motion graphics × strong SR branding. High-end, cold, vivid, artistic and campaign-ready.\n#MiniMaxH3 #AIVideo #KFashion #KpopStyle #FashionFilm #Editorial #ImaStudio",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1HUtEQV58apHy-xYRL6ZNW_Hv3jcvTkSE",
+    "driveUrl": "https://drive.google.com/file/d/1HUtEQV58apHy-xYRL6ZNW_Hv3jcvTkSE/view"
   },
   {
     "id": "164",
@@ -3329,8 +3329,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1DTV9BE4_zo_Ul4dEy7ui640ThKs57N3v",
+    "driveUrl": "https://drive.google.com/file/d/1DTV9BE4_zo_Ul4dEy7ui640ThKs57N3v/view"
   },
   {
     "id": "165",
@@ -3349,8 +3349,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1se3OXT7LC4OkqzMvmjh_bBRZhq1qi6yH",
+    "driveUrl": "https://drive.google.com/file/d/1se3OXT7LC4OkqzMvmjh_bBRZhq1qi6yH/view"
   },
   {
     "id": "166",
@@ -3389,8 +3389,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1fVeccUGy9egHyX1d29scCSH0Rf477eFe",
+    "driveUrl": "https://drive.google.com/file/d/1fVeccUGy9egHyX1d29scCSH0Rf477eFe/view"
   },
   {
     "id": "168",
@@ -3429,8 +3429,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "13rDdV4j-EXx9FfQFRG-HZeekgeyuZLg1",
+    "driveUrl": "https://drive.google.com/file/d/13rDdV4j-EXx9FfQFRG-HZeekgeyuZLg1/view"
   },
   {
     "id": "170",
@@ -3449,8 +3449,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1Kape2l6xL4HzzzdIEs84KxcySV-zNZZ-",
+    "driveUrl": "https://drive.google.com/file/d/1Kape2l6xL4HzzzdIEs84KxcySV-zNZZ-/view"
   },
   {
     "id": "171",
@@ -3469,8 +3469,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": true,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1r7xgutn4vQuKu0gIeVRzs1GsO5Vm74F0",
+    "driveUrl": "https://drive.google.com/file/d/1r7xgutn4vQuKu0gIeVRzs1GsO5Vm74F0/view"
   },
   {
     "id": "172",
@@ -3492,8 +3492,8 @@ window.GALLERY_CASES = [
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1RKDGvOIVXDLbayMFPEqaGOwSG2OGBFB-",
+    "driveUrl": "https://drive.google.com/file/d/1RKDGvOIVXDLbayMFPEqaGOwSG2OGBFB-/view"
   },
   {
     "id": "173",
@@ -3512,7 +3512,7 @@ window.GALLERY_CASES = [
     "prompt": "收藏这一条\n以后反推不用从零措辞，按图选类，复制即用。\n\n1. 通用图片反推（所有图都能用）\n\n详细反推这张图片的完整提示词，包含主体、风格、色彩、光影、构图、质感、分辨率和细节描述。\n分析这张图片的视觉元素、色调、氛围、技法和关键词，生成可直接用于 AI 绘图的精准 prompt。\n请用中英双语详细描述图片内容，拆解风格、光线、材质、镜头和配色。\n\n2. 字体 / Logo / 文字设计类\n\n反推这款字体的风格、字形特征、笔画质感、配色、排版和特效，生成字体设计提示词。\n详细描述字体：风格（现代 / 复古 / 赛博 / 手写）、粗细、衬线 / 无衬线、倒角、立体效果、光泽，以及金属 / 磨砂 / 玻璃质感。\n分析 Logo 的配色方案、构图比例、光影、材质和特效（描边、发光、渐变、浮雕），输出可复制提示词。\n\n3. 风景类（自然风景、城市风景、场景）\n\n反推这张风景图的环境、天气、时间、光线、色调、氛围、构图和景深，生成风景提示词。\n详细描述：场景主体、季节、时段（清晨 / 黄昏 / 夜晚）、天空、云层、植被、水体、色调、氛围感和镜头感。\n提取关键词：风格、色彩、光影、画质、分辨率、氛围、透视和细节质感。\n\n4. 摄影类（真人 / 人像 / 产品 / 纪实）\n\n反推这张摄影图的相机参数、镜头、光影、色调、画质、构图和氛围，生成摄影风格 prompt。\n详细描述：光线（自然光 / 硬光 / 柔光 / 逆光）、景深、焦距、画质（8K / 高清 / 胶片）、色调（冷色 / 暖色 / 复古 / 胶片感）和构图。\n提取：摄影师风格、光影、质感、分辨率、对焦、噪点、锐度和情绪氛围。\n\n5. 插画类（扁平 / 二次元 / 治愈 / 手绘）\n\n反推这张插画的绘画风格、笔触、肌理、色彩、线条、构图、氛围和画师风格。\n详细描述：手绘 / 板绘、平涂 / 厚涂、赛璐璐 / 二次元 / 治愈系 / 国风、线条粗细、色彩搭配、质感和细节。\n生成可直接用于 AI 绘画的插画关键词，包含技法、色彩、主题和氛围。\n\n6. 3D 类（C4D / Blender / 3D 渲染）\n\n反推这张 3D 图的渲染风格、材质、灯光、建模风格、精度、配色、质感，以及 C4D / Blender 特征。\n详细描述：3D 卡通 / 写实 / 黏土 / 磨砂 / 金属 / 玻璃 / 亚克力、光影（三点布光）、反射、粗糙度、Octane 渲染、软边缘和体积光。\n提取关键词：3D render、C4D、Blender、Octane、PBR 材质、柔光、高细节、8K、卡通质感、极简。\n\n7. IP 角色类（潮玩 / Q 版 / 盲盒）\n\n反推这个 IP 角色的形象设定、风格类型、五官表情、体型比例、服饰、配色、材质、光影和细节特征，生成同款 IP 角色提示词。\n详细描述：风格（Q 版 / 潮玩 / 治愈 / 国风 / 黏土 / 卡通）、头身比、发型、服饰装饰、神态、动作姿态，以及材质（哑光 / 树脂 / PVC / 陶瓷）和质感。\n提取关键词：IP 角色、盲盒风格、潮玩、C4D、3D 渲染、柔光、纯色背景、细腻质感、高细节、可爱、治愈、极简、全身造型。\n\n可以多多转给你那个还在说「帮我反推这张图」的朋友~",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "",
-    "driveUrl": ""
+    "driveId": "1DuXcc1AMQuSIA_fuUcKE0Qq5blixE7Uz",
+    "driveUrl": "https://drive.google.com/file/d/1DuXcc1AMQuSIA_fuUcKE0Qq5blixE7Uz/view"
   }
 ];
