@@ -394,5 +394,93 @@ window.SKILLS = [
     "blurb": "这种视频真的是remotion最佳载体 用户其实没那么在乎AI不AI 还是要找到好的选题和角度， 圈定你的目标用户 7个作品就搞到1.1w粉丝了 ",
     "video": false,
     "addedAt": "2026.09.12"
+  },
+  {
+    "id": "2098276183867789567",
+    "title": "Codex 额度又用完了？网页版 ChatGPT 接手本地项目，无限用！（完整教程）",
+    "author": "@samdychan",
+    "name": "起风",
+    "url": "https://x.com/samdychan/status/2098276183867789567",
+    "group": "资讯收藏",
+    "blurb": "https://t.co/XMg50zgUWn",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2100098705630396696",
+    "title": "装完 Codex 不知道干什么？ 当然是猛做视频，然后库库搞钱啊！",
+    "author": "@Fred834567",
+    "name": "Fred-New",
+    "url": "https://x.com/Fred834567/status/2100098705630396696",
+    "group": "资讯收藏",
+    "blurb": "装完 Codex 不知道干什么？ 当然是猛做视频，然后库库搞钱啊！ 给 Codex 装上这 10个 GitHub Skills，直接让它参与整条视频制作流程。可以先收藏，按自己的视频类型安装👇 1️⃣ HyperFrames：一句话生成动效视频 告诉 Codex 视频主题，它可以使用 HTML、CSS 和动画制作",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2099967242578297247",
+    "title": "AIを使って、自動でインスタ運用を回して、放置で収益化する方法を解説した動画はこちら",
+    "author": "@seiya_love_sns",
+    "name": "せいや｜SNS副業",
+    "url": "https://x.com/seiya_love_sns/status/2099967242578297247",
+    "group": "资讯收藏",
+    "blurb": "AIを使って、自動でインスタ運用を回して、放置で収益化する方法を解説した動画はこちら ↓ https://t.co/OdkHLsHhoJ",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2099876280938459483",
+    "title": "Cloudflare 你必须知道的十项福利🔥",
+    "author": "@xiaomovps",
+    "name": "小墨同学",
+    "url": "https://x.com/xiaomovps/status/2099876280938459483",
+    "group": "资讯收藏",
+    "blurb": "Cloudflare 你必须知道的十项福利🔥 1、DNS + CDN + SSL 解析、加速、HTTPS 一次搞定，证书自动续。 2、R2 10GB 免费对象存储，重点是出站流量不收费。图床、备份很好用。 3、Pages 绑 GitHub 自动部署，博客、文档站、个人主页基本 0 成本。 4、Worker",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2099070559695061286",
+    "title": "越来越多的人开始挖掘 @Remotion  的潜力了，这是好事啊",
+    "author": "@xingbugengming",
+    "name": "小奇说",
+    "url": "https://x.com/xingbugengming/status/2099070559695061286",
+    "group": "资讯收藏",
+    "blurb": "越来越多的人开始挖掘 @Remotion 的潜力了，这是好事啊 为什么我会选择 Remotion 来选择制作这种AE风格的视频呢？ 有段时间很多博主用 hyperframe 做出来的视频效果千篇一律，都是卡片文字的堆叠，非常令人审美疲劳，后来我就是被 Remotion 的网站动画圈粉的，因为Remotion的案例",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2099687200975720699",
+    "title": "卧槽！又来一个 AI 视频复刻工具？",
+    "author": "@li9292",
+    "name": "李韭二",
+    "url": "https://x.com/li9292/status/2099687200975720699",
+    "group": "资讯收藏",
+    "blurb": "卧槽！又来一个 AI 视频复刻工具？ 我一开始也这么想。结果研究发现： 剪映、CapCut、Pixverse、Higgsfield 卷的都是模板， @hypitai 做的是： 让 agent 写视频的 workflow 引擎。 模板的问题，用过的人都懂： 固定 prompt 配一两个换脸换主体的槽位，创意锁死在模",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2099846851310608894",
+    "title": "Alissonerdx/Minimax-H3-ComfyUIのLoRAファイル一覧ページ",
+    "author": "@ai_hakase_",
+    "name": "ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI",
+    "url": "https://x.com/ai_hakase_/status/2099846851310608894",
+    "group": "资讯收藏",
+    "blurb": "Alissonerdx/Minimax-H3-ComfyUIのLoRAファイル一覧ページ https://t.co/JWBHnMetoQ",
+    "video": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2095170153789243705",
+    "title": "一个人、一台电脑、8 分钟 AI 短剧：从《黄果》逆向拆出来的 13 步流水线（万字实操指南）",
+    "author": "@GeekCatX",
+    "name": "知识猫AI实验室",
+    "url": "https://x.com/GeekCatX/status/2095170153789243705",
+    "group": "资讯收藏",
+    "blurb": "https://t.co/DGOeDdiS7r",
+    "video": false,
+    "addedAt": "2026.09.21"
   }
 ];

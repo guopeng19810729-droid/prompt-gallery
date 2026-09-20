@@ -3514,5 +3514,894 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.15",
     "driveId": "1DuXcc1AMQuSIA_fuUcKE0Qq5blixE7Uz",
     "driveUrl": "https://drive.google.com/file/d/1DuXcc1AMQuSIA_fuUcKE0Qq5blixE7Uz/view"
+  },
+  {
+    "id": "174",
+    "xid": "2100127180126847388",
+    "title": "公布prompt 视频提示词和生图提示词：",
+    "category": "AI视频",
+    "model": "MiniMax H3",
+    "source": "@PixelAigc",
+    "sourceUrl": "https://x.com/PixelAigc/status/2100127180126847388",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "公布prompt 视频提示词和生图提示词： 视频提示词，在H3里一键可用： 飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的",
+    "prompt": "视频提示词，在H3里一键可用：\n\n飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的POSE，表情勉强微笑，轻风吹来，她的衣服和披帛飘动，固定机位，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风\n\n生图提示词，在IMAGE 2.5里一键可用：\n\n生成一张苹果电脑的桌面图，左边是两列常用APP的图标，右边是一个敦煌飞天舞女全身图，背景是苹果电脑经典的渐变简洁背景，16：9",
+    "nsfw": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "175",
+    "xid": "2100035605845729375",
+    "title": "为了方便自己做视频的时候做人物资产，我做了一个角色资产拼图的在线网站。",
+    "category": "AI视频",
+    "model": "",
+    "source": "@nanyuan0412",
+    "sourceUrl": "https://x.com/nanyuan0412/status/2100035605845729375",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100035605845729375_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100035605845729375_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "为了方便自己做视频的时候做人物资产，我做了一个角色资产拼图的在线网站。 做视频中最重要的就是角色的资产管理，一张清楚的三视图是最重要的。但是往往直接通过一次性生成角色的正面特写+正面全身+背面，图片表现的细节就没那么到位。 所以正确的流程一般都是单独生成单视图然后将他们拼接在一起。而为了拼接图片让我在单独的打开一个",
+    "prompt": "为了方便自己做视频的时候做人物资产，我做了一个角色资产拼图的在线网站。\n\n做视频中最重要的就是角色的资产管理，一张清楚的三视图是最重要的。但是往往直接通过一次性生成角色的正面特写+正面全身+背面，图片表现的细节就没那么到位。\n\n所以正确的流程一般都是单独生成单视图然后将他们拼接在一起。而为了拼接图片让我在单独的打开一个app 我是十分不情愿的。\n\n于是我就整了一个这个小工具。\n\n他能够做到自动识别图片是正面肖像、侧面肖像、全身、背面全身。然后可选择遮罩遮挡头部，做出无头三视图的效果进行导出。\n\n同时还有一些文字的标注功能，比如说身高、角色名称、性格、特点、说话语气……。\n\n网址在这：https://t.co/t6QSmPZ35p\n\n感兴趣的朋友可以自己体验一下，哪里不好用也希望得到大家的反馈。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "17jC2Gos4QAJYIXt0LGTDaDNmkXKojbDG",
+    "driveUrl": "https://drive.google.com/file/d/17jC2Gos4QAJYIXt0LGTDaDNmkXKojbDG/view"
+  },
+  {
+    "id": "176",
+    "xid": "2100144656793153709",
+    "title": "还没碰就抖成这样",
+    "category": "AI视频",
+    "model": "",
+    "source": "@lindangx",
+    "sourceUrl": "https://x.com/lindangx/status/2100144656793153709",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100144656793153709_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100144656793153709_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100144656793153709.mp4",
+    "blurb": "还没碰就抖成这样 https://t.co/4ypCkmy3WO",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1wA_uXrw48txhzfrQMojhU1WLC0ZKJxr-",
+    "driveUrl": "https://drive.google.com/file/d/1wA_uXrw48txhzfrQMojhU1WLC0ZKJxr-/view"
+  },
+  {
+    "id": "177",
+    "xid": "2100060548293698035",
+    "title": "分享一个用AI做意外反转式商业广告的玩法！！",
+    "category": "AI视频",
+    "model": "",
+    "source": "@yyyole",
+    "sourceUrl": "https://x.com/yyyole/status/2100060548293698035",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100060548293698035_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100060548293698035_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100060548293698035.mp4",
+    "blurb": "分享一个用AI做意外反转式商业广告的玩法！！ 基本上，很多产品都可以直接套用！！ 你会发现，类似的广告视频很常见。 这个视频主要有下面几个主要的套路： 1、视觉钩子：性感丝袜、失手意外制造停留。 2、情境喜剧：人物狼狈处境产生趣味。 3、视觉奇观：时间冻结、悬浮、运动轨迹特效加持。 4、反差人设：手忙脚乱后，迅速化险",
+    "prompt": "分享一个用AI做意外反转式商业广告的玩法！！\n基本上，很多产品都可以直接套用！！\n\n你会发现，类似的广告视频很常见。\n这个视频主要有下面几个主要的套路：\n1、视觉钩子：性感丝袜、失手意外制造停留。\n2、情境喜剧：人物狼狈处境产生趣味。\n3、视觉奇观：时间冻结、悬浮、运动轨迹特效加持。\n4、反差人设：手忙脚乱后，迅速化险为夷。\n5、叙事软广：最后点出广告主题。\n6、Slogan回扣收尾。\n\n感兴趣，后面可以分享完整的提示词和逻辑！！",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1bZLOx0wrfmJi9ogQn69bCXl44isgyWB4",
+    "driveUrl": "https://drive.google.com/file/d/1bZLOx0wrfmJi9ogQn69bCXl44isgyWB4/view"
+  },
+  {
+    "id": "178",
+    "xid": "2099693024540553713",
+    "title": "Dancing into the summer light 🩵☀️",
+    "category": "AI视频",
+    "model": "",
+    "source": "@mistyice_k",
+    "sourceUrl": "https://x.com/mistyice_k/status/2099693024540553713",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099693024540553713_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099693024540553713_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099693024540553713.mp4",
+    "blurb": "Dancing into the summer light 🩵☀️ https://t.co/w94Jf5jl4Q",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1k7-zvSLDNI4234mV75adl2-RtslmeCFU",
+    "driveUrl": "https://drive.google.com/file/d/1k7-zvSLDNI4234mV75adl2-RtslmeCFU/view"
+  },
+  {
+    "id": "179",
+    "xid": "2099895211652730897",
+    "title": "分享一组超可爱的比心pose提示词🫶",
+    "category": "人物角色",
+    "model": "",
+    "source": "@GrayNoteLab",
+    "sourceUrl": "https://x.com/GrayNoteLab/status/2099895211652730897",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "分享一组超可爱的比心pose提示词🫶 提示词：上半身近距离肖像，画面裁切至头顶、肩膀与胸口上方，人物身体基本正面朝向镜头，肩线自然舒展。头部轻轻向右侧偏转约4°，下颌略微回收，呈现自然随拍感。 双臂从画面左右抬起，肘部位于画外。双手靠近面部但保持约8–12cm距离，手掌与手指略有前景放大效果，同时避免遮挡五官。 ",
+    "prompt": "上半身近距离肖像，画面裁切至头顶、肩膀与胸口上方，人物身体基本正面朝向镜头，肩线自然舒展。头部轻轻向右侧偏转约4°，下颌略微回收，呈现自然随拍感。\n\n双臂从画面左右抬起，肘部位于画外。双手靠近面部但保持约8–12cm距离，手掌与手指略有前景放大效果，同时避免遮挡五官。\n\n两只手围绕脸部构成一个纵向爱心轮廓：两侧食指从上方向内弯曲，在额头上方约2–3cm处汇合，形成圆润的爱心顶部；拇指分别沿面颊外侧向下延伸并向中心收拢，在下巴下方约1–2cm处交汇成尖角。其余手指自然弯曲隐藏在轮廓外侧，绝不穿入脸部中央区域。爱心轮廓完整包围面部，眉毛、双眼、鼻子、嘴唇和下巴全部清晰露出，心形视觉中心与脸部中心基本重合。\n\n表情采用俏皮单眨眼：画面左侧眼睛自然闭合，另一只眼睛保持睁开并精准看向镜头，约95%睁眼程度，眼神灵动、自信，不夸张放大。闭眼一侧苹果肌随表情轻微上提，保留真实面部左右差异。\n\n嘴唇轻轻向前送出，呈自然的飞吻状态，但避免夸张嘟嘴。上下唇中央保留约1mm细小缝隙，右侧嘴角微微上扬，不露牙，表情带一点顽皮。",
+    "nsfw": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "180",
+    "xid": "2099804160451629078",
+    "title": "说实话，现在很多所谓的 AI Agent，用起来真挺鸡肋的。。。",
+    "category": "3D建模",
+    "model": "",
+    "source": "@gkxspace",
+    "sourceUrl": "https://x.com/gkxspace/status/2099804160451629078",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099804160451629078_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099804160451629078_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099804160451629078.mp4",
+    "blurb": "说实话，现在很多所谓的 AI Agent，用起来真挺鸡肋的。。。 交付一段又臭又长的内容，看似完美，实则全是问题，很大部分精力都耗在帮它找 Bug 和核对内容上。 最近看到了 Atria Dawn Preview，思路是真好，用\"模型 + 运行系统 + 外部验证\"模式，从而达到真正可交付。 我也翻了他们的案例，效",
+    "prompt": "说实话，现在很多所谓的 AI Agent，用起来真挺鸡肋的。。。\n\n交付一段又臭又长的内容，看似完美，实则全是问题，很大部分精力都耗在帮它找 Bug 和核对内容上。\n\n最近看到了 Atria Dawn Preview，思路是真好，用\"模型 + 运行系统 + 外部验证\"模式，从而达到真正可交付。\n\n我也翻了他们的案例，效果都非常好：\n1、做软件原型：从拆需求到写代码，自己在环境里跑测试、抓报错、自己改，直接交付能在线操作的系统\n2、做深度研报：丢一堆原始数据进去，多路径检索并核对证据链，直出十几页带图表排版的专业报告\n3、做 3D CAD：自然语言直接生成带装配结构的火箭、发动机和机械零件模型，精细度非常高\n\n了解了一下，@AtriaASI 团队约2/3都是复旦、人大等在校的学生，太强了。\n\n如果有科研、复杂专业任务的需求，快研究一下，🔗放评论区",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1HflLb58YQWlYHFfN-cFcCig6YWEo2rUO",
+    "driveUrl": "https://drive.google.com/file/d/1HflLb58YQWlYHFfN-cFcCig6YWEo2rUO/view"
+  },
+  {
+    "id": "181",
+    "xid": "2099808769043841452",
+    "title": "爽了，AI 做视频终于迎来了自己的 Harness 时代，彻底告别手搓剪映和抽卡黑盒！！！",
+    "category": "AI视频",
+    "model": "",
+    "source": "@gkxspace",
+    "sourceUrl": "https://x.com/gkxspace/status/2099808769043841452",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099808769043841452_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099808769043841452_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099808769043841452.mp4",
+    "blurb": "爽了，AI 做视频终于迎来了自己的 Harness 时代，彻底告别手搓剪映和抽卡黑盒！！！ 刚挖到一个极其硬核的开源项目：Hypit 它是专门给 Claude Code、Codex 这类 Coding Agent 打造的开源视频语言与编译系统，简单说就是视频领域的开源 Harness。 为什么这玩意儿这么香？我来",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1qfm482LmvojFJwwlHu01Wop6n5jTx_q-",
+    "driveUrl": "https://drive.google.com/file/d/1qfm482LmvojFJwwlHu01Wop6n5jTx_q-/view"
+  },
+  {
+    "id": "182",
+    "xid": "2099874745709887849",
+    "title": "发现一种穿越时空感的构图🙌🙌",
+    "category": "人物角色",
+    "model": "",
+    "source": "@GrayNoteLab",
+    "sourceUrl": "https://x.com/GrayNoteLab/status/2099874745709887849",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099874745709887849_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099874745709887849_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "发现一种穿越时空感的构图🙌🙌 非常的巧妙：第一视角POV前景物体+中央人物+对角线动作+三层纵深 可以很好的还原古人吃饭的场景🥳 https://t.co/l1fRUUrrQs",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1f8d4CvKOCCwWdv1UejWSwxSmuNSVqdiF",
+    "driveUrl": "https://drive.google.com/file/d/1f8d4CvKOCCwWdv1UejWSwxSmuNSVqdiF/view"
+  },
+  {
+    "id": "183",
+    "xid": "2100927381292855794",
+    "title": "不搞了，好難過，有興趣的自己改",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@fdtreesky",
+    "sourceUrl": "https://x.com/fdtreesky/status/2100927381292855794",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "不搞了，好難過，有興趣的自己改 上身为深綠色的兩片式垂墜薄紗胸衣，胸部僅以柔軟半透明紗片覆蓋，紗片上端由細帶固定，中央相互連接，沒有肩帶與完整衣身，腹部裸露，下身为同色轻纱裹身长裙与高开衩设计 https://t.co/ZvpARGZ1ow",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1lX8d2S_KQqSqi_YHeQ-7DviFAv-sFt-W",
+    "driveUrl": "https://drive.google.com/file/d/1lX8d2S_KQqSqi_YHeQ-7DviFAv-sFt-W/view"
+  },
+  {
+    "id": "184",
+    "xid": "2101270640925847892",
+    "title": "Damn, I have been working on character swap all week and I j…",
+    "category": "AI视频",
+    "model": "MiniMax H3",
+    "source": "@SlipperyGem",
+    "sourceUrl": "https://x.com/SlipperyGem/status/2101270640925847892",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101270640925847892_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101270640925847892_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101270640925847892.mp4",
+    "blurb": "Damn, I have been working on character swap all week and I just discovered this. A wonderful FaceSwap MMH3 ref2va lora. I will have to roll it into my workflow",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1-3hQpjJbs7uJULBm_GP8ezqmuogMCU2U",
+    "driveUrl": "https://drive.google.com/file/d/1-3hQpjJbs7uJULBm_GP8ezqmuogMCU2U/view"
+  },
+  {
+    "id": "185",
+    "xid": "2101274040040357938",
+    "title": "學生套裝，現在都不用2選一了，都直接加料的，前兩張美顏過頭了",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@fdtreesky",
+    "sourceUrl": "https://x.com/fdtreesky/status/2101274040040357938",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "學生套裝，現在都不用2選一了，都直接加料的，前兩張美顏過頭了 https://t.co/hyLTgxd2lp https://t.co/Nj6Qs2GatD",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1TuhjnbNibSowr6g2pacs_QJLTu5wv26a",
+    "driveUrl": "https://drive.google.com/file/d/1TuhjnbNibSowr6g2pacs_QJLTu5wv26a/view"
+  },
+  {
+    "id": "186",
+    "xid": "2101334670457856258",
+    "title": "粉色情人~",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@AshleeSylv67364",
+    "sourceUrl": "https://x.com/AshleeSylv67364/status/2101334670457856258",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "粉色情人~ https://t.co/C8VGVxWmD8",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1x1JjgxsizrVT9Ap_LH_gb7Mo8rqotD2t",
+    "driveUrl": "https://drive.google.com/file/d/1x1JjgxsizrVT9Ap_LH_gb7Mo8rqotD2t/view"
+  },
+  {
+    "id": "187",
+    "xid": "2101331468463333460",
+    "title": "这种雷霆运镜一直没看到有人分享H3的图生视频的提示词",
+    "category": "AI视频",
+    "model": "MiniMax H3",
+    "source": "@LoveUolanda",
+    "sourceUrl": "https://x.com/LoveUolanda/status/2101331468463333460",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101331468463333460_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101331468463333460_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101331468463333460.mp4",
+    "blurb": "这种雷霆运镜一直没看到有人分享H3的图生视频的提示词 我反推了下效果还不错 ， 这里分享出来 ，图生视频比视频动作迁移，对显存要求好太多了 支持8g显存 https://t.co/JKl6Cjg51w 荧｜雷霆运镜 ✨ 镜头如雷霆般迅疾而精准。 快速推进、掠过、转向与停顿，在极短的镜头变化中捕捉荧的神态与动作。",
+    "prompt": "这种雷霆运镜一直没看到有人分享H3的图生视频的提示词\n\n我反推了下效果还不错 ，\n\n这里分享出来 ，图生视频比视频动作迁移，对显存要求好太多了 支持8g显存\nhttps://t.co/JKl6Cjg51w\n\n荧｜雷霆运镜 ✨\n\n镜头如雷霆般迅疾而精准。\n快速推进、掠过、转向与停顿，在极短的镜头变化中捕捉荧的神态与动作。\n凌厉，却不凌乱。\n每一次镜头切入，都让人物成为画面的绝对焦点。\n\n#荧 #Lumine #原神 #GenshinImpact #雷霆运镜 #运镜 #镜头语言 #电影感 #人物摄影 #写真 #原神COS\n#Lumine #GenshinImpact #Cinematic #Cinematography #CameraMovement #CosplayPhotography #Portrait\n#蛍 #原神 #カメラワーク #映像表現 #シネマティック #コスプレ\n#루미네 #원신 #카메라워크 #시네마틱 #코스프레\n#LumineVN #GenshinImpactVN #CinematicPhotography",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1qc3hMPFqOSs4tq5HZ-Wp9Y_NtTqflHuq",
+    "driveUrl": "https://drive.google.com/file/d/1qc3hMPFqOSs4tq5HZ-Wp9Y_NtTqflHuq/view"
+  },
+  {
+    "id": "188",
+    "xid": "2101248021489160584",
+    "title": "兄弟们描述界面这种事，真是能让人烦到直接摆烂。",
+    "category": "UI界面",
+    "model": "",
+    "source": "@huoshan007",
+    "sourceUrl": "https://x.com/huoshan007/status/2101248021489160584",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101248021489160584_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101248021489160584_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101248021489160584.mp4",
+    "blurb": "兄弟们描述界面这种事，真是能让人烦到直接摆烂。 Windows版Codex这次更新，算是把这条老命续了一口。 Appshots，名字起得挺老实，就是把当前窗口截个图，直接扔给模型当上下文。 你甚至不用组织语言，直接配这一句： “照着这个布局复刻，只碰样式，数据和交互别动，完事自己开页面给我对一下。” 改版、排",
+    "prompt": "兄弟们描述界面这种事，真是能让人烦到直接摆烂。\n\nWindows版Codex这次更新，算是把这条老命续了一口。\n\nAppshots，名字起得挺老实，就是把当前窗口截个图，直接扔给模型当上下文。\n\n你甚至不用组织语言，直接配这一句：\n\n“照着这个布局复刻，只碰样式，数据和交互别动，完事自己开页面给我对一下。”\n\n改版、排查报错、对着表格写代码，基本都能这么用。\n\n但这东西有点贼。\n\n截图能告诉它长得什么样，告诉不了它底下为什么这么写。\n\n业务逻辑那层，代码还是得原封不动给过去。\n\n少复制粘贴确实爽，但边界这种事，省不了。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1lmco41MYwMnSlut7Pb4q1_ZIqZwH8gFm",
+    "driveUrl": "https://drive.google.com/file/d/1lmco41MYwMnSlut7Pb4q1_ZIqZwH8gFm/view"
+  },
+  {
+    "id": "189",
+    "xid": "2101246983503855796",
+    "title": "kosato 26In Dark Magic (52JPGs +mp4)",
+    "category": "AI视频",
+    "model": "",
+    "source": "@kosatoai",
+    "sourceUrl": "https://x.com/kosatoai/status/2101246983503855796",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101246983503855796_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101246983503855796_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101246983503855796.mp4",
+    "blurb": "kosato 26In Dark Magic (52JPGs +mp4) https://t.co/t0qIEVn1T1",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1X8WB92cw6TslfRgh3OayQuCeL589SZkO",
+    "driveUrl": "https://drive.google.com/file/d/1X8WB92cw6TslfRgh3OayQuCeL589SZkO/view"
+  },
+  {
+    "id": "190",
+    "xid": "2100919418784248125",
+    "title": "我去, 你敢信吗? 这段视频是在我的16G VRAM 以及 32G RAM的配置下, 仅仅用了109秒就完成了",
+    "category": "AI视频",
+    "model": "MiniMax H3",
+    "source": "@Mk_Flow",
+    "sourceUrl": "https://x.com/Mk_Flow/status/2100919418784248125",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.png"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100919418784248125.mp4",
+    "blurb": "我去, 你敢信吗? 这段视频是在我的16G VRAM 以及 32G RAM的配置下, 仅仅用了109秒就完成了 最新的Minimax Fast v2 快的不像话啊 兄弟们, 看看怎么榨干我这小破卡好啊? https://t.co/ajVxvGARor",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1XQXi76wnC4Ov98ZcBc0NHpPqJzCnfst7",
+    "driveUrl": "https://drive.google.com/file/d/1XQXi76wnC4Ov98ZcBc0NHpPqJzCnfst7/view"
+  },
+  {
+    "id": "191",
+    "xid": "2099873865988247870",
+    "title": "网页聊天版的GPT-6 Pro在规划层面还是太强了，而且不消耗Codex额度，于是为了榨干200刀的ChatGPT额度，…",
+    "category": "UI界面",
+    "model": "",
+    "source": "@Khazix0918",
+    "sourceUrl": "https://x.com/Khazix0918/status/2099873865988247870",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099873865988247870_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099873865988247870_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "网页聊天版的GPT-6 Pro在规划层面还是太强了，而且不消耗Codex额度，于是为了榨干200刀的ChatGPT额度，还有这个神级模型GPT-6 Pro，我想了一个办法。 我直接把我服务器的所有的日志、事件记录，还有所有的数据表等等的只读权限，封装成了一个用我自己飞书进行登录验证的MCP，然后再封装成了插件，上传到",
+    "prompt": "网页聊天版的GPT-6 Pro在规划层面还是太强了，而且不消耗Codex额度，于是为了榨干200刀的ChatGPT额度，还有这个神级模型GPT-6 Pro，我想了一个办法。\n\n我直接把我服务器的所有的日志、事件记录，还有所有的数据表等等的只读权限，封装成了一个用我自己飞书进行登录验证的MCP，然后再封装成了插件，上传到了ChatGPT上。\n\n于是我就可以实现，在网页版聊天里面的GPT-6 Pro，通过这个服务器的MCP只读插件，来读取我服务器上面的所有的历史数据，通过Github的插件，还可以读取我GitHub上所有的PR记录和代码。\n\n于是，我们就可以用这种方式来让网页版的GPT-6 Pro拿到最全面的数据，来对于我的功能和我的项目进行全方位的思考和规划。\n讲道理，这个质量实在是太高了，而且还不消耗Codex的额度，我但凡用GPT 6 Ultra来一次，Codex额度在我200刀的情况下，能直接干没10%。\n\n然后得到答案以后，还可以直接把它的结果的那个聊天添加到CodeX里面，然后用GPT-6 Astra high来帮我开发。。。\n\n这好像是我觉得我买200刀最能把这个性能榨干的方式了。。。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1fHL0l5pQcj9IAh3APyZFKmJlHxRjNNNY",
+    "driveUrl": "https://drive.google.com/file/d/1fHL0l5pQcj9IAh3APyZFKmJlHxRjNNNY/view"
+  },
+  {
+    "id": "192",
+    "xid": "2100258514132217859",
+    "title": "MiniMax H3",
+    "category": "AI视频",
+    "model": "MiniMax H3",
+    "source": "@aimikoda",
+    "sourceUrl": "https://x.com/aimikoda/status/2100258514132217859",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100258514132217859_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100258514132217859_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100258514132217859.mp4",
+    "blurb": "MiniMax H3 Character Detail Montage This prompt turns your character reference into a fast-paced detail montage: clean background, dynamic movement, sharp cut",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1IDKixtiju4pjwbzzlOd0TH5xmaOqNeAQ",
+    "driveUrl": "https://drive.google.com/file/d/1IDKixtiju4pjwbzzlOd0TH5xmaOqNeAQ/view"
+  },
+  {
+    "id": "193",
+    "xid": "2100000164580909491",
+    "title": "Animaで一週間でDL数が伸びているモデル「Nya-Iris - Anima」の2.9B版。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@NobinLOG",
+    "sourceUrl": "https://x.com/NobinLOG/status/2100000164580909491",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Animaで一週間でDL数が伸びているモデル「Nya-Iris - Anima」の2.9B版。 最近の流行りはAnima2.9Bで試してみようという傾向でDL数が伸びていると推察。 Nya-Iris - Animaのサムネイル画像を見てもBase1-V2.1より2.9B-V3の方が良い感じに見えます・・・・がVers",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1nP27dvT_hyTVTM9XrVaFH7ISptvaK5mp",
+    "driveUrl": "https://drive.google.com/file/d/1nP27dvT_hyTVTM9XrVaFH7ISptvaK5mp/view"
+  },
+  {
+    "id": "194",
+    "xid": "2100212030745792773",
+    "title": "Qwen 3.8 27B 跑到 2000 tokens/s 之后，一个非常离谱的东西出现了：",
+    "category": "UI界面",
+    "model": "",
+    "source": "@0xCheshire",
+    "sourceUrl": "https://x.com/0xCheshire/status/2100212030745792773",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100212030745792773_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100212030745792773_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100212030745792773.mp4",
+    "blurb": "Qwen 3.8 27B 跑到 2000 tokens/s 之后，一个非常离谱的东西出现了： 大模型现在快到可以凭空生成互联网了。 完全断网的情况下，搜索 YouTube，再把时间调到 1999 或 2045，模型会以接近 2000 tokens/s 的速度实时生成对应网页。 未来的软件、游戏和虚拟世界，可能都只",
+    "prompt": "Qwen 3.8 27B 跑到 2000 tokens/s 之后，一个非常离谱的东西出现了：\n\n大模型现在快到可以凭空生成互联网了。\n\n完全断网的情况下，搜索 YouTube，再把时间调到 1999 或 2045，模型会以接近 2000 tokens/s 的速度实时生成对应网页。\n\n未来的软件、游戏和虚拟世界，可能都只是模型权重里等待被生成的状态。\n\nhttps://t.co/vylaSBYiJg",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1Ypoouscs0zHfd9LJr2BTk6ZuzSqvpBVA",
+    "driveUrl": "https://drive.google.com/file/d/1Ypoouscs0zHfd9LJr2BTk6ZuzSqvpBVA/view"
+  },
+  {
+    "id": "195",
+    "xid": "2100057101074665868",
+    "title": "Tested the two most popular #MiniMaxH3 (int8) hybrid models …",
+    "category": "UI界面",
+    "model": "MiniMax H3",
+    "source": "@Tomw852",
+    "sourceUrl": "https://x.com/Tomw852/status/2100057101074665868",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100057101074665868_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100057101074665868_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100057101074665868.mp4",
+    "blurb": "Tested the two most popular #MiniMaxH3 (int8) hybrid models (10Eros and DASIWA) in the community. (Model links are in replies 👇) 10Eros and DASIWA, both heavi",
+    "prompt": "Tested the two most popular #MiniMaxH3 (int8) hybrid models (10Eros and DASIWA) in the community. \n(Model links are in replies 👇)\n\n10Eros and DASIWA, both heavily discussed in the ComfyUI community, have recently become go-to choices in many creators' workflows.\n\nI made a comparison video with a daily vlog theme (using the same prompt). Both models ran super smoothly on my 5070 (12GB)\n\nMy take: \n-10Eros: Motion and physics feel more natural, with better visual tension and audiovisual immersion.\n\n-DASIWA: Noticeably better at matching the reference image, with more solid consistency and control.\n\n#ComfyUI #AIVideo",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1BTiwFPXfCNtaULYbP1eWLDq8n2YrtuFI",
+    "driveUrl": "https://drive.google.com/file/d/1BTiwFPXfCNtaULYbP1eWLDq8n2YrtuFI/view"
+  },
+  {
+    "id": "196",
+    "xid": "2099999299358818639",
+    "title": "FastH3 by FastVideo is now available in ComfyUI",
+    "category": "UI界面",
+    "model": "MiniMax H3",
+    "source": "@ComfyUI",
+    "sourceUrl": "https://x.com/ComfyUI/status/2099999299358818639",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099999299358818639_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099999299358818639_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099999299358818639.mp4",
+    "blurb": "FastH3 by FastVideo is now available in ComfyUI Video and native stereo audio, generated together, in seconds. Best for: → Previz and animatics that need lot",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1vcyPxfjvCikOsH9HGq8vjU97WULmSxzi",
+    "driveUrl": "https://drive.google.com/file/d/1vcyPxfjvCikOsH9HGq8vjU97WULmSxzi/view"
+  },
+  {
+    "id": "197",
+    "xid": "2099801031911825915",
+    "title": "36 条 AI 视频，涨粉 70 万！",
+    "category": "AI视频",
+    "model": "Seedance",
+    "source": "@xiaoying_eth",
+    "sourceUrl": "https://x.com/xiaoying_eth/status/2099801031911825915",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099801031911825915_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099801031911825915_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099801031911825915.mp4",
+    "blurb": "36 条 AI 视频，涨粉 70 万！ 我扒了下这套账号背后的制作方法，重点是一致性！ 角色一致、动作一致、材质一致，背后有一套固定流程。 这篇把整套方法拆成了 7 段可复制提示词：角色卡 → 拆对标 → 动作里程碑 → 材质 → 出片 → 改稿 👇完整教程放这里： https://t.co/8hy5xknt4K",
+    "prompt": "角色卡 → 拆对标 → 动作里程碑 → 材质 → 出片 → 改稿\n\n👇完整教程放这里：\nhttps://t.co/8hy5xknt4K\n\n顺手再整理 8 个 GitHub 上的 AI 短剧项目，想做 AI 短剧/漫剧的可以一起收了👇\n\n1️⃣ Toonflow\n小说自动转短剧，从文本到角色，从分镜到视频，0门槛全流程AI化\nhttps://t.co/9bdL93Tggz\n\n2️⃣ huobao-drama\n一个基于 AI 的短剧自动化生产平台，实现从剧本生成、角色设计、分镜制作到视频合成的全流程自动化。\nhttps://t.co/NrzSytxPYV\n\n3️⃣ waoowaoo\n一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。\nhttps://t.co/Ew8G9iyiQS\n\n4️⃣ jellyfish\n一站式短剧生成工具，从剧本到分镜再到一致性管理与后期剪辑\nhttps://t.co/4a3jrnxBem\n\n5️⃣ moyin-creator\n魔因漫创是一款面向 AI 影视创作者的生产级工具，支持Seedance2.0，剧本到成片全流程自动化\nhttps://t.co/FqQNxetbeR\n\n6️⃣ Pixelle-Video\nAI自动短视频生成引擎，自动写文案+配乐视频等，让视频创作成为一句话的事！\nhttps://t.co/ixod4AQpE6\n\n7️⃣ Bigbanana\n一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产\nhttps://t.co/XhuDVUnIB8\n\n8️⃣ ViMax\n内置Novel2Video 模块，专为长篇小说设计，导演、编剧、制片人和视频生成器多合一\nhttps://t.co/Xyzvfl9Dpa",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1r4j2H7h15uszvTr9EiKNWuXyFHQc7ByI",
+    "driveUrl": "https://drive.google.com/file/d/1r4j2H7h15uszvTr9EiKNWuXyFHQc7ByI/view"
+  },
+  {
+    "id": "198",
+    "xid": "2100004003237204394",
+    "title": "【GPT Image 2.5でドローンショット】",
+    "category": "AI视频",
+    "model": "Seedance",
+    "source": "@agi_aibusi",
+    "sourceUrl": "https://x.com/agi_aibusi/status/2100004003237204394",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100004003237204394.mp4",
+    "blurb": "【GPT Image 2.5でドローンショット】 好きなキャラの静止画1枚が 迫力あるドローン映像に変わる キャラ画像を添付するだけで 足元から顔までの撮影ルートを一撃で描画 ・元のキャラや背景を維持 ・難しいカメラワークも線で可視化 ・Seedanceに渡してそのまま動画化 コピペOKのプロンプトはツリー⇩ ",
+    "prompt": "【GPT Image 2.5でドローンショット】\n好きなキャラの静止画1枚が\n迫力あるドローン映像に変わる\n\nキャラ画像を添付するだけで\n足元から顔までの撮影ルートを一撃で描画\n・元のキャラや背景を維持\n・難しいカメラワークも線で可視化\n・Seedanceに渡してそのまま動画化  \n\nコピペOKのプロンプトはツリー⇩\n※AIビジネスの最先端情報は固定ポストから配布中",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1mH0ypB-CaO1hKB1IM75LgzOrlK8_W4Kh",
+    "driveUrl": "https://drive.google.com/file/d/1mH0ypB-CaO1hKB1IM75LgzOrlK8_W4Kh/view"
+  },
+  {
+    "id": "199",
+    "xid": "2100039611145998641",
+    "title": "红色诱惑👙",
+    "category": "建筑空间",
+    "model": "",
+    "source": "@DDJCXX",
+    "sourceUrl": "https://x.com/DDJCXX/status/2100039611145998641",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100039611145998641_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100039611145998641_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "红色诱惑👙 Prompt：超写实现代高层公寓全身人像摄影，竖版约 2:3，一名明确成年的东亚女性，20+，站在豪华高层公寓的落地窗前，背后是大面积城市天际线。采用约 35–50mm 等效镜头，摄影者距离约 2.5–3.5 米，机位接近人物腰腹高度，基本平视，人物从头顶完整拍到高跟鞋，主体位于画面中央偏左，同时保留大量",
+    "prompt": "超写实现代高层公寓全身人像摄影，竖版约 2:3，一名明确成年的东亚女性，20+，站在豪华高层公寓的落地窗前，背后是大面积城市天际线。采用约 35–50mm 等效镜头，摄影者距离约 2.5–3.5 米，机位接近人物腰腹高度，基本平视，人物从头顶完整拍到高跟鞋，主体位于画面中央偏左，同时保留大量室内建筑和窗外城市环境。\n\n人物为明显的丰满沙漏型身材：肩部中等偏窄，胸部非常丰满且自然，腰部明显收细，骨盆和髋部宽而圆润，臀胯饱满，大腿粗壮柔软，小腿逐渐收细。整体重点是丰满上身＋细腰＋宽髋＋明显丰厚大腿，不要生成纤细纸片身材、窄胯、细腿或健美肌肉型体态。\n\n人物正面站立并轻微向一侧转胯，重心落在一条腿上，另一条腿自然向前半步，形成柔和 S 曲线。左手抬到颈侧 / 耳后轻轻整理头发，手肘向外；右手自然垂在身体侧边。头部略微低下并向一侧倾斜，眼睛半垂，表情平静、慵懒，不露齿笑。\n\n人物留深棕黑色超长直发，长度到胸部以下，发量浓密，额前为厚而轻碎的长齐刘海，部分遮住眉眼；两侧长发沿胸口和肩膀自然垂落。脸型小巧偏鹅蛋形，肤色暖白，妆容精致但自然：深色眼线、柔和棕粉眼影、淡腮红、裸粉红嘴唇。\n\n人物穿一套高饱和正红 / 深猩红色性感连体装＋透明罩衫。内层为红色高叉连体衣 / bodysuit，胸口采用非常明显的深 V 低领结构，胸下和腰腹位置有大面积几何镂空 / 透明薄纱拼接，腰线很高，腿口高叉，强化腰胯比例，但保持完整正常服装覆盖。\n\n外层披一件同色红色半透明雪纺长袖罩衫 / robe，面料轻薄、透视、柔软，前襟完全敞开，袖子宽松，衣摆自然垂在腰胯两侧，与内层连体衣融为同色红色层次。整体材质以薄纱、弹力布和轻微光泽面料为主，不要蕾丝堆叠或复杂印花。\n\n脚穿一双红色透明 / PVC 尖头细高跟鞋，鞋面带红色边缘或透明塑料质感，鞋跟约 9–11cm，露出脚背，和整套红色造型统一。\n\n场景是现代超高层豪华公寓 / 酒店套房。人物背后是一整面巨大的落地玻璃幕墙，从地面一直延伸到顶部，可以俯瞰密集城市建筑、绿地和远处地平线，天气晴朗，天空浅蓝。窗户由黑色窄框分割成巨大矩形。\n\n室内最醒目的结构是镜面天花板：顶部大片高反射镜面将窗外城市、建筑和室内结构倒映出来，形成强烈上下反射效果。左侧摆放深灰黑色大型现代模块沙发，配黑白抽象几何抱枕；右侧有一张黑色细腿休闲椅，上面放黑色手袋。右边缘是一根深灰色竖纹圆柱 / 墙柱，顶部带暖橙色弧形灯带。\n\n地面为深色木纹 / 深灰色拼花地板，整体室内色调以黑灰、白色、玻璃与金属为主，让红色人物成为最强视觉焦点。\n\n光线主要来自巨大落地窗的强烈自然日光，人物身体受到偏冷白日光照亮，同时室内玻璃和镜面产生轻微蓝青反射。红色服装饱和、鲜明，皮肤呈自然暖白到蜜桃色，高光集中在胸肩、手臂和腿部。不要正面硬闪，不要夜景。\n\n整体呈高质量手机 / 无反相机豪宅生活照质感：清晰自然、轻微广角、动态范围较高，背景城市保持大量细节，人物和室内都清楚，不使用严重人像虚化。\n\n重点锁定：成年东亚女性＋非常丰满沙漏身材＋丰满胸部＋极细腰＋宽圆髋部＋丰厚大腿＋超长深色直发厚刘海＋红色深 V 高叉连体衣＋腰腹镂空＋红色透明长袖罩衫＋红色透明细高跟鞋＋左手摸颈侧头发＋高层落地窗＋城市全景＋镜面天花板＋黑色现代沙发＋深色室内＋强烈白昼自然光。\n\n避免：纤细身材、窄胯、细腿、健美腹肌、短发、卷发、黑色服装、普通红色连衣裙、长裤、运动鞋、室外场景、夜景、普通卧室、背景严重虚化、强闪光、塑料皮肤、动漫脸、CG 感、水印和乱码文字。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1mIy0WbyOa7_NxyM9JEvATIlXEp6uJepQ",
+    "driveUrl": "https://drive.google.com/file/d/1mIy0WbyOa7_NxyM9JEvATIlXEp6uJepQ/view"
+  },
+  {
+    "id": "200",
+    "xid": "2099891757484044644",
+    "title": "视频提示词：",
+    "category": "国风历史",
+    "model": "GPT Image",
+    "source": "@Arvin010717",
+    "sourceUrl": "https://x.com/Arvin010717/status/2099891757484044644",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "视频提示词： 【全局·资产引用与锁定】 @[Image 2](image_2)：上古烛龙祭祀遗迹｜待上传后正式引用 严格使用场景资产图中的巨大黑石祭坛、断裂悬空石桥、熔岩裂谷、远古石柱群、悬崖狙击平台、黑云天空和火山深渊。场景从头到尾必须是同一套连续地理空间，不得随机换地图。战斗造成的断桥、碎柱、枪痕、焦黑龙息沟壑、冲",
+    "prompt": "【全局·资产引用与锁定】\n@[Image 2](image_2)：上古烛龙祭祀遗迹｜待上传后正式引用\n严格使用场景资产图中的巨大黑石祭坛、断裂悬空石桥、熔岩裂谷、远古石柱群、悬崖狙击平台、黑云天空和火山深渊。场景从头到尾必须是同一套连续地理空间，不得随机换地图。战斗造成的断桥、碎柱、枪痕、焦黑龙息沟壑、冲击坑、裂缝永久保留。\n@[Image 1](image_1)：3D女主.png\n严格使用我们的固定3D女主。锁定原图脸型、东方五官、黑色长发、额间蓝色印记、黑蓝衣甲、身体比例和CG国漫人物质感。全程禁止换脸、换服装、换发型、改变身材比例。\n@[Image 4](image_4)：长枪/狙击枪双形态武器\n本片明确替换固定武器寒烬。\n0–20s：长枪形态。\n20–23s：同一把长枪连续机械+仙术重组。\n23–30s：超长仙能狙击枪形态。\n必须始终能看出两种形态来自同一武器：黑银金属、青蓝晶体核心、枪刃组件、青蓝能量纹路全部保持一致。\n禁止直接凭空换出另一把狙击枪。\n@[Image 3](image_3)：烛龙\n严格锁定东方神话巨型烛龙：无翼超长蛇形东方龙躯、黑红曜石鳞片、赤金熔岩能量纹、巨大向后弯曲龙角、黑色鬃毛、熔金双眼、巨爪、超长龙尾。\n禁止西方翼龙化，禁止缩小体型。\n@对手资产图：无。\n@对手武器资产图：无。\n@魔兽资产图：无。\n【全局·画质设定】\nUE5.4 Path Tracing（路径追踪），Lumen全局光照，Nanite高精度模型，PBR物理材质。CG国风暗黑仙侠动画，顶级动画工作室级渲染，8K超高清，HDR，ACES色彩管理，柯达5219胶片颗粒，电影级运镜，次表面散射SSS，60fps高帧高速流畅，无卡顿。\n上古烛龙祭祀遗迹建立在巨大火山深渊之上。\n前景是破碎黑玄石祭坛和巨大龙纹地砖；中景分布断裂石桥、古代祭祀石柱、悬空平台、残破神殿；远处是万丈深渊和黑色山体。地面裂缝下不断透出暗红熔岩光。\n天空被厚重黑云覆盖，内部不断出现赤金雷光。\n女主视觉主色：\n青蓝 + 银白 + 冰蓝。\n烛龙视觉主色：\n黑红 + 赤金 + 熔岩橙。\n空气中持续存在灰烬、碎石粉尘、火星、能量粒子、体积雾。\n画面边缘轻微枕形畸变，高光位置有轻微紫边色散，逆光产生电影级炫光。\n【全局·角色与特效】\n女主战斗体系\n女主使用高速仙武长枪术。\n动作包含：\n前刺、连刺、横扫、撩枪、回马枪、枪尾格挡、枪尾砸击、撑杆飞跃、贴地滑行、蹬墙借力、蹬龙鳞借力、绕枪旋身、空中旋枪、长枪作为支点改变运动方向。\n高速移动时女主化作青白流光。\n青蓝仙力始终沿枪身流动，枪尖形成银白马赫环，长枪高速挥动产生青蓝液态能量轨迹。\n长枪命中龙鳞：\n枪刃碰撞 → 赤金火星爆裂 → 青蓝冲击环 → 龙躯明显震动。\n烛龙战斗体系\n烛龙不是巨大静态靶子。\n必须持续主动反击：\n巨爪拍地、巨臂横甩、龙首撞击、张口咬击、龙角顶撞、龙尾横扫、龙躯盘卷翻滚、俯冲追击、撞击山壁、熔火龙息。\n巨兽动作频率比女主低，但每一次动作影响范围巨大。\n女主始终保持明显的小体型比例。\n血液与战损系统\n允许烛龙在冷兵器成功破开鳞甲后出现：\n暗红色龙血、局部血雾、飞散血滴、鳞片上的血痕、枪刃染血。\n血液颜色偏深红黑，不使用鲜亮番茄红。\n砍伤后伤口必须持续存在：\n颈背破损鳞片 + 深红血迹 + 少量持续渗血。\n禁止下一镜自动恢复。\n女主不流血。\n烛龙不出现内脏、断头、大面积血肉外翻或肢体分离。\n特效厚度\n流体60%： 青蓝仙力 + 黑红赤金熔火流体。\n粒子25%： 银白枪芒、赤金火星、熔岩碎粒、仙能核心粒子。\n环境15%： 灰尘、岩浆、碎石、云雾、烟尘、空气冲击波。\n最终狙击是全片最大视觉爆点。\n【全局·核心规则与铁律】\n30秒，16:9，60fps。\n约3秒一个主镜头，共10个镜头。\n镜头内部必须：\n0–1s / 1–2s / 2–3s\n逐秒推进。\n高速枪术阶段保持高动作密度。Skill 对高速段的参考是6–10动作/秒，并明确“高速位移后必须立即攻击”，不能瞬移或移动完后停手。\n全程禁止：\n慢动作、slow motion、bullet time、hit-stop、攻击定格、喘息回气、站桩摆POSE。\n打击节奏：\n冲 → 砸 → 爆 → 续。\n命中反馈：\n画面亮度骤增 + PUSH急推 + 冲击波放大 + 受击对象猛烈产生物理反馈。\n主要镜头：\nTRACK贴地、FPV贴背、PUSH急推、WHIP高速甩镜、DOLLY平移、ORBIT高速环绕。\nWHIP必须写清楚镜头从什么对象甩到什么对象。\n场景破坏永久累计，不复原。\n新版 Skill 也明确要求用高速运镜和永久破坏痕迹，而不是慢镜强调命中。史诗打斗提示词生成器_v4.10_技能版.pdfPDF\n【SSS级一句话总合成】\n镜头以TRACK低机位贴地追随固定女主持黑银青蓝长枪从烛龙巨爪落点下方高速滑入，女主连续枪刺、横扫、撑杆跃起并沿烛龙巨臂、龙角、脊背高速攀攻，FPV紧贴女主从巨口与龙牙间穿过，WHIP从烛龙喷射赤红龙息瞬间甩向女主撑枪飞跃石柱的逃逸方向，DOLLY沿悬空石桥高速平移表现女主与龙首、龙尾持续攻防，再由垂直FPV跟随女主与碎石坠入深渊并蹬岩反跳至烛龙头顶；t15–18s进入近战高潮，女主沿龙背高速奔袭后跃起双手持枪以带刃枪头猛烈横砍烛龙颈背，黑红鳞甲破裂并爆出深暗红龙血与血雾，血滴沿枪刃与鳞片飞散，伤口与枪刃血迹永久保留，烛龙痛吼后回首以近距离熔火龙息将女主轰飞；t18–21s女主被轰至远方悬崖祭坛并用枪尾划地强行制动，滑行中同一把长枪开始变形，t21–24s枪刃分裂折叠为枪口聚能阵、枪杆延伸成超长枪管、中央青蓝晶核展开成能源仓、尾部展开枪托，完整连续重组成巨型仙能狙击枪；t24–27s女主在断崖半跪持续追踪高速盘旋的烛龙胸口熔金核心，枪口法阵疯狂吸收青蓝粒子并压缩成刺目白蓝能量核，烛龙同步蓄积赤红龙息反击；t27–30s烛龙率先喷射铺天盖地赤红龙息，女主扣动扳机射出数十米宽青白仙能狙击光束，光束无僵持瞬间撕穿龙息并命中胸口核心，赤金裂纹从胸口沿龙颈、脊背、腹部直至龙尾扩散，整条烛龙最终在青白、赤金、黑红三层巨型能量爆炸中彻底爆开死亡，焦黑鳞片、断裂龙角、带少量暗红血迹的碎甲与赤金能量残片如陨石雨坠落——全程高速无慢镜、烛龙持续反击、女主零站桩、巨兽体型压迫巨大、伤口血迹与场景破坏永久累积。\n【完整分镜表｜30秒】\n镜头1｜t0–3s\nMS低机位 + TRACK贴地\n位置：巨大中央祭坛\n0–1s：\n首帧直接高潮。烛龙巨大前爪从画面上方猛烈砸向祭坛；女主持长枪向前贴地高速滑行→侧身从龙爪两根巨趾之间擦过→枪尾点地强行折向→长枪青蓝枪尖由下往上刺向腕部鳞甲接缝。\n巨爪落地把黑玄石祭坛砸出巨大冲击坑，熔岩裂纹向周围扩张。\n1–2s：\n烛龙抬臂猛烈横甩试图把女主甩走；女主拔枪→枪杆格开迎面巨石→踩住龙爪凸起鳞片→沿巨大前肢高速奔跑→连续两枪刺向赤金发光鳞缝。\n2–3s：\n烛龙突然扭转巨臂。女主将枪尖插入鳞甲缝隙→身体绕长枪快速旋转躲过甩击→拔枪同时旋身横扫肩部弱点→枪尾接一记重击。\n特效： 青蓝枪芒、赤金火花、石块、银白冲击环。\n烛龙反击： 巨爪拍地→巨臂横甩。\n运镜： TRACK从女主背后贴地冲入；命中时PUSH急推至鳞片碰撞位置。\n镜头2｜t3–6s\nMCU + FPV贴背\n位置：前肢→肩部→龙首\n3–4s：\n女主继续沿巨臂向龙首高速冲刺→枪尖拖出长青蓝轨迹；烛龙猛甩肩部，女主撑枪点在巨大鳞片表面→借长枪弹射至上方。\n4–5s：\n女主从巨大龙角前方翻越→枪尾重砸角根→长枪旋转回正→连续前刺额部三处赤金能量纹；每次命中烛龙龙首都发生明确偏移。\n5–6s：\n烛龙突然张口咬合。女主侧身穿入龙牙之间→横枪短暂撑住巨牙→身体下沉躲开第二次闭口→双脚蹬在龙牙表面→借力弹射至龙鼻上方。\n烛龙反击： 甩头→咬击。\n运镜： FPV紧贴女主后背冲向烛龙头部，龙口咬下时PUSH快速逼近，再随女主弹出。\n镜头3｜t6–9s\nMS + WHIP高速甩镜\n位置：龙首→祭坛石柱群\n6–7s：\n女主落在龙鼻上高速奔跑→枪尖连续点刺额部发光纹路→最后一枪斜扫眼侧鳞甲；烛龙暴怒甩头，女主拔枪向石柱群跃离。\n7–8s：\n烛龙巨口内部迅速聚集赤红熔火，随后喷出巨大龙息。女主落地不停步→向右极速冲刺→枪尖撑地→整个人借长枪跃过巨大断柱。\n赤红火流从女主脚下掠过。\n8–9s：\n女主从爆炸火幕边缘冲出→枪尾击碎迎面岩块→贴地滑过倒塌石柱→起身回马枪猛刺烛龙下颌。\n龙息继续横扫整个祭坛。\n特效： 赤红龙息覆盖半屏，青蓝残影与火焰剧烈对比。\n场景痕迹： 大量石柱永久熔毁，地面出现永久焦黑火焰沟壑。\n运镜： WHIP从烛龙龙口喷火方向高速甩向女主右侧逃逸路线。\n镜头4｜t9–12s\nMCU→MS + DOLLY高速平移\n位置：断裂悬空石桥\n9–10s：\n烛龙用龙首高速冲撞，女主被逼向悬空石桥；女主横枪格住擦来的巨大龙角→双脚贴桥向后高速滑行卸力→旋身重新立住。\n10–11s：\n女主沿湿黑石桥高速冲刺→枪尖前刺龙侧脸→烛龙扭头闪过→女主顺势收枪→枪尾反砸龙颊→立即接颈侧回刺。\n11–12s：\n烛龙超长龙尾突然从左后方扫来。女主枪尖刺入石桥→双手抓枪→整个人绕枪杆向上荡起。\n巨大龙尾从脚下横扫，将整座悬桥轰碎。\n女主与大量黑石碎块坠落深渊。\n运镜： DOLLY与女主平行高速移动；巨尾出现后WHIP快速甩向左后方，再返回女主。\n镜头5｜t12–15s\nFPV垂直下坠\n位置：深渊崖壁\n12–13s：\n女主和碎石高速坠落。她空中翻身→枪尾砸在一块下坠巨石上改变运动方向→脚踩第二块碎石→向悬崖方向连续跳跃。\n13–14s：\n烛龙撕开云雾从上方",
+    "nsfw": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "201",
+    "xid": "2099887784907690213",
+    "title": "睡之前先砍个龙吧",
+    "category": "AI视频",
+    "model": "",
+    "source": "@Arvin010717",
+    "sourceUrl": "https://x.com/Arvin010717/status/2099887784907690213",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099887784907690213_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099887784907690213_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099887784907690213.mp4",
+    "blurb": "睡之前先砍个龙吧 前面打击的顺序没优化好还是结尾的第一人称最帅 https://t.co/LaOfBq6pvL",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "12W0qrZpToQMj95EVeWaT9s7EhQ74KlbA",
+    "driveUrl": "https://drive.google.com/file/d/12W0qrZpToQMj95EVeWaT9s7EhQ74KlbA/view"
+  },
+  {
+    "id": "202",
+    "xid": "2097213794133184861",
+    "title": "这个项目直接给 Live2D 建模师干沉默了……",
+    "category": "3D建模",
+    "model": "",
+    "source": "@0xCheshire",
+    "sourceUrl": "https://x.com/0xCheshire/status/2097213794133184861",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097213794133184861_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097213794133184861_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2097213794133184861.mp4",
+    "blurb": "这个项目直接给 Live2D 建模师干沉默了…… 以前做一个 Live2D 模型：手动分层、拆图、铺网格、绑骨骼、调物理，少说几天，多则几周。 现在？丢一张 PSD 进去，PSD2Live 自动完成！ 还可以一键导出可编辑的 .cmo3 工程文件和 .moc3 运行时文件。 解压即用，连Java环境都给你打包好",
+    "prompt": "这个项目直接给 Live2D 建模师干沉默了……\n\n以前做一个 Live2D 模型：手动分层、拆图、铺网格、绑骨骼、调物理，少说几天，多则几周。\n\n现在？丢一张 PSD 进去，PSD2Live 自动完成！\n\n还可以一键导出可编辑的 .cmo3 工程文件和 .moc3 运行时文件。\n\n解压即用，连Java环境都给你打包好了。\n\n🔗 https://t.co/Ojf0Mrcm4C",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "14qg6tizT3BrXrX6416tiXos32G4mHmVF",
+    "driveUrl": "https://drive.google.com/file/d/14qg6tizT3BrXrX6416tiXos32G4mHmVF/view"
+  },
+  {
+    "id": "203",
+    "xid": "2098273478403309787",
+    "title": "GPT-6 Astra 又把 3D 扫描的门槛打穿了。",
+    "category": "UI界面",
+    "model": "Blender",
+    "source": "@Minsi_AI",
+    "sourceUrl": "https://x.com/Minsi_AI/status/2098273478403309787",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098273478403309787_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098273478403309787_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098273478403309787.mp4",
+    "blurb": "GPT-6 Astra 又把 3D 扫描的门槛打穿了。 只用了 5 张照片 + 3 张全景图， Astra 就在 Blender 里从零重建了一个完整工作室。 耗时：11 分钟。 因为效果太干净，很多人第一反应是：假的吧？ 于是作者直接把模型做成了网页 Viewer。 任何人都可以自己旋转、放大、检查每个表面，",
+    "prompt": "GPT-6 Astra 又把 3D 扫描的门槛打穿了。\n\n只用了 5 张照片 + 3 张全景图，\nAstra 就在 Blender 里从零重建了一个完整工作室。\n耗时：11 分钟。\n\n因为效果太干净，很多人第一反应是：假的吧？\n\n于是作者直接把模型做成了网页 Viewer。\n\n任何人都可以自己旋转、放大、检查每个表面，甚至直接下载 Blender 文件。\n\n这就很有意思了。\n\n以前 3D 重建的结果，你只能“看演示”。\n现在 AI 不仅把模型做出来，\n还能把结果直接交给所有人验证。\n\n11 分钟生成，永久在线验货。\n房地产、建筑、室内设计、数字孪生这类行业，工作流真的要变了。\n#GPT6 #Astra #Blender #3D建模 #空间智能\n\n https://t.co/0EEXQpcCpi",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1WdeMkQd8aeZrR-vgVODHNY41V4NcF5bL",
+    "driveUrl": "https://drive.google.com/file/d/1WdeMkQd8aeZrR-vgVODHNY41V4NcF5bL/view"
+  },
+  {
+    "id": "204",
+    "xid": "2098379528288841864",
+    "title": "像这种跟随节奏卡点、每次转身无缝切换美景的玩法，现在的 AI 效果已经非常逼真了。",
+    "category": "AI视频",
+    "model": "",
+    "source": "@CrazyKaomei",
+    "sourceUrl": "https://x.com/CrazyKaomei/status/2098379528288841864",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098379528288841864_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098379528288841864_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098379528288841864.mp4",
+    "blurb": "像这种跟随节奏卡点、每次转身无缝切换美景的玩法，现在的 AI 效果已经非常逼真了。 固定一张人脸，不用出门就能流水线量产高质量的变装旅行大片。 烤妹儿基本每晚都会发一个高质量的美女视频提示词。想试水起号的宝子，今晚就去抖音试试看呢～ 提示词放下面啦👇 https://t.co/WWRMScX1Bt",
+    "prompt": "像这种跟随节奏卡点、每次转身无缝切换美景的玩法，现在的 AI 效果已经非常逼真了。\n\n固定一张人脸，不用出门就能流水线量产高质量的变装旅行大片。\n\n烤妹儿基本每晚都会发一个高质量的美女视频提示词。想试水起号的宝子，今晚就去抖音试试看呢～\n\n提示词放下面啦👇 https://t.co/WWRMScX1Bt",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1e0T3yOMiA8HyNKIrH5vtCouUR7pPhSXu",
+    "driveUrl": "https://drive.google.com/file/d/1e0T3yOMiA8HyNKIrH5vtCouUR7pPhSXu/view"
+  },
+  {
+    "id": "205",
+    "xid": "2099895850248122570",
+    "title": "Evening Dress",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@SS_BismarckDeri",
+    "sourceUrl": "https://x.com/SS_BismarckDeri/status/2099895850248122570",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099895850248122570_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099895850248122570_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Evening Dress #アズールレーン #AzurLane #AIart #aiイラストㅤㅤㅤㅤ https://t.co/yMzZdGQIUf",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1C45bDyPqVCHcVLq0QndVlE25rmA6TaYJ",
+    "driveUrl": "https://drive.google.com/file/d/1C45bDyPqVCHcVLq0QndVlE25rmA6TaYJ/view"
+  },
+  {
+    "id": "206",
+    "xid": "2099397284756586692",
+    "title": "兄弟们，互联网上还是好人多。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@huoshan007",
+    "sourceUrl": "https://x.com/huoshan007/status/2099397284756586692",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099397284756586692_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099397284756586692_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "兄弟们，互联网上还是好人多。 不知道哪位老哥搞了个推特精选画廊，硬生生把400多个女菩萨全给扒拉整理好了，甚至还贴心地整了热门分类。 我刚才点进去顺着榜单翻了一圈，随便点了个排前排的博主，直接一秒跳转到主页，连个弹窗广告都没有，干净得离谱。 没有套路，没有任何花里胡哨的引流，就是最纯粹的直达。 写出这玩意的人才",
+    "prompt": "兄弟们，互联网上还是好人多。\n\n不知道哪位老哥搞了个推特精选画廊，硬生生把400多个女菩萨全给扒拉整理好了，甚至还贴心地整了热门分类。\n\n我刚才点进去顺着榜单翻了一圈，随便点了个排前排的博主，直接一秒跳转到主页，连个弹窗广告都没有，干净得离谱。\n\n没有套路，没有任何花里胡哨的引流，就是最纯粹的直达。\n\n写出这玩意的人才是真功德无量，建议直接立地成佛。\n\nhttps://t.co/78N6Z1qdrb",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1HL4iEKBlSFllVNB5LylVdsnkeuqzch07",
+    "driveUrl": "https://drive.google.com/file/d/1HL4iEKBlSFllVNB5LylVdsnkeuqzch07/view"
+  },
+  {
+    "id": "207",
+    "xid": "2099677529133211802",
+    "title": "Cinematic promotional Ref2VA, 10 seconds, 9 quick shots. Ref…",
+    "category": "AI视频",
+    "model": "",
+    "source": "@PhotogenicWeekE",
+    "sourceUrl": "https://x.com/PhotogenicWeekE/status/2099677529133211802",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "Cinematic promotional Ref2VA, 10 seconds, 9 quick shots. Reference image: <Picture 1> is the girl shown in a 9-shot pose grid, the sole character and identity r",
+    "prompt": "Cinematic promotional Ref2VA, 10 seconds, 9 quick shots. Reference image: <Picture 1> is the girl shown in a 9-shot pose grid, the sole character and identity reference.\n\ndetailed_description:\nThe target video is a photorealistic, high-energy promotional video in a premium commercial look with dynamic lighting, shallow depth of field, subtle film grain and smooth 24fps camera motion. Throughout every shot, the girl <Picture 1> keeps her exact facial identity, hairstyle, skin tone, body proportions, outfit and accessories unchanged, and the background of each shot follows the background of its designated cell in the 3x3 reference grid <Picture 1>, keeping the same setting and environment as that cell without introducing any new location.\n[Shot 1] Quick establishing shot. The girl <Picture 1> appears in the top-left cell of the reference grid <Picture 1>, keeping that cell's background, looking directly into the lens with a confident, charismatic smile.\n[Shot 2] At 00:01.200, the camera cuts to the top-center cell of the reference grid <Picture 1>, keeping that cell's background. The girl <Picture 1> shifts her weight into a relaxed, effortless pose as the camera pushes in slightly.\n[Shot 3] At 00:02.400, the camera cuts to the top-right cell of the reference grid <Picture 1>, keeping that cell's background. Close-up of the girl <Picture 1> glancing over her shoulder with a cool, playful expression, hair moving naturally in the breeze.\n[Shot 4] At 00:03.600, the camera cuts to the middle-left cell of the reference grid <Picture 1>, keeping that cell's background. The girl <Picture 1> takes a slow confident step toward the camera, eyes locked on the lens.\n[Shot 5] At 00:04.800, the camera cuts to the middle-center cell of the reference grid <Picture 1>, keeping that cell's background. Medium shot of the girl <Picture 1> striking a dynamic, energetic pose with a bright genuine laugh, arms naturally open.\n[Shot 6] At 00:06.000, the camera cuts to the middle-right cell of the reference grid <Picture 1>, keeping that cell's background. The girl <Picture 1> leans against something with a relaxed, confident stance, smirking softly at the camera.\n[Shot 7] At 00:07.200, the camera cuts to the bottom-left cell of the reference grid <Picture 1>, keeping that cell's background. Close-up of the girl <Picture 1> with a soft, charming smile, tilting her head gently as the camera orbits slightly.\n[Shot 8] At 00:08.400, the camera cuts to the bottom-center cell of the reference grid <Picture 1>, keeping that cell's background. Full-body shot of the girl <Picture 1> in a strong, powerful pose, wind moving her hair as the camera tracks around her.\n[Shot 9] At 00:09.600, the camera cuts to the bottom-right cell of the reference grid <Picture 1>, keeping that cell's background. The girl <Picture 1> strikes a powerful final pose facing the lens, holding a confident gaze as the camera pulls back slightly, ending on a stylish hold.\nThroughout the video: exactly nine quick shots, each shot keeping the background of its designated cell in the 3x3 reference grid <Picture 1> (top-left, top-center, top-right, middle-left, middle-center, middle-right, bottom-left, bottom-center, bottom-right, in order), her identity never changing; stable face, anatomy, outfit, hairstyle and accessories, snappy rhythmic cuts, natural physics, realistic camera behavior, no text, no logos, no watermark, no face masks on any person.\n\noverall_soundscape:\nSubtle premium commercial ambience that shifts naturally with each changing background, with realistic environmental sounds matching each cell's setting in the reference grid, plus natural fabric and footsteps as she moves.\n\nnon_diegetic_music:\nAn upbeat, stylish 120 BPM promotional track with a driving beat, modern synth and a confident bassline, cut in sync with the nine quick shot changes and landing on a clean hit at the last frame.",
+    "nsfw": false,
+    "addedAt": "2026.09.21"
+  },
+  {
+    "id": "208",
+    "xid": "2099677329752813584",
+    "title": "发现一个非常屌的skill，可以让你的Agent做出十分精美的3D场景，👇",
+    "category": "3D建模",
+    "model": "",
+    "source": "@xiaohua_888",
+    "sourceUrl": "https://x.com/xiaohua_888/status/2099677329752813584",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099677329752813584_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099677329752813584_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099677329752813584.mp4",
+    "blurb": "发现一个非常屌的skill，可以让你的Agent做出十分精美的3D场景，👇 https://t.co/ILyWMyB1ol",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1HQHCGtTtpZ46y0wb2A99uO6CJGoq2xqp",
+    "driveUrl": "https://drive.google.com/file/d/1HQHCGtTtpZ46y0wb2A99uO6CJGoq2xqp/view"
+  },
+  {
+    "id": "209",
+    "xid": "2099699890041622841",
+    "title": "纯欲ts◢",
+    "category": "AI视频",
+    "model": "",
+    "source": "@d_d77408151",
+    "sourceUrl": "https://x.com/d_d77408151/status/2099699890041622841",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099699890041622841_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099699890041622841_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099699890041622841.mp4",
+    "blurb": "纯欲ts◢ ─────── 简介：劳逸结合...🧐 蝙蝠侠今晚不拯救哥谭了 [🖋会员群已更新全套完整版53V] 标签：#伪娘 #TS #口交 #后入 #情趣内衣 @KazamaTom @KasukabeAe @Suotomet @sktwobba https://t.co/hdY3tZeoU8",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.21",
+    "driveId": "17SqNc3PjlOV86ITWX_LwLj4dHRxnRZpy",
+    "driveUrl": "https://drive.google.com/file/d/17SqNc3PjlOV86ITWX_LwLj4dHRxnRZpy/view"
+  },
+  {
+    "id": "210",
+    "xid": "2099732287168401899",
+    "title": "Agent 时代，复刻一条爆款视频从而沉淀出自己的工作流，到底有多简单？",
+    "category": "AI视频",
+    "model": "",
+    "source": "@Zesee",
+    "sourceUrl": "https://x.com/Zesee/status/2099732287168401899",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099732287168401899_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099732287168401899_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099732287168401899.mp4",
+    "blurb": "Agent 时代，复刻一条爆款视频从而沉淀出自己的工作流，到底有多简单？ 我把小Lin说的参考视频结合Hypit @hypitai 丢给 Codex，想看看 AI 能不能复刻千万粉博主的口播视频。 结果它生成的不只是一条成片，而是一套可以继续修改和复用的视频 Workflow。 Hypit @hypitai 目前",
+    "prompt": "Agent 时代，复刻一条爆款视频从而沉淀出自己的工作流，到底有多简单？\n\n我把小Lin说的参考视频结合Hypit @hypitai 丢给 Codex，想看看 AI 能不能复刻千万粉博主的口播视频。\n\n结果它生成的不只是一条成片，而是一套可以继续修改和复用的视频 Workflow。\n\nHypit @hypitai 目前已开源，它不是 Agent，也不是视频模型，而是给 Claude Code、Codex 等 AI Agent 使用的开源视频语言和系统。人物、台词、字幕、B-roll 和特效都跟着文字与叙事事件走，不再钉死在时间线的某一秒。\n\n换主持人，只重新生成相关镜头；修改图表或背景，也只需要调整对应组件。复刻完成后，还能继续换人物、换内容、换语言，批量生成不同版本。\n\n如果你也想让 AI 真正开始复刻视频，可以试试 Hypit。下次想 Clone 爆款，直接把视频交给你的 Agent。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1dV8PNlq6hhLl0PjkcMOdpYDaqTyYKaKa",
+    "driveUrl": "https://drive.google.com/file/d/1dV8PNlq6hhLl0PjkcMOdpYDaqTyYKaKa/view"
+  },
+  {
+    "id": "211",
+    "xid": "2094730357979656430",
+    "title": "分享一组女性角色设计图，这高清度，拿去做短视频ai换脸，做漫剧主角，甚至做黄果女演员都能用上，依旧提示词在评论区",
+    "category": "AI视频",
+    "model": "",
+    "source": "@jackzhang123vip",
+    "sourceUrl": "https://x.com/jackzhang123vip/status/2094730357979656430",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "分享一组女性角色设计图，这高清度，拿去做短视频ai换脸，做漫剧主角，甚至做黄果女演员都能用上，依旧提示词在评论区 https://t.co/qYkHSvvD4F",
+    "prompt": "女性角色设定4视图提示词。超写实真人风格，亚洲年轻女性角色设定图，年龄18岁，气质清纯温柔，甜美自然，年轻貌美，具有吸引眼球的精致感，皮肤自然白皙无暇，五官清秀细腻，眼睛大而有神，表情自然柔和，微微浅笑，整体风格干净、温柔、优雅、日系韩系少女感结合轻奢时尚感。\n画面为16:9横版构图，左侧展示同一人物面部特写照，完整呈现面部、五官、发型、妆容、肩颈和服装上半身细节；右侧并列展示同一人物全身三视图：正面全身、侧面全身、背面全身。三视图必须为同一人物，脸部一比一还原，保持同一张脸、同一发型、同一服装、同一妆造，不能变成不同人物。\n人物身材修长挺拔，9头身模特比例，比例准确协调，避免大头娃娃感，避免头大身小，身高设定为180cm气质感少女，三视图表现为190cm模特比例的修长视觉效果。站姿自然端正，正面人物双手自然下垂，侧面人物自然侧身站立，背面人物展示服装背部结构。整体人物线条轻盈，肩颈舒展，双腿修长。脸型偏小巧柔和的鹅蛋脸，轮廓流畅，下颌线柔和自然；五官精致，鼻梁秀气立体，唇形柔和，眼神干净清澈。妆容为淡妆裸感妆，底妆清透，眼妆自然放大双眼，睫毛纤长，唇色为淡粉豆沙色，整体妆面高级、轻透、自然。\n发型为肩上长度的柔软短中发/锁骨短发，发尾微微内扣，带轻微空气感层次，棕黑色或深栗棕色，刘海轻薄自然，额前有细碎发丝，头发质感柔顺蓬松。右侧头发佩戴一个浅色蝴蝶结/珍珠感小发夹作为精致点缀。发型在正面、侧面、背面必须保持一致，背面清楚展示发尾轮廓和整体发量。\n服装为温柔优雅轻奢小香风穿搭：\n上身：米白色/奶油白色短款小香风粗花呢外套，圆领设计，质感柔软高级，面料细腻，带浅金色纽扣与精致胸针装饰；\n内搭：浅米色针织上衣或浅裸色细针织打底；\n下身：浅卡其色/米杏色高腰百褶中长裙，裙摆垂顺自然，褶皱整齐清晰；\n鞋子：米白色低跟浅口单鞋，优雅精致；\n配饰：胸前佩戴精致蝴蝶结/花形胸针，手腕可佩戴细手链或细表，发侧佩戴小型发夹，整体配饰简洁克制，不夸张。\n服装材质必须清晰可见，外套有细腻的粗花呢纹理，裙子有整齐自然的百褶垂坠感，鞋子有轻微皮革质感，整体质感高级、真实、细致。\n摄影与布光\n灰色影棚背景，无缝浅灰背景，极简干净。\n85mm镜头，f/2.0大光圈，浅景深，电影级商业影棚布光。\n光线要求：\n柔和主光\n人物面部补光\n侧逆光\n暖白轮廓光\n发丝光\n背景光\n光线柔和通透，不过曝，不过暗\n皮肤通透自然，质感细腻\n边缘高光柔和，发丝层次清晰",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1Ya9wvgdWTN9qFll9YbLIPGiHg5tZKuB-",
+    "driveUrl": "https://drive.google.com/file/d/1Ya9wvgdWTN9qFll9YbLIPGiHg5tZKuB-/view"
+  },
+  {
+    "id": "212",
+    "xid": "2097986382664978530",
+    "title": "昨天刷了一天 AI 黄果剧，太上头根本停不下来，AI短剧确实太火爆太馋人了！😍🔥",
+    "category": "AI视频",
+    "model": "Seedance",
+    "source": "@denziideng",
+    "sourceUrl": "https://x.com/denziideng/status/2097986382664978530",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097986382664978530_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097986382664978530_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2097986382664978530.mp4",
+    "blurb": "昨天刷了一天 AI 黄果剧，太上头根本停不下来，AI短剧确实太火爆太馋人了！😍🔥 整理了Github上8个高星的AI短剧制作项目，各个都很顶，你也能成为大导演！ 1️⃣ Toonflow 小说自动转短剧，从文本到角色，从分镜到视频，0门槛全流程AI化 https://github.com/HBAI-Ltd/Toon",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1uY_TNGu0GsH09YBE08XJWmly30zWC5zK",
+    "driveUrl": "https://drive.google.com/file/d/1uY_TNGu0GsH09YBE08XJWmly30zWC5zK/view"
+  },
+  {
+    "id": "213",
+    "xid": "2098768771024605257",
+    "title": "提示词3:",
+    "category": "国风历史",
+    "model": "",
+    "source": "@Adam38363368936",
+    "sourceUrl": "https://x.com/Adam38363368936/status/2098768771024605257",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "提示词3: 低领露肩；锁骨分明；薄纱贴肤；衣襟微松；侧卧榻边；一手轻扶发簪；腰线若隐若现；帘影半遮；烛光落肩；眸光湿润；欲语还休；艳而不俗；东方古典油画质感 提示词4： 云鬓微乱；低领薄纱；肩颈与腰线成为视觉重点；衣袖松垂；半倚屏风；身体微侧；回眸含情；花影落在肌肤与纱衣上；暗金烛光；灰紫低饱和；柔媚、神秘、暧昧；古",
+    "prompt": "提示词3:\n低领露肩；锁骨分明；薄纱贴肤；衣襟微松；侧卧榻边；一手轻扶发簪；腰线若隐若现；帘影半遮；烛光落肩；眸光湿润；欲语还休；艳而不俗；东方古典油画质感\n\n提示词4：\n云鬓微乱；低领薄纱；肩颈与腰线成为视觉重点；衣袖松垂；半倚屏风；身体微侧；回眸含情；花影落在肌肤与纱衣上；暗金烛光；灰紫低饱和；柔媚、神秘、暧昧；古典电影感",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1tax1LThrQ_bSOdDkU9EtSfLMysUXkXYG",
+    "driveUrl": "https://drive.google.com/file/d/1tax1LThrQ_bSOdDkU9EtSfLMysUXkXYG/view"
+  },
+  {
+    "id": "214",
+    "xid": "2098768431109828740",
+    "title": "提示词1:",
+    "category": "国风历史",
+    "model": "",
+    "source": "@Adam38363368936",
+    "sourceUrl": "https://x.com/Adam38363368936/status/2098768431109828740",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "提示词1: 一位东方古典美人，云鬓微乱，露肩薄纱，衣襟微松，胸前留白，衣料柔软轻透，轻纱自然包裹手臂与肩头，屏风与轻纱共同半遮身形，画面有含蓄的暧昧感，人物半转身回望，目光温柔，欲语还休，神情含蓄而带一点若有所思，花影落在脸侧与肩头，背景是旧墙暗纹与朦胧室内空间，柔和逆光从一侧透入，空气感轻盈，整体低饱和东方古典美学，",
+    "prompt": "提示词1:\n一位东方古典美人，云鬓微乱，露肩薄纱，衣襟微松，胸前留白，衣料柔软轻透，轻纱自然包裹手臂与肩头，屏风与轻纱共同半遮身形，画面有含蓄的暧昧感，人物半转身回望，目光温柔，欲语还休，神情含蓄而带一点若有所思，花影落在脸侧与肩头，背景是旧墙暗纹与朦胧室内空间，柔和逆光从一侧透入，空气感轻盈，整体低饱和东方古典美学，油画般细腻肌理，柔媚、含蓄、不俗艳，像一瞬间被看见的古典人物肖像。精致五官，真实皮肤质感，自然碎发，发髻松弛优雅，神态自然，画面高级，细节丰富，避免媚俗，避免僵硬姿态，避免浓艳网红妆感。\n\n提示词2：\n纤颈裸肩；轻纱绕臂；背部线条柔和；衣料自肩头滑落；倚窗侧坐；双腿自然收拢；花枝遮面；月光透纱；眼神疏离又暧昧；雾气朦胧；清艳、克制、惊鸿一瞥",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1knUDgaSTgAuFDx6Vvf9Rmz0o0Q6rzjIT",
+    "driveUrl": "https://drive.google.com/file/d/1knUDgaSTgAuFDx6Vvf9Rmz0o0Q6rzjIT/view"
+  },
+  {
+    "id": "215",
+    "xid": "2098767737061527753",
+    "title": "想测试一下 GPT Image 2.5 的尺度到底到哪",
+    "category": "国风历史",
+    "model": "GPT Image",
+    "source": "@Adam38363368936",
+    "sourceUrl": "https://x.com/Adam38363368936/status/2098767737061527753",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "想测试一下 GPT Image 2.5 的尺度到底到哪 结果我发现这种古风性感图，直接写“性感”反而容易俗。 真正好用的是这套公式： 露一点 + 遮一点 + 侧一点 + 暗一点 薄纱、露肩、半遮半掩、侧身、烛光、花影、欲语还休…… 这几个词一组合，味道就出来了。 下面4组我直接把完整提示词都贴出来，喜欢哪张",
+    "prompt": "想测试一下 GPT Image 2.5 的尺度到底到哪\n\n结果我发现这种古风性感图，直接写“性感”反而容易俗。\n\n真正好用的是这套公式：\n\n露一点 + 遮一点 + 侧一点 + 暗一点\n\n薄纱、露肩、半遮半掩、侧身、烛光、花影、欲语还休……\n\n这几个词一组合，味道就出来了。\n\n下面4组我直接把完整提示词都贴出来，喜欢哪张直接抄。",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1dqXTDmiwdF4UIKkHBgHsBa-Vuub2x5ul",
+    "driveUrl": "https://drive.google.com/file/d/1dqXTDmiwdF4UIKkHBgHsBa-Vuub2x5ul/view"
+  },
+  {
+    "id": "216",
+    "xid": "2092535330784395272",
+    "title": "分享一下具体步骤",
+    "category": "AI视频",
+    "model": "",
+    "source": "@0xmomonifty",
+    "sourceUrl": "https://x.com/0xmomonifty/status/2092535330784395272",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092535330784395272_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092535330784395272_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2092535330784395272.mp4",
+    "blurb": "分享一下具体步骤 原视频用这个工作流出黑白深度视频 https://www.runninghub.ai/zh-cn/post/2092518569955733506/ 然后把原视频和深度视频以及你生成的人物图给 codex，并用下面的提示词： 分析视频，将角色替换成我在我图里的角色，后续我会利用深度视频作为参考，也",
+    "prompt": "分析视频，将角色替换成我在我图里的角色，后续我会利用深度视频作为参考，也就是附件中的黑白深度视频。所以你要先参考原视频的面部表情，给我写出面部提示词。因为深度视频里面没有面部的提示词，所以你要把这个写出来。然后你再根据用深度视频作为参考，写最后的提示词\n\n之后在使用视频生成模型多参生成即可",
+    "nsfw": false,
+    "addedAt": "2026.09.21",
+    "driveId": "1NZnBR6S2D4Kz1Lf9g1_CKAJShcodgTSC",
+    "driveUrl": "https://drive.google.com/file/d/1NZnBR6S2D4Kz1Lf9g1_CKAJShcodgTSC/view"
+  },
+  {
+    "id": "217",
+    "xid": "2045831779949613388",
+    "title": "小鸡巴雌堕妻奴一个人在家里向老公大人汇报自己发情肛门自慰的情况💕",
+    "category": "AI视频",
+    "model": "",
+    "source": "@fenyoulei",
+    "sourceUrl": "https://x.com/fenyoulei/status/2045831779949613388",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2045831779949613388_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2045831779949613388_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2045831779949613388.mp4",
+    "blurb": "小鸡巴雌堕妻奴一个人在家里向老公大人汇报自己发情肛门自慰的情况💕 嗦鸡巴，肛门打桩高潮到翻白眼抽搐 30分钟完整版已放门槛会员群，入群请看置顶哦！💕 转发➕评论抽一位免费看完整版！ 肛交超级好用好看的假牛牛指路→ tb【乐茄子】@leqiezi",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.21",
+    "driveId": "1xbvx4EOvbHLxIVwUP0tnoPvofOIwAFjf",
+    "driveUrl": "https://drive.google.com/file/d/1xbvx4EOvbHLxIVwUP0tnoPvofOIwAFjf/view"
   }
 ];
