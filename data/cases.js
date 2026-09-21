@@ -4403,5 +4403,48 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.21",
     "driveId": "1xbvx4EOvbHLxIVwUP0tnoPvofOIwAFjf",
     "driveUrl": "https://drive.google.com/file/d/1xbvx4EOvbHLxIVwUP0tnoPvofOIwAFjf/view"
+  },
+  {
+    "id": "218",
+    "xid": "2101698222796517695",
+    "title": "银色液态金属迷你裙",
+    "category": "时尚摄影",
+    "model": "",
+    "source": "@LeoCat62728028",
+    "sourceUrl": "https://x.com/LeoCat62728028/status/2101698222796517695",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "透不透看运气💜 银色液态金属质感迷你连衣裙提示词",
+    "prompt": "银色液态金属质感迷你连衣裙，采用微型透亮片网状结构制作，柔软垂坠面料，具有流动的镜面反光效果；超深U形垂坠领口，领口堆叠出明显、丰厚的松弛褶皱，呈现自然下坠的重量感与流动感，细肩带设计；裙身自然贴合身体曲线；腰部两侧高开衩镂空设计，闪耀奢华派对礼服风格",
+    "nsfw": true,
+    "addedAt": "2026.09.22",
+    "driveId": "1VEAbjt6CZzhdDC-DGpSiunj9YaPV0MTY",
+    "driveUrl": "https://drive.google.com/file/d/1VEAbjt6CZzhdDC-DGpSiunj9YaPV0MTY/view"
+  },
+  {
+    "id": "219",
+    "xid": "2101694337763729824",
+    "title": "豆包 skills 导出抖音口播稿",
+    "category": "其他",
+    "model": "",
+    "source": "@jinchenma_ai",
+    "sourceUrl": "https://x.com/jinchenma_ai/status/2101694337763729824",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101694337763729824_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101694337763729824_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "豆包工作流 + 开源 social-media-data-tools skills，无痛获取抖音口播稿",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.22",
+    "driveId": "1OKfR-rKM6trQ9q1EGMtQRjpHFzQU6SYU",
+    "driveUrl": "https://drive.google.com/file/d/1OKfR-rKM6trQ9q1EGMtQRjpHFzQU6SYU/view"
   }
 ];

@@ -482,5 +482,27 @@ window.SKILLS = [
     "blurb": "https://t.co/DGOeDdiS7r",
     "video": false,
     "addedAt": "2026.09.21"
+  },
+  {
+    "id": "2101917222725898383",
+    "title": "Qwen-Image-2.1 无审查 GGUF",
+    "author": "@aehyok",
+    "name": "aehyok",
+    "url": "https://x.com/aehyok/status/2101917222725898383",
+    "group": "资讯收藏",
+    "blurb": "Qwen-Image-2.1 越狱无审查 GGUF 多量化版本已出（Q4/Q5/Q6/Q8）",
+    "video": false,
+    "addedAt": "2026.09.22"
+  },
+  {
+    "id": "2101865626046542228",
+    "title": "万字长文：通宵评测Qwen-Image-2.1",
+    "author": "@MinLiBuilds",
+    "name": "MinLiBuilds",
+    "url": "https://x.com/MinLiBuilds/status/2101865626046542228",
+    "group": "资讯收藏",
+    "blurb": "万字长文：通宵评测Qwen-Image-2.1",
+    "video": false,
+    "addedAt": "2026.09.22"
   }
 ];
