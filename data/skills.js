@@ -504,5 +504,60 @@ window.SKILLS = [
     "blurb": "万字长文：通宵评测Qwen-Image-2.1",
     "video": false,
     "addedAt": "2026.09.22"
+  },
+  {
+    "id": "2101993381303820704",
+    "title": "@gkxspace",
+    "author": "@gkxspace",
+    "name": "余温",
+    "url": "https://x.com/gkxspace/status/2101993381303820704",
+    "group": "资讯收藏",
+    "blurb": "https://t.co/GJXnawJpS2",
+    "video": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "2102639619720532357",
+    "title": "ChatGPT Images 2.5が想像以上にえぐい...",
+    "author": "@wad0427",
+    "name": "わど🐏AI界のマスコット",
+    "url": "https://x.com/wad0427/status/2102639619720532357",
+    "group": "资讯收藏",
+    "blurb": "ChatGPT Images 2.5が想像以上にえぐい...\n\nいま話題の画像生成AIなんだけど、\n公式が言ってない裏技、実はたくさんある。\n\nこれ全部知ってる人と知らない人で、コンテンツ作成スピードが10倍は変わるから、この投稿見つけた人にだけ教えるね。\n\nリプ欄に全部いれといた！保存推奨↓",
+    "video": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "2102659737175371849",
+    "title": "你知道吗？",
+    "author": "@AIExplorerTim",
+    "name": "AI探路者Tim",
+    "url": "https://x.com/AIExplorerTim/status/2102659737175371849",
+    "group": "资讯收藏",
+    "blurb": "你知道吗？\n\nAI 美女的 AI 感，只要多加一句话就能消掉九成。\n\n一直只会说\"再真实一点\"的人，根本没把潜力发挥出来。\n\n消除 AI 感的提示词我在串里全部公开。\n直接复制拿去用↓↓\n【建议保存】",
+    "video": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "2102717889585586493",
+    "title": "有一个模型比 Qwen-Image-2.1 更牛，可能 90% 玩本地大模型的朋友都不知道。论 NSFW……人家可是老祖",
+    "author": "@wquguru",
+    "name": "WquGuru",
+    "url": "https://x.com/wquguru/status/2102717889585586493",
+    "group": "资讯收藏",
+    "blurb": "有一个模型比 Qwen-Image-2.1 更牛，可能 90% 玩本地大模型的朋友都不知道。论 NSFW……人家可是老祖宗，更关键的是，生成速度是 Qwen 的 5 倍！！！\n\n这么说吧，我在 Mac 上跑了上百张实测，Qwen-Image-2.1 出一张最高分辨率（1328×1328）的图要 30 分钟，这个模型出一张只要 5 分钟😆\n\n它就是 WAI-Illustrious SDXL v17.",
+    "video": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "2102240456092626951",
+    "title": "@aiwarts",
+    "author": "@aiwarts",
+    "name": "卡尔的AI沃茨",
+    "url": "https://x.com/aiwarts/status/2102240456092626951",
+    "group": "资讯收藏",
+    "blurb": "https://t.co/Gr5VM7Aspu",
+    "video": false,
+    "addedAt": "2026.09.24"
   }
 ];

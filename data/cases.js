@@ -4446,5 +4446,658 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.22",
     "driveId": "1OKfR-rKM6trQ9q1EGMtQRjpHFzQU6SYU",
     "driveUrl": "https://drive.google.com/file/d/1OKfR-rKM6trQ9q1EGMtQRjpHFzQU6SYU/view"
+  },
+  {
+    "id": "220",
+    "xid": "2102579540237386166",
+    "title": "おはようございます🫶",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@PONKOAI111",
+    "sourceUrl": "https://x.com/PONKOAI111/status/2102579540237386166",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102579540237386166_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102579540237386166_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102579540237386166.mp4",
+    "blurb": "おはようございます🫶\n起きました👀\nぽんちゃんモデルのお仕事編\nです❣️\nかっこよくない?😚\n(o´∀`o)",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1f6D61G2K5MK7lUw61NeIfTFe-DQgnkUY",
+    "driveUrl": "https://drive.google.com/file/d/1f6D61G2K5MK7lUw61NeIfTFe-DQgnkUY/view"
+  },
+  {
+    "id": "221",
+    "xid": "2102338785858007236",
+    "title": "想弹一下吗",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@iammira_926",
+    "sourceUrl": "https://x.com/iammira_926/status/2102338785858007236",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102338785858007236_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102338785858007236_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102338785858007236.mp4",
+    "blurb": "想弹一下吗",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1sy310RfJfz1RSRnnjJwsGtqfrDa8-FCf",
+    "driveUrl": "https://drive.google.com/file/d/1sy310RfJfz1RSRnnjJwsGtqfrDa8-FCf/view"
+  },
+  {
+    "id": "222",
+    "xid": "2102723026714583065",
+    "title": "🪟😉",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@JACK_OH_AI",
+    "sourceUrl": "https://x.com/JACK_OH_AI/status/2102723026714583065",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102723026714583065_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102723026714583065_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102723026714583065.mp4",
+    "blurb": "🪟😉",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1kzWLZxERhdZoV6sZOxq9M-MAqNti9wDw",
+    "driveUrl": "https://drive.google.com/file/d/1kzWLZxERhdZoV6sZOxq9M-MAqNti9wDw/view"
+  },
+  {
+    "id": "223",
+    "xid": "2102402581360517607",
+    "title": "再推荐一下我的这个女性写真导演Skill，",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@liyue_ai",
+    "sourceUrl": "https://x.com/liyue_ai/status/2102402581360517607",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "再推荐一下我的这个女性写真导演Skill，\n\n只需一句话就可以自动选择风格并输出提示词，\n\n集合了20种视觉风格，Github目前已经1500+Star。\n\n欢迎兄弟们下载使用，下载地址见评论区：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1iOme7Pn0BWAsmUXVMCiSSFqZ_UNRC7ZP",
+    "driveUrl": "https://drive.google.com/file/d/1iOme7Pn0BWAsmUXVMCiSSFqZ_UNRC7ZP/view"
+  },
+  {
+    "id": "224",
+    "xid": "2102758243366039964",
+    "title": "💖美纱SSS DLC17.3发布咯快去看妈咪💘",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@NTH_Kimiko2b",
+    "sourceUrl": "https://x.com/NTH_Kimiko2b/status/2102758243366039964",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102758243366039964_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102758243366039964_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102758243366039964.mp4",
+    "blurb": "💖美纱SSS DLC17.3发布咯快去看妈咪💘",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1DHttyVtNxz-GR2TSTdqSelHFxZ8T75sg",
+    "driveUrl": "https://drive.google.com/file/d/1DHttyVtNxz-GR2TSTdqSelHFxZ8T75sg/view"
+  },
+  {
+    "id": "225",
+    "xid": "2102545309683548575",
+    "title": "💋",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Taobaiyaa_",
+    "sourceUrl": "https://x.com/Taobaiyaa_/status/2102545309683548575",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102545309683548575_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102545309683548575_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102545309683548575.mp4",
+    "blurb": "💋",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1z6TVYBOkFIxjO-ri--ffJ-cw71Acmglv",
+    "driveUrl": "https://drive.google.com/file/d/1z6TVYBOkFIxjO-ri--ffJ-cw71Acmglv/view"
+  },
+  {
+    "id": "226",
+    "xid": "2102589267595645005",
+    "title": "🚨【緊急】🚨",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@gagarotai200",
+    "sourceUrl": "https://x.com/gagarotai200/status/2102589267595645005",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102589267595645005_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102589267595645005_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102589267595645005.mp4",
+    "blurb": "🚨【緊急】🚨\nみんな早く気づいた方がいい\nAI美女の運用はInstagram一択　　　　　　　　　　　　　　　\nInstagramでアカウントを完成させることで　　　　　　　　　　　　　　　\n『月300万』の売り上げを達成できる　　　　　　　　　　　　　　　　　　　　\n👇　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n集客はTikTokなどのSNSを用いる\nその後",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "11uwhKvfhU8lnkImvEldKzdmvCT2zcH3K",
+    "driveUrl": "https://drive.google.com/file/d/11uwhKvfhU8lnkImvEldKzdmvCT2zcH3K/view"
+  },
+  {
+    "id": "227",
+    "xid": "2102360670616613147",
+    "title": "🛋️🌳",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@JACK_OH_AI",
+    "sourceUrl": "https://x.com/JACK_OH_AI/status/2102360670616613147",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102360670616613147_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102360670616613147_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102360670616613147.mp4",
+    "blurb": "🛋️🌳",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1ZGd-PkclgBnW7p8KnY7UA9ge8sHIEpog",
+    "driveUrl": "https://drive.google.com/file/d/1ZGd-PkclgBnW7p8KnY7UA9ge8sHIEpog/view"
+  },
+  {
+    "id": "228",
+    "xid": "2102390559738564952",
+    "title": "我操了兄弟们",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@10086110x",
+    "sourceUrl": "https://x.com/10086110x/status/2102390559738564952",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "我操了兄弟们\n\n终于搞明白那些 AI 大尺度视频是咋整的了  之前刷到一堆，一直以为是剪辑大神或者内部模型\n\n结果发现好像和普通ai做视频没啥区别，看来是我把这玩意想的太高端了🌝\n\n传送门：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1hRTDXXKj99kkCkYhkFmM3mBAUH_Oa6LZ",
+    "driveUrl": "https://drive.google.com/file/d/1hRTDXXKj99kkCkYhkFmM3mBAUH_Oa6LZ/view"
+  },
+  {
+    "id": "229",
+    "xid": "2102748539889820108",
+    "title": "这世上只有一种病治不好",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@PixelAigc",
+    "sourceUrl": "https://x.com/PixelAigc/status/2102748539889820108",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102748539889820108_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102748539889820108_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102748539889820108.mp4",
+    "blurb": "这世上只有一种病治不好\n那就是穷病\n本地部署H3一次生成25秒，用时13分钟。\n\nprompt 视频提示词如下：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1rvuZeVylaJ4wOROcRuDLQH_hU-8-hhVN",
+    "driveUrl": "https://drive.google.com/file/d/1rvuZeVylaJ4wOROcRuDLQH_hU-8-hhVN/view"
+  },
+  {
+    "id": "230",
+    "xid": "2102738823931118067",
+    "title": "🎨 Images 2.5 做东方诗意海报，巨物构图别有一番味道！",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@MrLarus",
+    "sourceUrl": "https://x.com/MrLarus/status/2102738823931118067",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "🎨 Images 2.5 做东方诗意海报，巨物构图别有一番味道！\n\n一个超尺度主视觉，加上大色域、微型人物，画面很容易就有完整作品感\n\n1. 西湖雨：朱砂巨伞切进烟雨湖面\n2. 白露初凝：一滴露水装下一整个清晨\n3. 上元灯夜：巨型灯笼悬在山河之间\n4. 云上春茶：一盏春茶化成山间云海\n\n适合做节气海报、文旅视觉、品牌 Campaign、文化活动 KV！\n\nPrompt 👇",
+    "prompt": "🎨 Images 2.5 做东方诗意海报，巨物构图别有一番味道！\n\n一个超尺度主视觉，加上大色域、微型人物，画面很容易就有完整作品感\n\n1. 西湖雨：朱砂巨伞切进烟雨湖面\n2. 白露初凝：一滴露水装下一整个清晨\n3. 上元灯夜：巨型灯笼悬在山河之间\n4. 云上春茶：一盏春茶化成山间云海\n\n适合做节气海报、文旅视觉、品牌 Campaign、文化活动 KV！\n\nPrompt 👇",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1wSv8HpXhmi_fD82EzCBBF80QujxSQyKW",
+    "driveUrl": "https://drive.google.com/file/d/1wSv8HpXhmi_fD82EzCBBF80QujxSQyKW/view"
+  },
+  {
+    "id": "231",
+    "xid": "2099904698073616580",
+    "title": "🤍 Images 2.5 absolutely nails this hard-sunlight portrait lo",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@MrLarus",
+    "sourceUrl": "https://x.com/MrLarus/status/2099904698073616580",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "🤍 Images 2.5 absolutely nails this hard-sunlight portrait look!\n\nFour looks, same sun-soaked feel:\n1. Silver blonde\n2. Copper red\n3. Dark brown\n4. Honey blonde\n\n✨ Great for realistic portraits, fashio",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "15Rc0Z3CS8WQqcBGXY1e0vS6HMMmfjwXa",
+    "driveUrl": "https://drive.google.com/file/d/15Rc0Z3CS8WQqcBGXY1e0vS6HMMmfjwXa/view"
+  },
+  {
+    "id": "232",
+    "xid": "2100589093398745441",
+    "title": "Prompt:",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@MrLarus",
+    "sourceUrl": "https://x.com/MrLarus/status/2100589093398745441",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "Prompt:\n\nTop: [satin top color and style]\nBottom: [high waisted fitted mini skirt]\nTights: [ultra sheer back seam / smoke gray / micro dot / fine pinstripe]\nShoes: [black pointed heels]\nAspect ratio: ",
+    "prompt": "Top: [satin top color and style]\nBottom: [high waisted fitted mini skirt]\nTights: [ultra sheer back seam / smoke gray / micro dot / fine pinstripe]\nShoes: [black pointed heels]\nAspect ratio: 9:16\n\nCreate an ultra realistic nighttime fashion snapshot of an adult East Asian woman sitting on a rumpled ivory hotel bed. Keep the same visual setup across variations: deep burgundy velvet curtain, dark warm gray wall, strong on camera direct flash, hard natural shadow behind the subject, close 35 to 50mm perspective, and a slightly imperfect candid composition.\n\nShe has a slim waist, long legs, natural feminine proportions, realistic skin texture and subtle flash sheen. Long black hair should feel full, soft and slightly messy, with a few strands crossing the face. Hair must remain continuous from root to tip, forming several coherent flowing locks instead of broken or randomly fragmented strands.\n\nHer pose is relaxed and asymmetrical: one hand touching her hair, the other supporting her body on the bed, one leg extending toward the camera while the other bends naturally to the side. Keep the pose elegant and spontaneous rather than looking like a commercial model pose.\n\nThe satin top should show realistic drape, folds and flash reflections while preserving its chosen color in the shadows. The skirt should stay matte and structured. The tights must remain very sheer with visible natural skin underneath, and the chosen hosiery detail should follow the three dimensional shape of the legs naturally.\n\nFor back seam tights, place one thin continuous seam along the true back center of the leg from heel upward. For micro dot tights, use tiny sparse dots that are only noticeable up close. For fine pinstripe tights, use very thin low contrast vertical lines with generous spacing. For smoke gray tights, keep them completely clean and pattern free.\n\nMake every material react differently to the flash: natural skin, glossy satin, matte skirt, sheer hosiery, patent heels and soft bedding. Preserve realistic hand pressure on the mattress, natural fabric wrinkles, correct anatomy and authentic direct flash photography.\n\nAvoid plastic skin, CGI look, broken hair strands, fake wig texture, distorted hands, duplicated limbs, warped legs, incorrect hosiery patterns, deformed heels, studio soft lighting, commercial lookbook posing and excessive retouching.",
+    "nsfw": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "233",
+    "xid": "2102791913426350148",
+    "title": "📸 Old houses are ridiculously good for portraits!",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@MrLarus",
+    "sourceUrl": "https://x.com/MrLarus/status/2102791913426350148",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "📸 Old houses are ridiculously good for portraits!\n\nGreat for vintage portraits, cinematic lifestyle photography, and realistic editorial shots.\n\n1. Staircase portrait\n2. Rustic kitchen\n3. Window light",
+    "prompt": "📸 Old houses are ridiculously good for portraits!\n\nGreat for vintage portraits, cinematic lifestyle photography, and realistic editorial shots.\n\n1. Staircase portrait\n2. Rustic kitchen\n3. Window light\n4. Old bedroom\n\n✨ For 4K upscaling, you can use Jimeng 5.0 Lite! Existing members can upscale for free!\n\nPrompt in replies 👇",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1Sqd073NbUU6RJXaHZO_CbsfDZOA4IWXW",
+    "driveUrl": "https://drive.google.com/file/d/1Sqd073NbUU6RJXaHZO_CbsfDZOA4IWXW/view"
+  },
+  {
+    "id": "234",
+    "xid": "2102286309335191634",
+    "title": "兄弟们 好东西",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@xiaohu",
+    "sourceUrl": "https://x.com/xiaohu/status/2102286309335191634",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "兄弟们 好东西\n\nQwen-Image-2.1无审查版本\n\n移除了安全过滤\n可以生成成人、NSFW等图像内容\n\n而且优化了生成速度：\n\n主模型放进显卡里跑保证速度，把巨大的“文本编码器”扔给普通电脑内存（CPU）去跑。 这样能帮你省出 9 到 17 GB 的显存，而且几乎不会拖慢出图速度！\n\n\n\nQwen-Image-2.1同时把“文生图”和“图像编辑”融合成了一个模型，还原生支持透明图处理。\n\n",
+    "prompt": "兄弟们 好东西\n\nQwen-Image-2.1无审查版本\n\n移除了安全过滤\n可以生成成人、NSFW等图像内容\n\n而且优化了生成速度：\n\n主模型放进显卡里跑保证速度，把巨大的“文本编码器”扔给普通电脑内存（CPU）去跑。 这样能帮你省出 9 到 17 GB 的显存，而且几乎不会拖慢出图速度！\n\nhttps://t.co/xB8A5M6L8U\n\nQwen-Image-2.1同时把“文生图”和“图像编辑”融合成了一个模型，还原生支持透明图处理。\n\n最多支持 10 张参考图：\n\n可以把 6 个人的单人照直接合成为一张自然的多人合照\n\n画面质感提升（字雅人美）：\n\n文字排版不再“画符”：解决了以往生图模型文字容易扭曲、拼错的毛病，字体、排版更协调美观。\n\n光影细节更逼真：皮肤质感、毛发细节与自然光影大幅改善，摆脱“塑料 AI 感”",
+    "nsfw": false,
+    "addedAt": "2026.09.24"
+  },
+  {
+    "id": "235",
+    "xid": "2102375290013933730",
+    "title": "这 5 个 skill 能让 agent 秒变家教、youtuber 和创始人的得力助手",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@cryptowluha",
+    "sourceUrl": "https://x.com/cryptowluha/status/2102375290013933730",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102375290013933730_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102375290013933730_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102375290013933730.mp4",
+    "blurb": "这 5 个 skill 能让 agent 秒变家教、youtuber 和创始人的得力助手\n\n1. tutor-skills\n手把手教你任何东西\n\n\n2. youtube-skills\n搞定 youtube 那一整套流程\n\n\n3. platform-design\n按每个平台的特点做界面\n\n\n4. Aegis\n给整个项目加上护栏\n\n\n5. founder-skills\n覆盖创始人每天要处理的杂事\n\n\n",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1II8bUNPI_GfQB_GbpAcTFgHb-5yxyidp",
+    "driveUrl": "https://drive.google.com/file/d/1II8bUNPI_GfQB_GbpAcTFgHb-5yxyidp/view"
+  },
+  {
+    "id": "236",
+    "xid": "2102654580223877614",
+    "title": "Qwen-Image-2.1 in 4 steps is here ⚡",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@HuggingApps",
+    "sourceUrl": "https://x.com/HuggingApps/status/2102654580223877614",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102654580223877614_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102654580223877614_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102654580223877614.mp4",
+    "blurb": "Qwen-Image-2.1 in 4 steps is here ⚡\n\n@ViggleAI distilled Qwen-Image-2.1 into a 4-step turbo model, 6× faster, and holds up side by side with the full model\n\n▶️  on Spaces",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1B5HiDowb7rNRuTwU2isX7qGNhUZtspHI",
+    "driveUrl": "https://drive.google.com/file/d/1B5HiDowb7rNRuTwU2isX7qGNhUZtspHI/view"
+  },
+  {
+    "id": "237",
+    "xid": "2102663175430942788",
+    "title": "Qwen-Image-2.1 は上手に切り抜きが出来るので、切り抜いたオブジェクトを画像から消して、次に手前にあるものを",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@noma_door",
+    "sourceUrl": "https://x.com/noma_door/status/2102663175430942788",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102663175430942788_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102663175430942788_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102663175430942788.mp4",
+    "blurb": "Qwen-Image-2.1 は上手に切り抜きが出来るので、切り抜いたオブジェクトを画像から消して、次に手前にあるものをまた切り抜いて… というのを繰り返せばレイヤー分けが出来るね(-ω☆) というのでやってみました\n\nworkflow : \n\nループ処理で出来ることが増えたけど難しすぎる！",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1uIi0DvWxcSD2wj42p6OV4kSXRFIwtcAk",
+    "driveUrl": "https://drive.google.com/file/d/1uIi0DvWxcSD2wj42p6OV4kSXRFIwtcAk/view"
+  },
+  {
+    "id": "238",
+    "xid": "2102634281587884098",
+    "title": "本来只是想试试沙发构图，结果腿先出道了 😂",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@DDJCXX",
+    "sourceUrl": "https://x.com/DDJCXX/status/2102634281587884098",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102634281587884098_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102634281587884098_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "本来只是想试试沙发构图，结果腿先出道了 😂\n\n黑蕾丝、亮面丝袜、尖头高跟，再开个直闪，灰沙发越普通反而越有那味。\n\nPrompt ：超写实室内闪光人像摄影，竖版约 9:16。一名明确成年的东亚女性，20+，侧坐在极简灰色布艺沙发上，摄影者位于人物正前方略偏高位置，使用约 28–35mm 镜头＋机顶直闪，完整拍到头部、身体、双腿和高跟鞋。人物位于画面中央偏左，双腿横向舒展，占据画面中下部。\n\n人物为",
+    "prompt": "超写实室内闪光人像摄影，竖版约 9:16。一名明确成年的东亚女性，20+，侧坐在极简灰色布艺沙发上，摄影者位于人物正前方略偏高位置，使用约 28–35mm 镜头＋机顶直闪，完整拍到头部、身体、双腿和高跟鞋。人物位于画面中央偏左，双腿横向舒展，占据画面中下部。\n\n人物为自然丰满偏沙漏型身材：肩部适中，胸部丰满，腰部明显收束，髋部圆润，大腿根部柔软饱满，腿部修长匀称。不要过度纤瘦，也不要健美肌肉感。\n\n人物斜坐在沙发左侧，上半身略向后靠，左腿屈膝横放在沙发坐垫上，右腿从身体下方向画面右侧大幅伸直，两腿形成交叉叠放结构。右脚延伸到画面右下角，左脚靠近身体。左手轻搭在沙发扶手 / 身侧，右手放在屈起腿部附近，姿态放松自然。\n\n人物留乌黑色超长波浪发，长度到腰部附近，发量浓密，头顶略蓬松；额前为中分偏八字刘海和细碎发丝，两侧头发自然垂落胸前。脸型小巧偏鹅蛋形，肤色白皙，妆容精致：黑色细眼线、自然长睫毛、淡粉腮红、玫瑰裸色唇妆。双眼直视镜头，嘴角轻微上扬，神情冷静柔和。\n\n上身穿黑色蕾丝束身胸衣 / corset top，带明显杯型结构、半透明蕾丝拼接、纵向骨线与收腰设计，肩带较细，腰部紧贴身体。下身穿黑色高叉贴身短裤 / 极短皮质或缎面下装，与上衣统一为全黑造型，保持完整正常覆盖。\n\n双腿穿高光泽烟黑色超薄透明连裤丝袜，约8–12D，明显透出真实肤色，袜面贴肤光滑，受到闪光灯后在大腿、膝盖、小腿和脚背形成非常明显的银白色纵向反光高光线，这是画面重要特征。不要厚黑袜、哑光袜或网袜。\n\n脚穿黑色亮面尖头细高跟鞋，漆皮材质，鞋头狭长，细跟约9–11cm；右脚高跟鞋延伸到画面右下方，略带红色 / 深红色鞋底边缘，左鞋靠近腿部交叠处。\n\n场景为简洁现代室内：一张中灰色织物双人沙发贴着浅灰白色微水泥墙面，墙面有非常轻微裂纹和粗糙纹理；地面为深棕色旧木地板，保留磨损、划痕和木纹。左上角露出一盏黑色大型吊灯灯罩的一部分，形成明显黑色几何前景。\n\n光线采用正面机顶闪光灯＋微弱室内环境光。人物皮肤、丝袜和黑色漆皮鞋被直闪明显提亮，身后墙面出现轻微阴影；背景整体偏暗灰，人物轮廓非常清楚。保留真实闪光摄影的高反差、轻微过曝和局部反光。\n\n整体呈 2000s 数码相机 / 夜间室内直闪写真质感：自然肤质、真实毛孔、轻微颗粒、有限动态范围、低饱和冷灰色调，不要商业棚拍感。\n\n重点锁定：成年东亚女性＋超长黑色波浪发＋黑色蕾丝束身胸衣＋黑色高叉短下装＋高光泽烟黑超薄透明丝袜＋黑色尖头细高跟鞋＋灰色布艺沙发斜坐＋一腿屈膝横放、一腿向右大幅伸直＋机顶直闪＋丝袜明显银白高光＋浅灰墙＋深色旧木地板。\n\n避免：厚黑丝袜、网袜、裸腿、长裤、长裙、运动鞋、粗跟鞋、站姿、双腿并拢、短发、彩色服装、豪华室内、柔光棚拍、强背景虚化、动漫脸、CG感、塑料皮肤、多余肢体、畸形脚、水印和乱码文字。",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1ZXsQX6fpkB5Yyy4C7UI1DsNq5vrBDtNF",
+    "driveUrl": "https://drive.google.com/file/d/1ZXsQX6fpkB5Yyy4C7UI1DsNq5vrBDtNF/view"
+  },
+  {
+    "id": "239",
+    "xid": "2102769448398782894",
+    "title": "所有有 GPU 或者 Macbook 的朋友，都应该本地部署一次 Qwen-Image-2.1（写实） 和 Anima（",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@wquguru",
+    "sourceUrl": "https://x.com/wquguru/status/2102769448398782894",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_0.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "所有有 GPU 或者 Macbook 的朋友，都应该本地部署一次 Qwen-Image-2.1（写实） 和 Anima（二次元）！不联网、无审查，小显存、小统一内存也能跑。\n\n我测试了一周，感觉的十分惊艳，下面整理了一批本地能跑的出图模型。友情提示：\n\nQwen 擅长写实、构图、图里写字，需要二次元就换 Anima。\n\n一、写实主力：Qwen-Image-2.1\n\nMac 首选 MLX 4bit（",
+    "prompt": "所有有 GPU 或者 Macbook 的朋友，都应该本地部署一次 Qwen-Image-2.1（写实） 和 Anima（二次元）！不联网、无审查，小显存、小统一内存也能跑。\n\n我测试了一周，感觉的十分惊艳，下面整理了一批本地能跑的出图模型。友情提示：\n\nQwen 擅长写实、构图、图里写字，需要二次元就换 Anima。\n\n一、写实主力：Qwen-Image-2.1\n\nMac 首选 MLX 4bit（mflux 跑）：https://t.co/O5NNx6I0EU\nGGUF Q4_K（stable-diffusion.cpp 跑）：https://t.co/9CJqoSCvJc\n文本编码器：https://t.co/4HOHH51J6h\n专属 VAE（别换成别的）：https://t.co/hVElyWQz8K\n\n两个坑：cfg 用 1，这个模型按无引导训练，开到 6 慢一倍、画质没提升；mflux 跑 20 步构图容易崩，正式出图用 40 步。\n\n二、二次元主力：Anima\n\n基于 NVIDIA Cosmos-Predict2 的新架构，约 2B，不是 SDXL 微调。Danbooru 标签和自然语言都能用，比 Qwen 轻得多。\n\n官方：https://t.co/CwxE3izldG\nCivitai：https://t.co/KMu4Y8M2nN\nWAI 作者的版本 WAI-Anima：https://t.co/0rzObBGNAi\nWAI-Anima int8 量化（约 2.1GB，省显存）：https://t.co/SUJTZY5NW7\n\n有三个版本：Base 适合练 LoRA，Aesthetic 默认画风更好看，Turbo 8–12 步出图。要单独配文本编码器 qwen_3_06b 和 Qwen-Image VAE，不是普通的 checkpoint，丢进去不能直接跑。\n\n三、要锁定角色、要海量 LoRA：Illustrious 系列\n\nWAI-Illustrious SDXL：https://t.co/jUUeQabi4a\n\n角色一致性和服装标签，LoRA 数量约 20 万级，冷门角色基本都有。\n\n最后值得注意：模型文件本身也可能被投毒。只下 .safetensors，不碰 .ckpt / .pt；Civitai 上来源不明的 merge 慎用，注意核查hash。Anima 系列是非商用许可，商用前需要注意这点。\n\n效果直出👇",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1mZmzTEOQJ9FiGjtgS6ytk_JbwHd_smpH",
+    "driveUrl": "https://drive.google.com/file/d/1mZmzTEOQJ9FiGjtgS6ytk_JbwHd_smpH/view"
+  },
+  {
+    "id": "240",
+    "xid": "2102091983292358839",
+    "title": "我太激动了！我用JEV 全自动21秒通过了阿里云AI工程师认证模拟考！",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@SUOHA_AI",
+    "sourceUrl": "https://x.com/SUOHA_AI/status/2102091983292358839",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102091983292358839_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102091983292358839_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102091983292358839.mp4",
+    "blurb": "我太激动了！我用JEV 全自动21秒通过了阿里云AI工程师认证模拟考！\n\n我貌似发现了JEV最强大的应用场景--全自动化：这次测试我只给JEV丢了一个完全陌生的考试页，让它全自动帮我考完：21 秒一次性刷完 25 道题，准确率 80%，一次就合格通过考试，全程没停顿、零人工干预\n\n这是阿里云人工智能工程师ACP认证（模拟题），我并没有实际考试，我怕阿里云找我麻烦🤡\n\n越来越多的场景，我用 JEV ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1rOe6VlfdRshCkNWSgI5nE-5T0KYLXyu5",
+    "driveUrl": "https://drive.google.com/file/d/1rOe6VlfdRshCkNWSgI5nE-5T0KYLXyu5/view"
+  },
+  {
+    "id": "241",
+    "xid": "2102630874944839940",
+    "title": "@MikaBuwan",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@MikaBuwan",
+    "sourceUrl": "https://x.com/MikaBuwan/status/2102630874944839940",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "真的可以用，试几次就成功了。\n把脚抬高一点就行了，内衣不要写的太性感。\n\n学着改写以后的提示词：\n9:16。身材纤细的中国时尚模特，直视镜头，腹部紧致平坦。\n空旷高挑的极简艺术空间，大落地窗前洒满温暖的落日逆光。\n身姿优雅挺拔，单腿优美高高抬起，腰腹呈现极具张力的柔韧拉伸感。\n穿着白色无肩带抹胸内衣（或法式细带内衣），露出锁骨与紧致腰腹。底部完全在画面外不可见。\n负面：底部、紧身裤、内裤、短裤、裙",
+    "prompt": "9:16。身材纤细的中国时尚模特，直视镜头，腹部紧致平坦。\n空旷高挑的极简艺术空间，大落地窗前洒满温暖的落日逆光。\n身姿优雅挺拔，单腿优美高高抬起，腰腹呈现极具张力的柔韧拉伸感。\n穿着白色无肩带抹胸内衣（或法式细带内衣），露出锁骨与紧致腰腹。底部完全在画面外不可见。\n负面：底部、紧身裤、内裤、短裤、裙子。",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1N9ymPc4vJkWGpYGETDjl3V4KxQ2OotZz",
+    "driveUrl": "https://drive.google.com/file/d/1N9ymPc4vJkWGpYGETDjl3V4KxQ2OotZz/view"
+  },
+  {
+    "id": "242",
+    "xid": "2102662408271692102",
+    "title": "卧槽，牛逼了。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@aidavid125",
+    "sourceUrl": "https://x.com/aidavid125/status/2102662408271692102",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102662408271692102_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102662408271692102_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102662408271692102.mp4",
+    "blurb": "卧槽，牛逼了。\n同样的提示词效果居然不一般。💪💪\n\n工具：MiniMax H3，也可以使用在线工具如：\n\n不知火舞第一弹V2👇\n\n第一弹提示词：\n---\nFor the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_m",
+    "prompt": "效果居然不一般。💪💪\n\n工具：MiniMax H3，也可以使用在线工具如：https://t.co/N1Xjqmhwix\n\n不知火舞第一弹V2👇\n\n第一弹提示词：\n---\nFor the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, retro arcade fighting-game character art style blended with a clean macOS desktop scene, exactly as established in <Picture 1>: an arc-shaped light-band wallpaper sweeps from deep blue-violet at the lower left to orange-red and magenta at the upper right over a mirror-like reflective ground; two vertical columns of glossy rounded-square application icons stand on the left half — each icon is a clean pictogram with NO text label beneath it: the first column shows from top to bottom a blue smiling face, a red-yellow-green ring around a blue center dot, a white \"N\" block in a dark frame, a light-blue infinity-style ribbon, a dark tile with blue letters, an amber tile with yellow script, a purple tile with white letters, and green arcs inside a circle; the second column shows two white chat bubbles on green, a penguin on white, a white paper plane on blue gradient, four colored squares in a grid, a blue-green spiral ring, a red play triangle, colorful pinwheel petals, and a white \"A\" brushstroke on blue — on the right stands the brown high-ponytail young woman with white horn-like hair ornaments, wearing a red high-slit qipao-style fighting outfit with a large white waist knot trailing red-floral ribbons and white-tassel beads in her hair, black fingerless gloves and red-black heeled sandals; she holds an open white fan with red trim hanging behind her hip while one hand rests on her waist, gazing back over her shoulder. The camera pushes in with small amplitude at slow speed as she pivots from the回眸 stance into a low crouch, orange-yellow fire ribbons beginning to swirl around her feet and embers spiraling upward past her shoulders. [Shot 2] At 00:04.500, the camera cuts to a wider shot of the full desktop as she explodes out of the crouch into a dramatic backbend spin — one leg planted, the other extended far to the side-rear, torso twisted and arched backward, ponytail flaring wide in the motion — and roars <d>[Japanese] 超必殺・忍蜂！</d> A ring of glowing shuriken erupts from her spinning body and orbits outward like a whirlpool across the center of the screen; as the blades sweep through the icon columns, open fans launch from her wrist in rapid succession and strike the icons one by one — each struck icon wobbles violently, peels off its grid position, and tumbles downward with motion blur past the reflective ground out of frame, trailing orange-yellow sparks. The final shuriken detonates at the center of the grid as a white-blue light bloom, shaking the whole desktop loose; every remaining icon rains down in a cascade while her spin finishes in a low landing, one hand extended forward, palm up. [Shot 3] At 00:10.500, the camera cuts to a medium close-up of the young woman across the now-empty center of the screen; her expression stays calm and unbothered, lips pressed into a confident smirk while embers drift past her shoulder. She slowly raises her open fan beside her face and says <d>[Japanese] 花蝶扇。</d> Orange-yellow flame begins to gather along the fan's ribs like liquid fire pooling on silk, the light reflecting off her white waist knot and red-floral ribbons as tiny sparks orbit her wrist. [Shot 4] At 00:13.500, the shot cuts back to the full desktop as she sweeps the burning fan in a wide graceful arc through another spin; ribbons of orange-yellow flame unfurl from the fan like butterfly wings trailing behind her, and each ribbon's tip hooks one falling icon from below the frame, reeling it smoothly up into its exact original grid position — every lock-in flashing a small white-blue light bloom with a sharp click as the icons seat crisply back into place, restoring both columns perfectly. The last ribbon curls around the final icon and dissolves into sparks that spiral back into her fan as she closes it with a snap at her hip. [Shot 5] At 00:17.000, the camera cuts to a low-angle hero shot as she settles into her classic pose from <Picture 1>: side-turned stance with weight on the rear leg, one hand on her waist, the closed fan held elegantly beside her face, chin tilted down in a cold confident glare while her ribbons and hair flare outward in the residual wind. The camera pulls out with small amplitude at slow speed, revealing the fully restored desktop around her; drifting orange sparks fade to black as she holds the pose until the end of the video.\n\noverall_soundscape: Low flame crackle builds under a rumbling charge, then an explosive whoosh on the backbend spin — rapid shuriken whistles and fan-snap cracks striking icons one after another — followed by cascading rattling clatters as icons tumble out of frame and a sharp white-blue burst pop. A crisp fan snap and a soft confident breath carry across the empty desktop during the calm close-up. Rising flame hiss gathers along the fan's ribs, then graceful silk-ribbon whooshes sweep through the spin while crisp snap-back clicks land one after another as each icon locks into place with tiny light-bloom pops, ending with a low resonant boom under guttering ember crackle.\n\nnon_diegetic_music: Driving taiko drums with fast electronic percussion at a high tempo building to a hard hit on the shuriken barrage, dropping out to sparse sustained synth and a single koto pluck during the calm close-up, then returning for one final strong downbeat as she locks her classic pose.\n---",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "14Q7pEGCDosbIMZk5qo7jl-Werds0M_kw",
+    "driveUrl": "https://drive.google.com/file/d/14Q7pEGCDosbIMZk5qo7jl-Werds0M_kw/view"
+  },
+  {
+    "id": "243",
+    "xid": "2102362143828136219",
+    "title": "一直在等微信开放接口，让我可以处理积累下来的上百 G 聊天数据。试过 Github 上的几个项目都不太成功。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Xianbao_QIAN",
+    "sourceUrl": "https://x.com/Xianbao_QIAN/status/2102362143828136219",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102362143828136219_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102362143828136219_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "一直在等微信开放接口，让我可以处理积累下来的上百 G 聊天数据。试过 Github 上的几个项目都不太成功。\n\n万万没想到，最后这个接口来是被腾讯开放了 :)\n\n感谢 HY4 preview 非常到位 :D \n模型太强了！",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1TcJesT3uRnOj0iNfshGI_QXF0Zd4kOWF",
+    "driveUrl": "https://drive.google.com/file/d/1TcJesT3uRnOj0iNfshGI_QXF0Zd4kOWF/view"
+  },
+  {
+    "id": "244",
+    "xid": "2102648975061053736",
+    "title": "我这也算越狱成功了吗？",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@yhslgg",
+    "sourceUrl": "https://x.com/yhslgg/status/2102648975061053736",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102648975061053736_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102648975061053736_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "我这也算越狱成功了吗？",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1O2K9c3PBu5KFJjEOuG50dOJtlI8aWRk8",
+    "driveUrl": "https://drive.google.com/file/d/1O2K9c3PBu5KFJjEOuG50dOJtlI8aWRk8/view"
+  },
+  {
+    "id": "245",
+    "xid": "2102694067696263534",
+    "title": "以前我觉得Obsidian“第二大脑”这个概念噱头更大，直到我看到这个堪比“人生操作系统”的Vault，太太太强大了，几",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Sunkeke_AI",
+    "sourceUrl": "https://x.com/Sunkeke_AI/status/2102694067696263534",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102694067696263534_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102694067696263534_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102694067696263534.mp4",
+    "blurb": "以前我觉得Obsidian“第二大脑”这个概念噱头更大，直到我看到这个堪比“人生操作系统”的Vault，太太太强大了，几乎涵盖了你每天需要管理的方方面面：\n今天做什么、每日的复盘、每年每月如何规划、项目的看板、还包括人际关系管理；作为内容创作者你写的文章、做的各种视频脚本都给你分门别类了。\n\n还能记录你的各种习惯做成打分做成雷达图，最厉害的是把你大脑里的东西都具象化了！！（视频一定要看到最后！）\n",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1ureNvelK4Z4bVZk073Q_hr6kYM9gzmaS",
+    "driveUrl": "https://drive.google.com/file/d/1ureNvelK4Z4bVZk073Q_hr6kYM9gzmaS/view"
+  },
+  {
+    "id": "246",
+    "xid": "2102499304724381707",
+    "title": "MiniMax H3's video VAE is now ~2x faster in ComfyUI on @nvid",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@ComfyUI",
+    "sourceUrl": "https://x.com/ComfyUI/status/2102499304724381707",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102499304724381707_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102499304724381707_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "MiniMax H3's video VAE is now ~2x faster in ComfyUI on @nvidia  GPUs\n\nEncode: up to ~2.2x faster\nDecode: ~1.4–2.7x faster\n1344x768, 129-frame round trip: 24.3s → 12.7s\n\nFull breakdown from @Kijaidesig",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1ihqh4TQOEcVM_x_GP1gt2TMQ5IkEmS1y",
+    "driveUrl": "https://drive.google.com/file/d/1ihqh4TQOEcVM_x_GP1gt2TMQ5IkEmS1y/view"
+  },
+  {
+    "id": "247",
+    "xid": "2102420515675934933",
+    "title": "有心了，几乎把最近一段时间 X 上的所有爆款文章都翻出来了。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@jinchenma_ai",
+    "sourceUrl": "https://x.com/jinchenma_ai/status/2102420515675934933",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102420515675934933_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102420515675934933_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "有心了，几乎把最近一段时间 X 上的所有爆款文章都翻出来了。\n\n想看的点个收藏慢慢看就好了\n\n另外大家想看爆款长文的，也推荐一下 @jedeeai 的产品，随时随地监控爆款文章，地址：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1ZBQgtu_dvYbXpxrkAL6EB2ABKLEkSUjV",
+    "driveUrl": "https://drive.google.com/file/d/1ZBQgtu_dvYbXpxrkAL6EB2ABKLEkSUjV/view"
+  },
+  {
+    "id": "248",
+    "xid": "2102593811503271963",
+    "title": "\"still filming?\"",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Tomw852",
+    "sourceUrl": "https://x.com/Tomw852/status/2102593811503271963",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102593811503271963_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102593811503271963_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102593811503271963.mp4",
+    "blurb": "\"still filming?\"\n\n15s handheld Shibuya night walk with #MiniMaxH3.\n\nRunning locally on a 5070 12GB in #ComfyUI.\n(Model &amp; LoRA links ⤵️)\n(Full prompt in replies⤵️)\n\n#AIvideo",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "133CC4GiOM4CN-GnMR9-3hjS2BYj7NaMZ",
+    "driveUrl": "https://drive.google.com/file/d/133CC4GiOM4CN-GnMR9-3hjS2BYj7NaMZ/view"
+  },
+  {
+    "id": "249",
+    "xid": "2102504995602202744",
+    "title": "It's possible, all 12 ref images in one image lol",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@TheAwakenOne619",
+    "sourceUrl": "https://x.com/TheAwakenOne619/status/2102504995602202744",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102504995602202744_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102504995602202744_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "It's possible, all 12 ref images in one image lol\n\nthe prompt does matter, this is the prompt for this image:\n\nUse <image3> as the canvas to establish the wet asphalt night scene with neon towers and ",
+    "prompt": "does matter, this is the prompt for this image:\n\nUse <image3> as the canvas to establish the wet asphalt night scene with neon towers and steam at the tires, preserving the purple sports car's shape, stance, headlights, and the rainy street environment. Apply the \"OPEN SOURCE\" graffiti text from <image11> as the sole lettering, painted large and readable across the driver door and lower side skirt following the panel, removing all other logos and text from the windshield and hood. Position the kangaroo from <image2> riding its BMX in the far left foreground, the two men from <image9> walking behind the kangaroo on the left, the person from <image12> sitting on the front-left corner of the hood, the man from <image4> in the driver's seat, the man from <image7> leaning against the driver door on the street, the Shih Tzu from <image10> on the roof above the windshield, the man from <image1> standing behind the passenger side visible over the roof, the man from <image6> behind the trunk, the clown from <image5> crouching at the rear passenger quarter, and the masked figure from <image8> at the far right with one foot on the rear bumper. Ensure all bodies occupy open space without overlapping or clipping through metal. Keep every face, outfit, the kangaroo, the dog, and the OPEN SOURCE lettering identical to their respective source images.",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1jrbDzE-3XDIf5aZcMUjMPV773oTBMU6J",
+    "driveUrl": "https://drive.google.com/file/d/1jrbDzE-3XDIf5aZcMUjMPV773oTBMU6J/view"
+  },
+  {
+    "id": "250",
+    "xid": "2102702381549101497",
+    "title": "兄弟们一起致敬 Unsloth !",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@FiniYang",
+    "sourceUrl": "https://x.com/FiniYang/status/2102702381549101497",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "兄弟们一起致敬 Unsloth !\nQwen-Image-2.1 的本地部署门槛被打下来了！\nFP8 offload，6GB 显存就能出图\nMac 统一内存 16G 也能玩\n我看看谁还没部署 👀 \n\n已经为兄弟们准备了全套开箱即用合集：\n1、Qwen生图改图必备Skill:\n2、你的第一个提示词，原生无甲 ⬇️\n3、如何卸甲：\n4、下载模型：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1x_G0UL9s5QZvKflS3mZr1oi9-WxYxGK8",
+    "driveUrl": "https://drive.google.com/file/d/1x_G0UL9s5QZvKflS3mZr1oi9-WxYxGK8/view"
+  },
+  {
+    "id": "251",
+    "xid": "2102049084383379891",
+    "title": "三振舞还是带感呀",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@AIVideoHub_",
+    "sourceUrl": "https://x.com/AIVideoHub_/status/2102049084383379891",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102049084383379891_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102049084383379891_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102049084383379891.mp4",
+    "blurb": "三振舞还是带感呀",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.24",
+    "driveId": "1Mrl5Z5zKc6J-AgzAP7Zmip2yXMlS5fPs",
+    "driveUrl": "https://drive.google.com/file/d/1Mrl5Z5zKc6J-AgzAP7Zmip2yXMlS5fPs/view"
   }
 ];
