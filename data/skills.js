@@ -559,5 +559,38 @@ window.SKILLS = [
     "blurb": "https://t.co/Gr5VM7Aspu",
     "video": false,
     "addedAt": "2026.09.24"
+  },
+  {
+    "id": "2103319834259841232",
+    "title": "🧸 又发现一个 3D 神器 Modly，丢一张照片进去就能生成能用的 3D 网格模型，全程在自己电脑上跑。",
+    "author": "@Ryrenz",
+    "name": "Ren",
+    "url": "https://x.com/Ryrenz/status/2103319834259841232",
+    "group": "资讯收藏",
+    "blurb": "🧸 又发现一个 3D 神器 Modly，丢一张照片进去就能生成能用的 3D 网格模型，全程在自己电脑上跑。\n\n今年 3 月才建的仓库，GitHub 上已经 7673 star、七百多个 fork，半年就涨到这个数。\n\n想要一个小模型的时候，以前只有两条路：自己在建模软件里从零搭一下午，或者传到在线服务上按张数付钱，顺带把照片交给别人的服务器。Modly 是个本地桌面应用，Windows、Linux",
+    "video": false,
+    "addedAt": "2026.09.26"
+  },
+  {
+    "id": "2103368508797231600",
+    "title": "Qwen 2ベースのキャラクターシート生成ワークフロー「Qwen Image 2.1 Character Referen",
+    "author": "@aiaicreate",
+    "name": "R@aiaicreate",
+    "url": "https://x.com/aiaicreate/status/2103368508797231600",
+    "group": "资讯收藏",
+    "blurb": "▼概要\nQwen 2ベースのキャラクターシート生成ワークフロー「Qwen Image 2.1 Character Reference Sheet Generator」が公開。顔・衣装・ポーズを個別の入力として分離し、一貫性のある設定画を生成。\n\n▼ポイント\n・顔（アイデンティティ）、衣装、マネキン画像（構図・ポーズ）の3要素を独立して制御\n・全身の正面、全身の背面、顔アップの3パネル構成でキャラク",
+    "video": false,
+    "addedAt": "2026.09.26"
+  },
+  {
+    "id": "2103446163781546273",
+    "title": "ChatGPT Images 2.5越用越觉得真绝...",
+    "author": "@3three_AI",
+    "name": "三个三",
+    "url": "https://x.com/3three_AI/status/2103446163781546273",
+    "group": "资讯收藏",
+    "blurb": "ChatGPT Images 2.5越用越觉得真绝...\n\n好多好用的玩法，官方压根没讲\n\n这些技巧会让你的内容生成速度快10倍\n\n都在下面了，建议收藏↓",
+    "video": false,
+    "addedAt": "2026.09.26"
   }
 ];

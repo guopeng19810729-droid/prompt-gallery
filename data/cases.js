@@ -5099,5 +5099,275 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.24",
     "driveId": "1Mrl5Z5zKc6J-AgzAP7Zmip2yXMlS5fPs",
     "driveUrl": "https://drive.google.com/file/d/1Mrl5Z5zKc6J-AgzAP7Zmip2yXMlS5fPs/view"
+  },
+  {
+    "id": "252",
+    "xid": "2103361726817427758",
+    "title": "ターゲットとしてリストアップした32名の女性を、ボタンひとつで洗脳するゲームを制作中です…🔥",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@sen_nou_AI",
+    "sourceUrl": "https://x.com/sen_nou_AI/status/2103361726817427758",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "ターゲットとしてリストアップした32名の女性を、ボタンひとつで洗脳するゲームを制作中です…🔥\n公開までお待ちください…",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.26",
+    "driveId": "1yXs92uwC9jMZpqBYp5TEkfNQ-6HnEa3B",
+    "driveUrl": "https://drive.google.com/file/d/1yXs92uwC9jMZpqBYp5TEkfNQ-6HnEa3B/view"
+  },
+  {
+    "id": "253",
+    "xid": "2103334905312673883",
+    "title": "Sub2Api的作者是我目前为止见过最牛逼的！",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@daitu0822",
+    "sourceUrl": "https://x.com/daitu0822/status/2103334905312673883",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334905312673883_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334905312673883_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Sub2Api的作者是我目前为止见过最牛逼的！\n\n源码每天坚持日更！而且还都是更新的很实用的东西！\n\n我每天睡醒就两件事，打开Codex升级Sub2Api与检查代充网站有没有BUG！\n\n有想做中转站的可以用Sub2Api源码，Ai一键部署，部署完可以对接我中转站，实现躺着也赚钱。\n\n源码地址：",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1uvX6_-j-OJFXjErOZTb_Gqy_graPxrVD",
+    "driveUrl": "https://drive.google.com/file/d/1uvX6_-j-OJFXjErOZTb_Gqy_graPxrVD/view"
+  },
+  {
+    "id": "254",
+    "xid": "2102947189362438330",
+    "title": "粉丝 7000 了，感谢大家厚爱",
+    "category": "摄影写真",
+    "model": "",
+    "source": "@boniusex",
+    "sourceUrl": "https://x.com/boniusex/status/2102947189362438330",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102947189362438330_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102947189362438330_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "粉丝 7000 了，感谢大家厚爱\n\n提示词：3:4纵长、露脐吊带背心、独居的自室、站在镜子前将纹身贴纸\"满下半身、几乎贴完了、镜中映出身影、低头向下看、不直视镜头、贴纸遮住重要部位  \n负面：下装",
+    "prompt": "3:4纵长、露脐吊带背心、独居的自室、站在镜子前将纹身贴纸\"满下半身、几乎贴完了、镜中映出身影、低头向下看、不直视镜头、贴纸遮住重要部位  \n负面：下装",
+    "nsfw": true,
+    "addedAt": "2026.09.26",
+    "driveId": "1egra8GjRAuAzSB9G9Nl7Do6rz6AAXsFn",
+    "driveUrl": "https://drive.google.com/file/d/1egra8GjRAuAzSB9G9Nl7Do6rz6AAXsFn/view"
+  },
+  {
+    "id": "255",
+    "xid": "2103340244712206376",
+    "title": "金发少女的节奏鼓点舞~",
+    "category": "动态影像",
+    "model": "",
+    "source": "@hxhxhx0916",
+    "sourceUrl": "https://x.com/hxhxhx0916/status/2103340244712206376",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103340244712206376_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103340244712206376_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103340244712206376.mp4",
+    "blurb": "金发少女的节奏鼓点舞~\n\n提示词：\n视频长度：10秒\n【人物身份锁定】\n使用上传参考图片中的女性作为唯一角色参考。\n严格保持人物身份一致：\n长款浅金色头发、精致柔和的成年东亚女性面部特征、浅色自然肤色、柔和五官比例、眼睛形态、发型、整体身材比例完全一致。\n禁止改变脸型、五官、发色、发型、身体结构。\n角色年龄设定为成年年轻女性。\n \n【视觉风格】\n9:16竖屏短视频构图。\n4K超高清真人写实风格。\n",
+    "prompt": "视频长度：10秒\n【人物身份锁定】\n使用上传参考图片中的女性作为唯一角色参考。\n严格保持人物身份一致：\n长款浅金色头发、精致柔和的成年东亚女性面部特征、浅色自然肤色、柔和五官比例、眼睛形态、发型、整体身材比例完全一致。\n禁止改变脸型、五官、发色、发型、身体结构。\n角色年龄设定为成年年轻女性。\n \n【视觉风格】\n9:16竖屏短视频构图。\n4K超高清真人写实风格。\n高级社交媒体舞蹈视频质感。\n低调电影灯光（Low-key Lighting）。\n冷暖混合色调：\n背景为深蓝灰色城市夜景冷色环境光。\n人物由侧面暖色聚光灯勾勒轮廓。\n突出浅金色长发的光泽感、皮肤真实纹理以及身体线条。\n整体风格类似韩国时尚舞蹈短视频、K-POP练习室大片、Instagram高级舞蹈内容。\n \n【场景设计】\n现代高级公寓室内。\n夜晚。\n落地玻璃窗外可以看到模糊城市灯光。\n空间包含：\n现代沙发。\n极简家具。\n暖色隐藏灯带。\n干净高级的室内环境。\n背景保持浅景深虚化，不抢主体。\n人物位于客厅中央区域，拥有足够空间完成舞蹈动作。\n \n【服装造型】\n服装严格按照上传参考图片保持一致，不重新设计，不替换成其他舞蹈服。\n上身：\n红色宽松棒球夹克，夹克保持敞开状态；\n白色条纹罗纹领口与袖口；\n胸前带大型白色字母贴布装饰；\n内搭红色无肩带抹胸式短上衣。\n下身：\n黑色侧系带比基尼式下装。\n整体服装的颜色、材质、结构、版型、长度、贴合程度和搭配方式均严格以上传参考图片为准。\n保持真实布料质感。\n \n【摄影参数】\n摄影机：\n固定机位 Lock-off。\n稳定镜头，不摇晃。\n人物通过身体移动制造画面动态。\n镜头高度：\n略低于人物视线。\n构图：\n全身至大腿范围。\n人物始终完整进入画面。\n \n镜头参数：\n50mm电影人像镜头。\nf/2.8浅景深。\n真实光学虚化。\n高清皮肤细节。\n自然运动模糊。\n \n【灯光设计】\n单侧强方向光。\n右侧暖色硬光照射人物。\n突出：\n脸部轮廓。\n锁骨。\n肩部线条。\n腰部曲线。\n浅金色头发边缘光。\n左侧自然进入阴影。\n形成电影级立体光影。\n \n【动作设计｜10秒】\n0–3秒\n音乐开始。\n女性站在客厅中央。\n身体随着Deep House节奏轻微律动。\n双手自然抬起整理浅金色长发。\n眼神看向镜头。\n表情冷静、自信。\n \n3–7秒\n进入正式舞蹈动作。\n双手从头部缓慢打开。\n肩膀、胸部、腰部依次产生连贯波浪动作。\n完成流畅 Body Roll。\n胯部左右自然摆动。\n身体形成优雅S型曲线。\n浅金色长发随着身体运动自然摆动。\n动作具有韩国现代舞风格。\n \n7–10秒\n音乐进入高潮。\n人物完成几个明显节拍动作：\n快速定格 Pop。\n头部轻微转动。\n眼神持续锁定镜头。\n最后保持一个自信姿势。\n表情：\n冷静。\n高级。\n自信。\n具有明星舞者气场。\n \n【表情与状态】\n全程无对白。\n保持强烈镜头交流。\n眼神始终关注镜头。\n不要夸张表演。\n不要过度性感化。\n表现专业舞者的自信和控制力。\n \n【背景音乐】\n音乐：\n高速 BPM EDM / Deep House。\n强烈低频 Bass。\n清晰鼓点。\n节奏明显。\n动作严格卡点。\n类似韩国时尚舞蹈视频背景音乐。\n \n【负面限制 Negative Prompt】\n避免：\n脸部变化。\n人物身份变化。\n改变发色。\n改变发型。\n浅金色长发突然变成银灰色或黑色。\n改变身体比例。\n额外人物。\n多余手指。\n肢体畸形。\n不自然关节。\n舞蹈动作失衡。\n头发穿模。\n衣服变形。\n红色棒球夹克运动物理错误。\n摄像机抖动。\n卡通效果。\nAI生成感。",
+    "nsfw": true,
+    "addedAt": "2026.09.26",
+    "driveId": "1D7bsnYMj-9ungED7XDjsImYAV2p6TaXt",
+    "driveUrl": "https://drive.google.com/file/d/1D7bsnYMj-9ungED7XDjsImYAV2p6TaXt/view"
+  },
+  {
+    "id": "256",
+    "xid": "2103334215597097346",
+    "title": "MiniMax H3",
+    "category": "动态影像",
+    "model": "MiniMax",
+    "source": "@aimikoda",
+    "sourceUrl": "https://x.com/aimikoda/status/2103334215597097346",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334215597097346_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334215597097346_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103334215597097346.mp4",
+    "blurb": "MiniMax H3\n\nI can't help myself when it comes to making these.\n\nA flowing ribbon, layered color and dynamic light play reveal the character from feet to face before exploding into the final hero shot.",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1uix3NiOktwsXyXkxGTfxP6EnaE2rT5_O",
+    "driveUrl": "https://drive.google.com/file/d/1uix3NiOktwsXyXkxGTfxP6EnaE2rT5_O/view"
+  },
+  {
+    "id": "257",
+    "xid": "2103316879381287239",
+    "title": "玩过～爱过～",
+    "category": "插画艺术",
+    "model": "ChatGPT Image 2",
+    "source": "@94vanAI",
+    "sourceUrl": "https://x.com/94vanAI/status/2103316879381287239",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "玩过～爱过～\n\nChatGPT Image2\n prompt：\n\n一张电影情节片段的视角，东亚网红女孩正面弯腰低头、画面只能看到她鼓着的嘴巴以上镜头（嘴巴下巴部分在镜头外嘴巴下巴部分被不够的画幅自然截断）；ar4:3",
+    "prompt": "一张电影情节片段的视角，东亚网红女孩正面弯腰低头、画面只能看到她鼓着的嘴巴以上镜头（嘴巴下巴部分在镜头外嘴巴下巴部分被不够的画幅自然截断）；ar4:3",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1S1SEgSg55Dq0wIxwt2XWhQToovM1lFyr",
+    "driveUrl": "https://drive.google.com/file/d/1S1SEgSg55Dq0wIxwt2XWhQToovM1lFyr/view"
+  },
+  {
+    "id": "258",
+    "xid": "2103295581334716632",
+    "title": "Qwen Image 2.1ベースのComfyUIワークフロー「Character Design Sheet Maker",
+    "category": "动态影像",
+    "model": "ChatGPT Image 2",
+    "source": "@aiaicreate",
+    "sourceUrl": "https://x.com/aiaicreate/status/2103295581334716632",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103295581334716632_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103295581334716632_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "▼概要\nQwen Image 2.1ベースのComfyUIワークフロー「Character Design Sheet Maker」が公開。1枚の参照画像から詳細なキャラクター設定画を生成可能。\n\n▼ポイント\n・Qwen Image 2.1の基本性能を活用し、破綻の少ない設定画を直接出力\n・画質低下を防ぐため、CLIPエンコーダはFP16やBF16等の高精度を推奨\n・サンプラー構成はアーティファクト",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1Vh-tsT4tWD5CA6dPdVBndG82A7mm6KJX",
+    "driveUrl": "https://drive.google.com/file/d/1Vh-tsT4tWD5CA6dPdVBndG82A7mm6KJX/view"
+  },
+  {
+    "id": "259",
+    "xid": "2103477150523523479",
+    "title": "More Eve as Bayonetta",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@AIna_artmusic",
+    "sourceUrl": "https://x.com/AIna_artmusic/status/2103477150523523479",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "More Eve as Bayonetta \n#stellarblade #bayonetta #fanart",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1kK-I2YPhsv2UeULlW7KBOP1u2_KX6pBs",
+    "driveUrl": "https://drive.google.com/file/d/1kK-I2YPhsv2UeULlW7KBOP1u2_KX6pBs/view"
+  },
+  {
+    "id": "260",
+    "xid": "2103478337930960974",
+    "title": "AI美女 OL",
+    "category": "动态影像",
+    "model": "",
+    "source": "@Hke5Jun",
+    "sourceUrl": "https://x.com/Hke5Jun/status/2103478337930960974",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103478337930960974_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103478337930960974_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103478337930960974.mp4",
+    "blurb": "#AIart\n#AIgirl\n#AI美女\n#AI美脚\n#AIOL部",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1--QPhA_ZRG_k_zU9IpuqPfLYkzNsto70",
+    "driveUrl": "https://drive.google.com/file/d/1--QPhA_ZRG_k_zU9IpuqPfLYkzNsto70/view"
+  },
+  {
+    "id": "261",
+    "xid": "2103320229451632885",
+    "title": "AI video",
+    "category": "动态影像",
+    "model": "",
+    "source": "@Jay_yjg",
+    "sourceUrl": "https://x.com/Jay_yjg/status/2103320229451632885",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103320229451632885_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103320229451632885_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103320229451632885.mp4",
+    "blurb": "",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "15QHesivoEGM2B0EbebGnDamOvi6M7iKl",
+    "driveUrl": "https://drive.google.com/file/d/15QHesivoEGM2B0EbebGnDamOvi6M7iKl/view"
+  },
+  {
+    "id": "262",
+    "xid": "2102936771659223398",
+    "title": "【自分用メモ】",
+    "category": "摄影写真",
+    "model": "",
+    "source": "@casino55124",
+    "sourceUrl": "https://x.com/casino55124/status/2102936771659223398",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "【自分用メモ】\nギャルに大人気のランジェリーブランド（AI JOUR）の店内で、男性が好むデザインのロイヤルパープルと黒刺繍レースの紐タイプではないセパレートランジェリーの新作を試着しながら買い物中、20歳、日本人女性、白ギャル、からかうような遊び心のある表情、顔は傾けずまっすぐ、カメラ目線、砂時計型のグラマラスなスタイル、ガーターベルト、網タイツ、縦長9:16。\n\nだと通らなくなった。ただ、\n\n",
+    "prompt": "ギャルに大人気のランジェリーブランド（AI JOUR）の店内で、男性が好むデザインのロイヤルパープルと黒刺繍レースの紐タイプではないセパレートランジェリーの新作を試着しながら買い物中、20歳、日本人女性、白ギャル、からかうような遊び心のある表情、顔は傾けずまっすぐ、カメラ目線、砂時計型のグラマラスなスタイル、ガーターベルト、網タイツ、縦長9:16。",
+    "nsfw": true,
+    "addedAt": "2026.09.26",
+    "driveId": "1dp7yT7aQm2VV22IHNloYcW2CqF7kQg53",
+    "driveUrl": "https://drive.google.com/file/d/1dp7yT7aQm2VV22IHNloYcW2CqF7kQg53/view"
+  },
+  {
+    "id": "263",
+    "xid": "2103446921969058167",
+    "title": "嫦娥_千年没开张的饥渴寡妇 / 精华片段",
+    "category": "动态影像",
+    "model": "",
+    "source": "@huangguodrama",
+    "sourceUrl": "https://x.com/huangguodrama/status/2103446921969058167",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103446921969058167_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103446921969058167_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103446921969058167.mp4",
+    "blurb": "#嫦娥_千年没开张的饥渴寡妇 / 精华片段\n中秋月圆人团圆 🌝 黄果原创影集高光时刻免费看\n完整版点击自介链接 下载黄果短剧APP\n-\n宇航员失事落入月宫，打破三千年寂静！饥渴嫦娥强势索欢，玉兔月桂沦陷肉欲助他出逃。正当重返飞船之际，嫦娥亲临截杀。禁忌与狂热交织，逃生计划沦为欲望炼狱，无名凡人彻底沦为月宫众仙的永世专宠！\n-\n#黄果短剧 #成人短剧 #AI短剧 #成人短剧APP #黄果",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.26",
+    "driveId": "18Qghy2MXIb13DybKBiDVHdzTq7AFPbc3",
+    "driveUrl": "https://drive.google.com/file/d/18Qghy2MXIb13DybKBiDVHdzTq7AFPbc3/view"
+  },
+  {
+    "id": "264",
+    "xid": "2103084734892957889",
+    "title": "Sam Altman, CEO de OpenAI:",
+    "category": "动态影像",
+    "model": "",
+    "source": "@maarcoofdezz",
+    "sourceUrl": "https://x.com/maarcoofdezz/status/2103084734892957889",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103084734892957889_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103084734892957889_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103084734892957889.mp4",
+    "blurb": "Sam Altman, CEO de OpenAI:\n\n\"Ya no hace falta escribir prompts.\"\n\nEn 38 minutos explica cómo usar ChatGPT a un nivel que la mayoría ni se imagina.\n\nEs una charla que dio a estudiantes de Stanford. Un ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.26",
+    "driveId": "1X0o7YPbmitpSj_usbTlNtuO8zrfzUOaM",
+    "driveUrl": "https://drive.google.com/file/d/1X0o7YPbmitpSj_usbTlNtuO8zrfzUOaM/view"
   }
 ];
