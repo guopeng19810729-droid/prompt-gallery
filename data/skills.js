@@ -592,5 +592,16 @@ window.SKILLS = [
     "blurb": "ChatGPT Images 2.5越用越觉得真绝...\n\n好多好用的玩法，官方压根没讲\n\n这些技巧会让你的内容生成速度快10倍\n\n都在下面了，建议收藏↓",
     "video": false,
     "addedAt": "2026.09.26"
+  },
+  {
+    "id": "2104175361084838244",
+    "title": "Base Model (INT8): Singularity v1.3 + MiniMax-H3 LoRA Stack",
+    "author": "@Tomw852",
+    "name": "Tom𝕎",
+    "url": "https://x.com/Tomw852/status/2104175361084838244",
+    "group": "资讯收藏",
+    "blurb": "Base Model (INT8):\n• Singularity v1.3\nhttps://huggingface.co/WarmBloodAban/Minimax-h3_Singularity\n\nLoRA Stack:\n• Turbo (1.00)\nhttps://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI\n\n• People Real",
+    "video": false,
+    "addedAt": "2026.09.28"
   }
 ];

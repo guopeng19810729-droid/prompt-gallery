@@ -5369,5 +5369,84 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.26",
     "driveId": "1X0o7YPbmitpSj_usbTlNtuO8zrfzUOaM",
     "driveUrl": "https://drive.google.com/file/d/1X0o7YPbmitpSj_usbTlNtuO8zrfzUOaM/view"
+  },
+  {
+    "id": "265",
+    "xid": "2104174526636367892",
+    "title": "r34l1sm elf shadow boxing 8s video prompt",
+    "category": "动态影像",
+    "model": "r34l1sm / video",
+    "source": "@Tomw852",
+    "sourceUrl": "https://x.com/Tomw852/status/2104174526636367892",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "pure prompt (no media): 8s shadow boxing reference video for elf-like character",
+    "prompt": "prompt:\nr34l1sm\n\nsubject_definitions:\n<Subject 1> is the elf-like young woman shown in the uploaded character reference image. Preserve her long pale-blonde hair with bangs, pointed ears, pearl hair clip, facial features, black sweater, white collared shirt, gray pleated skirt, white knee-high socks, and black Mary Jane shoes.\n\nsummary:\n[reference generation] Generate a single continuous eight-second video of <Subject 1> performing extremely fast shadow boxing while facing the camera. Use the uploaded character image as a reference for her appearance. Create the action, setting, and timing from the text description.\n\nretention_analysis:\n<Subject 1> (appears throughout [Shot 1]): fully_preserved - preserve her recognizable face, pointed ears, pale-blonde hairstyle, pearl hair clip, and outfit from the uploaded character reference image. Her lower clothing remains consistent with the reference even when outside the frame.\n\ndetailed_description:\n[Shot 1] A single continuous eight-second, live-action-style shot of <Subject 1> shadow boxing alone in a simple indoor space. She primarily faces the camera, rotating her shoulders and torso with each punch. Use a tight frontal medium close-up bordering on a close-up, framing her from the upper chest to just above her head. Leave enough space on both sides for her head and shoulders to sway visibly across the frame. Her legs and feet remain outside the frame. The eye-level camera stays fixed, with soft, even indoor lighting and an uncluttered background.\n\nShe is already moving at the first frame, with both hands raised near her face. Her expression is alert and determined. Her eyes focus on an imaginary opponent directly ahead; her brows, gaze, and mouth react naturally to the effort and each imagined attack.\n\nDuring the first two seconds, she rapidly alternates short punches toward the camera and across the frame. Between punches, she makes a pronounced slip to one side, returns through the center, then slips just as clearly to the other side. Her head and shoulders travel visibly left and right, while each fist snaps back toward her guard.\n\nFrom 2 to 4 seconds, she throws fast horizontal swinging punches, then bends her upper body deeply to evade an imaginary counterpunch. She rises on the opposite side and immediately punches again. The evasions are full upper-body movements, driven by her shoulders and torso rather than small head tilts.\n\nFrom 4 to 6 seconds, she maintains a rapid rhythm of alternating punches and wider hooks. She repeatedly sways from the left side of the frame to the right, ducking low as she passes through the center. Her guard stays active near her face, and her long hair swings with each sharp change of direction.\n\nFrom 6 to 8 seconds, she moves slightly closer to the camera while continuing the flurry. She makes one more large dodge to each side, with her head and shoulders clearly shifting away from imagined punches, then rebounds into fast counterpunches. Her forearms briefly sweep through the foreground with motion blur. The shot ends while she is still moving, without a held pose.\n\nMake the side-to-side dodges large, unmistakable, and frequent. Keep the movement fluid and balanced, with her face remaining inside the frame and recognizable throughout. She punches only at empty space and makes no contact with the camera or anything else. No cuts, dialogue, or on-screen text.\n\noverall_soundscape:\nQuiet indoor room tone beneath rapid fabric swishes, faint shoe shuffles from below the frame, and quick, controlled breathing during the continuous movement. No dialogue.\n\nnon_diegetic_music:\nN/A",
+    "nsfw": true,
+    "addedAt": "2026.09.28"
+  },
+  {
+    "id": "266",
+    "xid": "2104005863673356644",
+    "title": "超写实夜间酒吧 / 爵士酒廊人像摄影",
+    "category": "摄影写真",
+    "model": "",
+    "source": "@sdjn_wgc",
+    "sourceUrl": "https://x.com/sdjn_wgc/status/2104005863673356644",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104005863673356644_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104005863673356644_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "X友的提示词。超写实夜间酒吧爵士酒廊人像，东亚女性25+，蕾丝上衣+亮片短裙+烟黑丝袜",
+    "prompt": "超写实夜间酒吧 / 爵士酒廊人像摄影，竖版约 4:5。一名明确成年的东亚女性，25+，坐在深色木质吧台旁的高脚椅上，身体微微侧向画面左侧，但上半身转回正对镜头。摄影机位略低于胸口高度，使用约 35–50mm 镜头，完整拍到头部、身体、双腿和高跟鞋，同时保留吧台、酒架、钢琴和舞台环境。\n\n人物为成熟丰满的沙漏型身材：胸部丰满明显，肩部适中，腰部收束，髋部自然圆润，大腿丰润但整体比例匀称。不要过度纤瘦，也不要夸张肥胖。\n\n留深棕黑色长卷发，长度到胸下，头顶蓬松，一侧头发大面积披在右肩和胸前，卷度自然、层次丰富。脸型偏鹅蛋形，肤色白皙，妆容精致但不过浓：自然上扬眼线、长睫毛、淡粉腮红、裸粉玫瑰色嘴唇。直视镜头并露出自然微笑，神情自信、放松。\n\n上身穿黑色无袖蕾丝透视上衣 / bodysuit，圆弧低领，黑色花卉蕾丝覆盖胸腹区域，局部可见肤色但保持正常覆盖，腰部贴身收紧。下身穿黑色亮片超短包臀裙，裙面密布细小黑色亮片，在暖光下产生低调闪烁。\n\n双腿穿烟黑色高光泽超薄透明连裤丝袜，约8–12D，明显透出自然肤色，袜面非常贴肤，在大腿、膝盖、小腿胫骨和脚背形成清晰银白色纵向高光线，材质细腻、有真实丝光，不要厚黑丝袜。\n\n脚穿酒红色 / 深红色尖头细高跟鞋，鞋面轻微亮面，鞋头带银色或水晶字母 / 金属装饰，细跟约8–10cm。双腿从椅面自然向左前方并拢伸出，膝盖轻微弯曲，小腿斜向画面左下，鞋尖靠近画面底部。\n\n坐姿重点：人物坐在高脚椅前缘，双腿并拢向左侧斜伸；左手向后轻扶吧台边缘 / 放在吧台上，手边摆一杯红橙色鸡尾酒；右手向后搭在椅背顶部，手指自然放松，形成舒展优雅的姿态。\n\n场景为深色木质复古酒吧 / 爵士酒廊。画面左侧整面高酒架陈列多排威士忌、烈酒瓶；人物身后是深棕色木质吧台、木墙、复古海报和暖色壁灯。右后方有一架黑色三角钢琴，旁边摆麦克风支架、吉他、音箱和小型舞台设备。顶部悬挂大型黑色圆环吊灯，配多只白色小灯罩。地面为深棕色木地板，整体空间温暖、昏暗、有高级爵士酒吧氛围。\n\n光线采用暖黄色酒吧环境光＋正面柔和补光 / 轻微直闪。人物脸部、胸前和丝袜被明显提亮，黑色服装仍保留蕾丝与亮片细节，背景较暗但可清楚辨认。丝袜和红色高跟鞋有明显高光，木质吧台有柔和反射。\n\n整体呈 高质量夜间酒吧时尚写真＋轻微手机直闪质感：自然肤质、真实毛孔、细腻发丝、中等景深、轻微高ISO颗粒，色调以黑色、深木棕、暖金和酒红为主。\n\n重点锁定：成年东亚女性＋成熟丰满沙漏身材＋深棕长卷发＋黑色蕾丝透视无袖上衣＋黑色亮片超短裙＋高光泽烟黑超薄丝袜＋酒红尖头细高跟鞋＋坐高脚椅＋双腿并拢斜向左前方伸出＋左手靠吧台鸡尾酒＋右手搭椅背＋深色木质酒吧＋整面酒架＋三角钢琴＋爵士舞台＋暖色夜间灯光。\n\n避免：长裤、长裙、厚黑丝袜、网袜、裸腿、平底鞋、运动鞋、白色高跟鞋、站姿、双腿交叉过度、现代明亮咖啡厅、夜店霓虹、动漫脸、CG感、塑料皮肤、过度磨皮、多余肢体、畸形手脚、水印和乱码文字。",
+    "nsfw": true,
+    "addedAt": "2026.09.28",
+    "driveId": "16Xiri_rfsAH0LiKraTCg6XMQ3A8AbOyq",
+    "driveUrl": "https://drive.google.com/file/d/16Xiri_rfsAH0LiKraTCg6XMQ3A8AbOyq/view"
+  },
+  {
+    "id": "267",
+    "xid": "2103924566875881934",
+    "title": "ChatGPT image 2 — Fashion show (yacht deck)",
+    "category": "摄影写真",
+    "model": "ChatGPT image",
+    "source": "@hongthich22470",
+    "sourceUrl": "https://x.com/hongthich22470/status/2103924566875881934",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "(ChatGPT image 2) Fashion show — linen áo yếm + silk pareo on luxury yacht deck at dusk",
+    "prompt": "(ChatGPT image 2) Fashion show\nPhong cách sang trọng\nOutfit: Áo yếm linen kem xẻ sâu không dây lộ rõ; khăn pareo lụa quấn hông thành váy đùi; vòng cổ san hô; chân trần.\nNền: Boong du thuyền siêu sang lúc chiều\n\nPrompt vault: https://prompt-image-note.grok.me/f/jmgfh7ay5r",
+    "nsfw": false,
+    "addedAt": "2026.09.28",
+    "driveId": "1yGQQ3GyCdgGyVGX5b80_iS8n0IwFtR6F",
+    "driveUrl": "https://drive.google.com/file/d/1yGQQ3GyCdgGyVGX5b80_iS8n0IwFtR6F/view"
+  },
+  {
+    "id": "268",
+    "xid": "2104177691000017260",
+    "title": "荧｜特写俯视写真 — 35°–50° downward angle",
+    "category": "动态影像",
+    "model": "",
+    "source": "@LoveUolanda",
+    "sourceUrl": "https://x.com/LoveUolanda/status/2104177691000017260",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104177691000017260_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104177691000017260_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104177691000017260.mp4",
+    "blurb": "原神荧俯视写真机位提示：高机位斜侧三分之四，close-medium，人物占画面75–85%",
+    "prompt": "机位高度：明显高于人物头顶，摄影机位于人物前上方。\n俯视角：大约 35°–50° downward angle，不是垂直 90° 俯拍。\n水平角度：人物不是正对镜头，而是右前方/左前方的斜侧三分之四视角。\n镜头距离：比较近，属于 close-medium / medium-full，人物从头部一直覆盖到大腿甚至膝部。\n人物占画面比例很高：人物约占垂直画面的 75–85%。\n构图方向：人物身体形成一条明显的左上 → 右下/下方的斜线，不是垂直站构图。\n镜头不是广角夸张透视：更接近中长焦的压缩感，所以身体比例自然，不会出现大头小身。\n视线：人物低头，不直视镜头，因此高机位会自然产生一种“摄影师从上方捕捉到她”的感觉。",
+    "nsfw": false,
+    "addedAt": "2026.09.28",
+    "driveId": "1HZRnt8Im8nP2T1uHLv0XAulQa1iSJqtx",
+    "driveUrl": "https://drive.google.com/file/d/1HZRnt8Im8nP2T1uHLv0XAulQa1iSJqtx/view"
   }
 ];
