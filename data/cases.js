@@ -5448,5 +5448,312 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.28",
     "driveId": "1HZRnt8Im8nP2T1uHLv0XAulQa1iSJqtx",
     "driveUrl": "https://drive.google.com/file/d/1HZRnt8Im8nP2T1uHLv0XAulQa1iSJqtx/view"
+  },
+  {
+    "id": "269",
+    "xid": "2103792628567523381",
+    "title": "🎉 盘点贴！Muse 目前支持注册的账号汇总 👇",
+    "category": "动态影像",
+    "model": "",
+    "source": "@Lonely__MH",
+    "sourceUrl": "https://x.com/Lonely__MH/status/2103792628567523381",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103792628567523381_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103792628567523381_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103792628567523381.mp4",
+    "blurb": "🎉 盘点贴！Muse 目前支持注册的账号汇总 👇 无论是 AI 生产力、出海云服务，还是跨境支付，统统帮你搞定： 1. AI 工具：Claude / OpenAI 账号 2. 云服务商：甲骨文 (Oracle) / AWS 云账号 3. 苹果生态：美区 Apple ID（其他地区同理） 4. 搜索：Google 账号 5. 海外社媒：X、Instagram、Telegram 6. 跨境支付：Pay",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1omv_RYSG5D9t-l6W_yAiK4o5Zx6Gl0RS",
+    "driveUrl": "https://drive.google.com/file/d/1omv_RYSG5D9t-l6W_yAiK4o5Zx6Gl0RS/view"
+  },
+  {
+    "id": "270",
+    "xid": "2104366377977196668",
+    "title": "New body swap models added for Qwen Image 2.1",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@aisearchio",
+    "sourceUrl": "https://x.com/aisearchio/status/2104366377977196668",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104366377977196668_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104366377977196668_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "New body swap models added for Qwen Image 2.1",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1JCkVHQcW-CECKWURQzILPSTBEeo4BK8k",
+    "driveUrl": "https://drive.google.com/file/d/1JCkVHQcW-CECKWURQzILPSTBEeo4BK8k/view"
+  },
+  {
+    "id": "271",
+    "xid": "2104111175172841617",
+    "title": "AI 视频进化到这个程度……以后的互动影游和 Galgame 已经不需要真人拍摄了吗❓",
+    "category": "动态影像",
+    "model": "",
+    "source": "@johnAGI168",
+    "sourceUrl": "https://x.com/johnAGI168/status/2104111175172841617",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104111175172841617_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104111175172841617_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104111175172841617.mp4",
+    "blurb": "AI 视频进化到这个程度……以后的互动影游和 Galgame 已经不需要真人拍摄了吗❓ 第一人称视角 + 5人同框密室修罗场😄 无论是镜头晃动感、微表情细节、还是视线交流，沉浸感直接拉满。 by Seedance 2.5 🎬，互动电影工业要变天了。 prompt 👇",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1JT0McVtdTx89AJzmjAdWgjwJPhrEnCwx",
+    "driveUrl": "https://drive.google.com/file/d/1JT0McVtdTx89AJzmjAdWgjwJPhrEnCwx/view"
+  },
+  {
+    "id": "272",
+    "xid": "2104454036825190670",
+    "title": "手持ちカメラ特有のブレを再現するMiniMax-H3向けLoRAモデルが公開。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@aiaicreate",
+    "sourceUrl": "https://x.com/aiaicreate/status/2104454036825190670",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104454036825190670_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104454036825190670_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "手持ちカメラ特有のブレを再現するMiniMax-H3向けLoRAモデルが公開。 Civitaiで公開中の同モデルのHuggingFaceミラー版。 手ブレ効果による臨場感のある表現を生成に付与。 #MiniMaxH3 #LoRA URLはリプ⬇️",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1G-HDhnsPpMZiKtxKE3tIVzEF8xEmLq2o",
+    "driveUrl": "https://drive.google.com/file/d/1G-HDhnsPpMZiKtxKE3tIVzEF8xEmLq2o/view"
+  },
+  {
+    "id": "273",
+    "xid": "2104348113834058029",
+    "title": "【Qwen-Image-2.1とMinimax h3で作るアニメオープニング制作ワークフロー】",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@ai_hakase_",
+    "sourceUrl": "https://x.com/ai_hakase_/status/2104348113834058029",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104348113834058029_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104348113834058029_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "【Qwen-Image-2.1とMinimax h3で作るアニメオープニング制作ワークフロー】 ローカル環境で動かせる最新の画像生成モデル「Qwen-Image-2.1」と、動画生成モデルの「Minimax h3」を組み合わせることで、クオリティの高いアニメのオープニング映像が作れちゃうんです！✨ PythonやJavaScriptを使ってシーンの構成やエフェクトの制御を自動化できるので、マルチモ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "14J5RvR_6GIchHl9UUb1idGymyndcp8TU",
+    "driveUrl": "https://drive.google.com/file/d/14J5RvR_6GIchHl9UUb1idGymyndcp8TU/view"
+  },
+  {
+    "id": "274",
+    "xid": "2104500793923731494",
+    "title": "THIS 150MB AI CAN SWAP CHARACTERS IN VIDEOS WITH ONE PHOTO 🤯",
+    "category": "动态影像",
+    "model": "",
+    "source": "@pengsonal",
+    "sourceUrl": "https://x.com/pengsonal/status/2104500793923731494",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104500793923731494_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104500793923731494_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104500793923731494.mp4",
+    "blurb": "THIS 150MB AI CAN SWAP CHARACTERS IN VIDEOS WITH ONE PHOTO 🤯 akatz labs made a MiniMax H3 character-swap LoRA • video and reference photo • keeps the original scene • works with ComfyUI • only 148MB •",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1yj8FvEWWnioZ1gYzDraw7jmYNsrKGjks",
+    "driveUrl": "https://drive.google.com/file/d/1yj8FvEWWnioZ1gYzDraw7jmYNsrKGjks/view"
+  },
+  {
+    "id": "275",
+    "xid": "2104417222131331384",
+    "title": "a free AI model for making adult videos locally😱",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@CDGalpha",
+    "sourceUrl": "https://x.com/CDGalpha/status/2104417222131331384",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104417222131331384_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104417222131331384_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "a free AI model for making adult videos locally😱 you write a scene. It turns your text into a short video on your own computer. NSFW Wan 1.3B is made for adult content. The creator says its newer chec",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.29",
+    "driveId": "1DCwAcooCzVGNS4e3t5C6D8IZodhltxqc",
+    "driveUrl": "https://drive.google.com/file/d/1DCwAcooCzVGNS4e3t5C6D8IZodhltxqc/view"
+  },
+  {
+    "id": "276",
+    "xid": "2104327026006265883",
+    "title": "FOUND ANOTHER UNCENSORED LOCAL VIDEO MODEL 💀",
+    "category": "动态影像",
+    "model": "",
+    "source": "@Forhanvv",
+    "sourceUrl": "https://x.com/Forhanvv/status/2104327026006265883",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104327026006265883_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104327026006265883_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104327026006265883.mp4",
+    "blurb": "FOUND ANOTHER UNCENSORED LOCAL VIDEO MODEL 💀 This one comes with no restrictions for generating adult content. LTX 2.3 Uncensored: • 22B parameters • Supports text-to-video • Supports image-to-video •",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.29",
+    "driveId": "1PTNHNN03mYu_JJJ4Z-rpyP8Dy6iOMovm",
+    "driveUrl": "https://drive.google.com/file/d/1PTNHNN03mYu_JJJ4Z-rpyP8Dy6iOMovm/view"
+  },
+  {
+    "id": "277",
+    "xid": "2100588713885757905",
+    "title": "为什么你做的H3的视频总是这么油？",
+    "category": "动态影像",
+    "model": "",
+    "source": "@servasyy_ai",
+    "sourceUrl": "https://x.com/servasyy_ai/status/2100588713885757905",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100588713885757905_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100588713885757905_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100588713885757905.mp4",
+    "blurb": "为什么你做的H3的视频总是这么油？ 我在 4090 上跑了1个多月 MiniMax H3，把这种\"油腻感\"拆成了 7 个一眼能认出来的地方： 🔹 额头、鼻梁、颧骨一整片发亮，是皮肤自己在发光，不是被光照亮 🔹 脸一转，亮斑跟着在皮肤上滑动、闪烁。视频里最明显，截图反而看不出 🔹 整张脸一个颜色，没有脸颊的红、眼下的暗，像开了美颜 🔹 嘴唇是一块光滑色块，没有唇纹 🔹 鼻翼、法令纹、下巴的阴影没了，",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1808bfqJr6ODe3i9iAgE1AEvSbiO3FH7C",
+    "driveUrl": "https://drive.google.com/file/d/1808bfqJr6ODe3i9iAgE1AEvSbiO3FH7C/view"
+  },
+  {
+    "id": "278",
+    "xid": "2104443837099725024",
+    "title": "Holy sh*t, this is f*cking insaneee",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Rivonn",
+    "sourceUrl": "https://x.com/Rivonn/status/2104443837099725024",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Holy sh*t, this is f*cking insaneee someone fine-tuned wan 2.1 into a FREEEE uncensored model that renders adult videos on your own pc NSFW Wan 1.3B is a 1.3B text-to-video checkpoint built only for a",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.09.29",
+    "driveId": "1-x-Gi1Hg0WBcHIV1E5RBtvu_9Y8vH0Cn",
+    "driveUrl": "https://drive.google.com/file/d/1-x-Gi1Hg0WBcHIV1E5RBtvu_9Y8vH0Cn/view"
+  },
+  {
+    "id": "279",
+    "xid": "2104466137559793826",
+    "title": "No.186 53P 6V Jumpsuit",
+    "category": "动态影像",
+    "model": "",
+    "source": "@nakachi03",
+    "sourceUrl": "https://x.com/nakachi03/status/2104466137559793826",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104466137559793826_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104466137559793826_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104466137559793826.mp4",
+    "blurb": "No.186 53P 6V Jumpsuit",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1aoMpPd53p-MTnbBr_E-Bv9VG-fMvwuys",
+    "driveUrl": "https://drive.google.com/file/d/1aoMpPd53p-MTnbBr_E-Bv9VG-fMvwuys/view"
+  },
+  {
+    "id": "280",
+    "xid": "2104106515225276632",
+    "title": "兄弟们，昨晚通宵测了一下浙大刚开源的这个叫 Easel 的玩意，看完真有点说不出话。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@huoshan007",
+    "sourceUrl": "https://x.com/huoshan007/status/2104106515225276632",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104106515225276632_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104106515225276632_0.png"
+    ],
+    "videoUrl": "",
+    "blurb": "兄弟们，昨晚通宵测了一下浙大刚开源的这个叫 Easel 的玩意，看完真有点说不出话。 做号最折磨人的根本不是没灵感，是到处扒热搜、排期、改图、剪片子这一堆杂碎脏活。 它直接把全网热榜吸过来硬对你的账号风格，脚本、日历加几十种物料一条龙怼出来。 我自己跑了两个号的复盘逻辑，发现它能根据数据反馈调整调性，这点我挺服气，越往后跑越像真人写的东西。 不过我坚持提醒一句，这帮平台风控有多恶心大家心里有数，尤",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1o7lz1hmFSdlojKMOGEpET9E7IZVNowrd",
+    "driveUrl": "https://drive.google.com/file/d/1o7lz1hmFSdlojKMOGEpET9E7IZVNowrd/view"
+  },
+  {
+    "id": "281",
+    "xid": "2104313755878510899",
+    "title": "今日はパンクグランジコーデの紹介です🔔💕",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@Suzuna_AI_girls",
+    "sourceUrl": "https://x.com/Suzuna_AI_girls/status/2104313755878510899",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "今日はパンクグランジコーデの紹介です🔔💕 #BellEchoArt ⏬️衣装プロンプトはリプライに♪",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "19q_dt6Eu7mFHsBLdlUsAB_LzuB3GQCjI",
+    "driveUrl": "https://drive.google.com/file/d/19q_dt6Eu7mFHsBLdlUsAB_LzuB3GQCjI/view"
+  },
+  {
+    "id": "282",
+    "xid": "2104493445662564701",
+    "title": "❗️各位“视频专家”和“AI 视觉导演”们：",
+    "category": "动态影像",
+    "model": "",
+    "source": "@94vanAI",
+    "sourceUrl": "https://x.com/94vanAI/status/2104493445662564701",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104493445662564701_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104493445662564701_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104493445662564701.mp4",
+    "blurb": "❗️各位“视频专家”和“AI 视觉导演”们： 在开始发教程、卖方法论、批量生产 AI 教学文章之前，我觉得至少应该先做一件事： 【拿作品出来❗️】 证明你真的按照自己教的方法练过，证明这些方法能做出东西，也证明你的视觉表达曾经真正被用户认可过。 先用视觉作品说话。 别只是靠大模型帮你写几篇教程、整理几套工作流、包装几个听起来很专业的概念，然后就开始教别人怎么做视觉。 做视觉这件事，最后看的还是画面",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "18V_RQ4dxu5bOtpzHeJWvHQrIE8eA4ZsE",
+    "driveUrl": "https://drive.google.com/file/d/18V_RQ4dxu5bOtpzHeJWvHQrIE8eA4ZsE/view"
+  },
+  {
+    "id": "283",
+    "xid": "2104463239698649510",
+    "title": "Flight attendants in the luxury cabin",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@AIjee_tpe",
+    "sourceUrl": "https://x.com/AIjee_tpe/status/2104463239698649510",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Flight attendants in the luxury cabin Image 1: GPT2.5 Image 2: Krea2 + Lora Image 3: Grok Imagine 2 + Reference Image Image 4: Qwen-Image 2.1 Ref. Prompt (SFW) See reply, welcome to send photos",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.09.29",
+    "driveId": "1qJGdS46lbf1cwfNhbjXPmXFBiKo01E6m",
+    "driveUrl": "https://drive.google.com/file/d/1qJGdS46lbf1cwfNhbjXPmXFBiKo01E6m/view"
   }
 ];

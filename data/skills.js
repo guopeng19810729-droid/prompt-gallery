@@ -603,5 +603,27 @@ window.SKILLS = [
     "blurb": "Base Model (INT8):\n• Singularity v1.3\nhttps://huggingface.co/WarmBloodAban/Minimax-h3_Singularity\n\nLoRA Stack:\n• Turbo (1.00)\nhttps://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI\n\n• People Real",
     "video": false,
     "addedAt": "2026.09.28"
+  },
+  {
+    "id": "2104406995688173692",
+    "title": "ストーリーありきのエ〇動画を作るときは、",
+    "author": "@tkvtk",
+    "name": "T",
+    "url": "https://x.com/tkvtk/status/2104406995688173692",
+    "group": "资讯收藏",
+    "blurb": "ストーリーありきのエ〇動画を作るときは、 「女の子のボイス」が重要になってきます。 以前はここが大きなボトルネックだったのですが、TTS系のサービスが充実してきたことで簡単に解消できるようになりました。 主に使うTTSサービスは以下の2つ。 ①IrodoriTTS ②Gemini Flash 3.8 想像はついていると思いますが、Geminiでは エ〇台詞 は作成できません。アレな声はIrodor",
+    "video": false,
+    "addedAt": "2026.09.29"
+  },
+  {
+    "id": "2104374425294721220",
+    "title": "仓库在这里：",
+    "author": "@oragnes",
+    "name": "比特币橙子Trader",
+    "url": "https://x.com/oragnes/status/2104374425294721220",
+    "group": "资讯收藏",
+    "blurb": "仓库在这里：",
+    "video": false,
+    "addedAt": "2026.09.29"
   }
 ];
