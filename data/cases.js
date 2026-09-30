@@ -5755,5 +5755,269 @@ window.GALLERY_CASES = [
     "addedAt": "2026.09.29",
     "driveId": "1qJGdS46lbf1cwfNhbjXPmXFBiKo01E6m",
     "driveUrl": "https://drive.google.com/file/d/1qJGdS46lbf1cwfNhbjXPmXFBiKo01E6m/view"
+  },
+  {
+    "id": "284",
+    "xid": "2105320262900355104",
+    "title": "chatgpt-image2.5生图 加上左边的动作图 会生成你想看到的 但是一定加上限制词",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@sereinworld",
+    "sourceUrl": "https://x.com/sereinworld/status/2105320262900355104",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "chatgpt-image2.5生图 加上左边的动作图 会生成你想看到的 但是一定加上限制词 https://t.co/v7dZDXF8II",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "12uEA72oXnk7wvvaWN3_Xfv2xZmfOJxs9",
+    "driveUrl": "https://drive.google.com/file/d/12uEA72oXnk7wvvaWN3_Xfv2xZmfOJxs9/view"
+  },
+  {
+    "id": "285",
+    "xid": "2105045723540836606",
+    "title": "MiniMax H3 WebUI ver1.6 リリース版 1088p（1920x1088）で遂に1分切るようになった🤗 lightx2v 4step v1.0",
+    "category": "动态影像",
+    "model": "",
+    "source": "@core_tan",
+    "sourceUrl": "https://x.com/core_tan/status/2105045723540836606",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105045723540836606_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105045723540836606_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105045723540836606.mp4",
+    "blurb": "MiniMax H3 WebUI ver1.6 リリース版 1088p（1920x1088）で遂に1分切るようになった🤗 lightx2v 4step v1.0 768p (FL2V) 4steps 5s T2V 1088p ⏱58.0s https://t.co/WzwfWQPNjS https://t.co/vEIDPSAk9u",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1XApRrK9t6qXODd9WcFel8O4lCipfUdty",
+    "driveUrl": "https://drive.google.com/file/d/1XApRrK9t6qXODd9WcFel8O4lCipfUdty/view"
+  },
+  {
+    "id": "286",
+    "xid": "2105131904085430524",
+    "title": "尝尝dots咸淡。。 prompt: 你能不能为 做一条30秒左右，炫酷的宣传视频，配乐最好能卡点？竭尽你所能。如果你需要登录，我可以给你",
+    "category": "动态影像",
+    "model": "",
+    "source": "@MANISH1027512",
+    "sourceUrl": "https://x.com/MANISH1027512/status/2105131904085430524",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105131904085430524_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105131904085430524_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105131904085430524.mp4",
+    "blurb": "尝尝dots咸淡。。 prompt: 你能不能为https://t.co/6nNMHWc9vb 做一条30秒左右，炫酷的宣传视频，配乐最好能卡点？竭尽你所能。如果你需要登录，我可以给你 https://t.co/JYaXXOK4bT",
+    "prompt": "你能不能为https://t.co/6nNMHWc9vb 做一条30秒左右，炫酷的宣传视频，配乐最好能卡点？竭尽你所能。如果你需要登录，我可以给你 https://t.co/JYaXXOK4bT",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1v2Ong20f2xf3BZ3ycpjbAue4BJImgmEZ",
+    "driveUrl": "https://drive.google.com/file/d/1v2Ong20f2xf3BZ3ycpjbAue4BJImgmEZ/view"
+  },
+  {
+    "id": "287",
+    "xid": "2105113164799209665",
+    "title": "【革命】LoRA学習はもう不要！？🤯✨ 「MiniMax H3」で顔がブレない神技術「RefMod」が登場しました！ なんと数分で約1MBの超軽量ファイルを作る",
+    "category": "动态影像",
+    "model": "",
+    "source": "@ai_hakase_",
+    "sourceUrl": "https://x.com/ai_hakase_/status/2105113164799209665",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113164799209665_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113164799209665_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105113164799209665.mp4",
+    "blurb": "【革命】LoRA学習はもう不要！？🤯✨ 「MiniMax H3」で顔がブレない神技術「RefMod」が登場しました！ なんと数分で約1MBの超軽量ファイルを作るだけで、狙ったキャラクターの顔を完全固定できちゃうんです⋯！ 👇️ このスレッドで解説していきます！ #AI動画 #MiniMax #ComfyUI https://t.co/abFa6woxKp",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1cjbtwqJdHWIHORsCh5qM8xfDSPStuJez",
+    "driveUrl": "https://drive.google.com/file/d/1cjbtwqJdHWIHORsCh5qM8xfDSPStuJez/view"
+  },
+  {
+    "id": "288",
+    "xid": "2104829389078999161",
+    "title": "動画もなかなか良い感じ♥ #AI美女 #AI",
+    "category": "动态影像",
+    "model": "",
+    "source": "@hiyoriaiux",
+    "sourceUrl": "https://x.com/hiyoriaiux/status/2104829389078999161",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104829389078999161_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104829389078999161_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104829389078999161.mp4",
+    "blurb": "動画もなかなか良い感じ♥ #AI美女 #AI https://t.co/cmD7Wabvcx",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1qpRlr7mw6Dx54pONplas9r0snjeAbUvo",
+    "driveUrl": "https://drive.google.com/file/d/1qpRlr7mw6Dx54pONplas9r0snjeAbUvo/view"
+  },
+  {
+    "id": "289",
+    "xid": "2105104076442869965",
+    "title": "想看哪个小姐姐跳舞，不用再转深度 / 骨骼视频了 MiniMax H3 + Character Swap LoRA，直接丢一段跳舞视频加一张全身照就行。实测长视",
+    "category": "动态影像",
+    "model": "",
+    "source": "@eternityspring",
+    "sourceUrl": "https://x.com/eternityspring/status/2105104076442869965",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105104076442869965_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105104076442869965_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105104076442869965.mp4",
+    "blurb": "想看哪个小姐姐跳舞，不用再转深度 / 骨骼视频了 MiniMax H3 + Character Swap LoRA，直接丢一段跳舞视频加一张全身照就行。实测长视频分段合成再拼起来也没什么问题 唯一的遗憾就是合成有点慢，5s也得跑20多分钟 https://t.co/FYnLd548z9 还想看谁跳，快来许愿，我帮你们变戏法 😂 https://t.co/pNfpBLlakh",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1X1rbiLKIv-O3XxjFAr4htwJIun3hSoXm",
+    "driveUrl": "https://drive.google.com/file/d/1X1rbiLKIv-O3XxjFAr4htwJIun3hSoXm/view"
+  },
+  {
+    "id": "290",
+    "xid": "2105192576546378037",
+    "title": "LOOK WHAT I FOUND 😲 a new open-source model that just hit #1 on Hugging Face and",
+    "category": "动态影像",
+    "model": "",
+    "source": "@nex_ify",
+    "sourceUrl": "https://x.com/nex_ify/status/2105192576546378037",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105192576546378037_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105192576546378037_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105192576546378037.mp4",
+    "blurb": "LOOK WHAT I FOUND 😲 a new open-source model that just hit #1 on Hugging Face and it runs fully local on a 16GB laptop it is called Spark-X2.5-4B: → 4 billion parameters → native 1 million token contex",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1o22C_681yE940dOxBockyIJF9l8gud8N",
+    "driveUrl": "https://drive.google.com/file/d/1o22C_681yE940dOxBockyIJF9l8gud8N/view"
+  },
+  {
+    "id": "291",
+    "xid": "2105372104137015394",
+    "title": "No.189 76P 6V Black dress",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@nakachi03",
+    "sourceUrl": "https://x.com/nakachi03/status/2105372104137015394",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "No.189 76P 6V Black dress https://t.co/6W0oe34dvG",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1df-3WFso7kb50oWc1zpLY7a8hcY8vibu",
+    "driveUrl": "https://drive.google.com/file/d/1df-3WFso7kb50oWc1zpLY7a8hcY8vibu/view"
+  },
+  {
+    "id": "292",
+    "xid": "2105085465996976352",
+    "title": "做 AI 短剧的全流程，有人整成一个开源项目了 叫 aid-studio 剧本、角色场景、智能分镜、出图出视频、配音、成片预览，全在一个浏览器里跑完。多模型能接",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@gaoren7716",
+    "sourceUrl": "https://x.com/gaoren7716/status/2105085465996976352",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105085465996976352_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105085465996976352_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "做 AI 短剧的全流程，有人整成一个开源项目了 叫 aid-studio 剧本、角色场景、智能分镜、出图出视频、配音、成片预览，全在一个浏览器里跑完。多模型能接，你自己也能部署 它最值钱的是那个无限画布加导演台 你可以像摆积木一样排镜头，改完直接出片 不用在五个工具之间倒素材，这一点能省你多少事？ 先配好两个模型，做完一个分镜，你就知道了 👉 https://t.co/oOHkIQhCLa",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1knJwTEnYbzO4lZXxy7GsLovoZBRgiHXq",
+    "driveUrl": "https://drive.google.com/file/d/1knJwTEnYbzO4lZXxy7GsLovoZBRgiHXq/view"
+  },
+  {
+    "id": "293",
+    "xid": "2105113053985706360",
+    "title": "昨日はComfyUIのMiniMax H3設定、どれがいいのか？いろいろ試してたけど… ・minimax_h3_fused_refdelta_r1024_tur",
+    "category": "动态影像",
+    "model": "",
+    "source": "@PhotogenicWeekE",
+    "sourceUrl": "https://x.com/PhotogenicWeekE/status/2105113053985706360",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113053985706360_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113053985706360_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105113053985706360.mp4",
+    "blurb": "昨日はComfyUIのMiniMax H3設定、どれがいいのか？いろいろ試してたけど… ・minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot ・Model Sparse Attention sla/10.0/0.0/1.00(以下default) ・res_multistep/simple/6 steps これがt2va/fl2",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1Yb8BvJdiCQ-SV65QPMiYtd-YGIH0lh26",
+    "driveUrl": "https://drive.google.com/file/d/1Yb8BvJdiCQ-SV65QPMiYtd-YGIH0lh26/view"
+  },
+  {
+    "id": "294",
+    "xid": "2104925431678017775",
+    "title": "gemini-3.8-flash 是个很好的模型，但是因为antigravity太过垃圾，google又不允许gemini的订阅在其他harness里使用， 研",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@tangchuan_CN",
+    "sourceUrl": "https://x.com/tangchuan_CN/status/2104925431678017775",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104925431678017775_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104925431678017775_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "gemini-3.8-flash 是个很好的模型，但是因为antigravity太过垃圾，google又不允许gemini的订阅在其他harness里使用， 研究了一个现行比较安全的解决方案——通过 Pi 来使用 agy，让 agy 更少的影响 gemini-3.8-flash 模型能力。 一步步都是AI教我的， 1. 先把agy开一个精简模式，这个是官方允许的操作，这个可以就留4个工具。 2. ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1TA_ZiUVVmW5iOikxytY0PteWfg0CfpQd",
+    "driveUrl": "https://drive.google.com/file/d/1TA_ZiUVVmW5iOikxytY0PteWfg0CfpQd/view"
+  },
+  {
+    "id": "295",
+    "xid": "2104937154560589869",
+    "title": "姐妹们公司团建K歌 众人凑一块瞎闹腾太带劲 本姑娘举着镜头在旁边也乐坏了呀 @ZariffDean",
+    "category": "动态影像",
+    "model": "",
+    "source": "@stephanie37au8",
+    "sourceUrl": "https://x.com/stephanie37au8/status/2104937154560589869",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104937154560589869_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104937154560589869_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104937154560589869.mp4",
+    "blurb": "姐妹们公司团建K歌 众人凑一块瞎闹腾太带劲 本姑娘举着镜头在旁边也乐坏了呀 @ZariffDean https://t.co/GByhOzBQyY",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "1KZUgb1WHLsAHyymFWck6pMc0_Gl8q37O",
+    "driveUrl": "https://drive.google.com/file/d/1KZUgb1WHLsAHyymFWck6pMc0_Gl8q37O/view"
+  },
+  {
+    "id": "296",
+    "xid": "2104413200016130140",
+    "title": "答应很久的变装，今天给大家拍了 @aikpjq",
+    "category": "动态影像",
+    "model": "",
+    "source": "@stephanie37au8",
+    "sourceUrl": "https://x.com/stephanie37au8/status/2104413200016130140",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104413200016130140_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104413200016130140_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104413200016130140.mp4",
+    "blurb": "答应很久的变装，今天给大家拍了 @aikpjq https://t.co/6lyGjcl4IE",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.01",
+    "driveId": "13j6l6yUqsYLDyYu6vBRCa15BlAA_i5xE",
+    "driveUrl": "https://drive.google.com/file/d/13j6l6yUqsYLDyYu6vBRCa15BlAA_i5xE/view"
   }
 ];

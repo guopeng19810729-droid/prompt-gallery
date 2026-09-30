@@ -625,5 +625,27 @@ window.SKILLS = [
     "blurb": "仓库在这里：",
     "video": false,
     "addedAt": "2026.09.29"
+  },
+  {
+    "id": "2105317843617378492",
+    "title": "@404jsh",
+    "author": "@404jsh",
+    "name": "思索者",
+    "url": "https://x.com/404jsh/status/2105317843617378492",
+    "group": "资讯收藏",
+    "blurb": "https://t.co/nyrfw2QAmq",
+    "video": false,
+    "addedAt": "2026.10.01"
+  },
+  {
+    "id": "2105122465525486058",
+    "title": "Google 这次真的很大方。 AI Pro 账号每个月送 200 个 Colab 计算单元，能跑 A100 80GB。 再加上 Google 刚开放的 Col",
+    "author": "@wei_wang",
+    "name": "Wei",
+    "url": "https://x.com/wei_wang/status/2105122465525486058",
+    "group": "资讯收藏",
+    "blurb": "Google 这次真的很大方。 AI Pro 账号每个月送 200 个 Colab 计算单元，能跑 A100 80GB。 再加上 Google 刚开放的 Colab CLI，这些额度现在可以直接交给 Agent 调用了。 所以我马上写了一个调用的 Skill。 有 Google AI Pro 账号的朋友可以试试。让 Agent 装好这个 Skill 以后，直接叫它调用 Colab，就能生成 Min",
+    "video": false,
+    "addedAt": "2026.10.01"
   }
 ];
