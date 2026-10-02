@@ -6019,5 +6019,274 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.01",
     "driveId": "13j6l6yUqsYLDyYu6vBRCa15BlAA_i5xE",
     "driveUrl": "https://drive.google.com/file/d/13j6l6yUqsYLDyYu6vBRCa15BlAA_i5xE/view"
+  },
+  {
+    "id": "297",
+    "xid": "2105932045142851595",
+    "title": "还要什么梯子机场  扔一边去",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@niaoshu",
+    "sourceUrl": "https://x.com/niaoshu/status/2105932045142851595",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "还要什么梯子机场  扔一边去\n\n把家里变成一个无墙的环境  用它👇\n\n你在家连上WiFi就能直接访问谷歌 看YouTube  刷推特\n\n仿佛身处美国  一点不夸张 https://t.co/GwS5FshwgT",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1pIsQ9iKD1qhCZ7Ao8_sCpgQyqRqExQMV",
+    "driveUrl": "https://drive.google.com/file/d/1pIsQ9iKD1qhCZ7Ao8_sCpgQyqRqExQMV/view"
+  },
+  {
+    "id": "298",
+    "xid": "2105950396338586046",
+    "title": "ナニかな？",
+    "category": "动态影像",
+    "model": "",
+    "source": "@airoid1111",
+    "sourceUrl": "https://x.com/airoid1111/status/2105950396338586046",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105950396338586046_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105950396338586046_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105950396338586046.mp4",
+    "blurb": "ナニかな？ https://t.co/SccK81KuMY",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1-yQtte6rqa6-qgToOZC0OROJPpInwAu9",
+    "driveUrl": "https://drive.google.com/file/d/1-yQtte6rqa6-qgToOZC0OROJPpInwAu9/view"
+  },
+  {
+    "id": "299",
+    "xid": "2105926890087494131",
+    "title": "欧爸.....",
+    "category": "动态影像",
+    "model": "",
+    "source": "@YUMO412",
+    "sourceUrl": "https://x.com/YUMO412/status/2105926890087494131",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105926890087494131_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105926890087494131_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105926890087494131.mp4",
+    "blurb": "欧爸..... https://t.co/YaHZ4QrFfB",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1O0mCFFwumqLccr91u2UlkyrzShVoP4hj",
+    "driveUrl": "https://drive.google.com/file/d/1O0mCFFwumqLccr91u2UlkyrzShVoP4hj/view"
+  },
+  {
+    "id": "300",
+    "xid": "2105645639703183753",
+    "title": "啊啊啊啊😮😮！感受一下Muse直出的视频！",
+    "category": "动态影像",
+    "model": "",
+    "source": "@leaf_sanren",
+    "sourceUrl": "https://x.com/leaf_sanren/status/2105645639703183753",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105645639703183753_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105645639703183753_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105645639703183753.mp4",
+    "blurb": "啊啊啊啊😮😮！感受一下Muse直出的视频！\n\n你觉得能干翻Seedance 2.5 或 Wan 3.0么？\n\n哪里有算力，哪里有奇迹？\n\nprompt：\n生成这个视频：生成一段15秒、9:16竖屏、超高清4K、30fps、电影级真实人像质感的时尚人像短片。\n\n画面主体是一位 20-25岁左右的年轻亚洲女性，高级脸，清冷中带一点青涩感，五官精致但不过分完美，脸型流畅，鼻梁自然，嘴唇饱满，眼神有内容，",
+    "prompt": "生成这个视频：生成一段15秒、9:16竖屏、超高清4K、30fps、电影级真实人像质感的时尚人像短片。\n\n画面主体是一位 20-25岁左右的年轻亚洲女性，高级脸，清冷中带一点青涩感，五官精致但不过分完美，脸型流畅，鼻梁自然，嘴唇饱满，眼神有内容，整体气质像车模或时尚活动现场被摄影师近距离怼脸抓拍。\n不要网红感，不要夸张整形脸，不要塑料皮，不要过度磨皮，不要假睫毛过重，不要夸张高光，不要二次元感。\n人物皮肤必须真实：清晰可见毛孔、轻微皮肤纹理、轻微卡粉、轻微痘印、极浅痘坑、眼下细纹、鼻翼与脸颊自然凹凸、嘴唇唇纹、少量碎发和发丝边缘。 妆容是精致但不完美的高级淡妆：底妆微微服帖但不是无瑕，眼妆干净，睫毛真实自然，唇部有轻微光泽感。\n头发为黑色或深棕色顺直长发，带自然碎发和轻微凌乱感，不能太刻意。\n\n场景与氛围\n\n场景为高级时尚活动现场 / 车展活动区 / 高端品牌发布会现场的人像近拍氛围，但背景必须虚化，不突出具体品牌和文字。背景可有柔和的展厅灯光、少量失焦霓虹反射、模糊人群、模糊车身高光反射或金属质感背景，整体氛围高级、克制、时尚。\n不要字幕，不要贴纸，不要水印，不要可读文字，不要夸张特效，不要不合理炫光。\n\n光线要求\n\n光线必须符合现实逻辑，像真实摄影师在活动现场近距离拍摄。\n主光为柔和但有方向性的面部主光，从人物正前偏侧上方打来，形成自然脸部明暗层次。\n辅光非常轻，保留部分阴影，增强五官立体感。\n环境中可有柔和冷色边缘光或车展现场反射光，让脸部更立体。\n全程允许出现2到3次短暂闪光灯，闪光灯必须像现场摄影闪光一样自然，只在某些瞬间快速亮起，造成面部高光短暂增强、瞳孔高光更明显、皮肤反光更亮，但不能整段频闪，不能不合逻辑。\n闪光灯出现时，要像摄影师抓拍：亮一下就过，光比真实，脸部不过曝，皮肤细节仍可见。\n\n镜头与运镜（顶级运镜）\n\n整体采用超近距离人像运镜，镜头始终围绕脸部进行，突出眼睛、鼻梁、嘴唇、脸颊、发丝和皮肤质感。\n镜头语言高级、流畅、克制，有时尚广告和摄影后台抓拍的感觉。\n不要大幅乱晃，不要眩晕感，不要夸张AI运镜，不要突然拉远。\n运镜必须自然，像高端摄影师手持稳定器或轻微手持拍摄：\n\n0-3秒\n\n镜头从超近距离侧前方怼脸开场，焦点落在眼睛和鼻梁区域，人物微微抬眼看向镜头，呼吸感自然，嘴唇轻微放松。\n镜头做极轻微慢推近，同时有非常轻的横向滑动，展示脸颊、眼下纹理和发丝。\n这一段要让观众第一眼就感受到脸的高级和真实。\n\n3-6秒\n\n镜头沿着脸部从眼睛滑到鼻尖、再滑到嘴唇附近，做极稳的微弧形绕拍，近距离观察五官。\n人物眼神轻微移动，不要夸张表演，只需轻轻看向镜头边缘，再缓慢回看镜头。\n此时可出现第一次闪光灯，短暂亮起，强化皮肤质感和唇部高光。\n\n6-9秒\n\n镜头从正面偏左缓慢转到正面偏右，仍然保持怼脸距离，重点表现脸颊皮肤纹理、鼻翼细节、下眼睑细纹、睫毛和瞳孔反光。\n人物轻轻拨动一点头发，或者有一缕碎发自然落在脸侧。\n镜头带一点真实摄影感的轻微呼吸式浮动，不能死板。\n\n9-12秒\n\n镜头轻微下移，突出嘴唇、下巴线条和脸颊，再慢慢回到眼睛。\n人物表情保持清冷、克制、带一点高级疏离感，像车模被摄影师近距离抓拍，偶尔轻轻眨眼，嘴角有极轻微放松。\n这里出现第二次闪光灯，自然、瞬时、像现场抓拍，闪完后恢复正常光线。\n闪光灯后眼睛里的高光更加明显，画面更有时尚大片感。\n\n12-15秒\n\n镜头做一次最漂亮的超近距离轻弧线收镜，围绕脸部微微绕动并轻推近，最后停在眼睛+鼻梁+半边嘴唇的绝佳构图上。\n人物在最后一秒轻轻抬眼直视镜头，眼神干净、冷静、有吸引力。\n结尾可有第三次很轻的闪光灯或环境高光掠过，但必须自然，不夸张。\n最终停留在一个非常适合做首帧封面的高级怼脸画面。\n\n画面风格\n\n整体风格是：\n真实电影级时尚人像、近距离商业摄影、车展模特贴脸抓拍、高级杂志感、自然皮肤质感、非影棚假面感。\n要有真实镜头焦外、自然景深、细腻肤质、轻微现场感、克制的高级感。\n不是网红自拍，不是直播间，不是韩式磨皮，不是低质AI脸。\n\n重点强调\n\n脸必须真实，不能假\n\n皮肤不能过分完美，要保留轻微瑕疵\n\n五官稳定，不能变形\n\n眼睛不能飘，嘴唇不能乱动\n\n发丝必须真实，有碎发\n\n闪光灯必须符合现实抓拍逻辑\n\n光线必须真实，不要胡乱乱闪\n\n镜头必须高级，平滑，电影级，时尚摄影感\n\n全片以“高级脸近拍展示”为核心，不要剧情化，不要大动作\n\n负面限制词（建议一起加上）\n\n负面提示词：\n卡通感，CG感，塑料皮，过度磨皮，过度美颜，五官变形，眼睛错位，皮肤蜡像感，过曝，闪光灯频闪不合理，脸部抖动，低清晰度，低质量发丝，夸张滤镜，网红脸，假睫毛过重，浓妆，镜头乱晃，肢体变形，背景杂乱，可读文字，字幕，贴纸，水印，",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1lqsXl6P37uIOjcyCF0QnWv7qKj7-NSaZ",
+    "driveUrl": "https://drive.google.com/file/d/1lqsXl6P37uIOjcyCF0QnWv7qKj7-NSaZ/view"
+  },
+  {
+    "id": "301",
+    "xid": "2105553301198549056",
+    "title": "No.189 76P 6V Black dress",
+    "category": "动态影像",
+    "model": "",
+    "source": "@nakachi03",
+    "sourceUrl": "https://x.com/nakachi03/status/2105553301198549056",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105553301198549056_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105553301198549056_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105553301198549056.mp4",
+    "blurb": "No.189 76P 6V Black dress https://t.co/C1mHjlzr42",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1BXi7Vh9jw8DN_5HdDAbJ9WIgozNIlxpq",
+    "driveUrl": "https://drive.google.com/file/d/1BXi7Vh9jw8DN_5HdDAbJ9WIgozNIlxpq/view"
+  },
+  {
+    "id": "302",
+    "xid": "2105686298178843022",
+    "title": "GPTimage2.5でAIキャラをパーツ分けして素材化させる神プロンプトを公開します‼️",
+    "category": "动态影像",
+    "model": "",
+    "source": "@shimotti_ai",
+    "sourceUrl": "https://x.com/shimotti_ai/status/2105686298178843022",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_1.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105686298178843022.mp4",
+    "blurb": "GPTimage2.5でAIキャラをパーツ分けして素材化させる神プロンプトを公開します‼️\n\n・Live2D制作\n・ゲーム立ち絵制作\n・モーショングラフィックス\n・広告動画\n・キャラ紹介PV\n・アニメや映像のプリプロ\n・同人・個人制作\n\nただのAI画像を重ね合わせ可能なパーツ透過素材に\nできます。\n\nこのプロンプトはリプ欄↓",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1IQz3d2T1ayYO-Ys8TMvrOgTK4ytYAfSk",
+    "driveUrl": "https://drive.google.com/file/d/1IQz3d2T1ayYO-Ys8TMvrOgTK4ytYAfSk/view"
+  },
+  {
+    "id": "303",
+    "xid": "2105939453667848429",
+    "title": "上面这个号的打法，我们昨晚跑通了。",
+    "category": "动态影像",
+    "model": "",
+    "source": "@DDJCXX",
+    "sourceUrl": "https://x.com/DDJCXX/status/2105939453667848429",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105939453667848429.mp4",
+    "blurb": "上面这个号的打法，我们昨晚跑通了。\n\n不用拍，不用露脸。\n\n找一条火过的视频，把人换掉，就是一条新的爆款。\n两个工具就够了：ChatGPT 做角色，Seedance 2.5 换人。\n\n这是我们造的角色，完整步骤在下面👇 https://t.co/hHRCcwMbUu https://t.co/BvoZjsSbtC",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1RDJDvoTmC57YvPhbOu5if0FWpFqtjckr",
+    "driveUrl": "https://drive.google.com/file/d/1RDJDvoTmC57YvPhbOu5if0FWpFqtjckr/view"
+  },
+  {
+    "id": "304",
+    "xid": "2105874142813991061",
+    "title": "鉴于大家都很喜欢 把白模视频送给大家！",
+    "category": "动态影像",
+    "model": "",
+    "source": "@jackchen1919",
+    "sourceUrl": "https://x.com/jackchen1919/status/2105874142813991061",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105874142813991061_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105874142813991061_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105874142813991061.mp4",
+    "blurb": "鉴于大家都很喜欢 把白模视频送给大家！ https://t.co/xpT7FQwe0E https://t.co/sRe08WrLY0",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1_7piple9H3sDLMQyFJ-cCufixiCHm2Ka",
+    "driveUrl": "https://drive.google.com/file/d/1_7piple9H3sDLMQyFJ-cCufixiCHm2Ka/view"
+  },
+  {
+    "id": "305",
+    "xid": "2098055393377124672",
+    "title": "New in Orca — Agent Activity View 🔔",
+    "category": "动态影像",
+    "model": "",
+    "source": "@orca_build",
+    "sourceUrl": "https://x.com/orca_build/status/2098055393377124672",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098055393377124672_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098055393377124672_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098055393377124672.mp4",
+    "blurb": "New in Orca — Agent Activity View 🔔\n\nSee what agents need you, without opening a single one.\n\nwaiting · working · monitoring · done\n\nRead the last agent message or jump right into the agent chat. \n\nAv",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "12QEmmpOWUos93Za5eNwQdJBcuqysKzpY",
+    "driveUrl": "https://drive.google.com/file/d/12QEmmpOWUos93Za5eNwQdJBcuqysKzpY/view"
+  },
+  {
+    "id": "306",
+    "xid": "2105607404809498831",
+    "title": "🤯这到底是谁想出来的？",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@liyue_ai",
+    "sourceUrl": "https://x.com/liyue_ai/status/2105607404809498831",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "🤯这到底是谁想出来的？\n这次GPT是真的被越狱了😅\n\n提示词：\n参考右侧的人物姿势，将左侧人物按右侧各种姿势生成。 https://t.co/s8g4G4s0hB https://t.co/kn7wbRqYqj",
+    "prompt": "参考右侧的人物姿势，将左侧人物按右侧各种姿势生成。",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1R_BjQDX6UncnRMhgm-DN975GUu52abA1",
+    "driveUrl": "https://drive.google.com/file/d/1R_BjQDX6UncnRMhgm-DN975GUu52abA1/view"
+  },
+  {
+    "id": "307",
+    "xid": "2105908137698173092",
+    "title": "卧槽，Codex 直接半价了，这个得先收藏。",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@aehyok",
+    "sourceUrl": "https://x.com/aehyok/status/2105908137698173092",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "卧槽，Codex 直接半价了，这个得先收藏。\n\n官方 20 刀一个月，Agent Space 月付 10 刀，年付折下来 9 刀。\n5x 官方 100 刀，这里 45。\n独立账号，不跟别人拼车，还白送一台 24 小时在线的云电脑。\n\nClaude 这边也没落下：\nOpus 5.5 按量是官方 API 的一半，每百万 token 输入 $2、输出 $10。\n注册先送 $1，一分钱不花就能试。\n\n最狠",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1W7zXvTI5rAeP0DZ2wLb2O3AkUvKOohZv",
+    "driveUrl": "https://drive.google.com/file/d/1W7zXvTI5rAeP0DZ2wLb2O3AkUvKOohZv/view"
+  },
+  {
+    "id": "308",
+    "xid": "2105112451666841934",
+    "title": "预测接下来 agent 两个重要的方向：带云电脑、连着你各种应用的私人 agent，还有一种就是团队大脑。",
+    "category": "动态影像",
+    "model": "",
+    "source": "@LufzzLiz",
+    "sourceUrl": "https://x.com/LufzzLiz/status/2105112451666841934",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105112451666841934_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105112451666841934_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105112451666841934.mp4",
+    "blurb": "预测接下来 agent 两个重要的方向：带云电脑、连着你各种应用的私人 agent，还有一种就是团队大脑。\n\n第一种目前走的最快最好的是muse、Today，dot刚刚试了主动性太差。。\n\n今天聊一下最近一直在用一个 personal AI：https://t.co/hynZQJNumO，主动性是最强的。\n\n分享一个我自己每天都在用的场景。\n\n【痛点】\n做 AI 内容，每天最耗神的决定是\"今天发哪",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1p7tgD6jadSnEX8CQZxMNEwu_rys9CLDO",
+    "driveUrl": "https://drive.google.com/file/d/1p7tgD6jadSnEX8CQZxMNEwu_rys9CLDO/view"
+  },
+  {
+    "id": "309",
+    "xid": "2105372106280083826",
+    "title": "No.126 93P 7V Junko Enoshima",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@asanoai02",
+    "sourceUrl": "https://x.com/asanoai02/status/2105372106280083826",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "No.126 93P 7V Junko Enoshima https://t.co/FfTAAICBsJ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.03",
+    "driveId": "1l853-8ShIXM6W6VgMVMEk_QKr4S4EgEp",
+    "driveUrl": "https://drive.google.com/file/d/1l853-8ShIXM6W6VgMVMEk_QKr4S4EgEp/view"
   }
 ];

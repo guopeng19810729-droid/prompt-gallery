@@ -647,5 +647,16 @@ window.SKILLS = [
     "blurb": "Google 这次真的很大方。 AI Pro 账号每个月送 200 个 Colab 计算单元，能跑 A100 80GB。 再加上 Google 刚开放的 Colab CLI，这些额度现在可以直接交给 Agent 调用了。 所以我马上写了一个调用的 Skill。 有 Google AI Pro 账号的朋友可以试试。让 Agent 装好这个 Skill 以后，直接叫它调用 Colab，就能生成 Min",
     "video": false,
     "addedAt": "2026.10.01"
+  },
+  {
+    "id": "2105533417379217847",
+    "title": "@huoshan007",
+    "author": "@huoshan007",
+    "name": "火山哥🕊️",
+    "url": "https://x.com/huoshan007/status/2105533417379217847",
+    "group": "资讯收藏",
+    "blurb": "兄弟们，天天看群里有人吹什么信息差，其实说难听点全靠手脚勤快。\n\n只要你梯子不断，脑子里知道怎么让Claude和GPT干活，国内大把人的钱包就是给你敞开的。\n\n我自己花10亿Token让Codex测试下来可以跑通的几个路子,免领👇：\n\n1. 去Hugging Face和Discord各大AI频道扒最新的工作流和Prompt合集，转手丢给DeepSeek洗成保姆级中文教程，挂闲鱼和微信小店，上个月我",
+    "video": false,
+    "addedAt": "2026.10.03"
   }
 ];
