@@ -6288,5 +6288,45 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.03",
     "driveId": "1l853-8ShIXM6W6VgMVMEk_QKr4S4EgEp",
     "driveUrl": "https://drive.google.com/file/d/1l853-8ShIXM6W6VgMVMEk_QKr4S4EgEp/view"
+  },
+  {
+    "id": "310",
+    "xid": "2105099945686741306",
+    "title": "冷知识： 豆包的灰铲已经把这个行业颠覆了🤯 看完后你还敢不用AI吗？",
+    "category": "AI视频",
+    "model": "",
+    "source": "@huoshan007",
+    "sourceUrl": "https://x.com/huoshan007/status/2105099945686741306",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105099945686741306_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105099945686741306_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105099945686741306.mp4",
+    "blurb": "冷知识：\n\n豆包的灰铲已经把这个行业颠覆了🤯 \n\n 看完后你还敢不用AI吗？ https://t.co/JR1gQ532Av",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.05",
+    "driveId": "1Z4eoA6LPGbky8wXcq0-hm36Pe3Zj7jgb",
+    "driveUrl": "https://drive.google.com/file/d/1Z4eoA6LPGbky8wXcq0-hm36Pe3Zj7jgb/view"
+  },
+  {
+    "id": "311",
+    "xid": "2106524412715667782",
+    "title": "결국 비디오 생성 AI 판에서도 '괴물 오픈소스'가 터져버렸음. 5초만 ",
+    "category": "AI视频",
+    "model": "",
+    "source": "@Dontgiveup_26",
+    "sourceUrl": "https://x.com/Dontgiveup_26/status/2106524412715667782",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2106524412715667782_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2106524412715667782_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2106524412715667782.mp4",
+    "blurb": "결국 비디오 생성 AI 판에서도 '괴물 오픈소스'가 터져버렸음.\n\n5초만 넘어가면 화면이 녹아내리던 고질병을 끝내고, '수 분짜리 롱테이크 영상'을 왜곡 0%로 뽑아내는 13.6B 모델이 나와버림.\n\n심지어 구글 Veo3급 퀄리티인데 코드와 모델 가중치까지 'MIT 라이선스(상업적 100% 무료)'로 통째로 털어버림.\n\n메이투안이 기습 공개한 비디오 AI ",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.05",
+    "driveId": "1hRnIfeKbedSiI7CwqueiUBHwkDm6UH7p",
+    "driveUrl": "https://drive.google.com/file/d/1hRnIfeKbedSiI7CwqueiUBHwkDm6UH7p/view"
   }
 ];
