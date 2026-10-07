@@ -658,5 +658,27 @@ window.SKILLS = [
     "blurb": "兄弟们，天天看群里有人吹什么信息差，其实说难听点全靠手脚勤快。\n\n只要你梯子不断，脑子里知道怎么让Claude和GPT干活，国内大把人的钱包就是给你敞开的。\n\n我自己花10亿Token让Codex测试下来可以跑通的几个路子,免领👇：\n\n1. 去Hugging Face和Discord各大AI频道扒最新的工作流和Prompt合集，转手丢给DeepSeek洗成保姆级中文教程，挂闲鱼和微信小店，上个月我",
     "video": false,
     "addedAt": "2026.10.03"
+  },
+  {
+    "id": "2107858381755060262",
+    "title": "内地用户在 App Store 内购订阅 Claude / GPT 的三条实测路线（Wise、美区 PayPal、Bybit 卡）",
+    "author": "@WeiPeng6823",
+    "name": "PW",
+    "url": "https://x.com/WeiPeng6823/status/2107858381755060262",
+    "group": "资讯收藏",
+    "blurb": "居住在中国内地想在 App Store 里直接订阅 Claude 和 GPT，作者实测跑通三条路：① Wise 卡（英区卡门槛较高，国区无法直接申请虚拟卡）；② 美区 PayPal 账号（需纯净 IP + 美国手机号）；③ Bybit 卡（台湾区最佳，可绑 Apple Pay 付 AI 订阅，IP 要求严格）。",
+    "video": false,
+    "addedAt": "2026.10.08"
+  },
+  {
+    "id": "2107884181409730957",
+    "title": "Claude 账号为何一直没被封：老谷歌账号 + 早期用户白名单的推测",
+    "author": "@imkobedroid",
+    "name": "DONG",
+    "url": "https://x.com/imkobedroid/status/2107884181409730957",
+    "group": "资讯收藏",
+    "blurb": "作者的 Claude 账号长期未被封，而朋友新注册两小时就被封。推测原因：1. 谷歌账号注册早，不像批量水号；2. 是 Claude 早期用户，可能在蒸馏事件前的白名单里。认为 VPN 干净等技术方法治标不治本。",
+    "video": false,
+    "addedAt": "2026.10.08"
   }
 ];

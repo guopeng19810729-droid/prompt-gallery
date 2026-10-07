@@ -6328,5 +6328,46 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.05",
     "driveId": "1hRnIfeKbedSiI7CwqueiUBHwkDm6UH7p",
     "driveUrl": "https://drive.google.com/file/d/1hRnIfeKbedSiI7CwqueiUBHwkDm6UH7p/view"
+  },
+  {
+    "id": "312",
+    "xid": "2107434529053176075",
+    "title": "Claude 页面突然出现简体中文、可选中国地区，还有银联支付标志",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@_FORAB",
+    "sourceUrl": "https://x.com/_FORAB/status/2107434529053176075",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "不是，怎么突然一夜之间，Anthropic 的 Claude 页面有简体中文选项，国家地区也可以选择中国了，甚至还有银联支付的标志。\n\n发生什么事了，这真不是陷阱么？？",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.08",
+    "driveId": "1FK_LfD8NXz4GDCP_qL7t468vbEfMECfr",
+    "driveUrl": "https://drive.google.com/file/d/1FK_LfD8NXz4GDCP_qL7t468vbEfMECfr/view"
+  },
+  {
+    "id": "313",
+    "xid": "2107844902478565650",
+    "title": "土区 Google AI Ultra 订阅只需 1899 里拉（约 258 元）",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@ai_funss",
+    "sourceUrl": "https://x.com/ai_funss/status/2107844902478565650",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107844902478565650_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107844902478565650_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "土区的 Google Gemini 订阅会不会成为下一个传家宝？🤔\n\n只需“1899里拉”也就是“258元” 就可以订阅 Google AI Ultra 😮\n\n可以使用Gemini 4 Argon 、Claude Opus 5.5 还有 20T的云盘空间，Youtube 的 Premium 会员，等等一系列。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.08",
+    "driveId": "1Vor9AiBHudBD4gYzMtoUl5HcmbXjOACJ",
+    "driveUrl": "https://drive.google.com/file/d/1Vor9AiBHudBD4gYzMtoUl5HcmbXjOACJ/view"
   }
 ];
