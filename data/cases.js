@@ -6369,5 +6369,127 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.08",
     "driveId": "1Vor9AiBHudBD4gYzMtoUl5HcmbXjOACJ",
     "driveUrl": "https://drive.google.com/file/d/1Vor9AiBHudBD4gYzMtoUl5HcmbXjOACJ/view"
+  },
+  {
+    "id": "314",
+    "xid": "2108211952900309152",
+    "title": "用归藏老师提示词在 Grok Bot 做 AI 早报讲解视频",
+    "category": "AI视频",
+    "model": "",
+    "source": "@liyue_ai",
+    "sourceUrl": "https://x.com/liyue_ai/status/2108211952900309152",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108211952900309152_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108211952900309152_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108211952900309152.mp4",
+    "blurb": "刚用归藏老师的提示词在 Grok Bot 做了 AI 早报，排版、信息收集、视频内容和解说都符合预期；附完整「AI 早报 + 讲解视频」流程提示词。",
+    "prompt": "请帮我搭一套「AI 早报 + 讲解视频」流程：每天整理前一天的 AI 资讯，出一份文字简报，再做成一条约 90 秒的中文讲解视频。先装好环境，用昨天的内容试跑一期，交给我验收。\n\n【一、安装 skill（在你自己的电脑上）】\n把下面三个公开仓库克隆到 ~/.claude/skills/ 下，每个都完整读一遍 SKILL.md 和它引用的文件：\n- https://t.co/8FxwObdvoR （视频制作流程：React + GSAP 搭画面，Playwright 逐帧渲染，FFmpeg 合成）\n- https://t.co/k6dqBM64NR （版式：瑞士风，纸白底，安全橙 #FF6B35）\n- https://t.co/jYs6GTXzQf （旁白去 AI 腔）\n按 skill 的环境检查把缺的依赖装齐（Node、Playwright + Chromium、FFmpeg、Python 等）。另外装 edge-tts 做中文配音，可以先用 zh-CN-YunxiNeural，语速 +20%；有更稳定的 TTS 也可以换。\n\n【二、采集资讯（日期 Y = 我所在时区的昨天）】\n- 时间窗口用我所在时区的完整一天，换算成 UTC 再查，不要直接用 UTC 零点。\n- 来源：我的 X 收藏、我自己在 Y 当天发的推文（按 赞 + 2×评论 + 2×收藏 取前 3，附上评论区里有实质内容的观点），以及我下面列出的其他来源。\n- 我的 X 账号：@<你的用户名>\n- 其他来源（可选）：<比如某个 newsletter 的发件邮箱、某个网页>\n- 某个来源读不到时，如实写\"没读到\"，和\"没更新\"分开写。\n\n【三、文字简报】\n- 把相关内容归成 5–7 条主线，每条一句话标题，加一两句要点，带上关键数字。\n- 每条都要附原推链接 https://t.co/6JqCo9AtwM<用户名>/status/<id>，补过背景的再附一个官方来源。\n- 价格、跑分、融资额这类数字要回官方页核对。传言标\"未证实/社区传言\"。绝不编造数字、引用、链接或用户名，评论作者按推文 id 回填。\n\n【四、讲解视频】\n- 完全按 Product Video skill 的流程做：先写 DIRECTION.md，再搭镜头，最后渲染。画面的字体、配色和排版沿用社交卡片 skill。\n- 结构：片头（AI 早报 + 日期 + 今日条数）→ 每条新闻一屏（标题、1–2 个橙色关键数字、来源账号）→ X 雷达一屏 → 片尾。总长 60–90 秒，默认横屏 1920×1080。\n- 旁白中文口语化，先用 Humanizer-zh 过一遍。每句单独合成配音并量出时长，镜头、字幕和动作时间都按实际配音时长来对齐。字幕烧录进画面，人声出现时把音乐压低。\n- 视频里只放简报里已经有的事实，不新增内容。\n- 导出后跑 skill 自带的交付检查，抽帧逐屏看：文字不能溢出、重叠或截断，中文不能缺字，整片色调要统一。有问题先改完再交。\n\n【五、交付】\n发给我：文字简报全文、成片 mp4、旁白稿、3–4 张关键帧，再加一句话说明哪些步骤还不稳定。不要替我发任何消息或帖子。\n\n试跑我满意之后，再帮我建一个每天早上 9 点自动跑的定时任务。",
+    "nsfw": false,
+    "addedAt": "2026.10.09",
+    "driveId": "1JIhm_bsXqCdG-0cpLi6Lrpp0cdRKvaPA",
+    "driveUrl": "https://drive.google.com/file/d/1JIhm_bsXqCdG-0cpLi6Lrpp0cdRKvaPA/view"
+  },
+  {
+    "id": "315",
+    "xid": "2108188790733132102",
+    "title": "ChatGPT 逼出 Midjourney 风东方戏曲女神肖像",
+    "category": "人物角色",
+    "model": "ChatGPT",
+    "source": "@liluocheng13",
+    "sourceUrl": "https://x.com/liluocheng13/status/2108188790733132102",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "反复改提示词两小时，把 ChatGPT 逼出类似 Midjourney 风格的东方戏曲女神作品；附完整英文 Prompt。",
+    "prompt": "An extraordinarily beautiful young East Asian woman, ethereal Chinese imperial opera goddess, delicate porcelain face, refined facial anatomy, melancholic almond-shaped eyes, subtle smoky eyeliner, soft muted rose lips, cold and distant expression, elaborate monumental Chinese phoenix crown adorned with intricate blue enamel filigree, antique silver ornaments, countless luminous white pearls, sculpted ivory flowers, flowing metallic botanical structures, luxurious traditional Chinese ceremonial robes in ivory white silk, exquisite hand-embroidered peonies in dusty teal blue, muted coral pink and antique gold, cascading pearl necklaces, delicate coral tassels, graceful slender feminine hand resting naturally against embroidered silk, five anatomically accurate fingers, elegant finger proportions, realistic joints, natural perspective, flowing oversized white silk sleeves, long black hair blowing dramatically in the wind, ancient Chinese palace architecture softly blurred in the background, dramatic close-up fashion portrait, slightly low camera angle, sophisticated asymmetrical composition, shallow depth of field, foreground silk softly out of focus, Chinese mysticism meets European Rococo ornamentation, Old Master painting color harmony, cinematic chiaroscuro, cool blue-gray atmosphere, delicate warm highlights, realistic porcelain skin texture, intricate textile details, restrained HDR, photorealistic fine art fashion photography, 85mm portrait lens, f/1.8, extraordinary craftsmanship, museum-quality visual aesthetics, elegant and haunting beauty --ar 9:16 --v 8.2 --stylize 250 --chaos 8 --no extra fingers, fused fingers, malformed hands, distorted anatomy, plastic skin, cartoon, anime, text, watermark",
+    "nsfw": false,
+    "addedAt": "2026.10.09",
+    "driveId": "1-5WfOXw5por4ax4vzT4P76PkeGde2L1G",
+    "driveUrl": "https://drive.google.com/file/d/1-5WfOXw5por4ax4vzT4P76PkeGde2L1G/view"
+  },
+  {
+    "id": "316",
+    "xid": "2108207399400300642",
+    "title": "开源免费的 Archify 被做成 $19/月 在线版",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@t20000622yy",
+    "sourceUrl": "https://x.com/t20000622yy/status/2108207399400300642",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Archify 近 8 万 Star，作者发现第三方做成标价 $19/月的在线版（站名只多一个 i）；强调原项目完全开源免费，那个站是独立运营。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.09",
+    "driveId": "1F4hBiXVfmwB1oAa3OimiexPxK3QAdSr5",
+    "driveUrl": "https://drive.google.com/file/d/1F4hBiXVfmwB1oAa3OimiexPxK3QAdSr5/view"
+  },
+  {
+    "id": "317",
+    "xid": "2108180559801589838",
+    "title": "Qwen3.8 27B 专项微调对齐 Opus/GPT/Grok 的长标题梗图",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@lilililiMozi",
+    "sourceUrl": "https://x.com/lilililiMozi/status/2108180559801589838",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108180559801589838_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108180559801589838_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "一张长标题梗图：Qwen3.8 27B 用 390 万代码数据微调，蒸馏对齐 Opus5.5、GPT6Astra、Grok4.7、DSV4Pro，再经 SFT/RLOO/MTP 与 DFlash2 加速。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.09",
+    "driveId": "1-G0LmqbR48Ab_AxJABkGIUzHj2Ra-fDf",
+    "driveUrl": "https://drive.google.com/file/d/1-G0LmqbR48Ab_AxJABkGIUzHj2Ra-fDf/view"
+  },
+  {
+    "id": "318",
+    "xid": "2108163320582959606",
+    "title": "成人向调教向视频收藏（少儿不宜）",
+    "category": "真人视频",
+    "model": "",
+    "source": "@ONLYVIPVID",
+    "sourceUrl": "https://x.com/ONLYVIPVID/status/2108163320582959606",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108163320582959606_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108163320582959606_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108163320582959606.mp4",
+    "blurb": "成人向调教/肉戏向视频书签，无可用提示词。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.09",
+    "driveId": "1qPKMYmMKZun1MRFKgb3WWibo48kspC9g",
+    "driveUrl": "https://drive.google.com/file/d/1qPKMYmMKZun1MRFKgb3WWibo48kspC9g/view"
+  },
+  {
+    "id": "319",
+    "xid": "2107943548024766829",
+    "title": "MiniMax H3 导演台 ComfyUI 工作流：文生/图生/换人",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@0xGky",
+    "sourceUrl": "https://x.com/0xGky/status/2107943548024766829",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107943548024766829_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107943548024766829_0.png"
+    ],
+    "videoUrl": "",
+    "blurb": "一套 MiniMax H3 导演台工作流，丢进 ComfyUI 可跑文生视频、图生视频、首尾帧、视频换人。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.09",
+    "driveId": "1feF-F1RfatPuuhGDbz6wTvur9CHpwalg",
+    "driveUrl": "https://drive.google.com/file/d/1feF-F1RfatPuuhGDbz6wTvur9CHpwalg/view"
   }
 ];

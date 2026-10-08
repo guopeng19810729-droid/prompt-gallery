@@ -680,5 +680,16 @@ window.SKILLS = [
     "blurb": "作者的 Claude 账号长期未被封，而朋友新注册两小时就被封。推测原因：1. 谷歌账号注册早，不像批量水号；2. 是 Claude 早期用户，可能在蒸馏事件前的白名单里。认为 VPN 干净等技术方法治标不治本。",
     "video": false,
     "addedAt": "2026.10.08"
+  },
+  {
+    "id": "2108179356270891149",
+    "title": "Noct-Q-Uncensored-Qwen-Image-2.1：成人向写实社区衍生版",
+    "author": "@yangleiocx3",
+    "name": "阿磊",
+    "url": "https://x.com/yangleiocx3/status/2108179356270891149",
+    "group": "资讯收藏",
+    "blurb": "Qwen-Image-2.1 社区衍生版 Noct-Q-Uncensored，主打成人内容与写实摄影，能力整合进模型无需额外 LoRA；INT8 约 7.3GB，适用 8–12GB 显卡，附 ComfyUI 工作流，仅限非商业用途。",
+    "video": false,
+    "addedAt": "2026.10.09"
   }
 ];
