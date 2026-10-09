@@ -6491,5 +6491,25 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.09",
     "driveId": "1feF-F1RfatPuuhGDbz6wTvur9CHpwalg",
     "driveUrl": "https://drive.google.com/file/d/1feF-F1RfatPuuhGDbz6wTvur9CHpwalg/view"
+  },
+  {
+    "id": "320",
+    "xid": "2108400320204386435",
+    "title": "终端 SSH 直连 chat.hf.co 免费用 Qwen3.8-27B",
+    "category": "AI工具",
+    "model": "",
+    "source": "@BlockInsight214",
+    "sourceUrl": "https://x.com/BlockInsight214/status/2108400320204386435",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108400320204386435_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108400320204386435_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Hugging Face 员工玩法：任意终端 ssh chat.hf.co 即可进入聊天界面，免注册、免 API key、免安装，额度不限，可选 HF Inference Providers 托管模型。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.10",
+    "driveId": "1cYpDC_ftCXHe6RNP67Xg5kJiiLC_BRgW",
+    "driveUrl": "https://drive.google.com/file/d/1cYpDC_ftCXHe6RNP67Xg5kJiiLC_BRgW/view"
   }
 ];
