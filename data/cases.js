@@ -6511,5 +6511,65 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.10",
     "driveId": "1cYpDC_ftCXHe6RNP67Xg5kJiiLC_BRgW",
     "driveUrl": "https://drive.google.com/file/d/1cYpDC_ftCXHe6RNP67Xg5kJiiLC_BRgW/view"
+  },
+  {
+    "id": "321",
+    "xid": "2109263984763507009",
+    "title": "🚨 全体起立！ 我发现Claude Opus 5.5，不用担心被封的野方法！",
+    "category": "AI工具",
+    "model": "",
+    "source": "@MinLiBuilds",
+    "sourceUrl": "https://x.com/MinLiBuilds/status/2109263984763507009",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109263984763507009_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109263984763507009_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109263984763507009.mp4",
+    "blurb": "🚨 全体起立！ 我发现Claude Opus 5.5，不用担心被封的野方法！\n\n居然藏在 Microsoft Word 里！\n\n我试了，真的可以。\n\n🔥 Microsoft 365 Copilot 在9月22日已经接入 Anthropic 旗舰模型 Claude Opus 5.5，直接在 Word 里写文章、改稿、处理长文档。\n\n赢麻了，我的Microsoft 365 Premium 2030年到",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.12",
+    "driveId": "1GvtKttzrK31ruS92_zKFeBGBDKahsO81",
+    "driveUrl": "https://drive.google.com/file/d/1GvtKttzrK31ruS92_zKFeBGBDKahsO81/view"
+  },
+  {
+    "id": "322",
+    "xid": "2108936000508661827",
+    "title": "🎉 全体起立！有显卡的注意了！",
+    "category": "AI工具",
+    "model": "",
+    "source": "@MinLiBuilds",
+    "sourceUrl": "https://x.com/MinLiBuilds/status/2108936000508661827",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108936000508661827_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108936000508661827_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108936000508661827.mp4",
+    "blurb": "🎉 全体起立！有显卡的注意了！\n\nMuse/Grokbot真正的无限token来了，只需要5毛钱电费，让它接入本地的Qwen 3.8 Next Flash，爽歪歪啊。\n\n真正的24*7小时干活，终于实现。\n\n步骤极其简单：\n1. Muse跟你本地qwen用tailscale组网，跟Muse说：登录tailscale。\n2. 跟Muse说：Pi使用 【你的qwen tailscale ip】，acc",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.12",
+    "driveId": "1UxfUAv08ODX7eTAMouZ5y70byxNzToCE",
+    "driveUrl": "https://drive.google.com/file/d/1UxfUAv08ODX7eTAMouZ5y70byxNzToCE/view"
+  },
+  {
+    "id": "323",
+    "xid": "2109286111910752540",
+    "title": "🚨 无敌了，铁汁们。",
+    "category": "AI工具",
+    "model": "",
+    "source": "@aehyok",
+    "sourceUrl": "https://x.com/aehyok/status/2109286111910752540",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109286111910752540_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109286111910752540_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109286111910752540.mp4",
+    "blurb": "🚨 无敌了，铁汁们。  \n\n17 块钱就能用上一年的 Claude Opus 5.5。  \n\n毫无封号风险，不要犹豫了，赶紧冲，赶紧囤。  \n\n我先囤两个号，万一晚了涨价了，这尼玛性价比真的无敌了！\n\nhttps://t.co/IkdFw6AyRm https://t.co/FNuWfnEtn4",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.12",
+    "driveId": "11qRQvT1LPKQ2WA53W0Y7FYrHumBVAZMl",
+    "driveUrl": "https://drive.google.com/file/d/11qRQvT1LPKQ2WA53W0Y7FYrHumBVAZMl/view"
   }
 ];
