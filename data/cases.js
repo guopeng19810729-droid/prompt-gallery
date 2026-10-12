@@ -6571,5 +6571,105 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.12",
     "driveId": "11qRQvT1LPKQ2WA53W0Y7FYrHumBVAZMl",
     "driveUrl": "https://drive.google.com/file/d/11qRQvT1LPKQ2WA53W0Y7FYrHumBVAZMl/view"
+  },
+  {
+    "id": "324",
+    "xid": "2109657845394264571",
+    "title": "把十几家 AI 桌面客户端的登录态收成一个本地 OpenAI 兼容网关，客户端改一下 base_url 就能调到这些家的额度，不用去要上游 API Key",
+    "category": "AI工具",
+    "model": "",
+    "source": "@QingQ77",
+    "sourceUrl": "https://x.com/QingQ77/status/2109657845394264571",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109657845394264571_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109657845394264571_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "把十几家 AI 桌面客户端的登录态收成一个本地 OpenAI 兼容网关，客户端改一下 base_url 就能调到这些家的额度，不用去要上游 API Key\n\nhttps://t.co/lEH2R7vcwb\n\nRust 写的本地反代，挂上 WorkBuddy、小浣熊、Qoder、Cline、Accio、CodeArts、Trae、Antigravity 这十几家的登录态后，在 127.0.0.1:3",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.13",
+    "driveId": "1P_Qc3QZj-GRVvIB_duc6Rsk37BJ1XcOU",
+    "driveUrl": "https://drive.google.com/file/d/1P_Qc3QZj-GRVvIB_duc6Rsk37BJ1XcOU/view"
+  },
+  {
+    "id": "325",
+    "xid": "2109642745295863993",
+    "title": "手上有好几家的模型账号，来回切密钥和客户端太碎；这个桌面应用把它们并进一个本地网关，给编程助手提供统一入口、调度和用量统计。",
+    "category": "AI工具",
+    "model": "",
+    "source": "@QingQ77",
+    "sourceUrl": "https://x.com/QingQ77/status/2109642745295863993",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109642745295863993_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109642745295863993_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "手上有好几家的模型账号，来回切密钥和客户端太碎；这个桌面应用把它们并进一个本地网关，给编程助手提供统一入口、调度和用量统计。\n\n: https://t.co/6QyZbONHK7 https://t.co/PDtdfFXij9",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.13",
+    "driveId": "1VUabUWtTlUwXzXADxpLVLvJn1Jc7LWGM",
+    "driveUrl": "https://drive.google.com/file/d/1VUabUWtTlUwXzXADxpLVLvJn1Jc7LWGM/view"
+  },
+  {
+    "id": "326",
+    "xid": "2109548875996369396",
+    "title": "这个真酷啊，用代码生成一段六秒短片。",
+    "category": "AI工具",
+    "model": "",
+    "source": "@QingQ77",
+    "sourceUrl": "https://x.com/QingQ77/status/2109548875996369396",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109548875996369396_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109548875996369396_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109548875996369396.mp4",
+    "blurb": "这个真酷啊，用代码生成一段六秒短片。\n\n虚拟摄影机拍 AI agent 的终端屏幕，视觉追踪框逐个锁住它打出的每个字符，画面和音效全部由代码合成，不用任何实拍素材和库音频。\n\nhttps://t.co/5aWkMhotFg https://t.co/xoxQD58SGj",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.13",
+    "driveId": "187JrGylZqWMW6_emGYEIubC-9ZDgOXRh",
+    "driveUrl": "https://drive.google.com/file/d/187JrGylZqWMW6_emGYEIubC-9ZDgOXRh/view"
+  },
+  {
+    "id": "327",
+    "xid": "2109488477918376079",
+    "title": "给 Windows 上的 DSH（DeepSeek Harness）补上 bash、PowerShell 7 和一批 Rust 工具，减少反复调用 PowerS",
+    "category": "AI工具",
+    "model": "",
+    "source": "@QingQ77",
+    "sourceUrl": "https://x.com/QingQ77/status/2109488477918376079",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109488477918376079_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109488477918376079_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "给 Windows 上的 DSH（DeepSeek Harness）补上 bash、PowerShell 7 和一批 Rust 工具，减少反复调用 PowerShell 报错造成的 token、时间和模型注意力浪费。\n\nhttps://t.co/DJJUTiu30u https://t.co/8pst3ChgoR",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.13",
+    "driveId": "1eqLvJMcpLvcn1yn7V5UOPDJyzRPb9BHY",
+    "driveUrl": "https://drive.google.com/file/d/1eqLvJMcpLvcn1yn7V5UOPDJyzRPb9BHY/view"
+  },
+  {
+    "id": "328",
+    "xid": "2109459537405317415",
+    "title": "用一条命令把单用户个人 AI 助手部署进自己的 Cloudflare 账号，聊天、记忆、任务笔记和定时提醒都跑在自己账号下",
+    "category": "AI工具",
+    "model": "",
+    "source": "@QingQ77",
+    "sourceUrl": "https://x.com/QingQ77/status/2109459537405317415",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109459537405317415_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109459537405317415_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "用一条命令把单用户个人 AI 助手部署进自己的 Cloudflare 账号，聊天、记忆、任务笔记和定时提醒都跑在自己账号下\n\nhttps://t.co/RQqwbbrsfR\n\n一个部署在自己 Cloudflare 账号里的单用户个人 AI 助手，一条 npx create-talorys@latest 完成安装。\n\n提供流式聊天、可查看编辑删除的记忆、任务/笔记/项目的完整 CRUD，以及一次性或",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.13",
+    "driveId": "16qPWsXSRMnyvDSMGC2HMssSBsKaokez1",
+    "driveUrl": "https://drive.google.com/file/d/16qPWsXSRMnyvDSMGC2HMssSBsKaokez1/view"
   }
 ];
