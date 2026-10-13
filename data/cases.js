@@ -6671,5 +6671,105 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.13",
     "driveId": "16qPWsXSRMnyvDSMGC2HMssSBsKaokez1",
     "driveUrl": "https://drive.google.com/file/d/16qPWsXSRMnyvDSMGC2HMssSBsKaokez1/view"
+  },
+  {
+    "id": "329",
+    "xid": "2108652628590944540",
+    "title": "Google AI Pro plans now package premium Colab A100/H100 benefits",
+    "category": "AI工具",
+    "model": "",
+    "source": "@googlegemma",
+    "sourceUrl": "https://x.com/googlegemma/status/2108652628590944540",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108652628590944540_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108652628590944540_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Google AI Pro plans now package premium Colab benefits, landing you A100s with 80GB VRAM (Ultra subs even unlock H100s 🔥).\n\nHere’s what that 80GB headroom unlocks directly in your browser:\n\n✨ Run Gemm",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.14",
+    "driveId": "1xWD3Ecnv9DbbYl_X7h7gAmaXXua97SqH",
+    "driveUrl": "https://drive.google.com/file/d/1xWD3Ecnv9DbbYl_X7h7gAmaXXua97SqH/view"
+  },
+  {
+    "id": "330",
+    "xid": "2109848622917726612",
+    "title": "Google AI Pro特典でA100可用、MiniMax-H3動画生成ノートブック",
+    "category": "AI工具",
+    "model": "",
+    "source": "@posi_posi8",
+    "sourceUrl": "https://x.com/posi_posi8/status/2109848622917726612",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109848622917726612_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109848622917726612_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109848622917726612.mp4",
+    "blurb": "Google AI Proの特典でA100 40GB/80GBが使えるようになり、例えばMiniMax-H3が使えるという有料記事。\n\nせっかくなので、ボタンひとつでWebUIが起動し、MiniMax-H3で動画生成できるノートブックを作成してみたのでお試しください。\n\n5秒の動画が2分弱で生成できます。\n\nhttps://t.co/pdDSaPmLY4 https://t.co/GVLmWQD5",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.14",
+    "driveId": "1Y2aF9hzyUzgYWcCmfc1f4QpVRbxDwfdr",
+    "driveUrl": "https://drive.google.com/file/d/1Y2aF9hzyUzgYWcCmfc1f4QpVRbxDwfdr/view"
+  },
+  {
+    "id": "331",
+    "xid": "2109615572967424333",
+    "title": "闲鱼 Notion 商业版3个月兑换服务",
+    "category": "AI工具",
+    "model": "",
+    "source": "@libapi_",
+    "sourceUrl": "https://x.com/libapi_/status/2109615572967424333",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109615572967424333_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109615572967424333_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "闲鱼 Notion 商业版3个月兑换服务\n\n可以用上 Opus5.5 就要三十八块\n\n能活多久不知道，但是这个价格真香 \n\n我先去试试水 https://t.co/6VDQzoQeTH",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.14",
+    "driveId": "1AGlEqEyV93vqdRMY1WFBDMXA5k1qW-3N",
+    "driveUrl": "https://drive.google.com/file/d/1AGlEqEyV93vqdRMY1WFBDMXA5k1qW-3N/view"
+  },
+  {
+    "id": "332",
+    "xid": "2109958258958221758",
+    "title": "一直在用这张U卡开 Ai 会员订阅，每个月都有5%返现",
+    "category": "AI工具",
+    "model": "",
+    "source": "@libapi_",
+    "sourceUrl": "https://x.com/libapi_/status/2109958258958221758",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109958258958221758_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109958258958221758_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "一直在用这张U卡开 Ai 会员订阅 ，每个月都有5%返现。 https://t.co/7ije9lciYB",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.14",
+    "driveId": "1ZCQn1yyka-w-LyUf_u4UlTSUCXuk54Kf",
+    "driveUrl": "https://drive.google.com/file/d/1ZCQn1yyka-w-LyUf_u4UlTSUCXuk54Kf/view"
+  },
+  {
+    "id": "333",
+    "xid": "2109516246735880206",
+    "title": "模板人脸过拟合怎么处理（lovact 教程）",
+    "category": "其他",
+    "model": "",
+    "source": "@lovactai",
+    "sourceUrl": "https://x.com/lovactai/status/2109516246735880206",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109516246735880206_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109516246735880206_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109516246735880206.mp4",
+    "blurb": "在https://t.co/YAZ98vV8CH的模板市场里买了模板，人物脸发生过拟合怎么办，这个教程教你怎么处理彻底解决过拟合问题\n#AI成人短剧 #lovact #NSFW #AI教学 https://t.co/YrCGDcs2PP https://t.co/XDrViecZKB",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.14",
+    "driveId": "1gr3WN3ZBAIi2sZFyj-apgQ-ANJC94Y-r",
+    "driveUrl": "https://drive.google.com/file/d/1gr3WN3ZBAIi2sZFyj-apgQ-ANJC94Y-r/view"
   }
 ];
