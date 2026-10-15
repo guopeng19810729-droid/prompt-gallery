@@ -6771,5 +6771,45 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.14",
     "driveId": "1gr3WN3ZBAIi2sZFyj-apgQ-ANJC94Y-r",
     "driveUrl": "https://drive.google.com/file/d/1gr3WN3ZBAIi2sZFyj-apgQ-ANJC94Y-r/view"
+  },
+  {
+    "id": "334",
+    "xid": "2110717917822329272",
+    "title": "Perplexity Computer 邪修路子：稳定满血用 Claude Opus",
+    "category": "AI工具",
+    "model": "",
+    "source": "@xkajon",
+    "sourceUrl": "https://x.com/xkajon/status/2110717917822329272",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110717917822329272_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110717917822329272_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "好久没发帖，一直在忙正事。这两天翻私信刷推特，发现稳定用 Claude 的需求很高。\n\n既然没人提，我丢个邪修路子：Perplexity Computer的 Claude。\n\n满血完整 Claude，稳定用 opus5.5 或者 fable5.1，配的有云端主机，推理强度可以拉满，可以选择fast模式。并且还有 seedance 和 gpt-image-2.5 的模型。这个完全是一个被低估的和忽视",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.16",
+    "driveId": "1_oP1uSiUJTj6axhy9y8uhvxeOVCxz8dF",
+    "driveUrl": "https://drive.google.com/file/d/1_oP1uSiUJTj6axhy9y8uhvxeOVCxz8dF/view"
+  },
+  {
+    "id": "335",
+    "xid": "2110037351447810228",
+    "title": "实测 X Ultra 套餐 token：一周约 27.77 亿",
+    "category": "AI工具",
+    "model": "",
+    "source": "@aiwaremax",
+    "sourceUrl": "https://x.com/aiwaremax/status/2110037351447810228",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110037351447810228_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110037351447810228_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "实测了一天！！！目前 X Ultra 套餐的 token\n\n一周在 27.77 亿左右！！！\n\n一月在约111.08 亿 tokens左右！！！\n\n这个额度让你心动了吗？？？ https://t.co/wfrzXMWDDx https://t.co/W7B4HFF1Rw",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.16",
+    "driveId": "1h3KFqCrr8I408y_4gyRypg2NF4BXqpi_",
+    "driveUrl": "https://drive.google.com/file/d/1h3KFqCrr8I408y_4gyRypg2NF4BXqpi_/view"
   }
 ];
