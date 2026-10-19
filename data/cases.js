@@ -6811,5 +6811,254 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.16",
     "driveId": "1h3KFqCrr8I408y_4gyRypg2NF4BXqpi_",
     "driveUrl": "https://drive.google.com/file/d/1h3KFqCrr8I408y_4gyRypg2NF4BXqpi_/view"
+  },
+  {
+    "id": "336",
+    "xid": "2112011226226348477",
+    "title": "Google 学生认证：8.99 美元开通续费至 2029",
+    "category": "AI工具",
+    "model": "",
+    "source": "@suversal",
+    "sourceUrl": "https://x.com/suversal/status/2112011226226348477",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "小号实测 Google 学生认证福利流程：SheerID 验证后订 8.99 美元含 YouTube Premium 套餐，续费显示 2029。截图非提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1EI40a1UyAz8d_Yn4YzFJs-8TXpEQSPV3",
+    "driveUrl": "https://drive.google.com/file/d/1EI40a1UyAz8d_Yn4YzFJs-8TXpEQSPV3/view"
+  },
+  {
+    "id": "337",
+    "xid": "2112054198108111051",
+    "title": "超写实航空时尚广告：五人空姐舷梯 30 秒竖屏故事板",
+    "category": "AI视频",
+    "model": "",
+    "source": "@zhouzanpeng2",
+    "sourceUrl": "https://x.com/zhouzanpeng2/status/2112054198108111051",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112054198108111051_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112054198108111051_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112054198108111051.mp4",
+    "blurb": "30秒 9:16 24fps 超写实航空时尚广告；五位东亚空姐锁定人设与客机舷梯；六段镜头+节拍同步的完整视频故事板提示词。",
+    "prompt": "30秒，9:16竖屏，24fps，超写实航空时尚广告，明亮自然光，青春活力与高级杂志感结合。参考生视频模式，参考图不强制作为首帧。严格按照故事板生成视频。\n\n人物锁定：五位不同面孔的成年东亚女性，从左到右固定为A深蓝西装黑丝袜长发、B深蓝金扣西装黑色蕾丝长袜、C浅蓝色修身制服连衣裙、D米色西装深蓝裙与黑色网袜、E深蓝红边西装黑丝袜。五人各自的脸、发型、丝巾、胸牌、鞋袜和服装始终不变，不交换身份。固定同一架白色客机、打开的舱门、银色登机梯、蓝天和晴朗日光。\n\n音乐：ROSÉ & Bruno Mars《APT.》副歌节奏参考，若无法合法调用，使用同节拍授权流行摇滚舞曲。全程一条音乐时间线，脚步、回眸、切镜与鼓点同步。无对白。\n\n镜头1（0–5秒）【全景，舷梯下方低机位，缓慢向上推进】\n由飞机登机梯与蓝天开场。五人分别站在相邻台阶上，保持A至E左右次序。C微笑看镜头，A轻拨发丝，B与D交换眼神，E扶栏杆微微歪头。表情自然，微风吹动发丝和丝巾。\n\n镜头2（5–10秒）【中近景组合，正面及左右45度，音乐卡点硬切】\n依次展示A自信微笑、B俏皮眨眼、C轻轻整理丝巾、D回头莞尔一笑、E抬眉看镜头。每张脸必须对应正确服装与站位，人物特写自然清晰。\n\n镜头3（10–15秒）【双人中景，右前方45度，轻微横移】\nB轻声向C说一句“准备好了吗？”C笑着点头并回答“当然！”两人自然对视，嘴部清晰同步。其他三人保持原本位置，在背景中自然微笑。音乐在对白时短暂降低。\n\n镜头4（15–21秒）【五人全身，正面略低角度，平稳后退跟拍】\n五人扶着栏杆，在音乐节拍上依次小心向下走一至两级台阶，然后停步转向摄影机。鞋跟踩稳台阶，保持合理间距，不奔跑、不跳跃、不穿越彼此。头发、裙摆、丝巾随动作自然摆动。\n\n镜头5（21–26秒）【五人中全景，左前方45度，缓慢侧移】\n五人在舷梯上形成自然时尚合影队形。A与E微微侧身，B轻轻整理衣领，C抬手做小幅挥手，D露出明亮笑容。五人互相看一眼后共同转向镜头，节奏卡在音乐重拍上。\n\n镜头6（26–30秒）【五人全身，正面低机位，缓慢推近】\n五人站稳，面对镜头自然微笑。C轻轻说“Ready for takeoff!”其余四人笑着挥手回应。最后音乐重拍时完成团队封面式定格，蓝天与客机舱门完整保留。\n\n真实肤质、自然眨眼、符合物理的步伐和鞋跟支撑，手指正确，摄影机移动平稳。禁止减少或增加人物、串脸、左右换位、服装变化、人体穿模、突然瞬移、背景改变、过度磨皮、文字、字幕、Logo及水印。严格按照故事板生成视频。",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1ovjUy2cHb8sEyB5kF8LjB-2JeHOe2Fki",
+    "driveUrl": "https://drive.google.com/file/d/1ovjUy2cHb8sEyB5kF8LjB-2JeHOe2Fki/view"
+  },
+  {
+    "id": "338",
+    "xid": "2112019153309807094",
+    "title": "开源工具批量注册 Gmail 小号说明",
+    "category": "AI工具",
+    "model": "",
+    "source": "@ruyi3699",
+    "sourceUrl": "https://x.com/ruyi3699/status/2112019153309807094",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112019153309807094_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112019153309807094_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "介绍网上批量 Gmail 小号来源：开源自动注册工具，称可躲风控绕手机验证。截图资讯，无生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1oZmuF_VTBUHp6tKh1Uc2mw_c2eq-kc6x",
+    "driveUrl": "https://drive.google.com/file/d/1oZmuF_VTBUHp6tKh1Uc2mw_c2eq-kc6x/view"
+  },
+  {
+    "id": "339",
+    "xid": "2111873617084756390",
+    "title": "Google 开源 Harness²：Agent 自优化提示与工具",
+    "category": "AI工具",
+    "model": "",
+    "source": "@NFT_Chen",
+    "sourceUrl": "https://x.com/NFT_Chen/status/2111873617084756390",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Harness² 让 Agent 在模型权重不动时自优化提示词/工具/记忆/技能，多轮最高涨约 11.5 分；附克隆安装演示命令。资讯截图。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1PMr4DJQ2T8I-1UZktMWkfipE0caGrhHq",
+    "driveUrl": "https://drive.google.com/file/d/1PMr4DJQ2T8I-1UZktMWkfipE0caGrhHq/view"
+  },
+  {
+    "id": "340",
+    "xid": "2111952894744531250",
+    "title": "华为云 36 元到 2028 年羊毛",
+    "category": "AI工具",
+    "model": "",
+    "source": "@wlzh",
+    "sourceUrl": "https://x.com/wlzh/status/2111952894744531250",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111952894744531250_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111952894744531250_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "华为云低价活动晒单：约 36 元用到 2028。截图无生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "16MKP66OrtDr7tamOj9xJKzogfzjXUSKG",
+    "driveUrl": "https://drive.google.com/file/d/16MKP66OrtDr7tamOj9xJKzogfzjXUSKG/view"
+  },
+  {
+    "id": "341",
+    "xid": "2112030122568286563",
+    "title": "阿里云杭州中继降 Tailscale NAT4 延迟",
+    "category": "AI工具",
+    "model": "",
+    "source": "@xiaoyuboi",
+    "sourceUrl": "https://x.com/xiaoyuboi/status/2112030122568286563",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112030122568286563_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112030122568286563_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "校园 NAT4 导致 Tailscale 绕欧美约 400ms；阿里云杭州自建中继后延迟约 60–80ms。截图无生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "171Ni7feiRahMoiD4AWCCS5_xoDHtNTUf",
+    "driveUrl": "https://drive.google.com/file/d/171Ni7feiRahMoiD4AWCCS5_xoDHtNTUf/view"
+  },
+  {
+    "id": "342",
+    "xid": "2112191868687516012",
+    "title": "拼多多 Mac mini M6 4669 元京东今日达",
+    "category": "AI工具",
+    "model": "",
+    "source": "@MacroYuvo",
+    "sourceUrl": "https://x.com/MacroYuvo/status/2112191868687516012",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112191868687516012_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112191868687516012_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "拼多多 Mac mini M6 约 4669 元，京东今日达；晒单截图，无生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "19CiJEMyvbKMhGKrA3zXTB1DsUYNKgCgB",
+    "driveUrl": "https://drive.google.com/file/d/19CiJEMyvbKMhGKrA3zXTB1DsUYNKgCgB/view"
+  },
+  {
+    "id": "343",
+    "xid": "2112137567877706212",
+    "title": "自有域名 Google Workspace 免费版最多 50 工作账号",
+    "category": "AI工具",
+    "model": "",
+    "source": "@xiaohuanhmao",
+    "sourceUrl": "https://x.com/xiaohuanhmao/status/2112137567877706212",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "用新注册域名开 Google Workspace 免费版，最多约 50 个工作账号；建议另设邮件转发；截图说明。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1H9lgpkgzyM6HBWzakqAHO5gkklmY8BmM",
+    "driveUrl": "https://drive.google.com/file/d/1H9lgpkgzyM6HBWzakqAHO5gkklmY8BmM/view"
+  },
+  {
+    "id": "344",
+    "xid": "2112116966106472741",
+    "title": "WorkBuddy 多邮箱注册思路：一号多账号积分",
+    "category": "AI工具",
+    "model": "",
+    "source": "@realNyarime",
+    "sourceUrl": "https://x.com/realNyarime/status/2112116966106472741",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_1.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_2.png"
+    ],
+    "videoUrl": "",
+    "blurb": "运营商邮箱+QQ/网易等一手机号多账号；国际版约 350 积分 DS4.1 免费，国内多号积分思路；截图说明。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1DpV1lsmv-H_ZB4qvoj-J66iYvMdAj7gX",
+    "driveUrl": "https://drive.google.com/file/d/1DpV1lsmv-H_ZB4qvoj-J66iYvMdAj7gX/view"
+  },
+  {
+    "id": "345",
+    "xid": "2112122082121138227",
+    "title": "16 元买 Opus 5.5 三月额度用完可重置",
+    "category": "AI工具",
+    "model": "",
+    "source": "@guanmo_ai",
+    "sourceUrl": "https://x.com/guanmo_ai/status/2112122082121138227",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112122082121138227_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112122082121138227_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "晒单：约 16 元可买 Opus 5.5 三个月，月额度用完还能重置；截图无生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1jzuQzWUHIthUwTVWwJBG9b8vvukn_Rua",
+    "driveUrl": "https://drive.google.com/file/d/1jzuQzWUHIthUwTVWwJBG9b8vvukn_Rua/view"
+  },
+  {
+    "id": "346",
+    "xid": "2112071296515453011",
+    "title": "寒霜破甲工具 v2.0.2 可用 WorkBuddy",
+    "category": "AI工具",
+    "model": "",
+    "source": "@Chel2336",
+    "sourceUrl": "https://x.com/Chel2336/status/2112071296515453011",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112071296515453011_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112071296515453011_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "更新寒霜破甲 v2.0.2，作者实测最新版 WorkBuddy 可用；链接见原帖。截图非生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "15k1iEC0NHrE2nVavFP4uDcwL9fO1cA9z",
+    "driveUrl": "https://drive.google.com/file/d/15k1iEC0NHrE2nVavFP4uDcwL9fO1cA9z/view"
+  },
+  {
+    "id": "347",
+    "xid": "2112118547287822755",
+    "title": "Gemini 学生优惠 8.99 美元疑似四年 Pro+YouTube",
+    "category": "AI工具",
+    "model": "",
+    "source": "@portertech",
+    "sourceUrl": "https://x.com/portertech/status/2112118547287822755",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_0.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_1.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_2.png"
+    ],
+    "videoUrl": "",
+    "blurb": "Gemini 学生优惠流程截图：选 8.99 美元方案，有人付款日跳到 2028；可用 Gemini 4 Argon 与 Opus 5.5。非生成提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.20",
+    "driveId": "1mfCdqe3jkB4N9vQ2c23NJos78Li9qSv1",
+    "driveUrl": "https://drive.google.com/file/d/1mfCdqe3jkB4N9vQ2c23NJos78Li9qSv1/view"
   }
 ];

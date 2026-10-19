@@ -691,5 +691,27 @@ window.SKILLS = [
     "blurb": "Qwen-Image-2.1 社区衍生版 Noct-Q-Uncensored，主打成人内容与写实摄影，能力整合进模型无需额外 LoRA；INT8 约 7.3GB，适用 8–12GB 显卡，附 ComfyUI 工作流，仅限非商业用途。",
     "video": false,
     "addedAt": "2026.10.09"
+  },
+  {
+    "id": "2112153760881574098",
+    "title": "Outlook/Gmail 别名与 OpenCode 免费 DS4.1 Flash",
+    "author": "@thinkqob",
+    "name": "Thinkqob",
+    "url": "https://x.com/thinkqob/status/2112153760881574098",
+    "group": "资讯收藏",
+    "blurb": "一个 Outlook 可设 10 个别名；Gmail 任意位置加 .xxx 变别名；OpenCode 有免费 DS4.1 Flash。",
+    "video": false,
+    "addedAt": "2026.10.20"
+  },
+  {
+    "id": "2112134016816357396",
+    "title": "奶昔转发链接（无正文无媒体）",
+    "author": "@realNyarime",
+    "name": "奶昔🥤",
+    "url": "https://x.com/realNyarime/status/2112134016816357396",
+    "group": "资讯收藏",
+    "blurb": "纯链接回复，无媒体、非生成提示词，收入资讯收藏。",
+    "video": false,
+    "addedAt": "2026.10.20"
   }
 ];
