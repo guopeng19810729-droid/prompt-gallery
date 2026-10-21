@@ -713,5 +713,49 @@ window.SKILLS = [
     "blurb": "纯链接回复，无媒体、非生成提示词，收入资讯收藏。",
     "video": false,
     "addedAt": "2026.10.20"
+  },
+  {
+    "id": "2112905626355740964",
+    "title": "Antigravity 为何每次都要开 VPN TUN 模式",
+    "author": "@TylerBai_loveai",
+    "name": "Tyler White (泰勒 · 白)",
+    "url": "https://x.com/TylerBai_loveai/status/2112905626355740964",
+    "group": "资讯收藏",
+    "blurb": "提问：非 TUN 模式下流量是否未被代理，导致进不去 Antigravity。",
+    "video": false,
+    "addedAt": "2026.10.22"
+  },
+  {
+    "id": "2112948280212476129",
+    "title": "把修 VPN/代理的说明丢给 AI 即可",
+    "author": "@Lumenxuan",
+    "name": "Lumi",
+    "url": "https://x.com/Lumenxuan/status/2112948280212476129",
+    "group": "资讯收藏",
+    "blurb": "回复：让 AI 读链接说明修一下 Antigravity 代理问题。",
+    "video": false,
+    "addedAt": "2026.10.22"
+  },
+  {
+    "id": "2110760221111173524",
+    "title": "链接收藏 @404jsh",
+    "author": "@404jsh",
+    "name": "思索者",
+    "url": "https://x.com/404jsh/status/2110760221111173524",
+    "group": "资讯收藏",
+    "blurb": "纯链接书签，无正文说明。",
+    "video": false,
+    "addedAt": "2026.10.22"
+  },
+  {
+    "id": "2112809304936100139",
+    "title": "没有免费 VPS？你的 Google 就是 VPS",
+    "author": "@404jsh",
+    "name": "思索者",
+    "url": "https://x.com/404jsh/status/2112809304936100139",
+    "group": "资讯收藏",
+    "blurb": "分享用 Google 当免费 VPS 的教程链接。",
+    "video": false,
+    "addedAt": "2026.10.22"
   }
 ];

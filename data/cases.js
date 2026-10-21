@@ -7060,5 +7060,230 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.20",
     "driveId": "1mfCdqe3jkB4N9vQ2c23NJos78Li9qSv1",
     "driveUrl": "https://drive.google.com/file/d/1mfCdqe3jkB4N9vQ2c23NJos78Li9qSv1/view"
+  },
+  {
+    "id": "348",
+    "xid": "2112744321841774872",
+    "title": "DeepSeek Harness 破甲插件将闭源，社区分支仍在更新",
+    "category": "AI工具",
+    "model": "",
+    "source": "@NFTCPS",
+    "sourceUrl": "https://x.com/NFTCPS/status/2112744321841774872",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112744321841774872_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112744321841774872_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "dsh-purge 将于 10/27 闭源改商业许可；社区 Purge Community 适配 Desktop 0.2.1，仅限自有/授权环境。截图非提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1itKhJiZrMtgCbVyeH0VYsswlTjyasyRO",
+    "driveUrl": "https://drive.google.com/file/d/1itKhJiZrMtgCbVyeH0VYsswlTjyasyRO/view"
+  },
+  {
+    "id": "349",
+    "xid": "2112807104834912318",
+    "title": "据说用上这个手机 Claude 就不会封号了",
+    "category": "AI工具",
+    "model": "",
+    "source": "@goan999999",
+    "sourceUrl": "https://x.com/goan999999/status/2112807104834912318",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112807104834912318_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112807104834912318_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "截图分享所谓防封手机方案，正文无生图提示词。Comments not fetched。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "161Fo7F0QNLYxAEdKzsxYMQkTJSn2DxvO",
+    "driveUrl": "https://drive.google.com/file/d/161Fo7F0QNLYxAEdKzsxYMQkTJSn2DxvO/view"
+  },
+  {
+    "id": "350",
+    "xid": "2112714114036609114",
+    "title": "继续用 Claude 的两种策略：换 GPT+Grok 或接入多账号",
+    "category": "AI工具",
+    "model": "",
+    "source": "@yangyi",
+    "sourceUrl": "https://x.com/yangyi/status/2112714114036609114",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112714114036609114_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112714114036609114_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "作者建议切 GPT/Grok Bot 做视频，或用 NewMax/Magpie 挂多个 Claude 20 美金号。截图非提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1Feo7obWz04OZjUXy3o0i9rVXYP4kQyXK",
+    "driveUrl": "https://drive.google.com/file/d/1Feo7obWz04OZjUXy3o0i9rVXYP4kQyXK/view"
+  },
+  {
+    "id": "351",
+    "xid": "2112695864003022894",
+    "title": "免费无审查 18+ 多模态小模型（离线 <2GB）",
+    "category": "AI工具",
+    "model": "",
+    "source": "@Lonely__MH",
+    "sourceUrl": "https://x.com/Lonely__MH/status/2112695864003022894",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112695864003022894_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112695864003022894_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112695864003022894.mp4",
+    "blurb": "宣传 18+ 多模态本地模型：低拒答、OCR、8G 显存可跑。视频演示，正文无生图提示词。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.22",
+    "driveId": "12VsVavSjzFS_EI7n0nJ2UGsRMBJVtvam",
+    "driveUrl": "https://drive.google.com/file/d/12VsVavSjzFS_EI7n0nJ2UGsRMBJVtvam/view"
+  },
+  {
+    "id": "352",
+    "xid": "2112778834378670195",
+    "title": "无头剪映 / 剪映 Skill 大升级：适配 11.6.0 + Openverse",
+    "category": "AI工具",
+    "model": "",
+    "source": "@gengdaJ",
+    "sourceUrl": "https://x.com/gengdaJ/status/2112778834378670195",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112778834378670195_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112778834378670195_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "适配剪映 11.6.0，接入 Openverse 音效，ASR 改 Step 2.5 降本。安装包/GitHub 链接，非生图提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1a2aBILM9MlDsiXyzcr3j7G_YqYQ0ZJ42",
+    "driveUrl": "https://drive.google.com/file/d/1a2aBILM9MlDsiXyzcr3j7G_YqYQ0ZJ42/view"
+  },
+  {
+    "id": "353",
+    "xid": "2112809048601145423",
+    "title": "韩系眼镜女生酒店卧室：同一角色六套服装",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@boniusex",
+    "sourceUrl": "https://x.com/boniusex/status/2112809048601145423",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_1.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_2.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "27岁韩系女性角色锁定 + 酒店卧室跪姿构图；皮衣泳装等多套服装的完整写实生图提示词。",
+    "prompt": "酒店卧室，床头暖灯，戴无框眼镜的韩系女生跪在床边，抬眼看镜头。\n同一张脸，换了 6 套衣服：皮衣泳装、黑丝、白衬衣、吊带裙、白泳装、护士服。\n\nprompt：\n27岁成年东亚女性，韩系成熟精致五官，深棕色松散低马尾，空气刘海与脸侧碎发，无框银色眼镜，柔和粉唇，暖白细腻皮肤。成熟丰满协调的身材，胸部圆润立体，腰部收紧，骨盆与臀腿比例优越。\n\n穿暗酒红色挂脖镂空连体泳装，黑色短款亮面皮衣，双层银色心形腰链。\n\n高级酒店卧室，深色床头软包，白色床品，床头暖灯，背景简洁高级。\n\n人物位于床边，右膝跪在柔软床面上承重，左脚踩地支撑，骨盆略微抬高并朝镜头轻轻旋转。上半身前倾但胸廓抬起，形成收腰与胸部前推效果。左手撑在床面，右手轻扶眼镜或轻触唇边。头部微低后抬眼看镜头，神情带慵懒和侵略感。\n\n50mm近景，镜头位于床面略上方，人物从头到大腿构图，占画面约88%，近处床品形成柔和前景，人物姿态有明确空间压迫感。\n\n韩系高端写实CG，床头暖灯主光，室内辅以冷色微弱环境光，皮衣高光与柔软床品形成材质反差，皮肤光泽自然，浅景深，9:16，单人，无文字，无水印。",
+    "nsfw": true,
+    "addedAt": "2026.10.22",
+    "driveId": "1oiu_B2-OHHeb70xV6uW662tk-wZlTxg9",
+    "driveUrl": "https://drive.google.com/file/d/1oiu_B2-OHHeb70xV6uW662tk-wZlTxg9/view"
+  },
+  {
+    "id": "354",
+    "xid": "2112696645989327020",
+    "title": "豆包姐勇夺虎扑女神冠军（整活视频）",
+    "category": "AI视频",
+    "model": "",
+    "source": "@MANISH1027512",
+    "sourceUrl": "https://x.com/MANISH1027512/status/2112696645989327020",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112696645989327020_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112696645989327020_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112696645989327020.mp4",
+    "blurb": "豆包角色整活：淘汰二次元角色夺虎扑女神。视频无正文提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "115YHePE5XMU9A8-_FAx7NyKKQcDwJ--7",
+    "driveUrl": "https://drive.google.com/file/d/115YHePE5XMU9A8-_FAx7NyKKQcDwJ--7/view"
+  },
+  {
+    "id": "355",
+    "xid": "2112680511437226463",
+    "title": "喜多川海梦手办换装 @grok",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@yohimimimi",
+    "sourceUrl": "https://x.com/yohimimimi/status/2112680511437226463",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Marin Kitagawa 手办图，请 Grok 换装。图集无完整提示词。Comments not fetched。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1UDi9XwHM7gh2vUj9a0KwmP9xuNXRH3z_",
+    "driveUrl": "https://drive.google.com/file/d/1UDi9XwHM7gh2vUj9a0KwmP9xuNXRH3z_/view"
+  },
+  {
+    "id": "356",
+    "xid": "2112503232971059606",
+    "title": "埃及艳后现代日常：开源制作流程 / Claude Skill",
+    "category": "AI视频",
+    "model": "",
+    "source": "@DDJCXX",
+    "sourceUrl": "https://x.com/DDJCXX/status/2112503232971059606",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112503232971059606_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112503232971059606_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112503232971059606.mp4",
+    "blurb": "作者开源埃及艳后短片流程：认人照片+文字机位比首帧图更有生气，并做成 Claude Skill。视频展示，正文非完整可复用提示词。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1LYkisPUgvARnDLKeVHfTFBmS4_OSHAt4",
+    "driveUrl": "https://drive.google.com/file/d/1LYkisPUgvARnDLKeVHfTFBmS4_OSHAt4/view"
+  },
+  {
+    "id": "357",
+    "xid": "2112788785075257817",
+    "title": "AI 美女角色固定表完整提示词（ChatGPT Image 2.5）",
+    "category": "插画艺术",
+    "model": "ChatGPT Image",
+    "source": "@sinvlo233",
+    "sourceUrl": "https://x.com/sinvlo233/status/2112788785075257817",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_2.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_3.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "同一成年东亚女性角色参考表：锁五官发型肤质身材与多角度表情/日常场景。含完整提示词与四图示例。",
+    "prompt": "分享一个我常用的「AI美女角色固定表」完整提示词，适合ChatGPT Image 2.5，能把同一个角色的五官、发型、肤质、身材比例、多角度表情和日常场景全部锁死。\n\n【ChatGPT Image 2.5完整提示词】\n严格参考上传人像，制作一张专业级「AI美女 角色固定表 / AI Beauty Character Reference Sheet」。\n核心要求：整张表里的所有图片都必须是同一个成年东亚女性，保持脸型、五官比例、眼睛、眉毛、鼻子、嘴巴、肤色、发色、发型、体型完全一致，不要换脸，不要动漫化，不要CG感，不要过度磨皮。",
+    "nsfw": false,
+    "addedAt": "2026.10.22",
+    "driveId": "1ZjKRELfwS58dEdHPg3SezedD8dPPNbuJ",
+    "driveUrl": "https://drive.google.com/file/d/1ZjKRELfwS58dEdHPg3SezedD8dPPNbuJ/view"
+  },
+  {
+    "id": "358",
+    "xid": "2112845385555431727",
+    "title": "浅粉旗袍古典舞定格 pose 生图提示词",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@GrayNoteLab",
+    "sourceUrl": "https://x.com/GrayNoteLab/status/2112845385555431727",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "东方女子浅粉无袖旗袍、团扇与青花瓷瓶；古典舞抬腿定格的全身棚拍提示词（纯文本，占位图入库）。",
+    "prompt": "好久没发旗袍了🥳🥳\n\n分享超好看的旗袍pose AI生图提示词\n\n【人物身份】东方成年年轻女子，淡妆，神情宁静；黑发挽低髻，髻侧簪大朵浅粉花饰，垂坠花朵耳饰\n【服饰】浅粉色无袖旗袍：立领、暗纹花卉刺绣、侧开衩，下摆至小腿中段；赤足\n【姿态几何】古典舞定格姿势，身体侧对镜头约90°面朝左侧：单腿直立支撑，脚尖点地、脚跟微抬；另一腿向后抬起、膝盖弯曲，小腿后踢，脚尖指向画面右缘约画面高度55%处；一臂向上完全伸直举过头顶，手指作兰花指；另一臂弯曲横于胸前，手持团扇立于面部左前方，扇面朝向镜头、与脸同高，扇柄粉色流苏垂下；头微低，眼睛轻闭下视，下巴内收\n【道具】团扇一把（素面、粉流苏）；左下角青花瓷高瓶插粉白绣球与兰花，瓶脚散落几片花瓣\n【场景】影棚：暖米色肌理背景墙，浅色木地板\n【光影关系】柔和暖调棚光从左前方打来，面部与身体受光均匀，背景边缘轻微暗角；温柔高级\n【镜头质感】竖构图全身像，人物居中偏右、占画面高度约85%，头部位于上方四分之一；机位与腰部齐平；85mm左右，中等景深（人物清晰、背景墙柔和）；皮肤细腻、旗袍缎面光泽、发丝分明；胶片级色彩\n【反向限制】禁后抬腿关节变形、禁脚趾畸形、禁兰花指手指变形、禁团扇遮挡面部、禁旗袍开衩走形、禁花瓶花朵糊成一团、禁网红滤镜塑料感",
+    "nsfw": false,
+    "addedAt": "2026.10.22"
   }
 ];
