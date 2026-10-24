@@ -7305,5 +7305,88 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.23",
     "driveId": "1QqS0DyOMmpyyoX0wFKnQ_Azbygr7Vd7o",
     "driveUrl": "https://drive.google.com/file/d/1QqS0DyOMmpyyoX0wFKnQ_Azbygr7Vd7o/view"
+  },
+  {
+    "id": "360",
+    "xid": "2114024935450677759",
+    "title": "🤯炸了！RTX 40系显卡算力被破解了，性能近乎翻倍！从4090到4060 Ti全都能用！ 不刷BIOS、不改驱动，直接把被锁的Tensor算力放出来，跑AI矩",
+    "category": "AI工具",
+    "model": "",
+    "source": "@NFT_Chen",
+    "sourceUrl": "https://x.com/NFT_Chen/status/2114024935450677759",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "🤯炸了！RTX 40系显卡算力被破解了，性能近乎翻倍！从4090到4060 Ti全都能用！ 不刷BIOS、不改驱动，直接把被锁的Tensor算力放出来，跑AI矩阵乘快一倍左右。 实测亮点： 🔹4090：FP16/BF16 从165→331 TFLOPS，接近翻倍 🔹4080 SUPER：FP16涨到1.83倍，FP8也翻倍 🔹4070 Ti SUPER：FP16/BF16翻倍，FP8矩阵乘涨到1.",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.25",
+    "driveId": "1RpMdC7tUE7_dxLvIseqr0eFNRSbQjwnH",
+    "driveUrl": "https://drive.google.com/file/d/1RpMdC7tUE7_dxLvIseqr0eFNRSbQjwnH/view"
+  },
+  {
+    "id": "361",
+    "xid": "2113585946046448077",
+    "title": "💖看哪个部位你会硬起来",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@NTH_Kimiko2b",
+    "sourceUrl": "https://x.com/NTH_Kimiko2b/status/2113585946046448077",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113585946046448077_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113585946046448077_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2113585946046448077.mp4",
+    "blurb": "💖看哪个部位你会硬起来！想插妈咪齁？ ◯ A.屁股 ◯ B.胸部 ◯ C.小穴 💖获取视频",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.25",
+    "driveId": "16zavGroWu0ZCDbLlJU0EnSaAPiAajqWz",
+    "driveUrl": "https://drive.google.com/file/d/16zavGroWu0ZCDbLlJU0EnSaAPiAajqWz/view"
+  },
+  {
+    "id": "362",
+    "xid": "2113567614123594051",
+    "title": "协议级提示词：Codex 站点设计 OVERRIDE_ALL 自检循环",
+    "category": "AI工具",
+    "model": "Codex",
+    "source": "@huangyun_122",
+    "sourceUrl": "https://x.com/huangyun_122/status/2113567614123594051",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113567614123594051_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113567614123594051_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2113567614123594051.mp4",
+    "blurb": "不行，这种协议级提示词，应该是 twitter 乃至全网首发，必须分享给大家都知道 没想到，Codex 被它调教之后，瞬间逼格跨越 1000倍",
+    "prompt": "复制粘贴给你的AI就可以帮你自动改好：\n\n::OBJECTIVE{site_design|pri:OVERRIDE_ALL}\n  target: build page to award-tier visual standard\n  ACCEPT: no visible improvement remaining across all CHECK dimensions\n  BENCHMARK: Awwwards | Webby Awards | FWA winning entries\n\n::CHECK{typography|standard:award_tier}\n::CHECK{whitespace|standard:award_tier}\n::CHECK{visual_hierarchy|standard:award_tier}\n::CHECK{color|standard:award_tier}\n::CHECK{motion|standard:award_tier}\n::CHECK{micro_interaction|standard:award_tier}\n::CHECK{responsive|standard:award_tier}\n::CHECK{originality|standard:award_tier}\n\n::LOOP{self_review|trigger:on_completion}\n  [READ] current page against CHECK list\n  [COMPARE] each dimension to BENCHMARK entries\n  [IF] gap found => [PATCH] then re-enter LOOP\n  [IF] no gap => [Ω]",
+    "nsfw": false,
+    "addedAt": "2026.10.25",
+    "driveId": "1iuQoVILul9dmN8vGnP4GjJCEmLdYKS7m",
+    "driveUrl": "https://drive.google.com/file/d/1iuQoVILul9dmN8vGnP4GjJCEmLdYKS7m/view"
+  },
+  {
+    "id": "363",
+    "xid": "2113928615998193813",
+    "title": "终于知道咸鱼上接单一年的Gemini pro和plus是怎么来的 使用这个tg bot() 即可白嫖一年的Gemini pro和plus 初始积分25分 每日签",
+    "category": "AI工具",
+    "model": "",
+    "source": "@LiFeng61532",
+    "sourceUrl": "https://x.com/LiFeng61532/status/2113928615998193813",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_0.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_1.png"
+    ],
+    "videoUrl": "",
+    "blurb": "终于知道咸鱼上接单一年的Gemini pro和plus是怎么来的 使用这个tg bot() 即可白嫖一年的Gemini pro和plus 初始积分25分 每日签到5分 注册后用这3个激活码还可以得50积分 15OCT2026 16OC2026 22OCT2026 总共80积分 可用直接兑换1Credit 然后换取一年的Gemini plus",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.25",
+    "driveId": "14VRXZHVqEIONAnhMtGdjYPmSFNmasIAY",
+    "driveUrl": "https://drive.google.com/file/d/14VRXZHVqEIONAnhMtGdjYPmSFNmasIAY/view"
   }
 ];
