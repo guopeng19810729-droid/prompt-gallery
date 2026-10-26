@@ -7388,5 +7388,25 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.25",
     "driveId": "14VRXZHVqEIONAnhMtGdjYPmSFNmasIAY",
     "driveUrl": "https://drive.google.com/file/d/14VRXZHVqEIONAnhMtGdjYPmSFNmasIAY/view"
+  },
+  {
+    "id": "364",
+    "xid": "2114270176648810497",
+    "title": "给大家分享一个网站可以免费用 Claude 这个网站是加州大学伯克利分校的校园创始人做的，这个网站上可以免费用这个 gemini.anthropic.xai的大",
+    "category": "AI工具",
+    "model": "",
+    "source": "@awe0_io",
+    "sourceUrl": "https://x.com/awe0_io/status/2114270176648810497",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114270176648810497_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114270176648810497_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "给大家分享一个网站可以免费用 Claude 这个网站是加州大学伯克利分校的校园创始人做的，这个网站上可以免费用这个 gemini.anthropic.xai的大模型 ，只需要谷歌邮箱登录，大家快来试一试！",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.10.27",
+    "driveId": "193wHZlr7LWcRwZvUnAFxFiNURzIxq2iK",
+    "driveUrl": "https://drive.google.com/file/d/193wHZlr7LWcRwZvUnAFxFiNURzIxq2iK/view"
   }
 ];
