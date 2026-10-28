@@ -7408,5 +7408,45 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.27",
     "driveId": "193wHZlr7LWcRwZvUnAFxFiNURzIxq2iK",
     "driveUrl": "https://drive.google.com/file/d/193wHZlr7LWcRwZvUnAFxFiNURzIxq2iK/view"
+  },
+  {
+    "id": "365",
+    "xid": "2114982048742232331",
+    "title": "绝美男娘版磨豆腐 只蹭蹭不进去是你最大的谎言～\n\n#男娘 #伪娘 #ts #男娘投稿",
+    "category": "AI视频",
+    "model": "",
+    "source": "@Suannaicaomei",
+    "sourceUrl": "https://x.com/Suannaicaomei/status/2114982048742232331",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114982048742232331_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114982048742232331_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2114982048742232331.mp4",
+    "blurb": "绝美男娘版磨豆腐 只蹭蹭不进去是你最大的谎言～\n\n#男娘 #伪娘 #ts #男娘投稿",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.29",
+    "driveId": "1bJQm2dJ6p48sbEM4mKfOAFOgVCDKktBg",
+    "driveUrl": "https://drive.google.com/file/d/1bJQm2dJ6p48sbEM4mKfOAFOgVCDKktBg/view"
+  },
+  {
+    "id": "366",
+    "xid": "2115449003550925176",
+    "title": "新婚旅行 NTR剧情",
+    "category": "AI视频",
+    "model": "",
+    "source": "@ASMRoop",
+    "sourceUrl": "https://x.com/ASMRoop/status/2115449003550925176",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115449003550925176_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115449003550925176_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2115449003550925176.mp4",
+    "blurb": "新婚旅行 NTR剧情",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.10.29",
+    "driveId": "1u_eiCBm74M9tK_kfc1o5QCdF3Vzu3Zmz",
+    "driveUrl": "https://drive.google.com/file/d/1u_eiCBm74M9tK_kfc1o5QCdF3Vzu3Zmz/view"
   }
 ];
