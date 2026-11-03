@@ -7448,5 +7448,26 @@ window.GALLERY_CASES = [
     "addedAt": "2026.10.29",
     "driveId": "1u_eiCBm74M9tK_kfc1o5QCdF3Vzu3Zmz",
     "driveUrl": "https://drive.google.com/file/d/1u_eiCBm74M9tK_kfc1o5QCdF3Vzu3Zmz/view"
+  },
+  {
+    "id": "367",
+    "xid": "2117571259475038493",
+    "title": "网友实测：410一个月的Gemini AI Ultra 20X",
+    "category": "AI工具",
+    "model": "",
+    "source": "@leo114119",
+    "sourceUrl": "https://x.com/leo114119/status/2117571259475038493",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_0.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_0.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_1.png"
+    ],
+    "videoUrl": "",
+    "blurb": "网友实测：410一个月的Gemini AI Ultra 20X \n\n这下真的不用续订GPT了\n\n操作过程：\n1.土区苹果账户，Google账号不限\n2.下Google这个应用，然后在设置里找“管理Google One”选项，这儿是看不到20X的订阅的\n3.随便订阅一个有折扣的订阅，通过苹果的支付渠道，然后到苹果设置的订阅里去看，就能看到Google订阅下有intro offer group这个，可",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.04",
+    "driveId": "1_KYpcOIiJs1P_xX_i3xaSWX-Fp86U91v",
+    "driveUrl": "https://drive.google.com/file/d/1_KYpcOIiJs1P_xX_i3xaSWX-Fp86U91v/view"
   }
 ];
