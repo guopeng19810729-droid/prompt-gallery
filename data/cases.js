@@ -7469,5 +7469,85 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.04",
     "driveId": "1_KYpcOIiJs1P_xX_i3xaSWX-Fp86U91v",
     "driveUrl": "https://drive.google.com/file/d/1_KYpcOIiJs1P_xX_i3xaSWX-Fp86U91v/view"
+  },
+  {
+    "id": "368",
+    "xid": "2117982698518323276",
+    "title": "威严检察长妈妈发现老公出轨后彻底破防，当晚主动换上情趣睡裙、开裆丝袜和高跟鞋勾引亲儿子？怒火中烧却把全部情感转移到18岁",
+    "category": "人物角色",
+    "model": "",
+    "source": "@grainny__01",
+    "sourceUrl": "https://x.com/grainny__01/status/2117982698518323276",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982698518323276_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982698518323276_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117982698518323276.mp4",
+    "blurb": "威严检察长妈妈发现老公出轨后彻底破防，当晚主动换上情趣睡裙、开裆丝袜和高跟鞋勾引亲儿子？怒火中烧却把全部情感转移到18岁的儿子余子昊身上。 \n\n《 检察官妈妈帮我攻略她的G奶闺蜜 》完整版 主页置顶 \n#检察官妈妈帮我攻略她的G奶闺蜜 #ai短剧 https://t.co/3mEidds9ll",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.05",
+    "driveId": "1Y8eOFbWZMP5pOD1I0cKPziQ4WaG7XGBc",
+    "driveUrl": "https://drive.google.com/file/d/1Y8eOFbWZMP5pOD1I0cKPziQ4WaG7XGBc/view"
+  },
+  {
+    "id": "369",
+    "xid": "2117982046727631267",
+    "title": "抖音两次违规真发不出，只能推特发了...",
+    "category": "人物角色",
+    "model": "",
+    "source": "@EIGuCysUwExBi5T",
+    "sourceUrl": "https://x.com/EIGuCysUwExBi5T/status/2117982046727631267",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982046727631267_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982046727631267_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117982046727631267.mp4",
+    "blurb": "抖音两次违规真发不出，只能推特发了...    \n\n           开脱！！！开脱！！！！   \n\n 上供！！！！ Luo照 锐评一下不许说我🐻黑！！！ https://t.co/QNiyiv50dm",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.05",
+    "driveId": "19O6MYVpCecU5mkGIXZmiZFaK-ONNtcwK",
+    "driveUrl": "https://drive.google.com/file/d/19O6MYVpCecU5mkGIXZmiZFaK-ONNtcwK/view"
+  },
+  {
+    "id": "370",
+    "xid": "2117934892134912074",
+    "title": "kosato 26Kl Ahegao Party 02 (mp4)",
+    "category": "人物角色",
+    "model": "",
+    "source": "@kosatoai",
+    "sourceUrl": "https://x.com/kosatoai/status/2117934892134912074",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117934892134912074_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117934892134912074_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117934892134912074.mp4",
+    "blurb": "kosato 26Kl Ahegao Party 02 (mp4) https://t.co/EOlklTJtrS",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.05",
+    "driveId": "1w63nORgq1w0K5ls9Os0Tp4A4dt2P0BSs",
+    "driveUrl": "https://drive.google.com/file/d/1w63nORgq1w0K5ls9Os0Tp4A4dt2P0BSs/view"
+  },
+  {
+    "id": "371",
+    "xid": "2117917939391402359",
+    "title": "骚货妈妈和干儿子啪啪还让亲儿子送套在门外站岗，一边淫叫还一边喊绿帽儿子",
+    "category": "人物角色",
+    "model": "",
+    "source": "@huangman99",
+    "sourceUrl": "https://x.com/huangman99/status/2117917939391402359",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117917939391402359_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117917939391402359_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117917939391402359.mp4",
+    "blurb": "骚货妈妈和干儿子啪啪还让亲儿子送套在门外站岗，一边淫叫还一边喊绿帽儿子\n\n完整版在主页置顶\n\n下载欲漫涩解锁更多里番动漫 https://t.co/Kn35N4QQ6a",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.05",
+    "driveId": "1D8my9MaaGiA77gtvJbbha2bt7glDXhIs",
+    "driveUrl": "https://drive.google.com/file/d/1D8my9MaaGiA77gtvJbbha2bt7glDXhIs/view"
   }
 ];
