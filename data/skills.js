@@ -757,5 +757,16 @@ window.SKILLS = [
     "blurb": "分享用 Google 当免费 VPS 的教程链接。",
     "video": false,
     "addedAt": "2026.10.22"
+  },
+  {
+    "id": "2118005526009467391",
+    "title": "Gemini再现惊天大羊毛",
+    "author": "@feishutoday",
+    "name": "feishu",
+    "url": "https://x.com/feishutoday/status/2118005526009467391",
+    "group": "资讯收藏",
+    "blurb": "分享 GitHub 开源零成本两年 Google AI Pro 全自动控制台教程链接。",
+    "video": false,
+    "addedAt": "2026.11.06"
   }
 ];
