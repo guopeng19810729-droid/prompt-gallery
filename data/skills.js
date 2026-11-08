@@ -768,5 +768,16 @@ window.SKILLS = [
     "blurb": "分享 GitHub 开源零成本两年 Google AI Pro 全自动控制台教程链接。",
     "video": false,
     "addedAt": "2026.11.06"
+  },
+  {
+    "id": "2118886366540894355",
+    "title": "用美国 VPS + SSH/Tailscale 稳定使用 Claude",
+    "author": "@biggor888",
+    "name": "biggor",
+    "url": "https://x.com/biggor888/status/2118886366540894355",
+    "group": "资讯收藏",
+    "blurb": "买美国 VPS 登录 Claude Code，本地装 SSH Server，用 Tailscale 或 Cloudflare Tunnels 让服务器访问本地，仅在美区服务器使用以保持稳定。",
+    "video": false,
+    "addedAt": "2026.11.09"
   }
 ];

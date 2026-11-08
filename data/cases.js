@@ -7549,5 +7549,185 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.05",
     "driveId": "1D8my9MaaGiA77gtvJbbha2bt7glDXhIs",
     "driveUrl": "https://drive.google.com/file/d/1D8my9MaaGiA77gtvJbbha2bt7glDXhIs/view"
+  },
+  {
+    "id": "372",
+    "xid": "2118748073795182800",
+    "title": "每个Muse都是一条VPN线路",
+    "category": "AI工具",
+    "model": "",
+    "source": "@yedabinbinah",
+    "sourceUrl": "https://x.com/yedabinbinah/status/2118748073795182800",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118748073795182800_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118748073795182800_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118748073795182800.mp4",
+    "blurb": "每个Muse都是一条VPN线路🔐  Muse升级前不执行 VS 升级后执行力拉满❗",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.09",
+    "driveId": "18vvd4LprgmdNkMANrkdghGREyQ0qBCyg",
+    "driveUrl": "https://drive.google.com/file/d/18vvd4LprgmdNkMANrkdghGREyQ0qBCyg/view"
+  },
+  {
+    "id": "373",
+    "xid": "2118825518024040589",
+    "title": "马斯克做梦没想到 Grok Bot 直接被开源了",
+    "category": "AI工具",
+    "model": "",
+    "source": "@NFT_Chen",
+    "sourceUrl": "https://x.com/NFT_Chen/status/2118825518024040589",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "🫨逆天了！马斯克做梦没想到 Grok Bot 直接被开源了，X会员瞬间失去意义！ GitHub神人把 Grok Bot 开源为 OpenMausBot，可切换多模型和本地/云端电脑。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.09",
+    "driveId": "1y2QbF59Y-7UK18FjZiSJi1ld3Leit6K3",
+    "driveUrl": "https://drive.google.com/file/d/1y2QbF59Y-7UK18FjZiSJi1ld3Leit6K3/view"
+  },
+  {
+    "id": "374",
+    "xid": "2119035519611089371",
+    "title": "开源神器 HGhub：黄果短剧第三方客户端",
+    "category": "AI工具",
+    "model": "",
+    "source": "@grgerwcwetwet",
+    "sourceUrl": "https://x.com/grgerwcwetwet/status/2119035519611089371",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119035519611089371_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119035519611089371_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "推荐开源项目 HGhub，黄果短剧第三方客户端，支持 Windows、macOS、Android；免费无广告，Rust + Tauri 2 开发。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.09",
+    "driveId": "17WbmzCc2kg4Zub9BBd2hSmyeuzolTNqi",
+    "driveUrl": "https://drive.google.com/file/d/17WbmzCc2kg4Zub9BBd2hSmyeuzolTNqi/view"
+  },
+  {
+    "id": "375",
+    "xid": "2119041904381972576",
+    "title": "📷😄",
+    "category": "AI视频",
+    "model": "wan2.2",
+    "source": "@JACK_OH_AI",
+    "sourceUrl": "https://x.com/JACK_OH_AI/status/2119041904381972576",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119041904381972576_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119041904381972576_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119041904381972576.mp4",
+    "blurb": "📷😄",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.09",
+    "driveId": "1hLbNbIoYSMPIU-2rRTg1Kvzx6NJUqx4S",
+    "driveUrl": "https://drive.google.com/file/d/1hLbNbIoYSMPIU-2rRTg1Kvzx6NJUqx4S/view"
+  },
+  {
+    "id": "376",
+    "xid": "2118825759171092877",
+    "title": "KLING4.0 Promptだけで振り付けたダンス",
+    "category": "AI视频",
+    "model": "Kling 4.0",
+    "source": "@AI_GIRL_DESIGN",
+    "sourceUrl": "https://x.com/AI_GIRL_DESIGN/status/2118825759171092877",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825759171092877_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825759171092877_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118825759171092877.mp4",
+    "blurb": "こちらはKLING4.0。Pri-Visは完全に無視でPromptだけで振り付けた感じです。カワイイけれど😌",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.09",
+    "driveId": "191UtWUsWgGhcdnAekkmXZKg14r_yAvc6",
+    "driveUrl": "https://drive.google.com/file/d/191UtWUsWgGhcdnAekkmXZKg14r_yAvc6/view"
+  },
+  {
+    "id": "377",
+    "xid": "2119047055125500414",
+    "title": "窗边矮榻东方女子半身俯拍提示词",
+    "category": "插画艺术",
+    "model": "",
+    "source": "@GrayNoteLab",
+    "sourceUrl": "https://x.com/GrayNoteLab/status/2119047055125500414",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+    ],
+    "videoUrl": "",
+    "blurb": "窗边矮榻东方女子半身俯拍，白袍团扇与玉兰；衣服柔焦、面部与背景保持锐利的生图提示词（纯文本，占位图入库）。",
+    "prompt": "卧槽！巨漂亮\n\n我调了一天一夜才调出来\n\n一位东方成年年轻女子，半身人像，约2:3竖构图，画面裁切在小腿中段，人物占画面高度约95%，头部占画面高度约15%。机位在她正前方偏右、略高于她的眼睛，自上而下俯拍约15度。\n女子坐在窗边矮榻上，身体正对镜头略偏右、微微前倾，头低下约25度，下巴微收，双眼望向画面右下角，眼睑自然半垂、不看镜头，视线落在画面右下方的虚空处。她右侧脸颊有三四缕被风吹起的碎发横贴过脸颊与鼻梁上方，发丝细而分明。神情平静淡然，眉眼舒展，唇角自然放松，没有委屈、哀伤或楚楚可怜的样子。\n一头乌黑长发在头顶盘成松软高髻，髻顶簪一朵蓝白渐层的布艺花，两侧碎发垂落颊边；左耳垂一只白色玉石水滴耳坠。她穿白色交领宽袖长袍，领口与腰封是淡蓝色底配深蓝水波纹边，袍身带细密的自然褶皱与淡黄色晕染；一条天蓝色轻纱披帛松松搭在两臂之间、垂在身前，整体是浅蓝与白的清冷色调，衣料完整覆盖肩颈与上身。\n她双手在腰前正中轻握一把团扇：右手在下、五指收拢扶着扇柄根部，左手在上、食指与中指沿扇柄轻搭，拇指贴在扇面下缘，双手手指放松、指甲是浅粉色带细闪。这是一把花瓣形扇面的团扇（宽约22厘米、高约18厘米），金色细边，扇面为半透的淡蓝色，上面绣一枝白色小花与一只蓝白色小鸟，扇面覆一层细密亮片、在光下泛着细碎闪光；木质短柄自扇面下缘垂下约8厘米。\n场景是古风室内的窗边：她身后左侧是深色的木格门，门框与格纹的轮廓清楚可辨，右上方窗框透进强烈的白天阳光，窗台上她右手边放一只白底蓝花瓷瓶，瓶身的蓝花纹样清晰，瓶中斜插一枝白色玉兰，两三朵大花瓣的花朵向画面右侧伸展、在逆光下通透发亮，花瓣的脉络看得见。背景保持清晰、不糊成一片，只有窗边一带最亮、室内深处自然偏暗。\n朦胧感只给衣服，不给脸和背景：她的白色袍身、宽袖与天蓝披帛罩一层乳白色的柔光雾，衣料的边缘微微化开、亮部的褶皱溢出柔和的光晕，像隔着一层薄雾看这身衣裳，衣纹只留大块的明暗、不必根根分明；但她的面部与背景完全不在这层雾里——五官、碎发与皮肤质感锐利清楚，背景的木格门、窗框、瓷瓶与玉兰同样清晰可辨。整幅画面干净降噪：没有噪点、没有颗粒感、没有涂抹感，暗部平滑不斑驳；光感仍是窗边强日光，衣服上的高光可以略过曝、化进光里，面部与背景的高光不过曝；色彩是低饱和的冷蓝与乳白。\n皮肤白皙细腻、带一点透光的质感，看得见细微毛孔；两颊有明显的粉色腮红，自颧骨向耳际与鼻翼方向晕开、边缘柔和渐变，鼻尖也带一点粉，眼下有淡淡的粉色晕染；唇色是水润的豆沙粉，双唇轻闭。85mm人像镜头，中等景深：焦点落在她的眼睛上，面部锐利清晰、发丝根根分明；背景不虚化，木格门、窗框与瓷瓶纹样保持清楚；只有衣服带柔焦与光晕，扇面的绣花与亮片仍看得清。\n反向限制：不要把朦胧感扩散到面部与背景——脸和背景一糊就是错的；不要面部柔焦、不要背景虚化；不要噪点、不要胶片颗粒、不要涂抹感与油画感；不要面部与背景过曝、不要面部死黑；不要两颊苍白无腮红，腮红要看得见但不要浓艳成两团死红；不要眼睛发光，眼珠保持自然深色；不要直视镜头、不要睁大眼睛；不要委屈哀伤的表情、不要眉头微蹙、不要眼角泛红；不要视线偏向画面左下方、视线必须落向画面右下角；不要碎发消失，也不要碎发多到遮住整张脸；不要团扇变成圆形或折扇、不要扇面图案换掉；不要玉兰花消失、不要背景变成户外；不要现代物品入画。",
+    "nsfw": false,
+    "addedAt": "2026.11.09"
+  },
+  {
+    "id": "378",
+    "xid": "2117970980916302124",
+    "title": "你的小鸡鸡太小了，根本满足不了我。",
+    "category": "人物角色",
+    "model": "",
+    "source": "@AI_OilySlut",
+    "sourceUrl": "https://x.com/AI_OilySlut/status/2117970980916302124",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117970980916302124_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117970980916302124_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117970980916302124.mp4",
+    "blurb": "你的小鸡鸡太小了，根本满足不了我。 你就是个废物，只配被我羞辱。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.09",
+    "driveId": "1tHkaIaZdC9ufKdzuXjIthL_H4On5a_M-",
+    "driveUrl": "https://drive.google.com/file/d/1tHkaIaZdC9ufKdzuXjIthL_H4On5a_M-/view"
+  },
+  {
+    "id": "379",
+    "xid": "2118560757478547630",
+    "title": "黑白丝双花为主人服务",
+    "category": "人物角色",
+    "model": "",
+    "source": "@chandanbhalla5",
+    "sourceUrl": "https://x.com/chandanbhalla5/status/2118560757478547630",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118560757478547630_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118560757478547630_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118560757478547630.mp4",
+    "blurb": "黑白丝双花为主人服务",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.09",
+    "driveId": "1rI2VDmdiuBcNucRBFceJLnhA0Ns9x_mv",
+    "driveUrl": "https://drive.google.com/file/d/1rI2VDmdiuBcNucRBFceJLnhA0Ns9x_mv/view"
+  },
+  {
+    "id": "380",
+    "xid": "2118278794855506256",
+    "title": "Taboo Series Sleeping Moms Sample Test 01",
+    "category": "人物角色",
+    "model": "",
+    "source": "@jiojio2026",
+    "sourceUrl": "https://x.com/jiojio2026/status/2118278794855506256",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118278794855506256_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118278794855506256_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118278794855506256.mp4",
+    "blurb": "Taboo Series 🔥 Sleeping Moms~~ 🤫 Sample Test 01  Tools Used: ChatGPT · Gemini · Grok · ComfyUI",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.09",
+    "driveId": "1fxTx8UJjMZHmR6FdXFsCS7rKaQQkrZYy",
+    "driveUrl": "https://drive.google.com/file/d/1fxTx8UJjMZHmR6FdXFsCS7rKaQQkrZYy/view"
   }
 ];
