@@ -7729,5 +7729,125 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.09",
     "driveId": "1fxTx8UJjMZHmR6FdXFsCS7rKaQQkrZYy",
     "driveUrl": "https://drive.google.com/file/d/1fxTx8UJjMZHmR6FdXFsCS7rKaQQkrZYy/view"
+  },
+  {
+    "id": "381",
+    "xid": "2120139620302397626",
+    "title": "Chudai",
+    "category": "人物角色",
+    "model": "",
+    "source": "@NIPPON1206",
+    "sourceUrl": "https://x.com/NIPPON1206/status/2120139620302397626",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120139620302397626_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120139620302397626_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2120139620302397626.mp4",
+    "blurb": "❤️Chudai❤️",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "1OgvFEbXA4PdlO4xo16TfGva6mxo5WRhg",
+    "driveUrl": "https://drive.google.com/file/d/1OgvFEbXA4PdlO4xo16TfGva6mxo5WRhg/view"
+  },
+  {
+    "id": "382",
+    "xid": "2119983381580575197",
+    "title": "和姐妹一起勾引直男",
+    "category": "人物角色",
+    "model": "",
+    "source": "@Sllrioi",
+    "sourceUrl": "https://x.com/Sllrioi/status/2119983381580575197",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119983381580575197_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119983381580575197_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119983381580575197.mp4",
+    "blurb": "和姐妹一起勾引直男 没想到被我的屁穴10秒就泄了",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "1WiOqXwKYxlyHHG2vgulmGGJIGSCKnVK_",
+    "driveUrl": "https://drive.google.com/file/d/1WiOqXwKYxlyHHG2vgulmGGJIGSCKnVK_/view"
+  },
+  {
+    "id": "383",
+    "xid": "2119793946822140139",
+    "title": "奇淫天珠 第四集",
+    "category": "人物角色",
+    "model": "",
+    "source": "@Swappingswin0",
+    "sourceUrl": "https://x.com/Swappingswin0/status/2119793946822140139",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119793946822140139_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119793946822140139_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119793946822140139.mp4",
+    "blurb": "深山古寺里供着一颗来历不明的淫性天珠。山中狐妖嗅到天珠散出的强大淫力，想抢夺天珠突破修为，自己送进山门。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "1f7KYDPaC97poYve_NCevwKXVFeE4d5-T",
+    "driveUrl": "https://drive.google.com/file/d/1f7KYDPaC97poYve_NCevwKXVFeE4d5-T/view"
+  },
+  {
+    "id": "384",
+    "xid": "2119383474230686061",
+    "title": "chudai",
+    "category": "人物角色",
+    "model": "",
+    "source": "@dxbtxbfs3l5",
+    "sourceUrl": "https://x.com/dxbtxbfs3l5/status/2119383474230686061",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119383474230686061_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119383474230686061_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119383474230686061.mp4",
+    "blurb": "chudai",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "14wUrR2WWzf5Dye33A0fntKqKmo8z3zAi",
+    "driveUrl": "https://drive.google.com/file/d/14wUrR2WWzf5Dye33A0fntKqKmo8z3zAi/view"
+  },
+  {
+    "id": "385",
+    "xid": "2119659514878435438",
+    "title": "chudai",
+    "category": "人物角色",
+    "model": "",
+    "source": "@dxbtxbfs3l5",
+    "sourceUrl": "https://x.com/dxbtxbfs3l5/status/2119659514878435438",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119659514878435438_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119659514878435438_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119659514878435438.mp4",
+    "blurb": "chudai",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "1bbKVa-BVHnw6lf1tQUzvcMooJpGUizz7",
+    "driveUrl": "https://drive.google.com/file/d/1bbKVa-BVHnw6lf1tQUzvcMooJpGUizz7/view"
+  },
+  {
+    "id": "386",
+    "xid": "2119875186787016778",
+    "title": "检察官妈妈帮我攻略她的G奶闺蜜",
+    "category": "人物角色",
+    "model": "",
+    "source": "@giuseppenenni",
+    "sourceUrl": "https://x.com/giuseppenenni/status/2119875186787016778",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119875186787016778_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119875186787016778_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119875186787016778.mp4",
+    "blurb": "《检察官妈妈帮我攻略她的G奶闺蜜》",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.11",
+    "driveId": "1ZAjYzW3UrHYOV453x87jCXunaV-sNV_5",
+    "driveUrl": "https://drive.google.com/file/d/1ZAjYzW3UrHYOV453x87jCXunaV-sNV_5/view"
   }
 ];

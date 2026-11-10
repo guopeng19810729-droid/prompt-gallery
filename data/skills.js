@@ -779,5 +779,16 @@ window.SKILLS = [
     "blurb": "买美国 VPS 登录 Claude Code，本地装 SSH Server，用 Tailscale 或 Cloudflare Tunnels 让服务器访问本地，仅在美区服务器使用以保持稳定。",
     "video": false,
     "addedAt": "2026.11.09"
+  },
+  {
+    "id": "2119615394151588348",
+    "title": "用 Chrome 插件跑 Google AI Pro 5TB 流程",
+    "author": "@muihbb",
+    "name": "muihbb",
+    "url": "https://x.com/muihbb/status/2119615394151588348",
+    "group": "资讯收藏",
+    "blurb": "已有人把零成本两年 Google AI Pro 5TB 流程做成 Chrome 插件，下载仓库后在 Chrome 里加载即可。",
+    "video": false,
+    "addedAt": "2026.11.11"
   }
 ];
