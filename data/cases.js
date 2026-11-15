@@ -7849,5 +7849,25 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.11",
     "driveId": "1ZAjYzW3UrHYOV453x87jCXunaV-sNV_5",
     "driveUrl": "https://drive.google.com/file/d/1ZAjYzW3UrHYOV453x87jCXunaV-sNV_5/view"
+  },
+  {
+    "id": "387",
+    "xid": "2121800102495072259",
+    "title": "谷歌开放 Gemini 4 Hydrogen 免费 API",
+    "category": "AI工具",
+    "model": "",
+    "source": "@star_flow_ai",
+    "sourceUrl": "https://x.com/star_flow_ai/status/2121800102495072259",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121800102495072259_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121800102495072259_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "谷歌开放 Gemini 4 Hydrogen 免费 API，可直接接入 Agent 客户端。上下文 100 万 Token，RPM 15，RPD 1,500，额度按 Project 共享。从 aistudio.google.com 创建 Key，模型 ID 填 gemini-4-hydrogen。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.16",
+    "driveId": "1mcr_s5TzJZq1qYLzljiLUvlYgoRn-lRk",
+    "driveUrl": "https://drive.google.com/file/d/1mcr_s5TzJZq1qYLzljiLUvlYgoRn-lRk/view"
   }
 ];
