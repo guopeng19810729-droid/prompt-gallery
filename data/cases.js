@@ -7869,5 +7869,25 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.16",
     "driveId": "1mcr_s5TzJZq1qYLzljiLUvlYgoRn-lRk",
     "driveUrl": "https://drive.google.com/file/d/1mcr_s5TzJZq1qYLzljiLUvlYgoRn-lRk/view"
+  },
+  {
+    "id": "388",
+    "xid": "2122307272286310703",
+    "title": "妈妈的小母狗就喜欢含鸡巴",
+    "category": "人物角色",
+    "model": "",
+    "source": "@fengye5678",
+    "sourceUrl": "https://x.com/fengye5678/status/2122307272286310703",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122307272286310703_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122307272286310703_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122307272286310703.mp4",
+    "blurb": "妈妈的小母狗就喜欢含鸡巴，公狗也是见到逼就想舔，一对下贱畜生",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.17",
+    "driveId": "1Scbm2P_Opv8Xt1mPQ595ap91WJ4VLRwJ",
+    "driveUrl": "https://drive.google.com/file/d/1Scbm2P_Opv8Xt1mPQ595ap91WJ4VLRwJ/view"
   }
 ];
