@@ -7889,5 +7889,226 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.17",
     "driveId": "1Scbm2P_Opv8Xt1mPQ595ap91WJ4VLRwJ",
     "driveUrl": "https://drive.google.com/file/d/1Scbm2P_Opv8Xt1mPQ595ap91WJ4VLRwJ/view"
+  },
+  {
+    "id": "389",
+    "xid": "2116382365404852227",
+    "title": "Gmail 注册无需手机验证码的丝滑方案",
+    "category": "AI工具",
+    "model": "",
+    "source": "@Pluvio9yte",
+    "sourceUrl": "https://x.com/Pluvio9yte/status/2116382365404852227",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2116382365404852227_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2116382365404852227_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "用手机版 Gmail「添加其他账号 → 创建账号」注册，通常不会要求绑定手机号，也更少遇到地址或复制邮箱校验。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.19",
+    "driveId": "10AK2NsAfsrEQN6pekPRvHugy94tfuaiW",
+    "driveUrl": "https://drive.google.com/file/d/10AK2NsAfsrEQN6pekPRvHugy94tfuaiW/view"
+  },
+  {
+    "id": "390",
+    "xid": "2115760557769023524",
+    "title": "絶賛使用中〜",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2115760557769023524",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115760557769023524_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115760557769023524_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2115760557769023524.mp4",
+    "blurb": "絶賛使用中〜💕💕✨",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "12aMne_VCEA4iaMyz_1kwJy7HOY1c8EwL",
+    "driveUrl": "https://drive.google.com/file/d/12aMne_VCEA4iaMyz_1kwJy7HOY1c8EwL/view"
+  },
+  {
+    "id": "391",
+    "xid": "2117210126788567134",
+    "title": "ゆ、許してご主人様ぁ...もういっぱいですわ〜",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2117210126788567134",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117210126788567134_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117210126788567134_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117210126788567134.mp4",
+    "blurb": "ゆ、許してご主人様ぁ...︎︎❤︎︎もういっぱいですわ〜︎︎❤︎︎︎︎❤︎︎💦",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1Q7sFxbGqTA3lZAZ8_EVff5xZ1NvSP96Z",
+    "driveUrl": "https://drive.google.com/file/d/1Q7sFxbGqTA3lZAZ8_EVff5xZ1NvSP96Z/view"
+  },
+  {
+    "id": "392",
+    "xid": "2117572515279040735",
+    "title": "ドールちゃんの作り方",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2117572515279040735",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117572515279040735_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117572515279040735_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117572515279040735.mp4",
+    "blurb": "ドールちゃんの作り方🎀",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1uj1h6NGMAGONODWDxye2PpM6H_gffH9f",
+    "driveUrl": "https://drive.google.com/file/d/1uj1h6NGMAGONODWDxye2PpM6H_gffH9f/view"
+  },
+  {
+    "id": "393",
+    "xid": "2121558775236829274",
+    "title": "飼育日常",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2121558775236829274",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121558775236829274_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121558775236829274_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121558775236829274.mp4",
+    "blurb": "飼育日常🎀",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1eXPpqRFDJawMkwJaLb54ZMI2AF0etAa1",
+    "driveUrl": "https://drive.google.com/file/d/1eXPpqRFDJawMkwJaLb54ZMI2AF0etAa1/view"
+  },
+  {
+    "id": "394",
+    "xid": "2121196385298964891",
+    "title": "トレーニングの成果",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2121196385298964891",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121196385298964891_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121196385298964891_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121196385298964891.mp4",
+    "blurb": "トレーニングの成果💝",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1Xlrc5TfOGfFo8igSGfzPTbPlaONoQCEI",
+    "driveUrl": "https://drive.google.com/file/d/1Xlrc5TfOGfFo8igSGfzPTbPlaONoQCEI/view"
+  },
+  {
+    "id": "395",
+    "xid": "2118659672475640150",
+    "title": "改造進行中〜",
+    "category": "人物角色",
+    "model": "",
+    "source": "@veritabledxzx22",
+    "sourceUrl": "https://x.com/veritabledxzx22/status/2118659672475640150",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118659672475640150_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118659672475640150_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118659672475640150.mp4",
+    "blurb": "改造進行中〜︎︎❤︎︎︎︎❤︎︎",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1-ZH4-0HJGqtqxh1VloC__vkNNgDBgvXG",
+    "driveUrl": "https://drive.google.com/file/d/1-ZH4-0HJGqtqxh1VloC__vkNNgDBgvXG/view"
+  },
+  {
+    "id": "396",
+    "xid": "2105631674847695065",
+    "title": "软嫩多汁的娜娜兔合集",
+    "category": "人物角色",
+    "model": "",
+    "source": "@cdnn99946",
+    "sourceUrl": "https://x.com/cdnn99946/status/2105631674847695065",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105631674847695065_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105631674847695065_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105631674847695065.mp4",
+    "blurb": "软嫩多汁的娜娜兔合集 💦 欢迎来解锁更多",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1CdZN9FArAaBS2HMV_lLrXkdWjPVw_2pR",
+    "driveUrl": "https://drive.google.com/file/d/1CdZN9FArAaBS2HMV_lLrXkdWjPVw_2pR/view"
+  },
+  {
+    "id": "397",
+    "xid": "2122985238859300908",
+    "title": "母猪妓女有个傻瓜儿子，但儿子鸡巴特别大",
+    "category": "动态影像",
+    "model": "",
+    "source": "@huangman99",
+    "sourceUrl": "https://x.com/huangman99/status/2122985238859300908",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122985238859300908_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122985238859300908_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122985238859300908.mp4",
+    "blurb": "母猪妓女有个傻瓜儿子，但儿子鸡巴特别大，妈妈每天卖淫结束都要用儿子超大鸡巴给自己释放压力。完整版在主页置顶。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1X609o5CyudEN8cIAcdVfxTlmM3UriTEd",
+    "driveUrl": "https://drive.google.com/file/d/1X609o5CyudEN8cIAcdVfxTlmM3UriTEd/view"
+  },
+  {
+    "id": "398",
+    "xid": "2084229493388914743",
+    "title": "今天我来示范怎么当一个合格的人妖新娘",
+    "category": "人物角色",
+    "model": "",
+    "source": "@petshih",
+    "sourceUrl": "https://x.com/petshih/status/2084229493388914743",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084229493388914743_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084229493388914743_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084229493388914743.mp4",
+    "blurb": "示范合格的人妖新娘：先锁好贞操锁，再把飞机杯肛塞塞进小穴，震动棒插入后快感被挡住，只能一直发情空虚。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.19",
+    "driveId": "1ZLMxohGQ99PlvMG6ua2qCzQKmDBwY9Zc",
+    "driveUrl": "https://drive.google.com/file/d/1ZLMxohGQ99PlvMG6ua2qCzQKmDBwY9Zc/view"
+  },
+  {
+    "id": "399",
+    "xid": "2122876707241931110",
+    "title": "Google AI Ultra 优惠：首月免费后 11 个月每月 12 刀",
+    "category": "AI工具",
+    "model": "",
+    "source": "@kongge_space",
+    "sourceUrl": "https://x.com/kongge_space/status/2122876707241931110",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Google AI Ultra 优惠计划：第一个月免费，之后 11 个月每月 12 刀，第二年起每月 112 刀（原价 199 刀，是 Pro 的 20 倍），内含 Opus。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.19",
+    "driveId": "1mRySMCqKpJNefuA02Kl_Hp2rulqHQg8U",
+    "driveUrl": "https://drive.google.com/file/d/1mRySMCqKpJNefuA02Kl_Hp2rulqHQg8U/view"
   }
 ];
