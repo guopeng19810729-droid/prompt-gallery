@@ -8110,5 +8110,65 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.19",
     "driveId": "1mRySMCqKpJNefuA02Kl_Hp2rulqHQg8U",
     "driveUrl": "https://drive.google.com/file/d/1mRySMCqKpJNefuA02Kl_Hp2rulqHQg8U/view"
+  },
+  {
+    "id": "400",
+    "xid": "2123378103770620412",
+    "title": "台湾极品人妻辛尤里产后复出",
+    "category": "人物角色",
+    "model": "",
+    "source": "@xx7758mm",
+    "sourceUrl": "https://x.com/xx7758mm/status/2123378103770620412",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123378103770620412_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123378103770620412_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123378103770620412.mp4",
+    "blurb": "台湾极品人妻辛尤里，产后火爆复出与新朋友一起大战28公分大屌黑人，被大鸡巴塞满骚穴，发出淫荡的呻吟，真的很淫荡，那个男人顶得住啊？",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.20",
+    "driveId": "1AfiI3tEMjm127WGycKXlM-0xtqDvjSTu",
+    "driveUrl": "https://drive.google.com/file/d/1AfiI3tEMjm127WGycKXlM-0xtqDvjSTu/view"
+  },
+  {
+    "id": "401",
+    "xid": "2122278139615412611",
+    "title": "Wataa",
+    "category": "人物角色",
+    "model": "",
+    "source": "@3HUBADULT",
+    "sourceUrl": "https://x.com/3HUBADULT/status/2122278139615412611",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122278139615412611_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122278139615412611_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122278139615412611.mp4",
+    "blurb": "Wataa😘😍🥰",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.20",
+    "driveId": "1W73Psx8xmilhip9DTEa6DaP2zVBHO8rK",
+    "driveUrl": "https://drive.google.com/file/d/1W73Psx8xmilhip9DTEa6DaP2zVBHO8rK/view"
+  },
+  {
+    "id": "402",
+    "xid": "2123072346701627542",
+    "title": "我也不知道啊，怎么这么容易爆浆的",
+    "category": "人物角色",
+    "model": "",
+    "source": "@BBCGANGBANG77",
+    "sourceUrl": "https://x.com/BBCGANGBANG77/status/2123072346701627542",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123072346701627542_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123072346701627542_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123072346701627542.mp4",
+    "blurb": "我也不知道啊，怎么这么容易爆浆的.....",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.20",
+    "driveId": "14_UM-xJ3nSar_fNIG8quGbucc9PcZt5O",
+    "driveUrl": "https://drive.google.com/file/d/14_UM-xJ3nSar_fNIG8quGbucc9PcZt5O/view"
   }
 ];
