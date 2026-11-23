@@ -8470,5 +8470,86 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.23",
     "driveId": "19m-zNJypDiRLtXtzvjiNIH1zi5MO_0DT",
     "driveUrl": "https://drive.google.com/file/d/19m-zNJypDiRLtXtzvjiNIH1zi5MO_0DT/view"
+  },
+  {
+    "id": "418",
+    "xid": "2124618926545912316",
+    "title": "用 N26 + 甲骨文申请谷歌云 300 美金试用",
+    "category": "AI工具",
+    "model": "",
+    "source": "@weichen_ink",
+    "sourceUrl": "https://x.com/weichen_ink/status/2124618926545912316",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124618926545912316_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124618926545912316_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "用 N26 卡加甲骨文法兰克福节点申请到谷歌云 300 美金试用；申请时预扣 25 美金，约一周返还。台湾节点 IP 较干净。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.24",
+    "driveId": "11jo2AoToBLq5FcSNQ2Cj-RfD5y55O3b7",
+    "driveUrl": "https://drive.google.com/file/d/11jo2AoToBLq5FcSNQ2Cj-RfD5y55O3b7/view"
+  },
+  {
+    "id": "419",
+    "xid": "2124796718114034133",
+    "title": "如何养护 50 个谷歌账号",
+    "category": "AI工具",
+    "model": "",
+    "source": "@xiaoxiaodong",
+    "sourceUrl": "https://x.com/xiaoxiaodong/status/2124796718114034133",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124796718114034133_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124796718114034133_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "用 Chrome「添加个人资料」为每个谷歌账号建独立 profile，互不污染；配合其网络方案在 Gmail 里注册，通常不用填手机。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.24",
+    "driveId": "1tttO5Nf13_BSS9eBEnR2aGv6tTojMR5q",
+    "driveUrl": "https://drive.google.com/file/d/1tttO5Nf13_BSS9eBEnR2aGv6tTojMR5q/view"
+  },
+  {
+    "id": "420",
+    "xid": "2124737402023665854",
+    "title": "成功注册 SpotPay：美国账户 + Visa + 移动支付",
+    "category": "其他",
+    "model": "",
+    "source": "@ChiangYu18",
+    "sourceUrl": "https://x.com/ChiangYu18/status/2124737402023665854",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "SpotPay 是全球无国界数字银行，一个账户可跨境收付；美国银行账户 + Visa 卡 + 移动支付，支持 Apple Pay / Google Pay，余额可生息。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.24",
+    "driveId": "1y0B893LXuVr5dqCIYt2k5ea_zMS42wAr",
+    "driveUrl": "https://drive.google.com/file/d/1y0B893LXuVr5dqCIYt2k5ea_zMS42wAr/view"
+  },
+  {
+    "id": "421",
+    "xid": "2124700212728078758",
+    "title": "AI真人剧微表情提示词",
+    "category": "AI视频",
+    "model": "",
+    "source": "@AIVideoHub_",
+    "sourceUrl": "https://x.com/AIVideoHub_/status/2124700212728078758",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124700212728078758_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124700212728078758_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124700212728078758.mp4",
+    "blurb": "AI真人剧微表情提示词，快收藏起来以后有用🥰",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.24",
+    "driveId": "10FNBtLT3JIKM3R8fSgx0Z8ibJV9d9vgQ",
+    "driveUrl": "https://drive.google.com/file/d/10FNBtLT3JIKM3R8fSgx0Z8ibJV9d9vgQ/view"
   }
 ];
