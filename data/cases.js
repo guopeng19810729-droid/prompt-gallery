@@ -8551,5 +8551,148 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.24",
     "driveId": "10FNBtLT3JIKM3R8fSgx0Z8ibJV9d9vgQ",
     "driveUrl": "https://drive.google.com/file/d/10FNBtLT3JIKM3R8fSgx0Z8ibJV9d9vgQ/view"
+  },
+  {
+    "id": "422",
+    "xid": "2125273955468787810",
+    "title": "Manus Cue 送 8 核 16G 云电脑",
+    "category": "AI工具",
+    "model": "",
+    "source": "@jackluos3lpo",
+    "sourceUrl": "https://x.com/jackluos3lpo/status/2125273955468787810",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_2.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Manus 推出个人助理 Cue，注册送 8 核 16G / 72G Ubuntu 云电脑，以及专属邮箱、电话和钱包，并可接入 Gmail、日历、Notion 及常见聊天软件；现注册还送一个月 Plus。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.25",
+    "driveId": "1Jp9m3BUdvbfjtRZcheREny2pZQWaepwV",
+    "driveUrl": "https://drive.google.com/file/d/1Jp9m3BUdvbfjtRZcheREny2pZQWaepwV/view"
+  },
+  {
+    "id": "423",
+    "xid": "2125183919255671209",
+    "title": "4 个 Muse 视频创作开源 Skill",
+    "category": "AI视频",
+    "model": "",
+    "source": "@nanajiang8888",
+    "sourceUrl": "https://x.com/nanajiang8888/status/2125183919255671209",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125183919255671209_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125183919255671209_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2125183919255671209.mp4",
+    "blurb": "用 Muse 直出视频演示，并整理 4 个 GitHub 开源 Skill：电影级提示词、动画电影工作流、虚拟电影剧组，以及第三方 muse-api 批量自动出片。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.25",
+    "driveId": "1_est24DxaBgTK8zvrc0JTc9YE3QHdLqI",
+    "driveUrl": "https://drive.google.com/file/d/1_est24DxaBgTK8zvrc0JTc9YE3QHdLqI/view"
+  },
+  {
+    "id": "424",
+    "xid": "2125201515950321967",
+    "title": "黑五 1.81 刀家宽双 ISP 落地机",
+    "category": "其他",
+    "model": "",
+    "source": "@fwqgo_com",
+    "sourceUrl": "https://x.com/fwqgo_com/status/2125201515950321967",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125201515950321967_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125201515950321967_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "黑五套餐：1.81 刀四库家宽双 ISP 落地机，另加 3.99 刀 1G 带宽 1TB 单向流量；去程 CN2 GT / AS4837 / CMIN2，回程电信联通 CN2 GIA + 移动 CMIN2，续费同价。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.25",
+    "driveId": "1dfGR86A5FTABhZFpyESdhDNmvTysHanB",
+    "driveUrl": "https://drive.google.com/file/d/1dfGR86A5FTABhZFpyESdhDNmvTysHanB/view"
+  },
+  {
+    "id": "425",
+    "xid": "2125031646126862768",
+    "title": "Google Fi 黑五 16.25 刀月租",
+    "category": "其他",
+    "model": "",
+    "source": "@Lovislexus",
+    "sourceUrl": "https://x.com/Lovislexus/status/2125031646126862768",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125031646126862768_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125031646126862768_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "Google Fi 原价 65 刀，走 Play Points Perks 可打到 16.25 刀/月并连续 12 个月；每月 100GB 高速、最多 50GB 可用于境外漫游，截止 11 月 30 日 15:59（北京时间）。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.25",
+    "driveId": "1m9aNNJB-nSukHSyuZaYJAr9IDSF1USt6",
+    "driveUrl": "https://drive.google.com/file/d/1m9aNNJB-nSukHSyuZaYJAr9IDSF1USt6/view"
+  },
+  {
+    "id": "426",
+    "xid": "2124773828064878901",
+    "title": "BNEesim 黑五 128 元 50G 新 eSIM",
+    "category": "其他",
+    "model": "",
+    "source": "@esimuse",
+    "sourceUrl": "https://x.com/esimuse/status/2124773828064878901",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_1.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "BNEesim 黑五：扫码注册后 128 元买无限期 50G、IP 新加坡的 eSIM。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.25",
+    "driveId": "1tRgNLSA0m9y7VQjgpGNMl4AtIT3glDuG",
+    "driveUrl": "https://drive.google.com/file/d/1tRgNLSA0m9y7VQjgpGNMl4AtIT3glDuG/view"
+  },
+  {
+    "id": "427",
+    "xid": "2121939943551631510",
+    "title": "wataa",
+    "category": "人物角色",
+    "model": "",
+    "source": "@mculha06",
+    "sourceUrl": "https://x.com/mculha06/status/2121939943551631510",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121939943551631510_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121939943551631510_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121939943551631510.mp4",
+    "blurb": "wataa",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.25",
+    "driveId": "1aUQzf6C2mj7iJATFwOLzuB5gOMhRBE8h",
+    "driveUrl": "https://drive.google.com/file/d/1aUQzf6C2mj7iJATFwOLzuB5gOMhRBE8h/view"
+  },
+  {
+    "id": "428",
+    "xid": "2120464150359068781",
+    "title": "AI成人短剧",
+    "category": "人物角色",
+    "model": "",
+    "source": "@mculha06",
+    "sourceUrl": "https://x.com/mculha06/status/2120464150359068781",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120464150359068781_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120464150359068781_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2120464150359068781.mp4",
+    "blurb": "摆脱烦恼 深夜不在寂寞。#成人短剧 #AI短剧",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.25",
+    "driveId": "1XmVGZnhXIfEC2iWqyfTre4b4nCeW1PnW",
+    "driveUrl": "https://drive.google.com/file/d/1XmVGZnhXIfEC2iWqyfTre4b4nCeW1PnW/view"
   }
 ];

@@ -790,5 +790,27 @@ window.SKILLS = [
     "blurb": "已有人把零成本两年 Google AI Pro 5TB 流程做成 Chrome 插件，下载仓库后在 Chrome 里加载即可。",
     "video": false,
     "addedAt": "2026.11.11"
+  },
+  {
+    "id": "2125041461968134244",
+    "title": "谷歌老号改区被卡的经验",
+    "author": "@JustLikeBit",
+    "name": "如比特",
+    "url": "https://x.com/JustLikeBit/status/2125041461968134244",
+    "group": "资讯收藏",
+    "blurb": "十几年谷歌老号地区被判成中国，想订 Neon 被卡，改区十几次均因证据不足驳回；有人先订日区 5 折 Pro 再申请改到美国约 1 小时通过，也有说清空支付信息后绑国内 VISA、地区填日本能进部分服务。",
+    "video": false,
+    "addedAt": "2026.11.25"
+  },
+  {
+    "id": "2125088653622063404",
+    "title": "脚本抢甲骨文免费 4 核 24G",
+    "author": "@jojeangsaing",
+    "name": "nana",
+    "url": "https://x.com/jojeangsaing/status/2125088653622063404",
+    "group": "资讯收藏",
+    "blurb": "用官方 API 轮询各域抢甲骨文免费 4 核 24G，没货则等待、限流停 300 秒、配额用完即停，抢到后取公网 IP 并 Telegram 通知。Python 脚本：https://github.com/lucasforster1108-boop/oracle-snatch",
+    "video": false,
+    "addedAt": "2026.11.25"
   }
 ];
