@@ -812,5 +812,27 @@ window.SKILLS = [
     "blurb": "用官方 API 轮询各域抢甲骨文免费 4 核 24G，没货则等待、限流停 300 秒、配额用完即停，抢到后取公网 IP 并 Telegram 通知。Python 脚本：https://github.com/lucasforster1108-boop/oracle-snatch",
     "video": false,
     "addedAt": "2026.11.25"
+  },
+  {
+    "id": "2125279971195449676",
+    "title": "智能镜头扫过谷歌验证码",
+    "author": "@jackluos3lpo",
+    "name": "jackluos",
+    "url": "https://x.com/jackluos3lpo/status/2125279971195449676",
+    "group": "资讯收藏",
+    "blurb": "同一谷歌验证码用浏览器扫会要求短信，安卓装全谷歌框架并登录后，用 Google 智能镜头扫码可走框架验证直接过。作者评论步骤：装全框架、下智能镜头、不要用浏览器扫。也有人补充 iOS 可装 YouTube，用系统相机扫码跳转验证。效果因环境和 IP 而异。",
+    "video": false,
+    "addedAt": "2026.11.26"
+  },
+  {
+    "id": "2125219877506240796",
+    "title": "大陆身份证办齐海外基建四件套",
+    "author": "@LocationCk",
+    "name": "Kiro有点Yes",
+    "url": "https://x.com/LocationCk/status/2125219877506240796",
+    "group": "资讯收藏",
+    "blurb": "黑五思路：美卡 RedPocket（eBay 约 30 刀一年）或英国 Lebara eSIM 做海外号；Bybit 选台湾、用大陆身份证下卡绑支付；土区 Apple ID + 礼品卡买低价订阅；再配干净住宅 IP 和 Gemini 学生认证。渠道链接在评论一楼。",
+    "video": false,
+    "addedAt": "2026.11.26"
   }
 ];

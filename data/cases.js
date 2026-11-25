@@ -8694,5 +8694,72 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.25",
     "driveId": "1XmVGZnhXIfEC2iWqyfTre4b4nCeW1PnW",
     "driveUrl": "https://drive.google.com/file/d/1XmVGZnhXIfEC2iWqyfTre4b4nCeW1PnW/view"
+  },
+  {
+    "id": "429",
+    "xid": "2125579225961041998",
+    "title": "抖音夏甜",
+    "category": "人物角色",
+    "model": "",
+    "source": "@Zicovdo",
+    "sourceUrl": "https://x.com/Zicovdo/status/2125579225961041998",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125579225961041998_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125579225961041998_0.jpg"
+    ],
+    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2125579225961041998.mp4",
+    "blurb": "抖音👉夏甜",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.26",
+    "driveId": "15mSywr-YVxTeHv64vsD5ssUYPA2kHqB8",
+    "driveUrl": "https://drive.google.com/file/d/15mSywr-YVxTeHv64vsD5ssUYPA2kHqB8/view"
+  },
+  {
+    "id": "430",
+    "xid": "2125124340652072998",
+    "title": "Google 账号地区修改终极指南",
+    "category": "AI工具",
+    "model": "",
+    "source": "@DunYex",
+    "sourceUrl": "https://x.com/DunYex/status/2125124340652072998",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_0.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_1.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_2.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_3.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_4.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_5.png",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_6.jpg",
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_7.png"
+    ],
+    "videoUrl": "",
+    "blurb": "用 Google 地区关联表单改账号国家/地区，便于加入家庭组；推荐勾选经常使用 VPN（机场送中易被标成中国），提交后数小时可能通过，被拒则固定节点一周后再试。也可用家宽每天正常使用 Gmail/YouTube，大约 20 天自动切到家宽所在地。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.26",
+    "driveId": "1k26X0NcSL85ob4lk_1vMfIiCKv855-co",
+    "driveUrl": "https://drive.google.com/file/d/1k26X0NcSL85ob4lk_1vMfIiCKv855-co/view"
+  },
+  {
+    "id": "431",
+    "xid": "2124841142252659154",
+    "title": "Antigravity 用 Colab CLI 白嫖显卡",
+    "category": "AI工具",
+    "model": "",
+    "source": "@leaf_sanren",
+    "sourceUrl": "https://x.com/leaf_sanren/status/2124841142252659154",
+    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124841142252659154_0.jpg",
+    "images": [
+      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124841142252659154_0.jpg"
+    ],
+    "videoUrl": "",
+    "blurb": "订了 Google AI Pro/Ultra 可用官方 google-colab-cli，让 Antigravity 在云端显卡跑任务再把成片拉回本地。Pro 每月送 200 CU（可滚动 3 个月）。摘录日文长文：L4 渲染约 0.77 CU/22 分钟；跑完必须 colab stop，挂机也会扣算力。",
+    "prompt": "",
+    "nsfw": false,
+    "addedAt": "2026.11.26",
+    "driveId": "12yqM4mcIJSgwWieoOPEOHSEQc_T4Xr6f",
+    "driveUrl": "https://drive.google.com/file/d/12yqM4mcIJSgwWieoOPEOHSEQc_T4Xr6f/view"
   }
 ];
