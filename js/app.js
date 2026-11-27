@@ -167,25 +167,10 @@
         <p class="src" style="margin:8px 12px 0">站内播放来自 Google Drive；若无法播放请打开下方「Drive 备份」。</p>`;
     }
     if (c.videoUrl) {
-      return `<video id="heroMedia" data-video-url="${c.videoUrl}" poster="${poster || ""}" controls playsinline preload="none" referrerpolicy="no-referrer"></video>
+      return `<video id="heroMedia" data-video-url="${c.videoUrl}" ${poster ? `poster="${poster}"` : ""} controls playsinline preload="metadata" referrerpolicy="no-referrer"></video>
         <p class="src" id="videoHint" style="margin:8px 12px 0">正在加载视频…若失败请点下方「X 视频 / 原帖」</p>`;
     }
     return "";
-  }
-  async function attachTwimgVideo(videoEl, hintEl) {
-    const url = videoEl && videoEl.getAttribute("data-video-url");
-    if (!url) return;
-    try {
-      const res = await fetch(url, { referrerPolicy: "no-referrer", mode: "cors", cache: "force-cache" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      const blob = await res.blob();
-      const obj = URL.createObjectURL(blob);
-      videoEl.src = obj;
-      videoEl.load();
-      if (hintEl) hintEl.hidden = true;
-    } catch (err) {
-      if (hintEl) hintEl.textContent = "站内播放失败（X 直链限制）。请点下方「X 视频」或原帖观看。";
-    }
   }
   function openCase(id) {
     const c = CASES.find(x => x.id === id);
@@ -229,15 +214,15 @@
     const twVideo = document.getElementById("heroMedia");
     const videoHint = document.getElementById("videoHint");
     if (twVideo && twVideo.getAttribute("data-video-url")) {
-      // Prefer direct src for R2 / non-twimg; keep blob fetch for twimg hotlink limits
-      const vurl = twVideo.getAttribute("data-video-url");
-      if (vurl && !/video\.twimg\.com/.test(vurl)) {
-        twVideo.src = vurl;
-        twVideo.load();
-        if (videoHint) videoHint.hidden = true;
-      } else {
-        attachTwimgVideo(twVideo, videoHint);
-      }
+      twVideo.addEventListener("error", () => {
+        if (videoHint) {
+          videoHint.hidden = false;
+          videoHint.textContent = "视频加载失败，请点下方「X 视频」或原帖。";
+        }
+      }, { once: true });
+      twVideo.src = twVideo.getAttribute("data-video-url");
+      twVideo.load();
+      if (videoHint) videoHint.hidden = true;
     }
     let idx = 0;
     const hero = document.getElementById("heroMedia");
