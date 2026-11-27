@@ -2901,13 +2901,14 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098521751898529815_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098521751898529815.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "Este tipo explica cómo crear páginas web profesionales con GPT-5.6 Sol. Un tutorial de 21 minutos donde explica paso a p…",
     "prompt": "",
     "nsfw": false,
     "addedAt": "2026.09.15",
-    "driveId": "1C8dofzuPCcbfpJ24XGB1GyRI299rEd3B",
-    "driveUrl": "https://drive.google.com/file/d/1C8dofzuPCcbfpJ24XGB1GyRI299rEd3B/view"
+    "driveId": "1sx7Q3KjJuTe_2vrmnqYKghCJFLPy3Ool",
+    "driveUrl": "https://drive.google.com/file/d/1sx7Q3KjJuTe_2vrmnqYKghCJFLPy3Ool/view"
   },
   {
     "id": "144",
@@ -5441,7 +5442,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104177691000017260_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104177691000017260.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "原神荧俯视写真机位提示：高机位斜侧三分之四，close-medium，人物占画面75–85%",
     "prompt": "机位高度：明显高于人物头顶，摄影机位于人物前上方。\n俯视角：大约 35°–50° downward angle，不是垂直 90° 俯拍。\n水平角度：人物不是正对镜头，而是右前方/左前方的斜侧三分之四视角。\n镜头距离：比较近，属于 close-medium / medium-full，人物从头部一直覆盖到大腿甚至膝部。\n人物占画面比例很高：人物约占垂直画面的 75–85%。\n构图方向：人物身体形成一条明显的左上 → 右下/下方的斜线，不是垂直站构图。\n镜头不是广角夸张透视：更接近中长焦的压缩感，所以身体比例自然，不会出现大头小身。\n视线：人物低头，不直视镜头，因此高机位会自然产生一种“摄影师从上方捕捉到她”的感觉。",
     "nsfw": false,
@@ -7482,7 +7484,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982698518323276_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117982698518323276.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "威严检察长妈妈发现老公出轨后彻底破防，当晚主动换上情趣睡裙、开裆丝袜和高跟鞋勾引亲儿子？怒火中烧却把全部情感转移到18岁的儿子余子昊身上。 \n\n《 检察官妈妈帮我攻略她的G奶闺蜜 》完整版 主页置顶 \n#检察官妈妈帮我攻略她的G奶闺蜜 #ai短剧 https://t.co/3mEidds9ll",
     "prompt": "",
     "nsfw": true,
@@ -7542,7 +7545,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117917939391402359_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117917939391402359.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "骚货妈妈和干儿子啪啪还让亲儿子送套在门外站岗，一边淫叫还一边喊绿帽儿子\n\n完整版在主页置顶\n\n下载欲漫涩解锁更多里番动漫 https://t.co/Kn35N4QQ6a",
     "prompt": "",
     "nsfw": true,
@@ -7702,7 +7706,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118560757478547630_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118560757478547630.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "黑白丝双花为主人服务",
     "prompt": "",
     "nsfw": true,
@@ -7782,7 +7787,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119793946822140139_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119793946822140139.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "深山古寺里供着一颗来历不明的淫性天珠。山中狐妖嗅到天珠散出的强大淫力，想抢夺天珠突破修为，自己送进山门。",
     "prompt": "",
     "nsfw": true,
@@ -7802,7 +7808,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119383474230686061_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119383474230686061.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "chudai",
     "prompt": "",
     "nsfw": true,
@@ -7822,7 +7829,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119659514878435438_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119659514878435438.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "chudai",
     "prompt": "",
     "nsfw": true,
@@ -7842,7 +7850,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119875186787016778_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119875186787016778.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "《检察官妈妈帮我攻略她的G奶闺蜜》",
     "prompt": "",
     "nsfw": true,
@@ -8042,7 +8051,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105631674847695065_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105631674847695065.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "软嫩多汁的娜娜兔合集 💦 欢迎来解锁更多",
     "prompt": "",
     "nsfw": true,
@@ -8062,7 +8072,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122985238859300908_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122985238859300908.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "母猪妓女有个傻瓜儿子，但儿子鸡巴特别大，妈妈每天卖淫结束都要用儿子超大鸡巴给自己释放压力。完整版在主页置顶。",
     "prompt": "",
     "nsfw": true,
@@ -8123,7 +8134,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123378103770620412_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123378103770620412.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "台湾极品人妻辛尤里，产后火爆复出与新朋友一起大战28公分大屌黑人，被大鸡巴塞满骚穴，发出淫荡的呻吟，真的很淫荡，那个男人顶得住啊？",
     "prompt": "",
     "nsfw": true,
@@ -8143,7 +8155,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122278139615412611_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122278139615412611.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "Wataa😘😍🥰",
     "prompt": "",
     "nsfw": true,
@@ -8163,7 +8176,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123072346701627542_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123072346701627542.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "我也不知道啊，怎么这么容易爆浆的.....",
     "prompt": "",
     "nsfw": true,
@@ -8183,7 +8197,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123696852478693520_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123696852478693520.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "",
     "prompt": "",
     "nsfw": true,
@@ -8203,7 +8218,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123697817973871040_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123697817973871040.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "",
     "prompt": "",
     "nsfw": true,
@@ -8283,7 +8299,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123698255368516032_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123698255368516032.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "狗贱畜贡出自己的血汗钱💰来滋养媚黑婊子妈妈🖤\n让妈妈变得更高贵来继续榨干你这个傻逼 ❤️\n#男娘 #伪娘 #雌堕 #媚黑 #bbc #榨金",
     "prompt": "",
     "nsfw": true,
@@ -8363,7 +8380,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124060245098103030_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124060245098103030.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "绿帽王亲自安排单男玩弄自己大🐻老婆，还要求必须玩到喷水才算过关！\n她穿着黑丝高跟，PP一翘水流得像喷泉，单男直接爽到失控，男主看得也硬到不行\n😳后面直接上高难度动作 又湿又猛 👉 👈",
     "prompt": "",
     "nsfw": true,
@@ -8403,7 +8421,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123700482937901232_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123700482937901232.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "辛老师的身材真是太棒了!😍\n身穿黑丝战袍与黑皮肌肉猛男的激情21分钟\n这么大的🍆老师好像快受不了了😝",
     "prompt": "",
     "nsfw": true,
@@ -8423,7 +8442,8 @@ window.GALLERY_CASES = [
     "images": [
       "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123916296601686143_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123916296601686143.mp4",
+    "videoUrl": "",
+    "videoSource": "drive",
     "blurb": "Chudai\n@Sentoyun\n@Sentodan\n@Sentofen\n@Sentohua",
     "prompt": "",
     "nsfw": true,

@@ -154,18 +154,21 @@
     const bits = [];
     if (c.sourceUrl) bits.push(`<a href="${c.sourceUrl}" target="_blank" rel="noreferrer">${c.source || "查看原帖"}</a>`);
     else if (c.source) bits.push(c.source);
-    if (c.videoUrl) bits.push(`<a href="${c.sourceUrl || c.videoUrl}" target="_blank" rel="noreferrer">去 X 观看</a>`);
+    if (c.videoUrl || c.videoSource === "drive") bits.push(`<a href="${c.sourceUrl || c.videoUrl}" target="_blank" rel="noreferrer">去 X 观看</a>`);
     if (c.driveUrl) bits.push(`<a href="${c.driveUrl}" target="_blank" rel="noreferrer">Drive 备份</a>`);
     return bits.join(" · ") || "来源待补";
   }
+  function useDrivePlayer(c) {
+    return !!(c.driveId && (c.videoSource === "drive" || !c.videoUrl));
+  }
   function videoStage(c, poster) {
+    if (useDrivePlayer(c)) {
+      return `<iframe class="drive-player" title="Drive video" src="https://drive.google.com/file/d/${c.driveId}/preview" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+        <p class="src" style="margin:8px 12px 0">站内播放来自 Google Drive；若无法播放请打开下方「Drive 备份」。</p>`;
+    }
     if (c.videoUrl) {
       return `<video id="heroMedia" data-video-url="${c.videoUrl}" poster="${poster || ""}" controls playsinline preload="none" referrerpolicy="no-referrer"></video>
         <p class="src" id="videoHint" style="margin:8px 12px 0">正在加载视频…若失败请点下方「X 视频 / 原帖」</p>`;
-    }
-    if (c.driveId) {
-      return `<iframe class="drive-player" title="Drive video" src="https://drive.google.com/file/d/${c.driveId}/preview" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
-        <p class="src" style="margin:8px 12px 0">Drive 需公开分享才能在站内播放；不行就打开下方备份链接。</p>`;
     }
     return "";
   }
