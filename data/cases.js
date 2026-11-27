@@ -8781,5 +8781,25 @@ window.GALLERY_CASES = [
     "addedAt": "2026.11.26",
     "driveId": "12yqM4mcIJSgwWieoOPEOHSEQc_T4Xr6f",
     "driveUrl": "https://drive.google.com/file/d/12yqM4mcIJSgwWieoOPEOHSEQc_T4Xr6f/view"
+  },
+  {
+    "id": "432",
+    "xid": "2125579225961041998",
+    "title": "抖音夏甜 引流视频",
+    "category": "人物角色",
+    "model": "",
+    "source": "@Zicovdo",
+    "sourceUrl": "https://x.com/Zicovdo/status/2125579225961041998",
+    "image": "https://img.guopeng.ccwu.cc/images/2125579225961041998_0.jpg",
+    "images": [
+      "https://img.guopeng.ccwu.cc/images/2125579225961041998_0.jpg"
+    ],
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2125579225961041998.mp4",
+    "blurb": "成人引流视频帖，无提示词，仅存视频。",
+    "prompt": "",
+    "nsfw": true,
+    "addedAt": "2026.11.28",
+    "driveId": "15mSywr-YVxTeHv64vsD5ssUYPA2kHqB8",
+    "driveUrl": "https://drive.google.com/file/d/15mSywr-YVxTeHv64vsD5ssUYPA2kHqB8/view"
   }
 ];
