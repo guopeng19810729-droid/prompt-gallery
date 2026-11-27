@@ -7,12 +7,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ToroJushiAi",
     "sourceUrl": "https://x.com/ToroJushiAi/status/2082496376026349674",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082496376026349674_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082496376026349674_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082496376026349674_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082496376026349674_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082496376026349674_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082496376026349674_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082496376026349674_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2082496376026349674_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2082496376026349674_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2082496376026349674_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "Prompt ⬇️⬇️⬇️ 一位年轻成年东亚女性站在纯净暖白色摄影棚背景前，画面从头顶拍至腰部附近。人物位于中央略偏右，身体正面轻微朝画面右侧，",
@@ -30,11 +30,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@YueyueforLuis",
     "sourceUrl": "https://x.com/YueyueforLuis/status/2084935250808127699",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084935250808127699_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084935250808127699_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084935250808127699_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084935250808127699_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084935250808127699_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084935250808127699_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2084935250808127699_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2084935250808127699_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "江南美人🤍 prompt： Create a semi-realistic fashion illustration with a cinema",
@@ -52,10 +52,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaqingfeng666",
     "sourceUrl": "https://x.com/xiaqingfeng666/status/2088738028894507196",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088738028894507196_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088738028894507196_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088738028894507196_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088738028894507196_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088738028894507196_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2088738028894507196_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "跪坐回廊 prompt⬇️ 9:16竖版，高精度古风仙侠柔美梦幻写真风格，画面为古风木质回廊空间，周围有粗大的深棕色木柱、木栏杆和木台阶，背景保",
@@ -73,10 +73,10 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@VIBEQUIRKLABS",
     "sourceUrl": "https://x.com/VIBEQUIRKLABS/status/2082264456156127452",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082264456156127452_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082264456156127452_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082264456156127452_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082264456156127452_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082264456156127452_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2082264456156127452_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Gpt Image 2 Prompt : Create a photorealistic editorial portrait. Waist-u",
@@ -94,9 +94,9 @@ window.GALLERY_CASES = [
     "model": "Image 2.5",
     "source": "@VIBEQUIRKLABS",
     "sourceUrl": "https://x.com/VIBEQUIRKLABS/status/2093713691401474356",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093713691401474356_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093713691401474356_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093713691401474356_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093713691401474356_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Which of these two masks fits better? Imagine 2.0 : Photorealistic edito",
@@ -114,9 +114,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2093666656757375176",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093666656757375176_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093666656757375176_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093666656757375176_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093666656757375176_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Prompt：超写实室内酒店更衣区镜面自拍摄影，竖版约 9:16，一名年轻成年东亚女性在大型全身镜前采用极低位宽腿深蹲姿势自拍。镜头通过镜面拍摄",
@@ -134,9 +134,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2093550689997984076",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093550689997984076_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093550689997984076_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093550689997984076_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093550689997984076_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Prompt: 超写实夜间室内镜面自拍摄影，竖版约 4:5，一名年轻成年东亚女性坐在大型落地镜前的一张浅原木方凳上，用手机开启闪光灯自拍。镜头通",
@@ -154,9 +154,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@AIVideoHub_",
     "sourceUrl": "https://x.com/AIVideoHub_/status/2093522551142314337",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093522551142314337_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093522551142314337_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093522551142314337_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093522551142314337_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "健身房健身，出一身汗很爽🥰 GPT IMAGE2 提示词： 9:16 竖版，真实 iPhone 日常随手拍 × 韩国健身房生活快照 × 运动时尚",
@@ -174,9 +174,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIjee_tpe",
     "sourceUrl": "https://x.com/AIjee_tpe/status/2093355613648822327",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093355613648822327_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093355613648822327_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093355613648822327_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093355613648822327_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] Young adult East Asian woman",
@@ -194,9 +194,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@CyberTotal2026",
     "sourceUrl": "https://x.com/CyberTotal2026/status/2093263569249005578",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093263569249005578_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093263569249005578_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093263569249005578_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093263569249005578_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "近い視線に、桃色の空気まで閉じ込めて💕✨ 見上げる一瞬だけ、時間がゆっくりになる。 #AIart #AI写真 #見上げる視線 【GPT Imag",
@@ -214,9 +214,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@dannywayli",
     "sourceUrl": "https://x.com/dannywayli/status/2093259274843718107",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093259274843718107_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093259274843718107_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093259274843718107_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093259274843718107_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "「便利店の回眸」 神仙🌟提示词（prompt）： 9:16 竖版，全身写实人像摄影，现代地铁站内的玻璃自拍场景，一位 20–25 岁的成年东亚女",
@@ -235,9 +235,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@hann7712",
     "sourceUrl": "https://x.com/hann7712/status/2091420959719018790",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091420959719018790_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091420959719018790_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091420959719018790_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091420959719018790_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "收藏提示词👇： 城市蓝墨线稿海报 以【城市名】为主题，创作一张极简高级的城市建筑线稿海报 画面使用深钴蓝色钢笔线稿 / 建筑速写表现城市最有辨识",
@@ -255,9 +255,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@VoxcatAI",
     "sourceUrl": "https://x.com/VoxcatAI/status/2091339610505007347",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091339610505007347_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091339610505007347_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091339610505007347_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091339610505007347_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "还是带直播 UI 更有感觉，一加上弹幕、点赞这些东西，马上就有那种刷直播时突然看到这一幕的感觉。 不带 UI 就有点像普通自拍了，差点意思。 提",
@@ -275,9 +275,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@you1873118",
     "sourceUrl": "https://x.com/you1873118/status/2091097180253946061",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091097180253946061_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091097180253946061_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091097180253946061_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091097180253946061_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "提示词： 参考图中同一位成年女性人像，保持五官、脸型、肤色、发型与整体气质一致。黑色头发盘成低位发髻，两侧自然碎发，白色花朵发饰，珍珠耳坠，精致",
@@ -295,9 +295,9 @@ window.GALLERY_CASES = [
     "model": "Midjourney",
     "source": "@PixelAigc",
     "sourceUrl": "https://x.com/PixelAigc/status/2090211284117782635",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090211284117782635_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090211284117782635_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090211284117782635_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090211284117782635_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这是垫图，Midjourney V8.2 prompt 提示词见alt 其中之一： 巨大的白色玉石纪念碑，精雕细琢的龙纹浮雕，矗立在白色大理石阶",
@@ -315,11 +315,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Zesee",
     "sourceUrl": "https://x.com/Zesee/status/2090069275230769175",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090069275230769175_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090069275230769175_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090069275230769175_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090069275230769175_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090069275230769175.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2090069275230769175.mp4",
     "blurb": "最近很火的娃娃变装视频提示词开源 9:16 竖屏，超写实真人芭比换装短片。人物身份只参考上传的银灰发女孩图片，五官、脸型、眼距、鼻子、嘴唇、肤色",
     "prompt": "开源\n\n9:16 竖屏，超写实真人芭比换装短片。人物身份只参考上传的银灰发女孩图片，五官、脸型、眼距、鼻子、嘴唇、肤色与参考图保持一致。银灰色高马尾，轻薄空气刘海，两侧少量自然碎发。人物为真实成年女性，正常纤长模特比例，8至8.5头身，头部约占全身高度的八分之一，肩宽自然，四肢修长但符合真实人体结构，绝对不能大头小身。\n\n人物始终位于画面正中央，全身完整入镜，双脚和头顶均有留白。平视固定机位，50mm镜头观感，无推拉、无摇移、无旋转、无焦段变化。背景固定为奶油白、雾霾蓝和少量香槟金组成的梦幻时尚工作室，柔和自然光，家具、墙面、地板和阴影位置全程不变。\n\n画面前景出现一双真人尺寸巨型女性双手，双手皮肤真实，比例稳定，左右手结构正确。长杏仁形镜面银色美甲，镶嵌透明水晶、珍珠和精致立体蝴蝶结。巨手始终在人物前方活动，通过衣服、鞋子或配饰短暂遮挡人物，实现无缝换装。\n\n最终服装、鞋子、项链、手链和手提包的款式、颜色、纹理，严格以对应的上传图片为准，禁止模型自行重新设计。 00:00–00:01\n银灰发女孩穿基础内搭站在画面中央，身体自然放松，目视镜头。两只巨型美甲手分别从左下方和右下方进入，捏住连衣裙左右肩部或肩带，平稳地将裙子送到人物面前。\n\n00:01–00:02\n巨手同步向上抬起连衣裙，裙摆从人物膝盖位置上升到腰部和胸口。女孩低头看向衣服，身体位置、脸和发型保持不动。裙子逐渐遮挡基础内搭。\n\n00:02–00:03\n连衣裙继续向上移动，完整遮挡人物躯干，并在画面中央形成约0.3秒的自然遮挡。遮挡最完整的瞬间完成隐藏换装，不能用闪光、烟雾或溶解特效。\n\n00:03–00:04\n巨手向左右两侧缓慢分开并稍微下降。遮挡解除后，女孩已经完整穿好与母版图片完全一致的连衣裙，领口、腰线、裙摆和材质全部固定。\n\n00:04–00:05\n巨手轻轻整理裙子两侧肩部和腰线，布料产生细微自然摆动，随后双手从画面两侧退出。人物抬头看向镜头，保持真人芭比般克制、自然的表情。\n\n00:05–00:06\n两只巨手从画面底部左右两侧再次进入，各自捏住一只与鞋子参考图完全一致的鞋，鞋尖朝向人物双脚，缓慢送向脚边。\n\n00:06–00:07\n巨手将鞋子移动到人物双脚正前方，鞋子和手指短暂遮挡脚部。遮挡瞬间完成换鞋，双脚不能移动位置，不能穿模，不能出现多余鞋子。\n\n00:07–00:08\n巨手向两侧撤开，女孩脚上已经穿好成对的新鞋。鞋型、颜色、鞋跟和装饰左右一致。人物轻轻调整一次重心，裙摆有非常轻微的自然晃动。\n\n00:08–00:09\n硬切到固定的腰部以上中近景，不做连续镜头推近。两只巨手从画面上方左右两侧进入，拉直项链两端，将项链移动到女孩颈部前方。女孩微微抬起下巴。\n\n00:09–00:10\n巨手把项链绕到颈后，手指短暂遮挡颈部两侧。完成遮挡后，项链自然佩戴在颈部中央，吊坠位置端正，款式与项链母版一致。\n\n00:10–00:11\n巨手从上方退出，项链保持稳定，不闪烁、不变形。硬切回原来的固定全身构图，人物位置和背景透视必须与换装前一致。\n\n00:11–00:12\n女孩缓慢抬起左侧前臂，手掌向上。右上方进入一只巨型美甲手，拇指和食指捏着与参考图一致的手链，向女孩手腕靠近。\n\n00:12–00:13\n巨手将手链从女孩指尖方向轻轻滑向手腕，手指短暂遮挡手腕。遮挡解除后，手链已经正确戴好，手链大小贴合，不能悬浮或嵌入皮肤。\n\n00:13–00:14\n巨手轻轻调整手链位置后退出。女孩放松左手，同时略微抬起右侧前臂，为手提包动作留出空间。\n\n00:14–00:15\n一只巨手从右下方进入，捏住手提包的两个提手，将与母版完全一致的手提包抬到人物右侧前臂旁。包体保持真实重量感和稳定结构。\n\n00:15–00:16\n巨手将包带挂到女孩抬起的右前臂上，短暂遮挡手腕后松开。手提包自然下垂并轻轻摆动一次，不能穿过手臂或裙子。\n\n00:16–00:17\n巨手从右上方重新进入，拇指和食指像操纵真人娃娃一样，轻轻捏住女孩抬起的右手。女孩保持放松，不挣扎，手提包随手臂一起被抬高。\n\n00:17–00:18\n巨手将女孩右手略微向上提起。女孩像精致真人娃娃一样向前轻轻鞠躬约15至20度，头部、肩膀和上半身自然同步，银灰马尾和手提包轻微摆动。\n\n00:18–00:19\n女孩缓慢恢复直立，巨手松开并从右上方退出。人物面对镜头展示完整造型，双脚并拢，表情自然，保持最终造型约1秒，所有服装和配饰稳定不变。\n\n00:19–00:22\n不需要AI生成。这部分原片只是抖音搜索尾卡。剪辑时可以直接结束，或单独制作静态结束页。不要黑发、不要棕发、不要改变人物身份、不要换脸、不要欧美化五官、不要大头娃娃、不要Q版、不要塑料玩偶皮肤、不要缩短腿部、不要过细腰部、不要身体变形。",
     "nsfw": false,
@@ -335,9 +335,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@VoxcatAI",
     "sourceUrl": "https://x.com/VoxcatAI/status/2088898567863751046",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088898567863751046_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088898567863751046_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088898567863751046_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088898567863751046_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Subject： 一名明确为成年人的东方女性，纤细修长的自然成年比例，柔和鹅蛋脸，粉白细腻瓷肌，五官精致清秀。乌黑浓密长发塑造成大体积古典高髻与",
@@ -355,9 +355,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@AIVideoHub_",
     "sourceUrl": "https://x.com/AIVideoHub_/status/2088795047932354873",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088795047932354873_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088795047932354873_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088795047932354873_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088795047932354873_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "春宵苦短日高起，从此君王不早朝 GPT Image 2 杨贵妃醉酒提示词： 这是一张具有电影质感的写真专业人像摄影图片，采用淡彩、胶片摄影风格，",
@@ -375,9 +375,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Soranlan",
     "sourceUrl": "https://x.com/Soranlan/status/2084940028396839362",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084940028396839362_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084940028396839362_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084940028396839362_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084940028396839362_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这组一出来，真的有种法式花园偶遇女主的感觉。[场景/白色栏杆 + 花墙 + 密集粉白花簇] → [把画面直接拉进“富家花园午后”的氛围里]，背景",
@@ -395,9 +395,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2084639066046562542",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084639066046562542_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084639066046562542_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084639066046562542_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084639066046562542_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "帝王人像提示词： 超写实古装帝王肖像摄影，古代皇帝端坐于华丽龙椅之上，低机位仰拍构图，人物以一种松弛却极具压迫感的姿态斜倚在龙椅中，头部轻轻靠在",
@@ -415,9 +415,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Suzuna_AI_girls",
     "sourceUrl": "https://x.com/Suzuna_AI_girls/status/2084566163397468318",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084566163397468318_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084566163397468318_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084566163397468318_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084566163397468318_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "🔔Prompt： Overall: A monochrome romantic-gothic outfit with a cropped lac",
@@ -435,9 +435,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@YueyueforLuis",
     "sourceUrl": "https://x.com/YueyueforLuis/status/2083547819449758108",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083547819449758108_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083547819449758108_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083547819449758108_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083547819449758108_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "閉上眼睛💛✨ prompt： Create a semi-realistic / photorealistic romantic cinemat",
@@ -455,9 +455,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mame83427725210",
     "sourceUrl": "https://x.com/mame83427725210/status/2083539488534626644",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083539488534626644_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083539488534626644_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083539488534626644_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083539488534626644_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "ゴシックドレス プロンプト SCENE: ミカのフルボディ撮影。豪華なヨーロピアン宮殿風サロン。金装飾のモールディングが施された壁、クラシカルな",
@@ -475,9 +475,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@VIBEQUIRKLABS",
     "sourceUrl": "https://x.com/VIBEQUIRKLABS/status/2082751826001285535",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082751826001285535_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082751826001285535_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082751826001285535_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082751826001285535_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Gpt Image 2 Prompt : Create a 9:16 photorealistic editorial portrait. Wa",
@@ -495,9 +495,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@michaelrabone",
     "sourceUrl": "https://x.com/michaelrabone/status/2082738214549197291",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082738214549197291_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082738214549197291_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082738214549197291_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082738214549197291_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Stereoscopic photo of Jennifer Lawrence, Kodak Ektar 100 colour negative",
@@ -515,9 +515,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2082692418986803663",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082692418986803663_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082692418986803663_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082692418986803663_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082692418986803663_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "提示词： 【画面概览】成年女性约尔·福杰在雨后清晨的高山温泉露台整理被山风掀起的披肩，定格她隔着雾气回望镜头的瞬间；唯一主视觉是墨红贴身礼裙的交",
@@ -535,9 +535,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@2toroRemake",
     "sourceUrl": "https://x.com/2toroRemake/status/2082579419877478706",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082579419877478706_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082579419877478706_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082579419877478706_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082579419877478706_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "This is a SFW illustration. no suggestive intent in this illustration. お",
@@ -555,9 +555,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sdjn_wgc",
     "sourceUrl": "https://x.com/sdjn_wgc/status/2082482452270834129",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082482452270834129_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082482452270834129_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082482452270834129_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082482452270834129_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "我果然还是喜欢饱满一点的。 提示词：绝美 23 岁东亚美女，丰腴匀称沙漏型身材，腰臀比例优雅，曲线自然柔美，气质时尚、自信、温柔，性感但含蓄端庄",
@@ -575,9 +575,9 @@ window.GALLERY_CASES = [
     "model": "Image 2",
     "source": "@CyberTotal2026",
     "sourceUrl": "https://x.com/CyberTotal2026/status/2082354435142119655",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082354435142119655_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082354435142119655_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082354435142119655_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082354435142119655_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "縁側に落ちた葉影を、指先と膝でそっと受け止める。庭の緑が近い午後。🌿☀️🤍 #AIart #AI写真 #縁側 【GPT Image2プロンプト】",
@@ -595,9 +595,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@YUKIMASTERAI",
     "sourceUrl": "https://x.com/YUKIMASTERAI/status/2082224506706530492",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082224506706530492_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082224506706530492_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082224506706530492_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082224506706530492_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "🍃🌸Below are the details for recreating the style, local layout, and atmo",
@@ -615,11 +615,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@johnAGI168",
     "sourceUrl": "https://x.com/johnAGI168/status/2093680788990476668",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093680788990476668_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093680788990476668_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093680788990476668_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093680788990476668_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093680788990476668.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093680788990476668.mp4",
     "blurb": "叫妈妈👩小甜甜秒变妈妈 MiniMax H3 生成 prompt 👇 【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel",
     "prompt": "👇\n\n【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel Transformation），电影感时尚短片（Cinematic Fashion Film），真实手机竖屏实拍质感（Photorealistic Handheld），8K超清，暖调低光室内摄影，皮肤有真实毛孔和光泽、布料可见织纹和垂坠感，无AI塑料感，竖屏9:16\n【时长】10秒\n【场景】高级精品酒店房间，始终同一个机位、同一把椅子\n【角色】Anna @图片1（全片唯一角色）。五官、脸型、身形严格锁定参考图，变装前后不漂移。\n\n【景别与机位基准】固定机位，略低角度（相机高度约在坐姿时膝盖位置、微微仰拍），椅子居画面中央偏右，左侧大面积逆光窗帘过曝形成高光留白，右侧深色木质墙面和暗色窗帘压暗，形成强烈的明暗对比（Chiaroscuro Lighting）。全片机位不移动、不推拉摇移。\n\n【核心变装机制：抛鞋→踢腿】\n道具触发变装——Anna 坐在椅子上把一只黑色高跟凉鞋向上一抛，鞋子离手还在空中上升的那一帧硬切（Hard Cut）→ 下一帧她已经穿好全套造型，右腿猛地向上一甩踢向镜头、鞋底正对镜头（鞋子已经穿在脚上），踢腿和抛鞋形成一对跨越剪辑的镜像动作——\"抛出去的鞋，下一帧就穿在了脚上\"。踢腿后右腿缓缓收回，跷成二郎腿坐定。变装前后椅子位置、机位、光线完全一致，只有人物的穿着和姿态整个换掉。\n\n[00:00-00:01.5] 镜头1：空椅子·悬念开场（Establishing Shot）\n画面：酒店房间内，左侧落地窗透过白色薄纱窗帘漫进大片柔和白光（窗帘过曝），右侧深色木质竖条纹护墙板和深灰色厚窗帘形成暗部。画面中央偏右一把黑色哑光金属框架扶手椅（黑色皮质坐垫），椅子空着，右上角墙上隐约可见一幅装裱画的边角。深灰色哑光地板。\n画面里没有人——空椅子制造悬念。\n\n[00:01.5-00:02.5] 镜头2：入场·浴袍登场（Character Entrance）\nAnna 从画面右侧走入镜头，赤脚踩在深灰色地板上。她穿着白色酒店浴袍（厚实毛巾布料质感、腰间系带打结、左胸口绣有酒店首字母），头上裹着白色浴巾扎成高高的包头巾（turban），脸上已经画好全妆——正红色哑光唇膏（红唇是全画面唯一的高饱和色彩点）、精致眉眼。双手捧着一双黑色绑带高跟凉鞋（细带交叉款，鞋跟约8厘米）放在腰间。\n她面对镜头走到椅子前方站定，表情冷淡从容，嘴唇微微抿起，下巴微微抬高，眼神直视镜头——\"给我几秒钟\"的自信态度。\n\n[00:02.5-00:04.5] 镜头3：落座·把玩高跟鞋（Seated Tease）\nAnna 转身坐到黑色扶手椅上，浴袍下摆散开，赤足的双腿自然并拢垂在椅子前方。她把两只黑色高跟鞋放在膝盖上，双手握住鞋子，低头审视。\n表情：微微垂眼看着手中的鞋，嘴角不笑、红唇轻抿，带着一种\"我在挑选武器\"的挑剔和笃定。\n动作细节：她把两只鞋分开，左手一只右手一只，轻轻掂了掂重量，手指拨弄鞋面的黑色细带。\n\n[00:04.0-00:04.5] 镜头4：抛鞋·变装触发（The Throw）\nAnna 右手握住一只黑色高跟鞋，手腕一翻、向上一抛——鞋子脱手飞向空中，黑色细带在空中散开甩动。左手同时还握着另一只鞋。\n表情：抛鞋瞬间眼睛微微闭上，红唇轻抿，下巴微扬，一副\"就这样吧\"的随意。\n鞋子离手、还在空中上升的那一帧——**硬切（Hard Cut）**\n\n[00:04.5-00:05.5] 镜头5：踢腿亮鞋·变装完成（The Kick Reveal）\n硬切之后，Anna 依然坐在同一把黑色扶手椅上，但整个人焕然一新：\n穿着：白色浴袍和包头巾消失，头发放下来自然散落（hair down）。妆容比变装前更精致——眉形利落、眼妆深邃带微光、正红色哑光唇膏依旧，整体是高端时尚大片级别的妆面质感。身穿黑色无袖高领修身连衣裙（halter-neck mini dress，面料紧贴身体轮廓、裙摆到大腿中段），双腿穿着黑色薄透丝袜（sheer black tights，织纹细腻可见），脚上穿着刚才手里那双黑色绑带高跟凉鞋（细带交叉绑到脚踝上方）。\n关键动作：硬切的第一帧，右腿猛地向上甩踢，整条腿斜着踢向镜头方向——高跟鞋鞋底正对镜头、占据画面中央，鞋底的皮质纹理清晰可见。这一踢和上一帧的抛鞋动作形成跨越剪辑的因果呼应：\"刚才抛出去的鞋，这一帧已经穿在脚上了。\"\n表情：踢腿瞬间目光斜睨镜头，眉梢微挑，红唇微启——冷飒的\"准备好了\"。\n随后右腿缓缓从高处收回，优雅地跷在左腿上（二郎腿），身体微微向左后方靠进椅背，左手手指搭在左侧扶手边缘——慵懒、松弛、掌控一切的坐姿。\n\n[00:05.5-00:10.0] 镜头6：慵懒女王·时尚大片（Slow Fashion Pose）\n接下来4.5秒内，Anna 在椅子上做一组极慢的时尚大片姿态变换（Fashion Editorial Posing），每个动作之间自然衔接、一镜到底没有剪辑：\n① 二郎腿跷腿姿势稳定，目光从镜头缓缓移向左侧窗帘方向，侧脸轮廓被逆光勾勒出金色边缘光；\n② 右手从扶手上缓缓抬起，五指微张在空中做了一个轻柔的\"弹指/拨弄\"手势，手指骨节分明；\n③ 右手继续向上，指尖触到右侧肩旁的一缕发丝，轻轻捻起发梢向外拉出一小段，发丝在指间缠绕；\n④ 头微微向右后方仰，闭上眼睛约0.5秒，红唇微启，发丝从指间滑落；\n⑤ 缓缓睁眼，目光重新对准镜头，嘴角带出一丝极淡的微笑——但只有嘴角，眼神依然是冷的。右手回落到扶手上。\n画面在这个\"冷眼微笑\"的定格中自然结束。\n\n【音效】\n前半段（00:00-05:30）：安静的酒店房间环境音底噪——远处隐约的城市嗡鸣、空调低频运转。叠加：赤脚踩地板的轻柔脚步声、浴袍布料摩擦的窸窣声、鞋子被拿起和翻转时皮革与金属扣的轻微碰击声。\n硬切瞬间（05:30）：一声干脆利落的低频鼓点\"咚\"（Kick Drum Hit），标记变装切点。\n后半段（05:30-10:00）：慵懒的电子氛围音乐缓缓铺开（Lo-fi Chill / Downtempo），节奏极慢，配合Anna 的慢动作姿态。叠加：丝袜面料在交叉腿时的轻微摩擦声、高跟鞋跟在换姿势时轻轻碰到椅腿的\"嗒\"声、手指拨弄发丝的细微声响。\n\n【一致性锁定】\n1. 全片固定机位，不推拉摇移，不换角度。\n2. 同一把黑色扶手椅，位置不变。\n3. 变装前后光线一致：左侧窗帘逆光过曝、右侧暗部压低。\n4. 脸部严格锁定 @图片1，变装前后不出现任何面部漂移。\n5. 变装前的高跟鞋和变装后脚上穿的是同一双鞋（黑色细带交叉绑带凉鞋），细节一致。\n6. 红唇是全片唯一的高饱和色彩，变装前后保持一致。\n7. 变装只用一次硬切，不许出现任何转场特效、模糊、叠化、黑场、闪白、魔法粒子。\n8. 画面内不出现任何品牌logo、文字、字幕、水印。\n9. 不出现镜面反射或水面倒影中的人像。\n10. 后半段pose变换是连续拍摄，不再有任何剪辑切换，一镜到底。",
     "nsfw": false,
@@ -635,11 +635,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2093599695570714699",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093599695570714699_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093599695570714699_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093599695570714699_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093599695570714699_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093599695570714699.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093599695570714699.mp4",
     "blurb": "调试了9个版本终于稳定下来了。 这种网红视角的短视频在h3模式使用图生视频来完成 对提示词要求非常高。 还踩了个坑 . H3 在高像素模式下，模",
     "prompt": "要求非常高。\n还踩了个坑 .\n\nH3 在高像素模式下，模型会优先追求人脸细节还原；俯拍 45‑55° 向下拍摄，人脸会产生透视形变（额头大、下巴收）。模型内部有隐性偏好：高清晰度生成时尽量避免人脸强烈透视畸变，主动把相机拉回眼平，保证人脸 “好看端正”，直接无视你的机位硬约束。\n\n也在文章分享了修复方案。\n提示词 \n\n芙宁娜｜时装走秀 💙🎭✨\n\n芙宁娜登上属于她的时尚舞台。\n随着灯光与音乐展开，优雅、戏剧感与舞台气场交织在一起，属于水之国的时装秀正式开始。\n从舞台中央走来，每一步都像一场属于芙宁娜的精彩演出。✨\n 今天的主角，当然是芙宁娜。\n\n喜欢这场走秀的话，点赞❤️收藏⭐关注🔔支持一下！\n推荐 X 标签：\n\n#芙宁娜 #Furina #原神 #GenshinImpact #时装走秀 #FashionShow\n#フリーナ #原神 #ファッションショー\n#NguyenThan #GenshinImpactVN #NhanVatGame\n\n#AIArt #AIVideo #提示词分析 #promptshare #MINIMAXH3 #ai教程",
     "nsfw": false,
@@ -655,12 +655,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIjee_tpe",
     "sourceUrl": "https://x.com/AIjee_tpe/status/2093594050322681979",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093594050322681979_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093594050322681979_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093594050322681979_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093594050322681979_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093594050322681979_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093594050322681979_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093594050322681979_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093594050322681979_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093594050322681979_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093594050322681979_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] A young adult East Asian wom",
@@ -678,12 +678,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@you1873118",
     "sourceUrl": "https://x.com/you1873118/status/2093580509679071724",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093580509679071724_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093580509679071724_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093580509679071724_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093580509679071724_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093580509679071724_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093580509679071724_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093580509679071724_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093580509679071724_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093580509679071724_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093580509679071724_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "提示词： 明确成年的年轻女性，纤细高挑、匀称自然的身材比例，腰线清晰，腿部修长但不过度夸张。长而浓密的深棕黑色自然波浪卷发，蓬松柔顺，部分碎发自",
@@ -701,11 +701,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@ponyodong",
     "sourceUrl": "https://x.com/ponyodong/status/2093523920045699263",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093523920045699263_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093523920045699263_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093523920045699263_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093523920045699263_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093523920045699263.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093523920045699263.mp4",
     "blurb": "🎥 用 MiniMax H3 做了个很惬意的沿海列车片头！ 很多人问这种带一点胶片质感、从列车内部缓缓向窗外延伸的运镜怎么做？其实关键在于提示词",
     "prompt": "里的分层镜头调度（视角从车厢内滑向海景）。\n\n提示词（Prompt）直接分享给大家👇\n\n加上复古色彩与自然光效关键词Opening Title｜15秒、2.39:1、24fps真人爱情卡司PV《SUMMER, WITH YOU》。原创成年演员MIRA LIN、JULIAN PARK，海边小城35mm胶片感，奶油白/海蓝/淡黄。四镜：海岸列车无字；书店女主配“STARRING/MIRA LIN”；港口男主配“JULIAN PARK”；街角相遇后夕阳步道揭示片名。文字衬线、留白充足、遮挡转场，不接吻摆拍、无额外文字/Logo/黑屏。\n\n💡 制作小技巧：\n\n声明主体镜头位置（车窗视角内框）\n指定动态平移方向（横向滑移/跟拍）\n加上复古色彩与自然光效关键词",
     "nsfw": false,
@@ -721,12 +721,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIjee_tpe",
     "sourceUrl": "https://x.com/AIjee_tpe/status/2093255125288784034",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093255125288784034_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093255125288784034_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093255125288784034_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093255125288784034_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093255125288784034_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093255125288784034_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093255125288784034_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093255125288784034_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093255125288784034_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2093255125288784034_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "Ref. Prompt (SFW) ### [Subject Description] Stunning 22-year-old East As",
@@ -744,12 +744,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Nyx_lumi1221",
     "sourceUrl": "https://x.com/Nyx_lumi1221/status/2092609219136799094",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092609219136799094_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2092609219136799094_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092609219136799094_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092609219136799094_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2092609219136799094_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2092609219136799094_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2092609219136799094.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2092609219136799094.mp4",
     "blurb": "ミリタリー風ゲーム系ファッション🧡 衣装のみ背景無しも分かりやすいように貼ります 衣装配布なので、人物や背景やポーズなどお好きに🐹男の子の衣装プ",
     "prompt": ". 😆\n\nThe main difference is that I didn’t use the outfit prompt alone. I first told ChatGPT the composition I wanted — crouching pose, half-body close shot, strong low-angle camera, powerful attitude, and asked it to design",
     "nsfw": false,
@@ -765,11 +765,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2091167799691641015",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091167799691641015_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091167799691641015_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091167799691641015_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091167799691641015_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2091167799691641015.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2091167799691641015.mp4",
     "blurb": "使用h3复刻一个最近很火的 用手势控制角色舞蹈的视频。 只需要输入图片1 导入提示词就行了，提示词可以自定义舞蹈动作，只要不破坏手指对图片1的约",
     "prompt": "就行了，提示词可以自定义舞蹈动作，只要不破坏手指对图片1的约束。\n\n提示词\n\n\n#AIArt #AIVideo #提示词分析 #promptshare #MINIMAXH3 #ai教程",
     "nsfw": false,
@@ -785,9 +785,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ohmuyi",
     "sourceUrl": "https://x.com/ohmuyi/status/2091131263315050541",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091131263315050541_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091131263315050541_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091131263315050541_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091131263315050541_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "几天不见gpt现在尺度怎么这么大了 完整提示词如下⬇️： @创建图片 9:16, ccd，中国网红，冷棕色短发波波头，抱腿坐，超广角透视，前脚机",
@@ -805,11 +805,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@johnAGI168",
     "sourceUrl": "https://x.com/johnAGI168/status/2090349290124140547",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090349290124140547_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090349290124140547_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090349290124140547_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090349290124140547_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090349290124140547.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2090349290124140547.mp4",
     "blurb": "剁腿变装👚 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect ratio: 9:16 Overall sty",
     "prompt": "👇\n\nDuration: 10秒\nAspect ratio: 9:16\nOverall style: 夏季时装卡点变装，真实摄影，一镜到底（One Take），动作匹配剪辑（Action Match Cut），4K高帧率\n\nSHOT 1（00:00-00:02.20）\nSubject: 女主@图片1。初始穿白色修身短衬衫、深灰高腰喇叭裤、黑色一字带细跟凉鞋。\nAction:\n女主从右侧走入，身体侧向左方，脸转向镜头，走到中央停下。\n右腿承重；左膝轻屈，左脚向后勾起，随后快速跺回原位。双手屈于腰侧，手腕随音乐轻摆。\nEnvironment: 白墙、黑色踢脚线、浅灰瓷砖地面，影棚柔光。\nCamera: 固定全身镜头，双脚完整入画。\nConstraints: 身体保持侧姿，脸和视线始终朝向镜头。\n\nSHOT 2（00:02.20-00:08.20）\nAction:\n女主固定站在中央，反复使用同一动作：右腿承重→左膝轻屈→左脚向后勾起→左脚快速跺回原点。每次左鞋跟触地，服装瞬间硬切；换装前后脸、头发、侧身角度、手势完全衔接。\n\n00:02.20：白色细肩带短上衣、白色侧抽绳短裤。\n00:03.10：黑色半透短款上衣、金色亮片短裤、黑色丝袜。\n00:03.90：灰色细肩带短上衣、灰色高腰紧身裤。\n00:04.60：黑色高领短上衣、黑色短裤、红边黑色长筒丝袜。\n00:05.25：紫色挂颈短上衣、黑色短裤、紫色丝袜、紫色腰带。\n00:05.85：酒红露肩短上衣、黑色皮质短裤、黑色丝袜。\n00:06.40：银灰单肩短上衣、黑色高腰短裙。\n00:06.90：深蓝挂颈修身短裙、黑色丝袜。\n00:07.35：象牙白缎面短上衣、灰色修身短裤、深灰丝袜。\n00:07.80：白色修身短衬衫、黑色高腰皮质短裙。\n\nStyle: 后半段换装逐渐加速；每套都是贴身、利落的夏季造型。黑色细跟凉鞋全程不变。\nConstraints: 每次只在左脚落地帧换装；不使用闪光、烟雾或旋转遮挡。\n\nSHOT 3（00:08.20-00:10.00）\nAction:\n女主停止跺脚，保持侧身，脸看镜头；右腿承重，左膝微屈。她轻摆双手，随后微笑定格。\nCamera: 固定全身镜头，结尾轻微推进。\nAudio: 快节奏卡点音乐；每次左鞋跟落地配清脆“嗒”声。无对白、无字幕。\n\n---\nNegative: 日常通勤装，宽松T恤，卫衣，牛仔长裤，工装裤，运动服，厚外套，长裙，脸看向侧面，背对镜头，右腿跺地，左右腿交替，双脚跳跃，高抬腿，向前踢腿，脚底漂浮，换装早于落地，服装渐变，闪光，烟雾，人物瞬移，姿势断裂，额外腿脚，脸型变化，发型变化，鞋子变化，镜头晃动，背景变化，字幕，水印，标志。",
     "nsfw": false,
@@ -825,11 +825,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2089764797361582208",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2089764797361582208_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2089764797361582208_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2089764797361582208_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2089764797361582208_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2089764797361582208.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2089764797361582208.mp4",
     "blurb": "很难想象，这个提示词花了48 小时， MiniMax H3 三人物运镜。遮挡衔接式贴身环绕长镜头。 提示词 三人各做一套完整贴身近距离环绕（Cl",
     "prompt": "@monsterhao 选双时钟 \n\n国内用户：\n国外用户：\n10Eros+Beta+Lightx2v正式版Minimax双时钟文生视频V1\n国内用户：\n国外用户：\n10Eros+Beta+Lightx2v正式版Minimax双时钟参考生视频V1",
     "nsfw": false,
@@ -845,11 +845,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@noorwithwifi",
     "sourceUrl": "https://x.com/noorwithwifi/status/2083585853625131353",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083585853625131353_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083585853625131353_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083585853625131353_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083585853625131353_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083585853625131353.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2083585853625131353.mp4",
     "blurb": "Made with Seedance 2.0 Prompt: Create a cinematic 3D architectural visua",
     "prompt": "Create a cinematic 3D architectural visualization of a traditional Korean Hanok house on a technical blueprint background. Show a curved dark Giwa tiled roof, exposed wooden beams, raised stone foundation, Hanji sliding doors, and a wooden balcony. Add blue architectural schematics, measurements, floor plans, and cross-section overlays. Use a smooth camera rotation from side view to front view, with a colorful rainbow scanning light effect highlighting the roof and wooden joints. Warm interior lighting creates a peaceful, elegant atmosphere while showcasing the structure and design details.",
     "nsfw": false,
@@ -865,9 +865,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Live_life_style",
     "sourceUrl": "https://x.com/Live_life_style/status/2082620197429739543",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082620197429739543_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082620197429739543_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082620197429739543_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082620197429739543_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "GPTで生成 プロンプト🔽 { \"direction\": \"友人がスマートフォンを構えた瞬間、架空の成人日本人女性が床に置いた薄手のカーディガン",
@@ -885,9 +885,9 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@BenLui52683289",
     "sourceUrl": "https://x.com/BenLui52683289/status/2091426484871450886",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091426484871450886_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091426484871450886_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091426484871450886_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091426484871450886_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "By Grok AI #GrokAI #AIArt #AICosplay",
@@ -905,9 +905,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kasu_mi_ai",
     "sourceUrl": "https://x.com/kasu_mi_ai/status/2091297883400425792",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091297883400425792_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091297883400425792_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091297883400425792_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091297883400425792_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "1 3. 翡翠グリーン刺繍のオーバースカートチャイナ 衣装プロンプトは下に↓↓↓ TLでチャイナドレスが流れていたのでアレンジチャイナドレス。オ",
@@ -925,9 +925,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MANISH1027512",
     "sourceUrl": "https://x.com/MANISH1027512/status/2090328945833152777",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090328945833152777_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090328945833152777_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090328945833152777_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090328945833152777_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "再给兄弟们来一组 昨晚也没跑多少，大概就200来张吧",
@@ -945,9 +945,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@BaseLofi888",
     "sourceUrl": "https://x.com/BaseLofi888/status/2084730479006404880",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084730479006404880_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084730479006404880_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084730479006404880_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084730479006404880_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "おやすみなさい ゆっくり休んでね Original SFW illustration.",
@@ -965,9 +965,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@qiuxiang796",
     "sourceUrl": "https://x.com/qiuxiang796/status/2083727455786029479",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083727455786029479_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083727455786029479_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083727455786029479_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083727455786029479_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "☺️",
@@ -985,9 +985,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@BaseLofi888",
     "sourceUrl": "https://x.com/BaseLofi888/status/2083639287032197497",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083639287032197497_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083639287032197497_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083639287032197497_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083639287032197497_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Good night. 素敵な夢をᲘ︵𐑼 ♡ Original SFW illustration.",
@@ -1005,9 +1005,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@asanoai02",
     "sourceUrl": "https://x.com/asanoai02/status/2083628836525330774",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083628836525330774_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083628836525330774_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083628836525330774_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083628836525330774_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "No.66 67P 6V Boa Hancock",
@@ -1025,9 +1025,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2083628832041656759",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083628832041656759_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083628832041656759_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083628832041656759_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083628832041656759_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "No.129 76P 6V Female assassin",
@@ -1045,9 +1045,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AITECCAFE",
     "sourceUrl": "https://x.com/AITECCAFE/status/2083613984435937321",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083613984435937321_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083613984435937321_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083613984435937321_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083613984435937321_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "夜中のIllustriouse▶️Krea2✨ 黒ビキニトップス",
@@ -1065,9 +1065,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_girl_craft",
     "sourceUrl": "https://x.com/ai_girl_craft/status/2083573930124882089",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083573930124882089_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083573930124882089_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083573930124882089_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083573930124882089_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "今日も一日お疲れ様でした🥰💕",
@@ -1085,9 +1085,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@thucnghi07",
     "sourceUrl": "https://x.com/thucnghi07/status/2083434402487693752",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083434402487693752_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083434402487693752_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083434402487693752_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083434402487693752_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Thay đổi tư thế nhưng vẫn chứng minh được cô ấy là cùng một người. ZK Pr",
@@ -1105,9 +1105,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hana_tease",
     "sourceUrl": "https://x.com/Hana_tease/status/2082839345602715871",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082839345602715871_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082839345602715871_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082839345602715871_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082839345602715871_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "ちょっと大人っぽい夜🌙✨ たまにはこういうのも良いかも。",
@@ -1125,9 +1125,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MANISH1027512",
     "sourceUrl": "https://x.com/MANISH1027512/status/2082783573959143634",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082783573959143634_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082783573959143634_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082783573959143634_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082783573959143634_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "喜多川歌麿是江户时代浮世绘美人画的代表人物。 他的女性形象很有辨识度：细长脸型、窄眼、小嘴、克制的表情，黑发被处理成大块面，再用密集刻线表现光泽",
@@ -1145,9 +1145,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kawaii_aibijyo",
     "sourceUrl": "https://x.com/kawaii_aibijyo/status/2082746770212147572",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082746770212147572_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082746770212147572_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082746770212147572_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082746770212147572_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "診てあげるよ♥️",
@@ -1165,9 +1165,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@m6jik6",
     "sourceUrl": "https://x.com/m6jik6/status/2082708014835097818",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082708014835097818_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082708014835097818_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082708014835097818_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082708014835097818_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "遮天-姬紫月 #遮天 #姬紫月 #AI生成 #国漫女神 #国漫 All images:",
@@ -1185,9 +1185,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Ruwin_Art",
     "sourceUrl": "https://x.com/Ruwin_Art/status/2082181814752510385",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082181814752510385_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082181814752510385_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082181814752510385_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082181814752510385_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "chic.",
@@ -1205,11 +1205,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NTH_Kimiko2b",
     "sourceUrl": "https://x.com/NTH_Kimiko2b/status/2093725095353299030",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093725095353299030_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093725095353299030_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093725095353299030_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093725095353299030_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093725095353299030.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093725095353299030.mp4",
     "blurb": "💖美纱更新个DLC～来跟妈咪逛商场💘",
     "prompt": "",
     "nsfw": false,
@@ -1225,11 +1225,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIVideoHub_",
     "sourceUrl": "https://x.com/AIVideoHub_/status/2093555520473084156",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093555520473084156_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093555520473084156_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093555520473084156_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093555520473084156_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093555520473084156.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093555520473084156.mp4",
     "blurb": "大王，你来抓我呀🥰 妖妃休逃",
     "prompt": "",
     "nsfw": false,
@@ -1245,11 +1245,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@orange_mixer_y",
     "sourceUrl": "https://x.com/orange_mixer_y/status/2093534856223301919",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093534856223301919_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093534856223301919_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093534856223301919_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093534856223301919_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093534856223301919.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093534856223301919.mp4",
     "blurb": "Bombale bom bom~",
     "prompt": "",
     "nsfw": false,
@@ -1265,9 +1265,9 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@afi_jii",
     "sourceUrl": "https://x.com/afi_jii/status/2093524869397000593",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093524869397000593_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093524869397000593_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093524869397000593_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093524869397000593_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "変態紳士が考えた神のようなアイディアを覗き見するなら「+@grok -filter:links -filter:replies -filter:",
@@ -1285,11 +1285,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MANISH1027512",
     "sourceUrl": "https://x.com/MANISH1027512/status/2091387750218178646",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091387750218178646_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091387750218178646_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091387750218178646_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091387750218178646_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2091387750218178646.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2091387750218178646.mp4",
     "blurb": "推友说要看跳舞👇🏻",
     "prompt": "",
     "nsfw": false,
@@ -1305,10 +1305,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Ai_dailypic498",
     "sourceUrl": "https://x.com/Ai_dailypic498/status/2091279936606900298",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091279936606900298_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091279936606900298_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091279936606900298_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091279936606900298_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091279936606900298_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2091279936606900298_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "When you’re wondering whether to do it or not, do it.",
@@ -1326,9 +1326,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kubox_art",
     "sourceUrl": "https://x.com/kubox_art/status/2091034772214866182",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091034772214866182_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2091034772214866182_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2091034772214866182_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2091034772214866182_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "久しぶりに風邪を引きました😷 リリアちゃんでメイド風 SFW anime-style illustration. No nudity. #AIイ",
@@ -1346,10 +1346,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PridExpand_AI",
     "sourceUrl": "https://x.com/PridExpand_AI/status/2090361414754173308",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090361414754173308_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090361414754173308_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090361414754173308_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090361414754173308_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090361414754173308_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2090361414754173308_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Every detail whispered confidence.",
@@ -1367,11 +1367,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LiquidLatexWins",
     "sourceUrl": "https://x.com/LiquidLatexWins/status/2090161696266412333",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090161696266412333_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090161696266412333_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090161696266412333_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090161696266412333_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090161696266412333.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2090161696266412333.mp4",
     "blurb": "Moonlight looks even better on Perfect Princess tonight 💕🌙",
     "prompt": "",
     "nsfw": false,
@@ -1387,11 +1387,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aigirl_ex",
     "sourceUrl": "https://x.com/aigirl_ex/status/2090088156620312922",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090088156620312922_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2090088156620312922_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2090088156620312922_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2090088156620312922_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2090088156620312922.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2090088156620312922.mp4",
     "blurb": "バニーガール（黒レースバージョン）",
     "prompt": "",
     "nsfw": false,
@@ -1407,11 +1407,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@asanoai02",
     "sourceUrl": "https://x.com/asanoai02/status/2088883461922701690",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088883461922701690_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088883461922701690_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088883461922701690_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088883461922701690_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088883461922701690.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2088883461922701690.mp4",
     "blurb": "No.80 74P 6V Marin Kitagawa",
     "prompt": "",
     "nsfw": false,
@@ -1427,10 +1427,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2088702267159367812",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088702267159367812_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088702267159367812_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088702267159367812_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088702267159367812_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088702267159367812_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2088702267159367812_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "No.143 54P 6V evening gown",
@@ -1448,11 +1448,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GuerineauPierre",
     "sourceUrl": "https://x.com/GuerineauPierre/status/2088698695063838934",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088698695063838934_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088698695063838934_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088698695063838934_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088698695063838934_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088698695063838934.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2088698695063838934.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1468,11 +1468,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ezecabj_10",
     "sourceUrl": "https://x.com/ezecabj_10/status/2088597148308996370",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088597148308996370_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088597148308996370_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088597148308996370_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088597148308996370_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088597148308996370.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2088597148308996370.mp4",
     "blurb": "这么可爱的小兔纸 谁不想养一只",
     "prompt": "",
     "nsfw": false,
@@ -1488,11 +1488,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AshleeSylv67364",
     "sourceUrl": "https://x.com/AshleeSylv67364/status/2088458651757592835",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088458651757592835_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2088458651757592835_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2088458651757592835_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2088458651757592835_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2088458651757592835.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2088458651757592835.mp4",
     "blurb": "一龙二凤，双飞极品少女~ #同人 #cos",
     "prompt": "",
     "nsfw": true,
@@ -1508,11 +1508,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@dreaminbit",
     "sourceUrl": "https://x.com/dreaminbit/status/2084256011494535594",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084256011494535594_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084256011494535594_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084256011494535594_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084256011494535594_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084256011494535594.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2084256011494535594.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1528,11 +1528,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@asanoai02",
     "sourceUrl": "https://x.com/asanoai02/status/2083810026091696528",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083810026091696528_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083810026091696528_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083810026091696528_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083810026091696528_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083810026091696528.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2083810026091696528.mp4",
     "blurb": "No.66 67P 6V Boa Hancock",
     "prompt": "",
     "nsfw": false,
@@ -1548,11 +1548,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kosatoai",
     "sourceUrl": "https://x.com/kosatoai/status/2083506036485599361",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083506036485599361_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083506036485599361_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083506036485599361_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083506036485599361_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083506036485599361.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2083506036485599361.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -1568,10 +1568,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AmN5M3i4Xgt9p4c",
     "sourceUrl": "https://x.com/AmN5M3i4Xgt9p4c/status/2083453672357613908",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083453672357613908_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083453672357613908_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083453672357613908_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083453672357613908_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083453672357613908_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2083453672357613908_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Pro at wedding night water spraying ＃吞噬星空 ＃徐欣 ＃国漫女神",
@@ -1589,10 +1589,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Ai_dailypic498",
     "sourceUrl": "https://x.com/Ai_dailypic498/status/2083300015511077350",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083300015511077350_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083300015511077350_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083300015511077350_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083300015511077350_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083300015511077350_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2083300015511077350_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "True value lies beneath the surface, and in the end, people are the ones",
@@ -1610,9 +1610,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kukam05",
     "sourceUrl": "https://x.com/kukam05/status/2082846430683873554",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082846430683873554_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082846430683873554_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082846430683873554_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082846430683873554_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "",
@@ -1630,11 +1630,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@franpradasAI",
     "sourceUrl": "https://x.com/franpradasAI/status/2082504945832731124",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082504945832731124_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082504945832731124_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082504945832731124_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082504945832731124_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082504945832731124.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2082504945832731124.mp4",
     "blurb": "Free, open-source photo-to-talking-video is impressive tooling and also ",
     "prompt": "",
     "nsfw": false,
@@ -1650,11 +1650,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ZhenZhu200",
     "sourceUrl": "https://x.com/ZhenZhu200/status/2082445558577574104",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082445558577574104_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082445558577574104_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082445558577574104_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082445558577574104_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082445558577574104.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2082445558577574104.mp4",
     "blurb": "我做的数字人又升级了，之前是做我自己的数字人来口播，现在我直接创建了一个网球教练数字人配上真人指导语音，带我热身、训练和拉伸放松。动作和真人丝毫",
     "prompt": "",
     "nsfw": false,
@@ -1670,11 +1670,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@you1873118",
     "sourceUrl": "https://x.com/you1873118/status/2082442156074319998",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082442156074319998_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2082442156074319998_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2082442156074319998_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2082442156074319998_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2082442156074319998.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2082442156074319998.mp4",
     "blurb": "最近都在玩这种 AI 换装 从甜妹到夏日甜美 15 秒换六七套 比我一年买的衣服都多",
     "prompt": "",
     "nsfw": false,
@@ -1690,11 +1690,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@derek_wall90176",
     "sourceUrl": "https://x.com/derek_wall90176/status/2084533323872006572",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084533323872006572_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084533323872006572_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084533323872006572_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084533323872006572_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084533323872006572.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2084533323872006572.mp4",
     "blurb": "提示词： 5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。 产",
     "prompt": "5秒，16:9横版，完整采用苹果新品发布视频式的视觉语言：纯黑背景、影棚级布光、超慢速旋转特写、极简巨型无衬线标题、空灵电子配乐。\n产品是——一颗普通的大白菜。 \n [0–4秒] 纯黑背景中，一颗饱满新鲜的大白菜缓缓悬浮旋转，外层叶片青翠，内芯偏浅黄绿，边缘打冷白轮廓光，叶片表面的细小水珠在微距镜头下缓缓滚动。画面高级、克制、安静，仿佛顶级科技新品登场。 白色纤细大字淡入：“白菜 Pro” 下方小字：“了不起的鲜。” \n [4–8秒] 快速节奏剪辑三个影棚级特写镜头：  白菜切面层层包裹的细密纹理微距； 外层叶片弧线与褶皱在侧逆光下的雕塑感轮廓； 细腻水雾喷洒在白菜表面，水珠附着叶脉的超慢动作。 每个镜头分别浮现一个极简大字标题： “饱满。” “脆嫩。” “清甜。”  \n[8–12秒] 白菜在空中优雅翻转，外层叶片轻微舒展，被一只手稳稳托起并轻轻转动，带出克制而高级的流光拖尾特效，音乐进入磅礴高潮。镜头保持苹果式产品英雄感，像在展示革命性旗舰硬件。 大字：“史上最强大的白菜。” 下方小字：“比上一代爽脆20%。”  \n[12–15秒] 音乐收束，纯黑画面中央只留那颗白菜静静直立悬浮，轮廓清晰，布光高级，画面留白充足。旁边浮现价格标签：“¥3起” 最后打出标语： “白菜 Pro。卷出好味。” 配一声干净、克制的结尾提示音。",
     "nsfw": false,
@@ -1710,11 +1710,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AshleeSylv67364",
     "sourceUrl": "https://x.com/AshleeSylv67364/status/2083190513495314848",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083190513495314848_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2083190513495314848_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2083190513495314848_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2083190513495314848_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2083190513495314848.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2083190513495314848.mp4",
     "blurb": "双飞极品漂亮小姐姐，绝顶升天~ #赛飞儿 #cosplay #真人AIㅤㅤㅤㅤㅤㅤㅤ",
     "prompt": "",
     "nsfw": true,
@@ -1730,9 +1730,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2097924458652856696",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097924458652856696_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2097924458652856696_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097924458652856696_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2097924458652856696_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "感谢分享提示词 我只能说，会玩还是你们会玩😅  提示词： 9:16 竖幅，超写实 35mm 胶片风格人像摄影。  一位明确成年的年轻东亚女性，约 23 岁，肤色白皙自然，身材纤细匀称。她留着略显凌乱的及肩黑色直发，发丝具有真实的蓬松度和细碎",
@@ -1750,9 +1750,9 @@ window.GALLERY_CASES = [
     "model": "GPT Image 2",
     "source": "@haiqushe",
     "sourceUrl": "https://x.com/haiqushe/status/2098711105237573685",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098711105237573685_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098711105237573685_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098711105237573685_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098711105237573685_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "GPT Image 2 直出，Prompt 提示词:  明确成年的二十多岁东亚女性Coser，高级时尚美女风格。小巧精致脸型，五官漂亮不锐利，眼睛大小自然，神情冷淡松弛微出神，像等红灯时被顺手拍下。皮肤白皙细腻真实，长发自然披散，发丝在夜风",
@@ -1770,9 +1770,9 @@ window.GALLERY_CASES = [
     "model": "GPT Image 2.5",
     "source": "@liyue_ai",
     "sourceUrl": "https://x.com/liyue_ai/status/2098814431891435627",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098814431891435627_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098814431891435627_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098814431891435627_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098814431891435627_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这还是我认识的GPT吗？ 过于夸张了😂  GPT Image 2.5提示词： 滤镜：玫瑰香槟粉 CCD 闪光灯滤镜，  脸型：韩式女瓜子脸     服装：古风蕾丝，马油袜   场景：高级KTV包间  动作：一男一女在酒吧对饮  镜头：突出上",
@@ -1790,12 +1790,12 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@msjiaozhu",
     "sourceUrl": "https://x.com/msjiaozhu/status/2098631945198698640",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098631945198698640_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098631945198698640_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098631945198698640_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098631945198698640_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098631945198698640_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098631945198698640_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "受 @maplejohn01 启发，挖掘出了 Grok 的天花板😍这效果真的不比 GPT Image 2.5 差啊！  还有个视频太露骨了不敢放主贴，你们自己调小音量再看🤣  提示词👇 Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚",
@@ -1813,9 +1813,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2099002510040310019",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099002510040310019_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099002510040310019_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099002510040310019_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099002510040310019_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "一起荡秋千吗？ 超写实户外秋千人像摄影，横版约 4:3，一名年轻成年东亚女性，明确成年，侧坐在乡村公园里的木板秋千上，身体位于画面左侧，",
@@ -1833,9 +1833,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2098786437948944643",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098786437948944643_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098786437948944643_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098786437948944643_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098786437948944643_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "黑色跟黑色好像更配哦😯 超写实户外露台人像摄影，竖版约 3:4，一名年轻成年东亚女性，明确成年，侧坐在灰色编织休闲椅上，背后是深绿色森林、平静湖",
@@ -1853,9 +1853,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2098953133443764274",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098953133443764274_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098953133443764274_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098953133443764274_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098953133443764274_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "主人你的座位正在保温中💕 超写实复古室内女仆 Cosplay 人像摄影，竖版约 4:5，一名年轻成年东亚女性，明确成年，蜷缩侧躺在一张深酒红色天鹅",
@@ -1873,11 +1873,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mousouWorld2024",
     "sourceUrl": "https://x.com/mousouWorld2024/status/2098972096877740541",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098972096877740541_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098972096877740541_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098972096877740541_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098972096877740541_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098972096877740541_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098972096877740541_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098972096877740541_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098972096877740541_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "ガラッと雰囲気が変わるプロンプト コンビニで偶然見かけた美女がパンを選んでる雰囲気にしてください。衣装は少し乱れた様子でリアルな皺、たるみが有り、隙がある",
@@ -1895,10 +1895,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2098425563467939938",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098425563467939938_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098425563467939938_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098425563467939938_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098425563467939938_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098425563467939938_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098425563467939938_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "神奇的一句话提示词！ 深夜闺房 × 男友第一视角 × 旗袍 × 黑丝 x CCD 直闪 or 深夜闺房 × 男友第一视角 × 旗袍 × CCD",
@@ -1916,9 +1916,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@hai_vara",
     "sourceUrl": "https://x.com/hai_vara/status/2099035580642279930",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099035580642279930_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099035580642279930_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099035580642279930_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099035580642279930_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "少し追加して作らせていただきました！ 24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服,",
@@ -1936,11 +1936,11 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@dugujun12",
     "sourceUrl": "https://x.com/dugujun12/status/2098974326204793150",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098974326204793150_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098974326204793150_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098974326204793150_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098974326204793150_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098974326204793150.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098974326204793150.mp4",
     "blurb": "Grok 提示词： 竖屏9:16真人实拍手机自拍短视频，分辨率720×1290，时长正好10秒，全程一段到底、中间不切镜不停顿不转场。手持智",
     "prompt": "竖屏9:16真人实拍手机自拍短视频，分辨率720×1290，时长正好10秒，全程一段到底、中间不切镜不停顿不转场。手持智能手机拍摄，轻微手抖、轻微跟焦起伏和室内自动曝光，24到30帧。画质必须像真实生活自拍，不要电影质感，不要广告大片，不要CG，不要3D渲染，不要动漫。皮肤有毛孔、细纹和自然反光，头发有真实物理摆动和轻微运动模糊，比基尼布料有抽褶和褶皱，身体随弹跳有真实惯性。画面里不要出现任何文字、字幕、水印、logo、贴纸、滤镜边框、二维码、其他人物或宠物。\n\n主体是一名东亚年轻女性，年龄约二十出头到二十五岁。肤色白皙偏暖，皮肤真实不塑料。脸型偏圆润小脸，额头有稀疏碎刘海，其余头发是又长又直的纯黑色长发，长度过胸接近腰，发质顺滑；跳舞时长发会大幅甩动，扫过脸颊、肩膀和后背。眉毛自然浓黑，眼睛大而明亮，眼妆很淡，睫毛自然。鼻子小巧。嘴唇饱满，涂着水润红粉色唇釉，微笑和大笑时露出牙齿。表情全程活泼、甜、俏皮，时而对着镜头笑，时而仰头享受音乐，时而低头看自己的衣服，不要冷脸，不要凶，不要魅惑到演电影。\n\n身材固定为细腰、宽胯、大腿肉感的沙漏型，锁骨清晰，手臂纤细，小腹平坦微软，不是健美肌肉型。胸部非常丰满、体积大、形状圆润，被抹胸紧紧托住；随着踮脚弹跳，胸部和髋部有明显但真实的上下起伏，衣服始终穿在身上。全程不穿鞋，脚在画面外或只露出一点点，不戴项链、耳环、戒指、手链、手表，唯一金属是比基尼上的金色圆环和金球坠。\n\n服装必须精确且全程不变：深巧克力棕色、可可棕色分体比基尼，不要黑、不要红、不要白。上衣是无肩带抹胸，布料有抽褶，中央有一枚金色金属圆环扣住左右两片，圆环下方垂着两根细棕色绑带，绑带末端是小金球坠；抹胸位置偏低，中间有明显乳沟，但始终是完整穿好的抹胸，绝不滑落、绝不变成裸体、绝不透明。下衣是同色棕色侧绑带高开叉泳裤，胯骨两侧各有细绳系结，绳头同样有小金球坠，绳子会随摆胯轻轻甩动。布料质感是哑光针织或罗纹泳布，不是亮面漆皮，不是丝绸。10秒内禁止换装、禁止脱衣、禁止手伸进衣服里。\n\n场景必须和房间自拍一致：狭窄的小型公寓卧室。墙壁是暖米色、奶茶色旧乳胶漆。画面左侧有深棕色厚窗帘，窗帘旁立着一面几乎到顶的深色框落地镜，镜子里能隐约照到房间和对面墙。地面是木色复合地板。镜子附近地上放着两个小纸箱、一叠书或杂志、一个小蓝瓶子。右侧白墙上有一个方形白色开关。画面最底部前景始终有一块虚化的棕色家具边缘，像床沿或沙发沿，轻轻挡住镜头下方。空间拥挤，人站在房间中央偏镜子前方。不要窗户大光斑，不要室外，不要海滩，不要泳池，不要影棚，不要第二个人。\n\n光线是室内暖黄顶灯为主，左侧有柔和散射日光，色温偏暖。脸上、肩膀、锁骨有自然高光，但不是轮廓光，不是丁达尔，不是霓虹，不是专业布光。镜头是手机竖拍，机位大约在腰到胸口的高度，略微仰拍。人物占满画面主体，大多数时候从大腿中段拍到头顶，中段会推近到胸口以上半身，再拉回全身中景。焦点在脸和身体上，前景床沿虚化，背景墙壁比较清楚。不要稳定器那种过度丝滑，不要超广角把腿拉变形。\n\n表演是社交软件那种跟着鼓点原地跳舞，不是专业编舞，也不是走秀。基本动作循环：踮脚、膝盖微屈、胯左右摆、上身随节奏弹跳、长发甩动、双手自然挥动。节奏大约每拍弹一次，每两拍甩一次头发或摆一次手。表情一直在笑。动作幅度中等偏大，重点落在头发甩动、胯摆和身体弹跳上，但不要夸张到漫画，不要故意用镜头死盯局部。衣服必须一直穿好。\n\n按10秒完整演出，时间轴必须按下面走：\n\n0.0到1.0秒：全身中景。她站在房间中央，身体略转向画面左侧，头看向镜头，嘴微张微笑。双臂自然垂在身侧，开始小幅度踮脚、左右晃胯。长发还贴在肩膀上。左侧镜子、纸箱和底部虚化床沿都要看见。\n\n1.0到2.2秒：双手抬到腰两侧，手掌摊开向外，跟着节拍轻轻甩手。头微低，眼神看镜头，笑意更明显。身体继续弹跳，长发开始离开肩膀甩起来。\n\n2.2到3.5秒：头向后仰，眼睛微闭或看天花板，长发大幅度向后飞。双臂在身侧自然摆动，表情放松享受。镜头略向前跟近，仍要看到腰和棕色泳裤。\n\n3.5到5.0秒：镜头推到半身。她略侧身，低头看自己的胯侧，双手快速拨弄比基尼两侧细绑带，动作有点忙乱。随即抬头看镜头，嘴角上扬。右后方白墙上的方形开关必须能看见。\n\n5.0到6.5秒：镜头拉回全身。右手抬到肩高轻轻挥一下，左手在身侧松松握拳。对着镜头大笑，牙齿露出。继续踮脚弹跳，头发左右甩，绑带末端金球跟着晃。\n\n6.5到8.0秒：身体转正对镜头，双臂打开再收回。突然笑得更大，头微侧，长发扫过脸。上身弹跳更明显。镜头可以略推近到胸部以上，但必须看到抹胸上的金色圆环，随即再稍拉回。\n\n8.0到9.0秒：双手抬到锁骨和胸口高度，手指微蜷，在胸前做很小的上下点拍，像打拍子。歪头看镜头，闭唇甜笑，胯继续左右摆。画面回到大腿以上的全身中景。\n\n9.0到10.0秒：头再轻轻后仰一下，眯眼笑，长发扬起；紧接着低头看自己的腰和绑带，头发垂到脸前，双手同时去拉、整理两侧比基尼绳结，像跳完一段后下意识整理衣服。停在整理绑带这个动作上结束。不要淡出，不要定格特效，不要结尾字幕。\n\n背景音乐只要节奏对上，不需要复刻原曲：轻快流行电音舞曲，约122拍每分钟，四四拍，底鼓每一拍一下，第二拍和第四拍有清脆拍手或军鼓，旋律简单好听，无歌词或只有很轻的女声气音。不要钢琴抒情，不要摇滚，不要戏曲。她每一次踮脚弹跳对准底鼓，甩发和摆手对准小节重音。\n\n必须避免：换脸、第二个人、儿童、裸体、脱掉比基尼、透明衣服、走光、胸部夸张变形、假脸塑料感、过度磨皮、电影级灯光、影棚、户外海滩、泳池、文字、字幕、水印、logo、贴纸、分镜切片、慢动作、抽帧卡顿、五官模糊、把黑发改成棕发或金发、把棕色比基尼改成黑色或红色、添加首饰、稳定器过滑、广角畸变把腿拉超长、动漫、CG、3D渲染感、镜头乱切、场景换成别的房间。",
     "nsfw": false,
@@ -1956,9 +1956,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hamburgerai",
     "sourceUrl": "https://x.com/Hamburgerai/status/2098892156115300500",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098892156115300500_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098892156115300500_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098892156115300500_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098892156115300500_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这个颜还挺OK的 低领薄衫；沙漏型体态；上身轮廓柔和饱满；腰线收束；下身曲线圆润；倚窗托腮；眉眼轻挑；花影朦胧",
@@ -1976,9 +1976,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hamburgerai",
     "sourceUrl": "https://x.com/Hamburgerai/status/2098536563257020579",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098536563257020579_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098536563257020579_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098536563257020579_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098536563257020579_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "有点意思 沐浴后披纱；柔和体态；轻纱层叠；半倚软榻；闭目养神；雾气朦胧；盛唐华美",
@@ -1996,11 +1996,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@john87445528",
     "sourceUrl": "https://x.com/john87445528/status/2098743427487699321",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098743427487699321_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098743427487699321_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098743427487699321_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098743427487699321_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098743427487699321.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098743427487699321.mp4",
     "blurb": "来段泰国舞蹈吧，双人的,表情和姿态都很动人。手势是不是有暗示什么？ 音乐和深度参考资产都在回帖里 真人实拍双人舞蹈短视频，9:16竖屏，总时长9.94秒，…",
     "prompt": "真人实拍双人舞蹈短视频，9:16竖屏，总时长9.94秒，一镜到底。 【角色与服装】 画面左侧人物使用预设角色#1\n，全程穿着预设服装#2\n；画面右侧人物使用预设角色#3\n，全程穿着预设服装#4\n。两位角色均为成年人。 两人的五官、发型、身材和身份分别严格锁定各自预设，服装款式、颜色、材质及配饰分别严格遵循#2和#4。不交换身份、不交换服装、不换装，不继承动作参考中人物的相貌和穿着。 【参考分工】 @深度视频\n视频1\n：只控制两个人的动作、姿态、重心变化、手臂轨迹、身体朝向、左右站位、前后距离、构图和运镜。忽略深度视频的黑白外观、人物身份、服装和背景材质，生成正常彩色真人画面。 严格逐帧跟随@深度视频，保持原有动作顺序、幅度、速度及两人之间自然的细微时间差，不擅自增加舞步，不把双人动作机械地同步化。以下动作文字仅用于辅助理解，具体轨迹与动作发生时间以@深度视频为准。 整个环境背景参考@参考图2\nczar_sp_A_cinematic_Brazilian_backyard_at_the_edge_of_the_jun_8923aad9-96c3-4b69-9860-7466b424516e_0\n，保持场景布局、材质、色彩和光线稳定。人物与场景的透视、接触阴影和光照方向一致。 【音频】 使用\n9月11日 (1)\n提供的音频作为唯一音轨，从0.00秒开始对齐，完整保留原有内容、节奏和速度。人物动作按@深度视频原始时间轴与音频同步，不变速、不循环、不重新配音。 不要额外BGM，不新增旁白、笑声或音效。即使出现开心张嘴的表情，也不要额外生成笑声。不要把整段音频强行转成人物逐字对口型。 【动作与表情时间轴】 0.00–1.40秒 严格承接参考首帧，两人在各自站位随节奏轻轻起伏，从微屈膝姿态自然向上回弹，双手按参考在身前低位活动；右侧角色的抬手及收手保持原来的时机。 表情：轻松自然的浅笑逐渐变得俏皮，嘴角柔和上扬。AU6轻微＋AU12低至中等强度。左侧角色短暂看向同伴后自然回看镜头，右侧角色保持亲切的镜头交流。嘴唇大部分闭合，不持续露齿。 1.40–3.20秒 顺着上一段动作，两人屈膝降低重心，身体轻微前倾，髋部向后移动，双手降至大腿前方，按照参考进行连续的低位摆手和翻掌。下降幅度、身体角度及手掌朝向严格跟随深度视频。 表情：笑容稍微收住，转为专注中带一点慵懒、俏皮的淡笑。AU12低强度，眼周保持放松。目光短暂跟随低位手势，再自然抬起看镜头，避免脸朝下而眼睛僵硬上翻。 3.20–5.50秒 保持参考中的屈膝姿态，连续进行左右重心转移及轻微上下律动，肩膀和髋部随身体自然联动，双手在低位按原轨迹摆动。保留左右人物各自的动作幅度及细小先后差。 表情：淡笑逐渐加强为柔和明亮的笑容，脸颊轻轻抬起，形成自然笑眼。AU6＋AU12中等强度。看手、看同伴、回看镜头的视线转换短促自然，不长期偏头，不固定一张笑脸。 5.50–7.60秒 继续原有低位律动及摆手动作，保持与参考一致的躯干侧倾、髋部移动和手腕翻转。每次换向都从上一动作连续完成，头部随重心轻微运动，不额外甩头。 表情：这一段最活泼，浅笑逐渐变成灿笑，短暂出现像忍不住开心笑了一下的神态，再自然恢复微笑。AU6＋AU12中等强度，短暂AU25，嘴唇轻轻分开后闭合。两人的笑容变化略有先后，呈现真人一起跳舞时的即时互动。 7.60–8.90秒 按参考继续最后几次低位摆动，手臂逐渐回收，身体开始为起身做准备；严格保留两个人不同的起身时机，不提前站直。 表情：笑容轻轻收敛为轻松、自信、略带俏皮的闭嘴笑。目光短暂落向手部动作，再回到镜头。表情与身体回收动作自然衔接，不突然板脸。 8.90–9.94秒 严格跟随参考结尾：右侧角色逐渐伸膝站起，双手自然向身体两侧落下；左侧角色保持参考中的稍低姿态，完成剩余律动。保留最终左右高度差、站位及身体朝向，不新增统一定点姿势，不提前冻结画面。 表情：右侧角色起身时逐渐露出明亮、松弛的笑容，AU6＋AU12中等强度，结尾保持自然笑眼；左侧角色顺着剩余动作自然微笑，不强行与右侧人物同时张嘴。最后一秒笑意增强，但不夸张大笑。 【镜头与真实感】 构图、机位、景别及画面边缘裁切严格参考@深度视频，保持原视频的稳定镜头，不额外推拉、摇移、环绕、切镜或数字变焦。人物自身的移动造成正常的构图变化。 皮肤保持自然纹理，表情由眼周、脸颊、嘴角和下颌协调产生，伴随自然眨眼与呼吸。AU编号仅作为表演强度提示，不生成机械化的面部动作。头发和衣料随动作产生符合材质的惯性，双脚承重与身体重心一致。 【避免】 固定微笑、全程露齿、持续张嘴、夸张大笑、表情突然切换、五官漂移、两张脸互相融合、身份互换、年龄或妆容突变、服装混用或变形、凭空换装、额外人物、肢体交叉粘连、多手多指、手腕反折、脚底滑动、动作瞬移、节奏错位、背景变形、镜头突变、黑白深度图外观、字幕和水印。",
     "nsfw": false,
@@ -2016,11 +2016,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@iammira_926",
     "sourceUrl": "https://x.com/iammira_926/status/2098807124620935405",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098807124620935405_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098807124620935405_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098807124620935405_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098807124620935405_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098807124620935405.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098807124620935405.mp4",
     "blurb": "今晚可以对我坏一点",
     "prompt": "",
     "nsfw": true,
@@ -2036,11 +2036,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sleepycat2088",
     "sourceUrl": "https://x.com/sleepycat2088/status/2098486669691523128",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098486669691523128_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098486669691523128_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098486669691523128_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098486669691523128_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098486669691523128.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098486669691523128.mp4",
     "blurb": "只敢在这里跳～",
     "prompt": "",
     "nsfw": true,
@@ -2056,11 +2056,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@john87445528",
     "sourceUrl": "https://x.com/john87445528/status/2098945814865314018",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098945814865314018_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098945814865314018_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098945814865314018_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098945814865314018_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098945814865314018.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098945814865314018.mp4",
     "blurb": "看看今天女一号跟谁伴舞来着？说出名字的我跟他互粉。 通常来说使用深度视频参考的时候比较容易受深度视频长度和动作的约束，今天我试验了一把把10秒的深度视频延长到15秒但是任然灵活的保持参考动作的内容的方法。 我在gpt",
     "prompt": "真人实拍双人舞蹈短视频，9:16竖屏，总时长15秒，一镜到底。整体轻松、俏皮，右侧角色的表情更丰富，带自然、有分寸的撩人感。 【角色与参考锁定】 画面左侧为成年预设角色#1\n，全程穿预设服装#2\n图片_20260911221648_5_537\n保持#2的发型和头饰；画面右侧为成年预设角色#3\n，全程穿预设服装#4\n图片_20260911221703_12_537\n并保持#4的发型和头饰。分别严格保持各自五官、发型、身材、服装及配饰，不换脸、不交换身份、不换装。 人物动作、站位、身体朝向、重心变化、手臂轨迹和镜头构图参考\n视频1\n深度视频，忽略其黑白外观、人物身份和原始场景。整个环境背景参考@参考图2\npon_A_Chinese_residential_neighborhood_in_the_1990s_everyday__bf0449ff-4783-46ed-8ace-bf49437fcb4d_0\n，生成正常彩色真人画面。 原视频\n视频1\n约9.94秒，扩展为15秒：保留开场及结尾的动作逻辑，在中段增加同一套舞蹈的连续动作循环。新增时长主要用于屈膝律动、左右重心切换、低位摆手和翻掌，不通过慢放、静止表情特写或重复定格延长。两人保持原有自然时间差，不机械地完全同步。 【音频】 @\n9月11日 (1)\n提供的音频从0.00秒原速播放至约9.94秒，不拉伸、不循环、不新增BGM或配音。后续舞蹈延续已建立的节拍，剩余时段不新增音轨。张嘴、微笑和眨眼属于表演，不强行对口型，不额外生成笑声。 【0.00–1.50秒｜轻盈开场】 两人在参考站位中微屈膝，随节奏自然回弹，双手沿原参考轨迹在身前低位摆动；右侧角色完成短促的抬手和回收。 左侧角色：轻松浅笑，短暂看向同伴后回看镜头。 右侧角色：先闭嘴浅笑，随后一侧嘴角略微上扬，眼神自然捕捉镜头。AU6轻微＋AU12低强度，面部放松，不持续露齿。 【1.50–3.20秒｜降低重心】 两人顺势屈膝下沉，髋部后移，身体轻微前倾，双手降到大腿前方，连续完成低位摆手和翻掌，保持原参考的动作幅度。 左侧角色：低头跟随手势，保持柔和笑意。 右侧角色：下沉时短暂垂眸，抬眼回看镜头时，一只眼轻轻半眯，另一只眼自然睁开，形成短促、俏皮的单眼挑逗感。保持约0.3秒后自然恢复双眼放松，嘴角带淡笑，不挤脸、不用力闭眼。 【3.20–5.00秒｜低位左右律动】 保持屈膝，重心从一侧连续移向另一侧，髋部与肩膀自然联动，双手顺着移动方向在低位轻摆，手腕柔和翻转。 左侧角色：自然笑眼，目光在手部与镜头之间短暂切换。 右侧角色：笑容轻轻收住，嘴唇由放松闭合过渡到小巧、圆润的“O”形，像跟随节奏发出无声的“喔”。下颌只轻微打开，保持约0.3–0.5秒，随后嘴唇放松并恢复浅笑。O形嘴期间保持双眼放松直视，不同时夸张眨眼。 【5.00–7.00秒｜延长舞蹈第一组】 从上一段重心落点继续，完成一组左右交替的低位律动：屈膝小幅回弹，双手从大腿前方向侧前方摆出，再沿原路径收回。动作速度保持不变，不停顿摆拍。 左侧角色：轻快浅笑，随身体起伏自然点头。 右侧角色：头部轻微侧倾，一侧眼睑短暂压低形成半眯眼，嘴唇保持微微分开，随后双眼恢复自然，嘴角逐渐上扬为笑眼微笑。表情在动作换向时完成，身体始终继续跳动。 【7.00–9.00秒｜延长舞蹈第二组】 继续同一套低位舞蹈语法，左右重心再切换一组。双掌随节拍交替翻向斜上方与斜下方，手肘保持柔软，肩膀随重心小幅侧落。保留两人细微的动作先后差。 左侧角色：短暂看向右侧同伴，带轻松、被逗乐的微笑，再看回镜头。 右侧角色：先露出明亮笑容，随后短暂收拢嘴角，再做一次比前段略明显的小“O”形嘴，眼神保持与镜头交流；立即自然过渡为露齿浅笑。表情有连续的准备、峰值和放松，不突然切换嘴型。 【9.00–11.20秒｜延长舞蹈第三组】 两人保持原有站位与屈膝幅度，继续低位摆手、髋部左右移动与小幅上下回弹。双手摆出、收回、翻掌连续完成，不增加新舞种或复杂脚步。 左侧角色：保持自然笑眼和轻微闭嘴笑。 右侧角色：这是表情最丰富的一段。先垂眸跟随手势，再抬眼看镜头，一只眼短暂半眯，随后自然睁开；唇部从轻微张开过渡为柔和灿笑。AU6＋AU12中等强度，短暂AU25。每次表情之间留出自然放松，不连续快速眨眼，不长时间保持O形嘴。 【11.20–13.20秒｜舞蹈继续，笑意回升】 顺着前一组动作继续左右律动，完成最后一组完整的低位摆手，身体随节拍回弹，双手逐步向身前收拢，为结尾起身做准备。 左侧角色：闭嘴浅笑逐渐增强，眼神自然回到镜头。 右侧角色：撩人的淡笑逐渐转成明亮、开心的笑容，短暂微微张嘴，随后收回自然微笑。脸颊抬起、眼周柔和收紧，像跳得开心时的即时反应，不夸张大笑。舞蹈动作持续，不因表情表演减速。 【13.20–15.00秒｜自然起身收尾】 承接原视频的结尾逻辑，右侧角色逐渐伸膝站起，双手自然落向身体两侧；左侧角色稍晚起身，继续完成剩余低位律动。保留自然的左右高度差，不强行同时定点，不提前冻结。 左侧角色：保持轻松浅笑，随最后动作自然回看镜头。 右侧角色：起身时先露出自信的闭嘴笑，最后一秒逐渐变成松弛、明亮的灿笑，眼睛恢复自然笑眼，嘴唇轻轻分开后放松。以漂亮、有感染力的笑容结束。 【表情连续性】 右侧角色的表情变化贯穿舞蹈，但每个时刻只有一个主要表情重点：半眯一只眼、小O形嘴、微张嘴、闭嘴淡笑、自然灿笑依次流动，不同时堆叠。单眼半眯表现为轻柔的眼睑变化，不是眼睛变小、眼球变形或面部抽搐；O形嘴保持真实唇部结构，不夸张撅嘴、不大幅张口。 左侧角色表情相对柔和，形成自然的双人差异。两人均保持正常眨眼、呼吸与细微面部运动。 【镜头与画面】 稳定机位、景别、透视和边缘裁切参考@深度视频，全程不加推拉、摇移、环绕或切镜。真实皮肤纹理，自然光照与接触阴影，头发及衣料随动作产生合理惯性。 避免：为了延长而慢放或定格、机械重复片段、动作中断、表情特写插镜、持续单眼紧闭、眼球错位、持续O形嘴、夸张噘嘴、固定微笑、持续露齿、身份或服装漂移、多余肢体、手指粘连、脚底滑动、衣物穿模、背景变形、镜头突变、字幕、水印。",
     "nsfw": false,
@@ -2076,11 +2076,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@JACK_OH_AI",
     "sourceUrl": "https://x.com/JACK_OH_AI/status/2098736406990585856",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098736406990585856_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098736406990585856_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098736406990585856_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098736406990585856_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098736406990585856.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098736406990585856.mp4",
     "blurb": "💦😜",
     "prompt": "",
     "nsfw": false,
@@ -2096,11 +2096,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2099030318564962529",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099030318564962529_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099030318564962529_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099030318564962529_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099030318564962529_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099030318564962529.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099030318564962529.mp4",
     "blurb": "No.171 86P 6V Maillard aesthetic",
     "prompt": "",
     "nsfw": false,
@@ -2116,11 +2116,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GummiAB",
     "sourceUrl": "https://x.com/GummiAB/status/2098936354730332517",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098936354730332517_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098936354730332517_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098936354730332517_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098936354730332517_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098936354730332517.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098936354730332517.mp4",
     "blurb": "I'm so cute ~",
     "prompt": "",
     "nsfw": false,
@@ -2136,11 +2136,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@SS_BismarckDeri",
     "sourceUrl": "https://x.com/SS_BismarckDeri/status/2098768094001017016",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768094001017016_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098768094001017016_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768094001017016_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768094001017016_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768094001017016_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098768094001017016_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098768094001017016_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098768094001017016_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "Dark Gold Theme #アズールレーン #AzurLane #AIart #AIイラスト",
@@ -2158,11 +2158,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@airoid1111",
     "sourceUrl": "https://x.com/airoid1111/status/2099084687163773049",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099084687163773049_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099084687163773049_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099084687163773049_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099084687163773049_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099084687163773049.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099084687163773049.mp4",
     "blurb": "揺れやばすぎる",
     "prompt": "",
     "nsfw": true,
@@ -2178,12 +2178,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@thucnghi07",
     "sourceUrl": "https://x.com/thucnghi07/status/2099056934397862258",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099056934397862258_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099056934397862258_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099056934397862258_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099056934397862258_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099056934397862258_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099056934397862258_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099056934397862258_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099056934397862258_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099056934397862258_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099056934397862258_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "Denim càng “washed” đôi khi càng đẹp. Token bị “washed” 98% thì lại là câu chuyện khác. Nhìn bộ outfit này: jacket denim…",
@@ -2201,11 +2201,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kanekomiyabi",
     "sourceUrl": "https://x.com/kanekomiyabi/status/2098937912410955949",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098937912410955949_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098937912410955949_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098937912410955949_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098937912410955949_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098937912410955949.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098937912410955949.mp4",
     "blurb": "ねえ、まだ夏は終わらせないよ？💙💛 Hey, summer's not over yet, okay? 💙💛",
     "prompt": "",
     "nsfw": false,
@@ -2221,12 +2221,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hana_tease",
     "sourceUrl": "https://x.com/Hana_tease/status/2099109931735724270",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099109931735724270_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099109931735724270_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099109931735724270_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099109931735724270_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099109931735724270_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099109931735724270_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099109931735724270_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099109931735724270_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099109931735724270_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099109931735724270_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "この服を着て出かけることはできなかったけれど、 それでも素敵な服を一つ買った！",
@@ -2244,11 +2244,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@HasanHseyinVar4",
     "sourceUrl": "https://x.com/HasanHseyinVar4/status/2099138801386008706",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099138801386008706_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099138801386008706_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099138801386008706_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099138801386008706_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099138801386008706.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099138801386008706.mp4",
     "blurb": "双马尾＋白上衣＋黑丝连体，纯欲拉满却骚得不行 腿一夹就感觉丝袜摩擦得发烫，你要是现在在身边，肯定忍不住把我按在墙上… 当一次女菩萨！！！ 是粉哒看完不许瞎说😤 赶紧看，我要删了……🧐🧐🧐",
     "prompt": "",
     "nsfw": true,
@@ -2264,11 +2264,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ahjin_kang_06",
     "sourceUrl": "https://x.com/ahjin_kang_06/status/2099135589195055330",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099135589195055330_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099135589195055330_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099135589195055330_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099135589195055330_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099135589195055330.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099135589195055330.mp4",
     "blurb": "벌써 주말 끝..... #슬프다 #월요병 ⬇️30%OFF⬇️",
     "prompt": "",
     "nsfw": false,
@@ -2284,9 +2284,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Kunda623270",
     "sourceUrl": "https://x.com/Kunda623270/status/2099033202421793049",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "A photorealistic cinematic vertical portrait of a young woman in her early twenties, around 20 years old, reclining side…",
@@ -2304,11 +2304,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@misakichi_3u",
     "sourceUrl": "https://x.com/misakichi_3u/status/2098745025689698695",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098745025689698695_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098745025689698695_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098745025689698695_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098745025689698695_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098745025689698695.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098745025689698695.mp4",
     "blurb": "ただのストレッチ",
     "prompt": "",
     "nsfw": true,
@@ -2324,11 +2324,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@johnAGI168",
     "sourceUrl": "https://x.com/johnAGI168/status/2099123716617638157",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099123716617638157_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099123716617638157_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099123716617638157_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099123716617638157_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099123716617638157.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099123716617638157.mp4",
     "blurb": "真人国风变装短片《中式传统色彩美学》🎨 30 秒 15 套极限古装变装📺字幕还是有瑕疵 中式传统美学，唯美古装风格🎬 by Seedance 2.5",
     "prompt": "",
     "nsfw": false,
@@ -2344,11 +2344,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aisanmaru30",
     "sourceUrl": "https://x.com/aisanmaru30/status/2098901309835604058",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098901309835604058_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098901309835604058_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098901309835604058_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098901309835604058_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098901309835604058.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098901309835604058.mp4",
     "blurb": "おはようございます😊",
     "prompt": "",
     "nsfw": false,
@@ -2364,10 +2364,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@dallas_m36314",
     "sourceUrl": "https://x.com/dallas_m36314/status/2099108073428406518",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099108073428406518_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099108073428406518_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099108073428406518_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099108073428406518_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099108073428406518_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099108073428406518_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "这衣服也太小了吧~肥奶都溢出来了~穿这种衣服在漫展会不会被野爹轮奸啊 #母狗 #巨乳 #女大 #cosplayㅤㅤㅤㅤㅤㅤㅤ",
@@ -2385,11 +2385,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AxelOmarRivera1",
     "sourceUrl": "https://x.com/AxelOmarRivera1/status/2098863139156848975",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098863139156848975_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098863139156848975_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098863139156848975_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098863139156848975_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098863139156848975.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098863139156848975.mp4",
     "blurb": "还没跳完呢",
     "prompt": "",
     "nsfw": true,
@@ -2405,11 +2405,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huangyun_122",
     "sourceUrl": "https://x.com/huangyun_122/status/2093023867778539791",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093023867778539791_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093023867778539791_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093023867778539791_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093023867778539791_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2093023867778539791.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2093023867778539791.mp4",
     "blurb": "腾讯牛逼 !! 微信视觉组开源 WeMM-Embedding, 让多模视觉理解又上一个高度： 比如我想定位视频中，美女打开车门的那段切片，完全可以口述让模型帮找出来，太有用了 赶紧下载体验，嘎嘎香",
     "prompt": "",
     "nsfw": false,
@@ -2425,11 +2425,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2099123872146883026",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099123872146883026_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099123872146883026_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099123872146883026_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099123872146883026_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099123872146883026.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099123872146883026.mp4",
     "blurb": "文思月｜妙音坊日常 🎵🌙 《凡人修仙传》｜文思月 乱星海妙音坊中的一日。 琴声悠扬，茶香淡淡，文思月换上一身古风装束，静静度过属于她的日常时光。 没有惊心动魄的大战，也没有刀光剑影。 只是琴音、茶盏与一段安静的时光。🍵🎶 喜欢文思月的话，点…",
     "prompt": "",
     "nsfw": false,
@@ -2445,9 +2445,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2098614740906054015",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098614740906054015_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098614740906054015_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098614740906054015_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098614740906054015_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "人已经上车了，魂还在上一站。 前置一开，刚好拍到灵魂加载到 37% 的样子。 Prompt 放评论区👇",
@@ -2465,10 +2465,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@vpsing_de",
     "sourceUrl": "https://x.com/vpsing_de/status/2099017680502260060",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017680502260060_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099017680502260060_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017680502260060_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017680502260060_1.png"
+      "https://img.guopeng.ccwu.cc/images/2099017680502260060_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099017680502260060_1.png"
     ],
     "videoUrl": "",
     "blurb": "闲鱼还真是中国的暗网，富贵险中求： 1、你要是学会了3x-ui/s-ui的搭建，一单能挣二三十。 2、但是你要把它包装成“TK网络环境搭建”，一单能挣99到199。 3、最后你要是把“家宽节点”放到“软路由”里去卖，包装成“TK盒子”、“看…",
@@ -2486,11 +2486,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@AIPixLab",
     "sourceUrl": "https://x.com/AIPixLab/status/2099096137345257973",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099096137345257973_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099096137345257973_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099096137345257973_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099096137345257973_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099096137345257973.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099096137345257973.mp4",
     "blurb": "【MiniMax H3】I2V(FL2VA) 実用的ダンスプロンプト全公開！ [prompt share] #MiniMaxH3 いつでも誰でも踊り出しちゃう！？ 変な曲だなー🤣",
     "prompt": "全公開！ [prompt share]\n#MiniMaxH3 \n\nいつでも誰でも踊り出しちゃう！？\n\n変な曲だなー🤣",
     "nsfw": false,
@@ -2506,12 +2506,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_yoursAnytime",
     "sourceUrl": "https://x.com/ai_yoursAnytime/status/2098628087764373939",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098628087764373939_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098628087764373939_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098628087764373939_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098628087764373939_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098628087764373939_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098628087764373939_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098628087764373939_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098628087764373939_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098628087764373939_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098628087764373939_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "休日はもっぱら、Tシャツが乾くまでコインランドリーの乾燥機をずっと見てしまう癖がある凛々子さん24歳。推せる韓国アイドルを探し中。",
@@ -2529,11 +2529,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@JiangL30278",
     "sourceUrl": "https://x.com/JiangL30278/status/2098904130077229313",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098904130077229313_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098904130077229313_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098904130077229313_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098904130077229313_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098904130077229313.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098904130077229313.mp4",
     "blurb": "Dailygirl_ 990 #美少女 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️",
     "prompt": "",
     "nsfw": false,
@@ -2549,11 +2549,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_girl_craft",
     "sourceUrl": "https://x.com/ai_girl_craft/status/2098649646671577521",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098649646671577521_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098649646671577521_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098649646671577521_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098649646671577521_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098649646671577521.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098649646671577521.mp4",
     "blurb": "ファンサイトを更新しました🥰💕💕 今回もぷるぷるにしてみました✨ 遊びに来てね💋",
     "prompt": "",
     "nsfw": true,
@@ -2569,11 +2569,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yashmallick2",
     "sourceUrl": "https://x.com/yashmallick2/status/2098956861785735407",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098956861785735407_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098956861785735407_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098956861785735407_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098956861785735407_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098956861785735407.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098956861785735407.mp4",
     "blurb": "涨知识了",
     "prompt": "",
     "nsfw": true,
@@ -2589,9 +2589,9 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@fdtreesky",
     "sourceUrl": "https://x.com/fdtreesky/status/2099163224797216983",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099163224797216983_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099163224797216983_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099163224797216983_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099163224797216983_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "GROK，影片我放回覆，直接做影片沒啥東西就一直走而已，我另寫提示詞，4個白花花的屁股",
@@ -2609,11 +2609,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Oliver669127636",
     "sourceUrl": "https://x.com/Oliver669127636/status/2099162041911238775",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099162041911238775_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099162041911238775_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099162041911238775_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099162041911238775_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099162041911238775.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099162041911238775.mp4",
     "blurb": "睡前再当一次宠粉博主吧～ 依旧穴脸同框～",
     "prompt": "",
     "nsfw": true,
@@ -2629,12 +2629,12 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2099009474405236978",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099009474405236978_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099009474405236978_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099009474405236978_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099009474405236978_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099009474405236978_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099009474405236978_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099009474405236978_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099009474405236978_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099009474405236978_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099009474405236978_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "周末了，给大家分享一组 Macro Portrait Editorial Poster 巨幅人物局部 × 极小全身人物， 再混一点日系 Editorial、Artbook 排版和水墨笔触。 最近很喜欢这种尺度反差， 一只眼睛就能撑住大半张画…",
@@ -2652,11 +2652,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@zhouluobo",
     "sourceUrl": "https://x.com/zhouluobo/status/2098928394935083155",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098928394935083155_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098928394935083155_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098928394935083155_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098928394935083155_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098928394935083155.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098928394935083155.mp4",
     "blurb": "四张图片，一段提示词，这个效果还不错吧。 提示词和素材在⬇️",
     "prompt": "使用四张参考图生成一段20秒、9:16竖屏、雨夜酒店的一镜到底写实视频。\n\n核心规则：\n四张参考图不是四个独立画面，而是同一个连续长镜头中的四个自然到达点。镜头从参考图3的走廊行走状态开始，在人物持续运动中丝滑过渡到参考图4的镜前姿态，再连续跟随到参考图2的窗边坐姿，最后由她从椅子起身、转身、靠近窗边，平滑抵达参考图1的回眸近景。\n\n整个视频只有一个连续镜头，没有硬切、没有跳剪、没有淡入淡出、没有闪白、没有黑场转场、没有画面冻结、没有镜头瞬移、没有人物瞬间换位置、没有服装变化、没有脸部变化、没有额外人物、没有重复肢体或镜中第二个角色。\n\n主要角色：\n一位26岁左右的成年女性，黑色蓬松中短卷发，脸侧有几缕微湿碎发，深红色唇妆，佩戴细金色水滴耳饰。她穿香槟色缎面细肩带短裙与浅色细带高跟鞋，裙身褶皱、耳饰、发型和妆容全程保持一致。保留真实皮肤纹理、自然呼吸、锁骨阴影、缎面受灯光影响产生的细微反光。\n\n镜头外是她熟识且受邀进入房间的成年恋人，始终不露脸，只以手持摄影机的第一视角和低声回应存在。两人关系亲密且自愿。她不脱衣、不裸露、不做明确性行为；暧昧感来自低声对话、手指动作、刻意停顿、慢慢缩短的距离和回眸。\n\n地点：\n同一间高层酒店套房与相连走廊。走廊有黑金色墙面、暖黄壁灯和微湿的大理石地面；房间内有黑色梳妆台、金边大镜子、暖光台灯、白色百合、深色绒面扶手椅和落地窗。窗外下着细雨，雨滴沿玻璃滑落，远处车流和霓虹在玻璃后失焦成蓝白与红色光点。室内始终是暖黄灯光，窗外始终是冷蓝色雨夜，光线关系不能跳变。\n\n视觉风格：\n真实人物纪录片质感，手持摄影的近距离观察感，真实缎面材质、真实大理石反光、真实雨滴折射、真实低照度颗粒和自然肤质。人物的动作由前一姿态自然延续到后一姿态，不要把四张参考图处理成静态照片之间的生硬变形。\n\n摄像风格：\n由镜头外成年恋人手持专业全画幅相机一镜到底拍摄。镜头始终位于人物身前偏侧的位置，保持自然的亲密距离；跟随她走动时有克制的手持微晃和轻微上下起伏。景深从全身逐渐过渡到半身和近景，对焦只在她的眼睛、镜中倒影、耳饰和窗上雨滴之间自然移动。镜头的每一次靠近都由她转身、走向窗边、坐下或起身触发，不使用无动机的推拉、环绕或漂浮运镜。\n\n连续动作与对白：\n\n00:00–00:05\n镜头从她穿高跟鞋踏过湿亮大理石地面的脚步开始，平稳抬起，跟到她沿走廊缓慢走来。她右手轻按住裙侧自然褶皱，步伐不急，肩膀随着呼吸有很轻微的起伏。\n\n她听见镜头外的人靠近，放慢脚步却不回头，低声说：\n“我知道你会来。”\n\n镜头外的人轻声回答：\n“让你等久了。”\n\n她侧脸露出一点笑意，继续向梳妆镜走去。镜头始终跟在她左后侧，没有切换。\n\n00:05–00:09\n她顺着走廊自然走到梳妆镜前，在镜子前停住。镜头从她的肩后移动半步，因此同一画面里同时看见她的背影和镜中的侧脸，构图自然抵达参考图4的镜前状态。\n\n她抬起右手整理耳饰，指尖从耳垂轻轻滑到脸侧碎发，将头发别到耳后。她先看镜中的自己，再透过镜子看向镜头外的人。\n\n她压低声音说：\n“现在还站那么远？”\n\n镜头外的人停顿半秒，回答：\n“怕打扰你。”\n\n她的手从耳饰滑到梳妆台边缘，指腹轻轻划过台面，转身时让视线离开镜子：\n“那就别让我等第二次。”\n\n她转身的动作必须连续，裙摆、发丝和镜中倒影都符合真实物理运动。镜头后退半步给她让出空间，再跟随她走向窗边。\n\n00:09–00:15\n她从梳妆镜前走向落地窗，途中经过暖黄台灯和深色绒面扶手椅。镜头始终保持同一个运动方向，从她的侧后方缓慢绕到侧面，但不环绕人物一整圈。她伸手轻触窗帘边缘，借这个动作自然停在扶手椅旁。\n\n她转身坐进椅子，身体侧向窗外，双腿自然交叠，左手放在扶手上，右手仍轻轻握住窗帘边缘。镜头顺势降低一点，平滑抵达参考图2的窗边坐姿与侧脸构图。\n\n她看着雨滴滑过窗玻璃，声音很轻：\n“过来，陪我看会儿雨。”\n\n镜头外的人向前走近半步，手持画面随脚步有极轻微起伏，但不剧烈晃动。\n\n00:15–00:20\n她没有立刻看镜头，而是先用右手松开窗帘，指尖缓慢落到椅子扶手。她从椅子起身，动作完整连贯：身体重心前移、手掌短暂压住扶手、双腿站稳、裙摆自然回落。镜头随着她起身同步抬高，始终不切镜。\n\n她站到窗边，侧身面向雨夜，随后缓慢转过肩看向镜头外的人。镜头自然靠近到半身近景，人物姿态、窗边位置、暖灯与雨夜蓝光平滑抵达参考图1的最终回眸画面。\n\n她直视镜头外的人，停顿一秒，轻声说：\n“今晚，别急着走。”\n\n她说完不立刻微笑，只保持安静的眼神。镜头停在她的脸、窗上的雨滴和远处失焦霓虹之间，视频在持续雨声中自然结束。\n\n音频：\n全程现场收音，无配乐、无旁白、无夸张音效。持续存在窗外细雨、远处湿路面车流、室内空调低鸣、鞋跟落在大理石上的轻响、缎面布料摩擦、耳饰轻碰和人物自然呼吸。所有中文对白要嘴型同步、声线贴近耳语距离。镜头外恋人的声音略远、音量较低，符合其手持摄影机并站在人物面前的空间位置。\n\n目标：\n一镜到底记录一位成年女性在雨夜酒店房间等待恋人、以对话邀请对方靠近、从走廊走到镜前再走向窗边、最后回眸挽留的完整过程。四张参考图必须作为连续运动中的自然关键姿态出现，不能产生任何硬切感。",
     "nsfw": false,
@@ -2672,12 +2672,12 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@gagarot200",
     "sourceUrl": "https://x.com/gagarot200/status/2098665213210001731",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098665213210001731_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098665213210001731_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098665213210001731_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098665213210001731_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098665213210001731_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098665213210001731_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098665213210001731.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098665213210001731.mp4",
     "blurb": "TikTokとインスタ「AI美女動画」 Astra自動生産で荒稼ぎしてる人多すぎ 👇 成人向けファンサイトで",
     "prompt": "",
     "nsfw": true,
@@ -2693,11 +2693,11 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@goan999999",
     "sourceUrl": "https://x.com/goan999999/status/2099124193388601758",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099124193388601758_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099124193388601758_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099124193388601758_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099124193388601758_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099124193388601758.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099124193388601758.mp4",
     "blurb": "Codex 6 Astra 一定要去优化，非常重要！ Openai 官方昨天指出，你升级到 Astra 后，以前给 Codex 写的 AGENTS.md、Skills 和旧规则，已经开始拖慢它了，还多消耗token 先给他这段提示词，让 A…",
     "prompt": "Codex 6 Astra 一定要去优化，非常重要！\n\nOpenai 官方昨天指出，你升级到 Astra 后，以前给 Codex 写的 AGENTS.md、Skills 和旧规则，已经开始拖慢它了，还多消耗token\n\n先给他这段提示词，让 Astra 审查：\n\n“审查当前项目的 AGENTS.md 和 Skills，找出过宽的 Skill 触发、无关文档强制读取、重复检查、冲突规则，以及频繁要求确认的指令。逐条告诉我问题和最小修改建议，先不要改文件。”\n\n看完结果后，再让它配置：\n\n“根据刚才的审查结果优化 AGENTS.md 和 Skills。缩小 Skill 触发范围，删除无关文档读取，合并重复检查，解决冲突规则，并减少低风险任务中的无意义确认。保留安全边界、敏感操作确认和必要测试。修改完成后列出具体改动”\n\n最后用一个简单任务测试一下啊：\n\n“修复 README 里的一个拼写错误，只读取完成任务真正需要的文件，不要加载无关文档。”\n\n如果它还在读一堆没用的东西，说明旧规则还没清干净。\n模型升级了，规则也得一起升级。\n\n赶紧配置吧，也分享给你的朋友们！",
     "nsfw": false,
@@ -2713,11 +2713,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@shanyanggm",
     "sourceUrl": "https://x.com/shanyanggm/status/2099017499199348920",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017499199348920_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099017499199348920_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017499199348920_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099017499199348920_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099017499199348920.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099017499199348920.mp4",
     "blurb": "卧槽，这谁干的！！？ 一个人把 ElevenLabs 开源了，还让你装自己电脑上跑。 GitHub 都快 2 万星了，仓库叫 VoiceStudio。 你就给它一段干净的人声，它能把这声音学下来。视频也能配成 646 种语言。有声书、听写、…",
     "prompt": "",
     "nsfw": false,
@@ -2733,11 +2733,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jackzhang123vip",
     "sourceUrl": "https://x.com/jackzhang123vip/status/2099017431109018059",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017431109018059_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099017431109018059_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017431109018059_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017431109018059_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099017431109018059_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099017431109018059_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099017431109018059_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099017431109018059_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "你永远可以相信mj 的美学，提示词发评论区了",
@@ -2755,12 +2755,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@momoai_daily",
     "sourceUrl": "https://x.com/momoai_daily/status/2098982772442345680",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098982772442345680_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098982772442345680_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098982772442345680_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098982772442345680_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098982772442345680_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098982772442345680_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098982772442345680.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098982772442345680.mp4",
     "blurb": "昨天地铁上还刷到那个很火的豆包调教视频，但是不好意思点开看 今天去看已经没有了？只能找到这两个了 不过根据大家的反馈和姚顺宇自己的原话 豆包的语音生成功能确实不简单😂",
     "prompt": "",
     "nsfw": false,
@@ -2776,9 +2776,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Khazix0918",
     "sourceUrl": "https://x.com/Khazix0918/status/2099030353549594906",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099030353549594906_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099030353549594906_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099030353549594906_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099030353549594906_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "给大家在AIHOT上更新一个被催了无数遍的小功能：Tibo重置监控。 以后大家就不用怕Tibo重置Codex然后看不到浪费Token了： 日历查记录：全员重置、发重置卡分开标记，统一换算成北京时间，帖子附中文译文和原帖链接。 群里收通知：监…",
@@ -2796,11 +2796,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@konggzi",
     "sourceUrl": "https://x.com/konggzi/status/2098639456215724110",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098639456215724110_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098639456215724110_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098639456215724110_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098639456215724110_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098639456215724110.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098639456215724110.mp4",
     "blurb": "作者的色批程度比诸位不知高到哪里去了 cr 义父江上月",
     "prompt": "",
     "nsfw": false,
@@ -2816,11 +2816,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@Magncsans",
     "sourceUrl": "https://x.com/Magncsans/status/2098740930174144613",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098740930174144613_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098740930174144613_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098740930174144613_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098740930174144613_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098740930174144613.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098740930174144613.mp4",
     "blurb": "GPT6+Blender结合seedance2.5，短剧生产利直接提升一个档次 这是我帮朋友的爆款短剧《蟲垩纪》做的一个片段 短剧作者在这，非常高质量的作者！@JingHe007 以往这种运镜得抽多少张卡呀！有了白模一条直出 所以白模不仅是…",
     "prompt": "",
     "nsfw": false,
@@ -2836,9 +2836,9 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@ai_hakase_",
     "sourceUrl": "https://x.com/ai_hakase_/status/2098714742743285972",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098714742743285972_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098714742743285972_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098714742743285972_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098714742743285972_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "【MiniMax-H3の画質向上！Qwen3-VL-32BのINT8量子化が凄すぎる】 動画生成モデル「MiniMax-H3」で使われている巨大な32Bのマルチモーダルテキストエンコーダー「Qwen3-VL-32B」ですが、量子化の精度で生…",
@@ -2856,11 +2856,11 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@Minsi_AI",
     "sourceUrl": "https://x.com/Minsi_AI/status/2098595765937697142",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098595765937697142_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098595765937697142_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098595765937697142_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098595765937697142_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098595765937697142.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098595765937697142.mp4",
     "blurb": "用 GPT-6 Astra + Three.js + Tripo，做了一个完整的 3D T 恤定制工作室。 你可以直接在浏览器里： 🎨 在 T 恤任何位置画画 💨 像喷墙一样实时喷漆 🖼️ 用 GPT Image 2.5 生成贴纸 🧵 改面…",
     "prompt": "",
     "nsfw": false,
@@ -2876,12 +2876,12 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@AldegadWildKim",
     "sourceUrl": "https://x.com/AldegadWildKim/status/2098707997799375278",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098707997799375278_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098707997799375278_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098707997799375278_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098707997799375278_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098707997799375278_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098707997799375278_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098707997799375278.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098707997799375278.mp4",
     "blurb": "🚨AI가 이렇게 까지 게임을 뽑을 수 있다고? seedance2.5냐고요? 아닙니다! 영상으로 또 사기치냐고요? 아닙니다! 이건 정말 게임 스프라이트 입니다! 이 퀄리티로 게임을 만들 수 있습니다! 이 오픈소스는 미…",
     "prompt": "",
     "nsfw": false,
@@ -2897,9 +2897,9 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@txbrraa",
     "sourceUrl": "https://x.com/txbrraa/status/2098521751898529815",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098521751898529815_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098521751898529815_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098521751898529815_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098521751898529815_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -2918,9 +2918,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ilovek8s",
     "sourceUrl": "https://x.com/ilovek8s/status/2098243158878617810",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098243158878617810_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098243158878617810_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098243158878617810_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098243158878617810_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "卧槽，审核规则是认真的么~",
@@ -2938,11 +2938,11 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@nicos_ai",
     "sourceUrl": "https://x.com/nicos_ai/status/2098764217947914722",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098764217947914722_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098764217947914722_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098764217947914722_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098764217947914722_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098764217947914722.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098764217947914722.mp4",
     "blurb": "🚨UN DESARROLLADOR HA LOGRADO MULTIPLICAR POR 100 EL LÍMITE DE GPT-6 ASTRA SIN COSTE EXTRA Ha creado su propia versión de…",
     "prompt": "",
     "nsfw": false,
@@ -2958,11 +2958,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Magncsans",
     "sourceUrl": "https://x.com/Magncsans/status/2098630949223428407",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098630949223428407_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098630949223428407_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098630949223428407_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098630949223428407_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098630949223428407.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098630949223428407.mp4",
     "blurb": "这是视频中涉及的白模和提示词⬇️ 现在全部公开，欢迎拿去使用和尝试，制作不易，可以的话带上我名字就行🙏",
     "prompt": "",
     "nsfw": false,
@@ -2978,9 +2978,9 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@ichardrv",
     "sourceUrl": "https://x.com/ichardrv/status/2098415872155263006",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098415872155263006_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2098415872155263006_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098415872155263006_0.png"
+      "https://img.guopeng.ccwu.cc/images/2098415872155263006_0.png"
     ],
     "videoUrl": "",
     "blurb": "发现一个贼牛逼的开源项目 下载对标全部视频只用了1分钟 在github上也有10k的star，群众的眼睛果然好啊",
@@ -2998,9 +2998,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lksmlabc",
     "sourceUrl": "https://x.com/lksmlabc/status/2098428853987557862",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098428853987557862_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2098428853987557862_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098428853987557862_0.png"
+      "https://img.guopeng.ccwu.cc/images/2098428853987557862_0.png"
     ],
     "videoUrl": "",
     "blurb": "兄弟们，AI视频制作这赛道我是真有点跟不上了。 刚翻到一个叫OpenMontage的开源项目，GitHub已经冲到了当天热榜第一。它不是帮你剪，是压根不用你动手——丢一句人话进去，脚本、素材、配音、字幕、成片全给你跑完。",
@@ -3018,9 +3018,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@grgerwcwetwet",
     "sourceUrl": "https://x.com/grgerwcwetwet/status/2098742592850755656",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098742592850755656_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2098742592850755656_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098742592850755656_0.png"
+      "https://img.guopeng.ccwu.cc/images/2098742592850755656_0.png"
     ],
     "videoUrl": "",
     "blurb": "发现一个有点意思的网站：有人把 X 上的 NSFW 博主做成了一个精选画廊。 不用自己在 X 上到处翻，直接按博主 ID、昵称、简介搜索，也可以随机探索，还能按粉丝数、热度等方式筛选。网站本身主要做公开账号的归档和索引。 这个入口确实省事，…",
@@ -3038,11 +3038,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jackzhang123vip",
     "sourceUrl": "https://x.com/jackzhang123vip/status/2098704038271606930",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098704038271606930_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098704038271606930_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098704038271606930_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098704038271606930_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098704038271606930.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098704038271606930.mp4",
     "blurb": "这种怼脸拍的，和真人又什么区别，提示词放评论区了",
     "prompt": "生成一段 15秒、9:16竖屏、4K超写实真人实拍视频。\n\n画面中是一名明确成年东亚女性，自然清冷型东方面孔，小巧自然鹅蛋脸，柔和下颌线，五官比例真实，不追求网红模板式完美。\n\n人物拥有乌黑自然长发，头发随意披散，部分黑色发丝落在额头、眼睛和脸颊附近。发丝必须根根清晰，存在真实粗细差异、凌乱碎发和细小绒毛。\n\n整体为极淡的清透裸妆。\n\n自然原生眉毛，可以清晰看到眉毛毛流。\n\n深棕黑色眼睛，眼球湿润，瞳孔和虹膜具有真实反射；非常自然的细眼线与睫毛，不使用夸张假睫毛。\n\n鼻梁纤细自然，鼻尖具有明显阳光高光。\n\n嘴唇为自然饱满的淡珊瑚粉色，覆盖少量透明水润唇釉，保留完整真实唇纹。\n\n最重要的是皮肤。\n\n禁止把人物生成成传统AI美女的无瑕皮肤。\n\n脸颊、鼻翼、鼻梁必须清楚看到：\n\n真实毛孔\n细小皮肤纹理\n轻微凹凸\n少量浅色雀斑\n细小色素点\n自然小痣\n轻微肤色不均\n鼻翼真实纹理\n眼下细纹\n皮脂产生的自然高光\n面部细小绒毛\n\n皮肤具有真实成年女性状态，但整体仍然干净、健康、清透。\n\n⸻\n\n光线\n\n使用非常强烈的自然太阳直射光。\n\n阳光从人物面部侧前方照射，形成明显的高光和阴影分界。\n\n鼻梁、鼻尖、颧骨、嘴唇以及额头出现真实镜面高光。\n\n随着人物与镜头产生轻微位移，阳光被周围物体或发丝遮挡，在脸上形成不断变化的细碎光影纹理。\n\n部分画面允许出现轻微过曝高光，这是手机近距离拍摄的重要真实感来源。\n\n禁止影棚柔光。\n\n禁止完美均匀打光。\n\n⸻\n\n0–3秒｜开场怼脸\n\n直接从极端面部大特写开始。\n\n摄影机距离人物面部约 10–20cm。\n\n采用接近手机主摄或轻微长焦裁切的视觉效果。\n\n人物面部几乎占满整个9:16画面。\n\n镜头从略微侧面的角度拍摄，重点同时看到：\n\n一侧眼睛\n鼻梁\n鼻尖\n双唇\n部分脸颊\n\n人物安静看向镜头。\n\n嘴唇微微分开。\n\n没有说话。\n\n只有非常轻微的呼吸。\n\n眼球自然转动。\n\n偶尔轻微眨眼。\n\n摄影机出现非常轻微的手持漂移。\n\n⸻\n\n3–6秒｜眼睛与皮肤微距\n\n摄影机进一步靠近人物。\n\n画面开始进入真正的Macro Beauty Close-up。\n\n镜头缓慢横向移动。\n\n从眼睛移动到鼻梁，再经过脸颊。\n\n不要快速运镜。\n\n速度非常慢。\n\n此时重点不是人物动作，而是展示真实皮肤。\n\n阳光扫过脸颊后，毛孔、雀斑、细小色素点和皮肤纹理被明显照亮。\n\n人物轻微眯眼。\n\n眼皮自然下降。\n\n随后缓慢重新睁开。\n\n眼球反射出摄影设备与周围环境的自然高光。\n\n⸻\n\n6–10秒｜鼻子嘴唇超级特写\n\n镜头继续缓慢向下移动。\n\n构图逐渐变成：\n\n鼻尖 + 鼻翼 + 上唇 + 下唇 + 单侧脸颊\n\n占据几乎整个画面。\n\n此时可以裁掉部分额头和眼睛。\n\n这是原视频非常关键的构图特点：\n\n允许五官被画面边缘切掉。\n\n不要强迫完整脸部始终处于画面中央。\n\n摄影机非常靠近皮肤。\n\n清晰展示鼻翼附近的真实毛孔、脸颊细小雀斑以及皮肤表面的自然油脂。\n\n嘴唇微微张开。\n\n可以短暂露出一点牙齿。\n\n嘴唇进行非常轻微的自然运动。\n\n透明唇釉随着阳光产生湿润高光。\n\n⸻\n\n10–13秒｜镜头重新向眼睛移动\n\n摄影机沿人物脸部缓慢向上移动。\n\n从嘴唇经过鼻梁重新移动至眼睛。\n\n人物头部轻微转动约 5–10度。\n\n不是摆拍式转头。\n\n而是非常自然的小幅调整。\n\n几根黑色碎发进入镜头。\n\n部分头发覆盖眼睛附近。\n\n人物视线先看向镜头旁边。\n\n随后重新看向镜头。\n\n脸部光影发生变化。\n\n部分区域进入阴影。\n\n部分区域重新被阳光照亮。\n\n⸻\n\n13–15秒｜眼睛收尾\n\n最后停留在人物一侧眼睛和鼻梁附近的超级近距离特写。\n\n一只眼睛成为视觉中心。\n\n瞳孔中具有清晰真实的环境倒影。\n\n黑色发丝从画面上方自然垂落。\n\n阳光穿过发丝，在眼睛周围和脸颊形成细碎的条纹状阴影。\n\n人物最后轻微眨一次眼。\n\n嘴角出现几乎不可察觉的自然变化。\n\n镜头保持约1秒。\n\n结束。\n\n运镜锁定\n\n整个视频不要传统意义上的“推拉摇移大运镜”，而采用 贴着人物脸部缓慢探索的微距摄影方式。",
     "nsfw": false,
@@ -3058,9 +3058,9 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@yyyole",
     "sourceUrl": "https://x.com/yyyole/status/2098791613946589527",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098791613946589527_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098791613946589527_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098791613946589527_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098791613946589527_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "官方的教程，真就是保姆级！！ Astra + Tripo 3D + Blender！ 这个三维模型生成的王炸组合，真的绝了！！ 应该是目前最稳、效果最好的三维模型生成方式！！ Tripo 官方刚刚放出了一套非常完整三维角色模型制作教程，从图…",
@@ -3078,11 +3078,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@Magncsans",
     "sourceUrl": "https://x.com/Magncsans/status/2098289393912156369",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098289393912156369_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098289393912156369_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098289393912156369_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098289393912156369_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098289393912156369.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098289393912156369.mp4",
     "blurb": "怒烧50万积分！！ 总结一套最细GPT 6 Astra+Blender建白模，结合Seedance2.5生成电影级运镜和画面教程 该视频总时长10分钟，总结了生成什么标准的白模以及怎么结合白模写提示词，过程中应该注意什么坑 包括还讲述了除B…",
     "prompt": "",
     "nsfw": false,
@@ -3098,9 +3098,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2098935527810683347",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "分享一组绝美的蒙纱AI古风女生提示词🙌 朦胧美的感觉真是太棒啦！🥳🥳 提示词prompt：东方古典人像摄影，清冷柔美的五官，白皙真实肤色，细长眼型，淡淡粉色眼妆，眼神安静而疏离，嘴唇自然淡粉色。",
@@ -3118,11 +3118,11 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2075491927064228194",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2075491927064228194_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2075491927064228194_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2075491927064228194_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2075491927064228194_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2075491927064228194.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2075491927064228194.mp4",
     "blurb": "原版的视频提示词就已经意想不到的简洁！ 而只能用6秒的我，让他更短更精悍！却依然能打！！ 视频使用参考图配合Grok生成 只能说Grok在这方面太懂我们了😆 老规矩提示词在评论区👇 #AIart️️️️️️️️️️️️️️️️️️️️️️️…",
     "prompt": "",
     "nsfw": false,
@@ -3138,11 +3138,11 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2095785276526522821",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2095785276526522821_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2095785276526522821_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2095785276526522821_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2095785276526522821_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2095785276526522821.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2095785276526522821.mp4",
     "blurb": "有这样的女朋友得早点回家！ Grok的视频生成这块儿是真的猛，这么便宜又能打的工具摆在这儿，谁还费劲自己剪视频啊。 提示词放下方👇",
     "prompt": "",
     "nsfw": false,
@@ -3158,12 +3158,12 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@kibunwachonmage",
     "sourceUrl": "https://x.com/kibunwachonmage/status/2098774443376132457",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098774443376132457_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098774443376132457_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098774443376132457_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098774443376132457_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098774443376132457.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098774443376132457.mp4",
     "blurb": "【Grok飴舐め動画プロンプト共有】 起点の画像生成精度低いから直で動画化 仕様画像構図によって通らないから使い分け【】は同じ (※童顔人物が「成人女性」追加で通ったからデフォに) (※実在人物使用、up厳禁) (※児ポ規制強化されて来てる…",
     "prompt": "起点の画像生成精度低いから直で動画化\n\n仕様画像構図によって通らないから使い分け【】は同じ\n\n(※童顔人物が「成人女性」追加で通ったからデフォに)\n\n(※実在人物使用、up厳禁)\n\n(※児ポ規制強化されて来てる印象。生成人物でも未成年に見えるのはup等ご注意を)",
     "nsfw": false,
@@ -3179,11 +3179,11 @@ window.GALLERY_CASES = [
     "model": "Grok",
     "source": "@0xkyne",
     "sourceUrl": "https://x.com/0xkyne/status/2077624322844426305",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2077624322844426305_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2077624322844426305_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2077624322844426305_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2077624322844426305_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2077624322844426305.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2077624322844426305.mp4",
     "blurb": "再熬一天就周末了兄弟们！看点好的吧！ 而像这种福利视频，就非Grok不可！ 管你Fable5还是GPT Sol 只要这一块干不过，那Grok就一直无法取代😆 ---视频提示词--- 0-3秒：她迅速转圈，短裙自然飘动。特写镜头：她的双腿。 …",
     "prompt": "0-3秒：她迅速转圈，短裙自然飘动。特写镜头：她的双腿。\n3-6秒：她走向镜头。特写镜头：她的胯部。画面迅速渐黑。\n无对白，长镜头，无剪辑，保持服装完整",
     "nsfw": false,
@@ -3199,11 +3199,11 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@GeekCatX",
     "sourceUrl": "https://x.com/GeekCatX/status/2063410274879873031",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2063410274879873031_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2063410274879873031_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2063410274879873031_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2063410274879873031_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2063410274879873031_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "GPT Image2 美臀秀秀 看过的都说好 提示词 请生成一张 高质感竖版女性情绪写真，画面以 美臀 为主视觉核心，重点表现 腰臀比例、臀部轮廓、骨盆线、腰窝线条、臀腿衔接和整体身体曲线，而不是正脸。 人物为 成年女性，气质自然高级，可呈…",
@@ -3221,9 +3221,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@shizuku_koino",
     "sourceUrl": "https://x.com/shizuku_koino/status/2099256838554554436",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099256838554554436_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099256838554554436_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099256838554554436_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099256838554554436_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "ハロウィンちょっと早いけど、「どれが好き？」のテーマに使ってみました😆 定番の画像も意外と簡単に作れます プロンプトはリプ欄に置いたよー #AI美女 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️…",
@@ -3241,9 +3241,9 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@CyberTotal2026",
     "sourceUrl": "https://x.com/CyberTotal2026/status/2099455619891646953",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099455619891646953_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099455619891646953_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099455619891646953_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099455619891646953_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "夜景を背に黒い羽根、街の灯りまでドレスアップして。🖤🌃🪶 #AIart #AI写真 #ナイトポートレート 【GPT Image2プロンプト】 主題： 夜景の黒い羽根 主体： 高層ビルを望む夜のバルコニーで、成人女性が黒いレース衣装と羽根のロ…",
@@ -3261,11 +3261,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@smeepsx",
     "sourceUrl": "https://x.com/smeepsx/status/2098849504153817461",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098849504153817461_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098849504153817461_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098849504153817461_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098849504153817461_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098849504153817461.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098849504153817461.mp4",
     "blurb": "let mi start ur weekend off right",
     "prompt": "",
     "nsfw": false,
@@ -3281,11 +3281,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Kyle61134910237",
     "sourceUrl": "https://x.com/Kyle61134910237/status/2099367291674902763",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099367291674902763_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099367291674902763_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099367291674902763_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099367291674902763_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099367291674902763.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099367291674902763.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -3301,11 +3301,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@ImaStudio_ai",
     "sourceUrl": "https://x.com/ImaStudio_ai/status/2099338772081160503",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099338772081160503_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099338772081160503_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099338772081160503_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099338772081160503_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099338772081160503.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099338772081160503.mp4",
     "blurb": "MiniMax H3 Scarlet Riot K-Idol Film | Red Editorial + Luxury Motion Energy ❤️ SCARLET HITS HARD. TOO HOT TO STAY STILL. …",
     "prompt": "Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts.\nSTYLE:\nSexy Korean Idol Campaign × Luxury Fashion Editorial × AAA Motion Graphics × Scarlet Red Concept Film.\nTheme: SCARLET RIOT\nInitials: SR\nTagline: TOO HOT TO STAY STILL.\nCHARACTER LOCK:\nUse the uploaded woman as the only identity reference. Keep the exact same face, facial proportions, skin tone, body proportions, hairstyle silhouette, age impression and Korean idol aura throughout.\nShe is a young adult East Asian woman with a refined small face, fair natural skin, long dark-brown hair, airy bangs and a clean but slightly sharp gaze. Her mood is sexy, cold, confident, elegant, expensive and slightly rebellious.\nDo NOT inherit the original light-blue outfit, skirt, white platform boots or white bag.\nWARDROBE:\nOne fixed premium red fashion look throughout:\ndeep cherry-red fitted corset top, cropped burgundy structured blazer worn open or loosely on the shoulders, high-waisted black/red mini skirt or tailored shorts, burgundy or black over-the-knee boots, gold earrings, delicate necklace, rings and bracelet.\nSexy through shoulders, collarbone, waistline, long legs, tailoring, gaze and posture — never vulgar or overly revealing.\nSCENES:\nUse multiple coordinated environments:\ncream luxury studio, cream vintage car interior, white farmhouse exterior, country road beside green fields, deep-red editorial studio, golden-hour window interior, red curtain/mirror fashion set, vintage roadside set at dusk.\nAll scenes must share one cohesive red / cream / golden-hour fashion world.\nVISUAL RATIO:\n80% motion graphics, 20% character performance.\nUse giant kinetic typography, scarlet circles, hard-edged shapes, red plaid fragments, torn paper, gold foil stamps, scan lines, film sprockets, halftone, technical grids, crosshairs, split screens, light leaks, sun flares, shutter flashes and graphic wipes.\nPalette:\nScarlet Red, Cherry Red, Burgundy, Cream, Ivory, Champagne Gold, Black, with tiny Sage Green / Sky Blue accents.\nNo purple-blue neon.\nCUTS:\n01 cream studio, giant scarlet circle, gold bars, S then R slam in; quick flashes of lips and eyes.\n02 vintage car, R becomes window frame, extreme face close-up, she shifts gaze to camera, light-leak burst.\n03 deep-red studio, giant SR, she walks from behind the letters, hand on blazer, gold dust and red ribbons.\n04 triptych: farmhouse look-back / field hair toss / red-studio lean; SCARLET HOUR scrolls behind.\n05 mirrored red studio, rotating ring: SOFT LIGHT / HARD STARE / SCARLET FEVER; slow turn, ring explodes, snap zoom to eyes.\n06 golden-hour window, giant SCARLET; she touches the S, paper-like compression, sun flare across face.\n07 country road, low-angle turn, three red ghost frames, outlined TURN rotates 180°.\n08 black-red studio, HOT / SHARP / CHIC / WILD hit one per beat with shutter flash and impact shake.\n09 farmhouse becomes white wireframe on black; red target circle, gold technical lines and crosshair lock around her.\n10 vintage car, she leans forward; red/black/cream panes shatter to reveal S → R → SR.\n11 four rapid editorial posters: 01 car-window profile, 02 red studio, 03 farmhouse turn-back, 04 cream studio seated pose.\n12 cream hero studio climax: she stands center, blazer open, chin lifts; scarlet rings, flare, gold dust, black type and red paper explode outward. Title: SCARLET RIOT.\n13 final identity card combining previous visual motifs. Huge SR behind her. Final title: SCARLET RIOT. Tagline: TOO HOT TO STAY STILL. Scarlet pulse, gold-ring flash, freeze, hard cut to black.\nPERFORMANCE:\nNo full dance. Use side turn, look-back, eye lift, hair toss, blazer touch, slight lean, one step, chin lift, controlled closed-mouth smile.\nQuiet power: the character stays calm while graphics explode around her.\nCAMERA:\n35mm environment/full-body, 50mm portraits, 85mm details.\nUse snap zooms, fast push-ins, whip pans, controlled low angles and graphic match cuts. Keep the camera stylish and controlled.\nLIGHT:\nCream soft light × deep-red edge light × golden-hour sunlight. Real skin texture, detailed fabric, leather, metal and gold jewelry.\nAUDIO:\nFashion electronic × Future Bass × Dark Pop × Hybrid Trailer Beat. Heavy bass, risers, shutter clicks, paper snaps, metallic hits, glass breaks, fabric whooshes and gold-foil stamp sounds. Peak at CUT 12.\nNEGATIVE:\nNo face drift, hairstyle change, character replacement, original blue outfit, random wardrobe change, vulgar sexuality, body morphing, extra people, anime, 3D cartoon, cyberpunk, cheap nightclub look, random scenes, messy or unreadable text, logos, subtitles, UI or watermark.\nFINAL FEEL:\nOne locked Korean-idol heroine × premium scarlet fashion styling × multi-scene luxury editorial × AAA motion graphics × strong SR branding. High-end, cold, vivid, artistic and campaign-ready.\n#MiniMaxH3 #AIVideo #KFashion #KpopStyle #FashionFilm #Editorial #ImaStudio",
     "nsfw": false,
@@ -3321,11 +3321,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@daph_vt",
     "sourceUrl": "https://x.com/daph_vt/status/2099210311719084525",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099210311719084525_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099210311719084525_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099210311719084525_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099210311719084525_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099210311719084525.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099210311719084525.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -3341,11 +3341,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AichyouLim",
     "sourceUrl": "https://x.com/AichyouLim/status/2099254678970056993",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099254678970056993_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099254678970056993_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099254678970056993_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099254678970056993_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099254678970056993.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099254678970056993.mp4",
     "blurb": "What’s your favorite country and why?",
     "prompt": "",
     "nsfw": false,
@@ -3361,11 +3361,11 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@gagarot200",
     "sourceUrl": "https://x.com/gagarot200/status/2099359799326757342",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099359799326757342_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099359799326757342_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099359799326757342_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099359799326757342_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099359799326757342.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099359799326757342.mp4",
     "blurb": "GPT-6 AstraでAI美女量産するだけで おじさん達をファン化して「月100万円」 稼げるのバグってるてwww うちのスキルエンジンスクールで 裏⚪︎運用がめっちゃ熱くて AI生成したかどうかをバレないように 一生懸命になってるわけじ…",
     "prompt": "",
     "nsfw": false,
@@ -3381,11 +3381,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mianyx11",
     "sourceUrl": "https://x.com/mianyx11/status/2099389034254803242",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099389034254803242_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099389034254803242_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099389034254803242_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099389034254803242_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099389034254803242.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099389034254803242.mp4",
     "blurb": "Có không giữ. Mất cứ nửa đêm lại: “em khoẻ không em?”😊😊",
     "prompt": "",
     "nsfw": false,
@@ -3401,11 +3401,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sunny77l9vr",
     "sourceUrl": "https://x.com/sunny77l9vr/status/2099497626672468309",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099497626672468309_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099497626672468309_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099497626672468309_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099497626672468309_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099497626672468309.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099497626672468309.mp4",
     "blurb": "发这里总可以了吧 谁举报谁全家销户口本",
     "prompt": "",
     "nsfw": false,
@@ -3421,11 +3421,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PONKOAI111",
     "sourceUrl": "https://x.com/PONKOAI111/status/2099480911121387877",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099480911121387877_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099480911121387877_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099480911121387877_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099480911121387877_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099480911121387877.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099480911121387877.mp4",
     "blurb": "お疲れ様です☺️ モデルウォーキング 苦手かも🥹💦 上手くなるように ٩( 'ω' )و",
     "prompt": "",
     "nsfw": false,
@@ -3441,11 +3441,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@tricon_",
     "sourceUrl": "https://x.com/tricon_/status/2099332308499345522",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099332308499345522_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099332308499345522_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099332308499345522_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099332308499345522_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099332308499345522.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099332308499345522.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -3461,11 +3461,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LelaFowlstii",
     "sourceUrl": "https://x.com/LelaFowlstii/status/2099144645993505029",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099144645993505029_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099144645993505029_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099144645993505029_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099144645993505029_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099144645993505029.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099144645993505029.mp4",
     "blurb": "我才18岁啊啊啊 不许叫我母猪 我要开始身材管理 #母猪 #微胖 #女高 #bbw",
     "prompt": "",
     "nsfw": true,
@@ -3481,12 +3481,12 @@ window.GALLERY_CASES = [
     "model": "GPT",
     "source": "@you1873118",
     "sourceUrl": "https://x.com/you1873118/status/2099504280285991111",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099504280285991111_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099504280285991111_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099504280285991111_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099504280285991111_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099504280285991111_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099504280285991111_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "分享一组秋天的 ChatGPT Image 2.5 穿搭提示词 她说穿在身上美在心里",
@@ -3504,9 +3504,9 @@ window.GALLERY_CASES = [
     "model": "Blender",
     "source": "@MMMusol",
     "sourceUrl": "https://x.com/MMMusol/status/2093584457412517905",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093584457412517905_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2093584457412517905_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2093584457412517905_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2093584457412517905_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "这可能是全网最全的「图片反推提示词」 收藏这一条 以后反推不用从零措辞，按图选类，复制即用。 1. 通用图片反推（所有图都能用） 详细反推这张图片的完整提示词，包含主体、风格、色彩、光影、构图、质感、分辨率和细节描述。 分析这张图片的视觉元…",
@@ -3524,9 +3524,9 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@PixelAigc",
     "sourceUrl": "https://x.com/PixelAigc/status/2100127180126847388",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "公布prompt 视频提示词和生图提示词： 视频提示词，在H3里一键可用： 飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的",
@@ -3542,9 +3542,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nanyuan0412",
     "sourceUrl": "https://x.com/nanyuan0412/status/2100035605845729375",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100035605845729375_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100035605845729375_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100035605845729375_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100035605845729375_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "为了方便自己做视频的时候做人物资产，我做了一个角色资产拼图的在线网站。 做视频中最重要的就是角色的资产管理，一张清楚的三视图是最重要的。但是往往直接通过一次性生成角色的正面特写+正面全身+背面，图片表现的细节就没那么到位。 所以正确的流程一般都是单独生成单视图然后将他们拼接在一起。而为了拼接图片让我在单独的打开一个",
@@ -3562,11 +3562,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lindangx",
     "sourceUrl": "https://x.com/lindangx/status/2100144656793153709",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100144656793153709_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100144656793153709_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100144656793153709_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100144656793153709_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100144656793153709.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100144656793153709.mp4",
     "blurb": "还没碰就抖成这样 https://t.co/4ypCkmy3WO",
     "prompt": "",
     "nsfw": false,
@@ -3582,11 +3582,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yyyole",
     "sourceUrl": "https://x.com/yyyole/status/2100060548293698035",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100060548293698035_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100060548293698035_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100060548293698035_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100060548293698035_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100060548293698035.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100060548293698035.mp4",
     "blurb": "分享一个用AI做意外反转式商业广告的玩法！！ 基本上，很多产品都可以直接套用！！ 你会发现，类似的广告视频很常见。 这个视频主要有下面几个主要的套路： 1、视觉钩子：性感丝袜、失手意外制造停留。 2、情境喜剧：人物狼狈处境产生趣味。 3、视觉奇观：时间冻结、悬浮、运动轨迹特效加持。 4、反差人设：手忙脚乱后，迅速化险",
     "prompt": "分享一个用AI做意外反转式商业广告的玩法！！\n基本上，很多产品都可以直接套用！！\n\n你会发现，类似的广告视频很常见。\n这个视频主要有下面几个主要的套路：\n1、视觉钩子：性感丝袜、失手意外制造停留。\n2、情境喜剧：人物狼狈处境产生趣味。\n3、视觉奇观：时间冻结、悬浮、运动轨迹特效加持。\n4、反差人设：手忙脚乱后，迅速化险为夷。\n5、叙事软广：最后点出广告主题。\n6、Slogan回扣收尾。\n\n感兴趣，后面可以分享完整的提示词和逻辑！！",
     "nsfw": false,
@@ -3602,11 +3602,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mistyice_k",
     "sourceUrl": "https://x.com/mistyice_k/status/2099693024540553713",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099693024540553713_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099693024540553713_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099693024540553713_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099693024540553713_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099693024540553713.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099693024540553713.mp4",
     "blurb": "Dancing into the summer light 🩵☀️ https://t.co/w94Jf5jl4Q",
     "prompt": "",
     "nsfw": false,
@@ -3622,9 +3622,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2099895211652730897",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "分享一组超可爱的比心pose提示词🫶 提示词：上半身近距离肖像，画面裁切至头顶、肩膀与胸口上方，人物身体基本正面朝向镜头，肩线自然舒展。头部轻轻向右侧偏转约4°，下颌略微回收，呈现自然随拍感。 双臂从画面左右抬起，肘部位于画外。双手靠近面部但保持约8–12cm距离，手掌与手指略有前景放大效果，同时避免遮挡五官。 ",
@@ -3640,11 +3640,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@gkxspace",
     "sourceUrl": "https://x.com/gkxspace/status/2099804160451629078",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099804160451629078_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099804160451629078_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099804160451629078_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099804160451629078_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099804160451629078.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099804160451629078.mp4",
     "blurb": "说实话，现在很多所谓的 AI Agent，用起来真挺鸡肋的。。。 交付一段又臭又长的内容，看似完美，实则全是问题，很大部分精力都耗在帮它找 Bug 和核对内容上。 最近看到了 Atria Dawn Preview，思路是真好，用\"模型 + 运行系统 + 外部验证\"模式，从而达到真正可交付。 我也翻了他们的案例，效",
     "prompt": "说实话，现在很多所谓的 AI Agent，用起来真挺鸡肋的。。。\n\n交付一段又臭又长的内容，看似完美，实则全是问题，很大部分精力都耗在帮它找 Bug 和核对内容上。\n\n最近看到了 Atria Dawn Preview，思路是真好，用\"模型 + 运行系统 + 外部验证\"模式，从而达到真正可交付。\n\n我也翻了他们的案例，效果都非常好：\n1、做软件原型：从拆需求到写代码，自己在环境里跑测试、抓报错、自己改，直接交付能在线操作的系统\n2、做深度研报：丢一堆原始数据进去，多路径检索并核对证据链，直出十几页带图表排版的专业报告\n3、做 3D CAD：自然语言直接生成带装配结构的火箭、发动机和机械零件模型，精细度非常高\n\n了解了一下，@AtriaASI 团队约2/3都是复旦、人大等在校的学生，太强了。\n\n如果有科研、复杂专业任务的需求，快研究一下，🔗放评论区",
     "nsfw": false,
@@ -3660,11 +3660,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@gkxspace",
     "sourceUrl": "https://x.com/gkxspace/status/2099808769043841452",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099808769043841452_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099808769043841452_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099808769043841452_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099808769043841452_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099808769043841452.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099808769043841452.mp4",
     "blurb": "爽了，AI 做视频终于迎来了自己的 Harness 时代，彻底告别手搓剪映和抽卡黑盒！！！ 刚挖到一个极其硬核的开源项目：Hypit 它是专门给 Claude Code、Codex 这类 Coding Agent 打造的开源视频语言与编译系统，简单说就是视频领域的开源 Harness。 为什么这玩意儿这么香？我来",
     "prompt": "",
     "nsfw": false,
@@ -3680,9 +3680,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2099874745709887849",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099874745709887849_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099874745709887849_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099874745709887849_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099874745709887849_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "发现一种穿越时空感的构图🙌🙌 非常的巧妙：第一视角POV前景物体+中央人物+对角线动作+三层纵深 可以很好的还原古人吃饭的场景🥳 https://t.co/l1fRUUrrQs",
@@ -3700,11 +3700,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@fdtreesky",
     "sourceUrl": "https://x.com/fdtreesky/status/2100927381292855794",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100927381292855794_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100927381292855794_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100927381292855794_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2100927381292855794_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2100927381292855794_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "不搞了，好難過，有興趣的自己改 上身为深綠色的兩片式垂墜薄紗胸衣，胸部僅以柔軟半透明紗片覆蓋，紗片上端由細帶固定，中央相互連接，沒有肩帶與完整衣身，腹部裸露，下身为同色轻纱裹身长裙与高开衩设计 https://t.co/ZvpARGZ1ow",
@@ -3722,11 +3722,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@SlipperyGem",
     "sourceUrl": "https://x.com/SlipperyGem/status/2101270640925847892",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101270640925847892_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101270640925847892_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101270640925847892_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101270640925847892_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101270640925847892.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2101270640925847892.mp4",
     "blurb": "Damn, I have been working on character swap all week and I just discovered this. A wonderful FaceSwap MMH3 ref2va lora. I will have to roll it into my workflow",
     "prompt": "",
     "nsfw": false,
@@ -3742,12 +3742,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@fdtreesky",
     "sourceUrl": "https://x.com/fdtreesky/status/2101274040040357938",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101274040040357938_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101274040040357938_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101274040040357938_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101274040040357938_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101274040040357938_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101274040040357938_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "學生套裝，現在都不用2選一了，都直接加料的，前兩張美顏過頭了 https://t.co/hyLTgxd2lp https://t.co/Nj6Qs2GatD",
@@ -3765,12 +3765,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AshleeSylv67364",
     "sourceUrl": "https://x.com/AshleeSylv67364/status/2101334670457856258",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101334670457856258_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101334670457856258_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101334670457856258_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101334670457856258_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101334670457856258_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101334670457856258_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "粉色情人~ https://t.co/C8VGVxWmD8",
@@ -3788,11 +3788,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2101331468463333460",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101331468463333460_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101331468463333460_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101331468463333460_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101331468463333460_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101331468463333460.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2101331468463333460.mp4",
     "blurb": "这种雷霆运镜一直没看到有人分享H3的图生视频的提示词 我反推了下效果还不错 ， 这里分享出来 ，图生视频比视频动作迁移，对显存要求好太多了 支持8g显存 https://t.co/JKl6Cjg51w 荧｜雷霆运镜 ✨ 镜头如雷霆般迅疾而精准。 快速推进、掠过、转向与停顿，在极短的镜头变化中捕捉荧的神态与动作。",
     "prompt": "这种雷霆运镜一直没看到有人分享H3的图生视频的提示词\n\n我反推了下效果还不错 ，\n\n这里分享出来 ，图生视频比视频动作迁移，对显存要求好太多了 支持8g显存\nhttps://t.co/JKl6Cjg51w\n\n荧｜雷霆运镜 ✨\n\n镜头如雷霆般迅疾而精准。\n快速推进、掠过、转向与停顿，在极短的镜头变化中捕捉荧的神态与动作。\n凌厉，却不凌乱。\n每一次镜头切入，都让人物成为画面的绝对焦点。\n\n#荧 #Lumine #原神 #GenshinImpact #雷霆运镜 #运镜 #镜头语言 #电影感 #人物摄影 #写真 #原神COS\n#Lumine #GenshinImpact #Cinematic #Cinematography #CameraMovement #CosplayPhotography #Portrait\n#蛍 #原神 #カメラワーク #映像表現 #シネマティック #コスプレ\n#루미네 #원신 #카메라워크 #시네마틱 #코스프레\n#LumineVN #GenshinImpactVN #CinematicPhotography",
     "nsfw": false,
@@ -3808,11 +3808,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huoshan007",
     "sourceUrl": "https://x.com/huoshan007/status/2101248021489160584",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101248021489160584_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101248021489160584_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101248021489160584_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101248021489160584_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101248021489160584.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2101248021489160584.mp4",
     "blurb": "兄弟们描述界面这种事，真是能让人烦到直接摆烂。 Windows版Codex这次更新，算是把这条老命续了一口。 Appshots，名字起得挺老实，就是把当前窗口截个图，直接扔给模型当上下文。 你甚至不用组织语言，直接配这一句： “照着这个布局复刻，只碰样式，数据和交互别动，完事自己开页面给我对一下。” 改版、排",
     "prompt": "兄弟们描述界面这种事，真是能让人烦到直接摆烂。\n\nWindows版Codex这次更新，算是把这条老命续了一口。\n\nAppshots，名字起得挺老实，就是把当前窗口截个图，直接扔给模型当上下文。\n\n你甚至不用组织语言，直接配这一句：\n\n“照着这个布局复刻，只碰样式，数据和交互别动，完事自己开页面给我对一下。”\n\n改版、排查报错、对着表格写代码，基本都能这么用。\n\n但这东西有点贼。\n\n截图能告诉它长得什么样，告诉不了它底下为什么这么写。\n\n业务逻辑那层，代码还是得原封不动给过去。\n\n少复制粘贴确实爽，但边界这种事，省不了。",
     "nsfw": false,
@@ -3828,11 +3828,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kosatoai",
     "sourceUrl": "https://x.com/kosatoai/status/2101246983503855796",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101246983503855796_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101246983503855796_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101246983503855796_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101246983503855796_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2101246983503855796.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2101246983503855796.mp4",
     "blurb": "kosato 26In Dark Magic (52JPGs +mp4) https://t.co/t0qIEVn1T1",
     "prompt": "",
     "nsfw": false,
@@ -3848,12 +3848,12 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@Mk_Flow",
     "sourceUrl": "https://x.com/Mk_Flow/status/2100919418784248125",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100919418784248125_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100919418784248125_0.png"
+      "https://img.guopeng.ccwu.cc/images/2100919418784248125_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2100919418784248125_0.png"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100919418784248125.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100919418784248125.mp4",
     "blurb": "我去, 你敢信吗? 这段视频是在我的16G VRAM 以及 32G RAM的配置下, 仅仅用了109秒就完成了 最新的Minimax Fast v2 快的不像话啊 兄弟们, 看看怎么榨干我这小破卡好啊? https://t.co/ajVxvGARor",
     "prompt": "",
     "nsfw": false,
@@ -3869,9 +3869,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Khazix0918",
     "sourceUrl": "https://x.com/Khazix0918/status/2099873865988247870",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099873865988247870_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099873865988247870_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099873865988247870_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099873865988247870_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "网页聊天版的GPT-6 Pro在规划层面还是太强了，而且不消耗Codex额度，于是为了榨干200刀的ChatGPT额度，还有这个神级模型GPT-6 Pro，我想了一个办法。 我直接把我服务器的所有的日志、事件记录，还有所有的数据表等等的只读权限，封装成了一个用我自己飞书进行登录验证的MCP，然后再封装成了插件，上传到",
@@ -3889,11 +3889,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@aimikoda",
     "sourceUrl": "https://x.com/aimikoda/status/2100258514132217859",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100258514132217859_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100258514132217859_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100258514132217859_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100258514132217859_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100258514132217859.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100258514132217859.mp4",
     "blurb": "MiniMax H3 Character Detail Montage This prompt turns your character reference into a fast-paced detail montage: clean background, dynamic movement, sharp cut",
     "prompt": "",
     "nsfw": false,
@@ -3909,10 +3909,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NobinLOG",
     "sourceUrl": "https://x.com/NobinLOG/status/2100000164580909491",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100000164580909491_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100000164580909491_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100000164580909491_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2100000164580909491_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Animaで一週間でDL数が伸びているモデル「Nya-Iris - Anima」の2.9B版。 最近の流行りはAnima2.9Bで試してみようという傾向でDL数が伸びていると推察。 Nya-Iris - Animaのサムネイル画像を見てもBase1-V2.1より2.9B-V3の方が良い感じに見えます・・・・がVers",
@@ -3930,11 +3930,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xCheshire",
     "sourceUrl": "https://x.com/0xCheshire/status/2100212030745792773",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100212030745792773_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100212030745792773_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100212030745792773_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100212030745792773_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100212030745792773.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100212030745792773.mp4",
     "blurb": "Qwen 3.8 27B 跑到 2000 tokens/s 之后，一个非常离谱的东西出现了： 大模型现在快到可以凭空生成互联网了。 完全断网的情况下，搜索 YouTube，再把时间调到 1999 或 2045，模型会以接近 2000 tokens/s 的速度实时生成对应网页。 未来的软件、游戏和虚拟世界，可能都只",
     "prompt": "Qwen 3.8 27B 跑到 2000 tokens/s 之后，一个非常离谱的东西出现了：\n\n大模型现在快到可以凭空生成互联网了。\n\n完全断网的情况下，搜索 YouTube，再把时间调到 1999 或 2045，模型会以接近 2000 tokens/s 的速度实时生成对应网页。\n\n未来的软件、游戏和虚拟世界，可能都只是模型权重里等待被生成的状态。\n\nhttps://t.co/vylaSBYiJg",
     "nsfw": false,
@@ -3950,11 +3950,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@Tomw852",
     "sourceUrl": "https://x.com/Tomw852/status/2100057101074665868",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100057101074665868_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100057101074665868_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100057101074665868_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100057101074665868_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100057101074665868.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100057101074665868.mp4",
     "blurb": "Tested the two most popular #MiniMaxH3 (int8) hybrid models (10Eros and DASIWA) in the community. (Model links are in replies 👇) 10Eros and DASIWA, both heavi",
     "prompt": "Tested the two most popular #MiniMaxH3 (int8) hybrid models (10Eros and DASIWA) in the community. \n(Model links are in replies 👇)\n\n10Eros and DASIWA, both heavily discussed in the ComfyUI community, have recently become go-to choices in many creators' workflows.\n\nI made a comparison video with a daily vlog theme (using the same prompt). Both models ran super smoothly on my 5070 (12GB)\n\nMy take: \n-10Eros: Motion and physics feel more natural, with better visual tension and audiovisual immersion.\n\n-DASIWA: Noticeably better at matching the reference image, with more solid consistency and control.\n\n#ComfyUI #AIVideo",
     "nsfw": false,
@@ -3970,11 +3970,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax H3",
     "source": "@ComfyUI",
     "sourceUrl": "https://x.com/ComfyUI/status/2099999299358818639",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099999299358818639_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099999299358818639_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099999299358818639_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099999299358818639_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099999299358818639.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099999299358818639.mp4",
     "blurb": "FastH3 by FastVideo is now available in ComfyUI Video and native stereo audio, generated together, in seconds. Best for: → Previz and animatics that need lot",
     "prompt": "",
     "nsfw": false,
@@ -3990,11 +3990,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@xiaoying_eth",
     "sourceUrl": "https://x.com/xiaoying_eth/status/2099801031911825915",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099801031911825915_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099801031911825915_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099801031911825915_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099801031911825915_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099801031911825915.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099801031911825915.mp4",
     "blurb": "36 条 AI 视频，涨粉 70 万！ 我扒了下这套账号背后的制作方法，重点是一致性！ 角色一致、动作一致、材质一致，背后有一套固定流程。 这篇把整套方法拆成了 7 段可复制提示词：角色卡 → 拆对标 → 动作里程碑 → 材质 → 出片 → 改稿 👇完整教程放这里： https://t.co/8hy5xknt4K",
     "prompt": "角色卡 → 拆对标 → 动作里程碑 → 材质 → 出片 → 改稿\n\n👇完整教程放这里：\nhttps://t.co/8hy5xknt4K\n\n顺手再整理 8 个 GitHub 上的 AI 短剧项目，想做 AI 短剧/漫剧的可以一起收了👇\n\n1️⃣ Toonflow\n小说自动转短剧，从文本到角色，从分镜到视频，0门槛全流程AI化\nhttps://t.co/9bdL93Tggz\n\n2️⃣ huobao-drama\n一个基于 AI 的短剧自动化生产平台，实现从剧本生成、角色设计、分镜制作到视频合成的全流程自动化。\nhttps://t.co/NrzSytxPYV\n\n3️⃣ waoowaoo\n一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。\nhttps://t.co/Ew8G9iyiQS\n\n4️⃣ jellyfish\n一站式短剧生成工具，从剧本到分镜再到一致性管理与后期剪辑\nhttps://t.co/4a3jrnxBem\n\n5️⃣ moyin-creator\n魔因漫创是一款面向 AI 影视创作者的生产级工具，支持Seedance2.0，剧本到成片全流程自动化\nhttps://t.co/FqQNxetbeR\n\n6️⃣ Pixelle-Video\nAI自动短视频生成引擎，自动写文案+配乐视频等，让视频创作成为一句话的事！\nhttps://t.co/ixod4AQpE6\n\n7️⃣ Bigbanana\n一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产\nhttps://t.co/XhuDVUnIB8\n\n8️⃣ ViMax\n内置Novel2Video 模块，专为长篇小说设计，导演、编剧、制片人和视频生成器多合一\nhttps://t.co/Xyzvfl9Dpa",
     "nsfw": false,
@@ -4010,12 +4010,12 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@agi_aibusi",
     "sourceUrl": "https://x.com/agi_aibusi/status/2100004003237204394",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100004003237204394_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100004003237204394_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100004003237204394_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2100004003237204394_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100004003237204394.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100004003237204394.mp4",
     "blurb": "【GPT Image 2.5でドローンショット】 好きなキャラの静止画1枚が 迫力あるドローン映像に変わる キャラ画像を添付するだけで 足元から顔までの撮影ルートを一撃で描画 ・元のキャラや背景を維持 ・難しいカメラワークも線で可視化 ・Seedanceに渡してそのまま動画化 コピペOKのプロンプトはツリー⇩ ",
     "prompt": "【GPT Image 2.5でドローンショット】\n好きなキャラの静止画1枚が\n迫力あるドローン映像に変わる\n\nキャラ画像を添付するだけで\n足元から顔までの撮影ルートを一撃で描画\n・元のキャラや背景を維持\n・難しいカメラワークも線で可視化\n・Seedanceに渡してそのまま動画化  \n\nコピペOKのプロンプトはツリー⇩\n※AIビジネスの最先端情報は固定ポストから配布中",
     "nsfw": false,
@@ -4031,9 +4031,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2100039611145998641",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100039611145998641_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100039611145998641_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100039611145998641_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100039611145998641_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "红色诱惑👙 Prompt：超写实现代高层公寓全身人像摄影，竖版约 2:3，一名明确成年的东亚女性，20+，站在豪华高层公寓的落地窗前，背后是大面积城市天际线。采用约 35–50mm 等效镜头，摄影者距离约 2.5–3.5 米，机位接近人物腰腹高度，基本平视，人物从头顶完整拍到高跟鞋，主体位于画面中央偏左，同时保留大量",
@@ -4051,9 +4051,9 @@ window.GALLERY_CASES = [
     "model": "GPT Image",
     "source": "@Arvin010717",
     "sourceUrl": "https://x.com/Arvin010717/status/2099891757484044644",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "视频提示词： 【全局·资产引用与锁定】 @[Image 2](image_2)：上古烛龙祭祀遗迹｜待上传后正式引用 严格使用场景资产图中的巨大黑石祭坛、断裂悬空石桥、熔岩裂谷、远古石柱群、悬崖狙击平台、黑云天空和火山深渊。场景从头到尾必须是同一套连续地理空间，不得随机换地图。战斗造成的断桥、碎柱、枪痕、焦黑龙息沟壑、冲",
@@ -4069,11 +4069,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Arvin010717",
     "sourceUrl": "https://x.com/Arvin010717/status/2099887784907690213",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099887784907690213_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099887784907690213_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099887784907690213_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099887784907690213_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099887784907690213.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099887784907690213.mp4",
     "blurb": "睡之前先砍个龙吧 前面打击的顺序没优化好还是结尾的第一人称最帅 https://t.co/LaOfBq6pvL",
     "prompt": "",
     "nsfw": false,
@@ -4089,11 +4089,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xCheshire",
     "sourceUrl": "https://x.com/0xCheshire/status/2097213794133184861",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097213794133184861_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2097213794133184861_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097213794133184861_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2097213794133184861_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2097213794133184861.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2097213794133184861.mp4",
     "blurb": "这个项目直接给 Live2D 建模师干沉默了…… 以前做一个 Live2D 模型：手动分层、拆图、铺网格、绑骨骼、调物理，少说几天，多则几周。 现在？丢一张 PSD 进去，PSD2Live 自动完成！ 还可以一键导出可编辑的 .cmo3 工程文件和 .moc3 运行时文件。 解压即用，连Java环境都给你打包好",
     "prompt": "这个项目直接给 Live2D 建模师干沉默了……\n\n以前做一个 Live2D 模型：手动分层、拆图、铺网格、绑骨骼、调物理，少说几天，多则几周。\n\n现在？丢一张 PSD 进去，PSD2Live 自动完成！\n\n还可以一键导出可编辑的 .cmo3 工程文件和 .moc3 运行时文件。\n\n解压即用，连Java环境都给你打包好了。\n\n🔗 https://t.co/Ojf0Mrcm4C",
     "nsfw": false,
@@ -4109,11 +4109,11 @@ window.GALLERY_CASES = [
     "model": "Blender",
     "source": "@Minsi_AI",
     "sourceUrl": "https://x.com/Minsi_AI/status/2098273478403309787",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098273478403309787_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098273478403309787_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098273478403309787_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098273478403309787_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098273478403309787.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098273478403309787.mp4",
     "blurb": "GPT-6 Astra 又把 3D 扫描的门槛打穿了。 只用了 5 张照片 + 3 张全景图， Astra 就在 Blender 里从零重建了一个完整工作室。 耗时：11 分钟。 因为效果太干净，很多人第一反应是：假的吧？ 于是作者直接把模型做成了网页 Viewer。 任何人都可以自己旋转、放大、检查每个表面，",
     "prompt": "GPT-6 Astra 又把 3D 扫描的门槛打穿了。\n\n只用了 5 张照片 + 3 张全景图，\nAstra 就在 Blender 里从零重建了一个完整工作室。\n耗时：11 分钟。\n\n因为效果太干净，很多人第一反应是：假的吧？\n\n于是作者直接把模型做成了网页 Viewer。\n\n任何人都可以自己旋转、放大、检查每个表面，甚至直接下载 Blender 文件。\n\n这就很有意思了。\n\n以前 3D 重建的结果，你只能“看演示”。\n现在 AI 不仅把模型做出来，\n还能把结果直接交给所有人验证。\n\n11 分钟生成，永久在线验货。\n房地产、建筑、室内设计、数字孪生这类行业，工作流真的要变了。\n#GPT6 #Astra #Blender #3D建模 #空间智能\n\n https://t.co/0EEXQpcCpi",
     "nsfw": false,
@@ -4129,11 +4129,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@CrazyKaomei",
     "sourceUrl": "https://x.com/CrazyKaomei/status/2098379528288841864",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098379528288841864_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098379528288841864_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098379528288841864_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098379528288841864_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098379528288841864.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098379528288841864.mp4",
     "blurb": "像这种跟随节奏卡点、每次转身无缝切换美景的玩法，现在的 AI 效果已经非常逼真了。 固定一张人脸，不用出门就能流水线量产高质量的变装旅行大片。 烤妹儿基本每晚都会发一个高质量的美女视频提示词。想试水起号的宝子，今晚就去抖音试试看呢～ 提示词放下面啦👇 https://t.co/WWRMScX1Bt",
     "prompt": "像这种跟随节奏卡点、每次转身无缝切换美景的玩法，现在的 AI 效果已经非常逼真了。\n\n固定一张人脸，不用出门就能流水线量产高质量的变装旅行大片。\n\n烤妹儿基本每晚都会发一个高质量的美女视频提示词。想试水起号的宝子，今晚就去抖音试试看呢～\n\n提示词放下面啦👇 https://t.co/WWRMScX1Bt",
     "nsfw": false,
@@ -4149,9 +4149,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@SS_BismarckDeri",
     "sourceUrl": "https://x.com/SS_BismarckDeri/status/2099895850248122570",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099895850248122570_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099895850248122570_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099895850248122570_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099895850248122570_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Evening Dress #アズールレーン #AzurLane #AIart #aiイラストㅤㅤㅤㅤ https://t.co/yMzZdGQIUf",
@@ -4169,9 +4169,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huoshan007",
     "sourceUrl": "https://x.com/huoshan007/status/2099397284756586692",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099397284756586692_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099397284756586692_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099397284756586692_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099397284756586692_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "兄弟们，互联网上还是好人多。 不知道哪位老哥搞了个推特精选画廊，硬生生把400多个女菩萨全给扒拉整理好了，甚至还贴心地整了热门分类。 我刚才点进去顺着榜单翻了一圈，随便点了个排前排的博主，直接一秒跳转到主页，连个弹窗广告都没有，干净得离谱。 没有套路，没有任何花里胡哨的引流，就是最纯粹的直达。 写出这玩意的人才",
@@ -4189,9 +4189,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PhotogenicWeekE",
     "sourceUrl": "https://x.com/PhotogenicWeekE/status/2099677529133211802",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "Cinematic promotional Ref2VA, 10 seconds, 9 quick shots. Reference image: <Picture 1> is the girl shown in a 9-shot pose grid, the sole character and identity r",
@@ -4207,11 +4207,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaohua_888",
     "sourceUrl": "https://x.com/xiaohua_888/status/2099677329752813584",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099677329752813584_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099677329752813584_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099677329752813584_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099677329752813584_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099677329752813584.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099677329752813584.mp4",
     "blurb": "发现一个非常屌的skill，可以让你的Agent做出十分精美的3D场景，👇 https://t.co/ILyWMyB1ol",
     "prompt": "",
     "nsfw": false,
@@ -4227,11 +4227,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@d_d77408151",
     "sourceUrl": "https://x.com/d_d77408151/status/2099699890041622841",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099699890041622841_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099699890041622841_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099699890041622841_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099699890041622841_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099699890041622841.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099699890041622841.mp4",
     "blurb": "纯欲ts◢ ─────── 简介：劳逸结合...🧐 蝙蝠侠今晚不拯救哥谭了 [🖋会员群已更新全套完整版53V] 标签：#伪娘 #TS #口交 #后入 #情趣内衣 @KazamaTom @KasukabeAe @Suotomet @sktwobba https://t.co/hdY3tZeoU8",
     "prompt": "",
     "nsfw": true,
@@ -4247,11 +4247,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Zesee",
     "sourceUrl": "https://x.com/Zesee/status/2099732287168401899",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099732287168401899_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099732287168401899_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099732287168401899_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099732287168401899_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2099732287168401899.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2099732287168401899.mp4",
     "blurb": "Agent 时代，复刻一条爆款视频从而沉淀出自己的工作流，到底有多简单？ 我把小Lin说的参考视频结合Hypit @hypitai 丢给 Codex，想看看 AI 能不能复刻千万粉博主的口播视频。 结果它生成的不只是一条成片，而是一套可以继续修改和复用的视频 Workflow。 Hypit @hypitai 目前",
     "prompt": "Agent 时代，复刻一条爆款视频从而沉淀出自己的工作流，到底有多简单？\n\n我把小Lin说的参考视频结合Hypit @hypitai 丢给 Codex，想看看 AI 能不能复刻千万粉博主的口播视频。\n\n结果它生成的不只是一条成片，而是一套可以继续修改和复用的视频 Workflow。\n\nHypit @hypitai 目前已开源，它不是 Agent，也不是视频模型，而是给 Claude Code、Codex 等 AI Agent 使用的开源视频语言和系统。人物、台词、字幕、B-roll 和特效都跟着文字与叙事事件走，不再钉死在时间线的某一秒。\n\n换主持人，只重新生成相关镜头；修改图表或背景，也只需要调整对应组件。复刻完成后，还能继续换人物、换内容、换语言，批量生成不同版本。\n\n如果你也想让 AI 真正开始复刻视频，可以试试 Hypit。下次想 Clone 爆款，直接把视频交给你的 Agent。",
     "nsfw": false,
@@ -4267,12 +4267,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jackzhang123vip",
     "sourceUrl": "https://x.com/jackzhang123vip/status/2094730357979656430",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2094730357979656430_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2094730357979656430_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2094730357979656430_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2094730357979656430_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2094730357979656430_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2094730357979656430_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "分享一组女性角色设计图，这高清度，拿去做短视频ai换脸，做漫剧主角，甚至做黄果女演员都能用上，依旧提示词在评论区 https://t.co/qYkHSvvD4F",
@@ -4290,11 +4290,11 @@ window.GALLERY_CASES = [
     "model": "Seedance",
     "source": "@denziideng",
     "sourceUrl": "https://x.com/denziideng/status/2097986382664978530",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097986382664978530_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2097986382664978530_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2097986382664978530_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2097986382664978530_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2097986382664978530.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2097986382664978530.mp4",
     "blurb": "昨天刷了一天 AI 黄果剧，太上头根本停不下来，AI短剧确实太火爆太馋人了！😍🔥 整理了Github上8个高星的AI短剧制作项目，各个都很顶，你也能成为大导演！ 1️⃣ Toonflow 小说自动转短剧，从文本到角色，从分镜到视频，0门槛全流程AI化 https://github.com/HBAI-Ltd/Toon",
     "prompt": "",
     "nsfw": false,
@@ -4310,10 +4310,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Adam38363368936",
     "sourceUrl": "https://x.com/Adam38363368936/status/2098768771024605257",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098768771024605257_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768771024605257_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098768771024605257_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098768771024605257_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "提示词3: 低领露肩；锁骨分明；薄纱贴肤；衣襟微松；侧卧榻边；一手轻扶发簪；腰线若隐若现；帘影半遮；烛光落肩；眸光湿润；欲语还休；艳而不俗；东方古典油画质感 提示词4： 云鬓微乱；低领薄纱；肩颈与腰线成为视觉重点；衣袖松垂；半倚屏风；身体微侧；回眸含情；花影落在肌肤与纱衣上；暗金烛光；灰紫低饱和；柔媚、神秘、暧昧；古",
@@ -4331,10 +4331,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Adam38363368936",
     "sourceUrl": "https://x.com/Adam38363368936/status/2098768431109828740",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098768431109828740_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098768431109828740_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098768431109828740_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098768431109828740_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "提示词1: 一位东方古典美人，云鬓微乱，露肩薄纱，衣襟微松，胸前留白，衣料柔软轻透，轻纱自然包裹手臂与肩头，屏风与轻纱共同半遮身形，画面有含蓄的暧昧感，人物半转身回望，目光温柔，欲语还休，神情含蓄而带一点若有所思，花影落在脸侧与肩头，背景是旧墙暗纹与朦胧室内空间，柔和逆光从一侧透入，空气感轻盈，整体低饱和东方古典美学，",
@@ -4352,10 +4352,10 @@ window.GALLERY_CASES = [
     "model": "GPT Image",
     "source": "@Adam38363368936",
     "sourceUrl": "https://x.com/Adam38363368936/status/2098767737061527753",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098767737061527753_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098767737061527753_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098767737061527753_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2098767737061527753_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "想测试一下 GPT Image 2.5 的尺度到底到哪 结果我发现这种古风性感图，直接写“性感”反而容易俗。 真正好用的是这套公式： 露一点 + 遮一点 + 侧一点 + 暗一点 薄纱、露肩、半遮半掩、侧身、烛光、花影、欲语还休…… 这几个词一组合，味道就出来了。 下面4组我直接把完整提示词都贴出来，喜欢哪张",
@@ -4373,11 +4373,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xmomonifty",
     "sourceUrl": "https://x.com/0xmomonifty/status/2092535330784395272",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092535330784395272_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2092535330784395272_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2092535330784395272_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2092535330784395272_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2092535330784395272.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2092535330784395272.mp4",
     "blurb": "分享一下具体步骤 原视频用这个工作流出黑白深度视频 https://www.runninghub.ai/zh-cn/post/2092518569955733506/ 然后把原视频和深度视频以及你生成的人物图给 codex，并用下面的提示词： 分析视频，将角色替换成我在我图里的角色，后续我会利用深度视频作为参考，也",
     "prompt": "分析视频，将角色替换成我在我图里的角色，后续我会利用深度视频作为参考，也就是附件中的黑白深度视频。所以你要先参考原视频的面部表情，给我写出面部提示词。因为深度视频里面没有面部的提示词，所以你要把这个写出来。然后你再根据用深度视频作为参考，写最后的提示词\n\n之后在使用视频生成模型多参生成即可",
     "nsfw": false,
@@ -4393,11 +4393,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@fenyoulei",
     "sourceUrl": "https://x.com/fenyoulei/status/2045831779949613388",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2045831779949613388_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2045831779949613388_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2045831779949613388_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2045831779949613388_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2045831779949613388.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2045831779949613388.mp4",
     "blurb": "小鸡巴雌堕妻奴一个人在家里向老公大人汇报自己发情肛门自慰的情况💕 嗦鸡巴，肛门打桩高潮到翻白眼抽搐 30分钟完整版已放门槛会员群，入群请看置顶哦！💕 转发➕评论抽一位免费看完整版！ 肛交超级好用好看的假牛牛指路→ tb【乐茄子】@leqiezi",
     "prompt": "",
     "nsfw": true,
@@ -4413,12 +4413,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LeoCat62728028",
     "sourceUrl": "https://x.com/LeoCat62728028/status/2101698222796517695",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101698222796517695_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101698222796517695_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101698222796517695_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101698222796517695_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101698222796517695_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2101698222796517695_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "透不透看运气💜 银色液态金属质感迷你连衣裙提示词",
@@ -4436,9 +4436,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jinchenma_ai",
     "sourceUrl": "https://x.com/jinchenma_ai/status/2101694337763729824",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101694337763729824_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2101694337763729824_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2101694337763729824_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2101694337763729824_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "豆包工作流 + 开源 social-media-data-tools skills，无痛获取抖音口播稿",
@@ -4456,11 +4456,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PONKOAI111",
     "sourceUrl": "https://x.com/PONKOAI111/status/2102579540237386166",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102579540237386166_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102579540237386166_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102579540237386166_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102579540237386166_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102579540237386166.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102579540237386166.mp4",
     "blurb": "おはようございます🫶\n起きました👀\nぽんちゃんモデルのお仕事編\nです❣️\nかっこよくない?😚\n(o´∀`o)",
     "prompt": "",
     "nsfw": false,
@@ -4476,11 +4476,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@iammira_926",
     "sourceUrl": "https://x.com/iammira_926/status/2102338785858007236",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102338785858007236_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102338785858007236_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102338785858007236_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102338785858007236_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102338785858007236.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102338785858007236.mp4",
     "blurb": "想弹一下吗",
     "prompt": "",
     "nsfw": false,
@@ -4496,11 +4496,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@JACK_OH_AI",
     "sourceUrl": "https://x.com/JACK_OH_AI/status/2102723026714583065",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102723026714583065_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102723026714583065_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102723026714583065_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102723026714583065_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102723026714583065.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102723026714583065.mp4",
     "blurb": "🪟😉",
     "prompt": "",
     "nsfw": false,
@@ -4516,11 +4516,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@liyue_ai",
     "sourceUrl": "https://x.com/liyue_ai/status/2102402581360517607",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102402581360517607_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102402581360517607_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102402581360517607_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102402581360517607_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102402581360517607_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "再推荐一下我的这个女性写真导演Skill，\n\n只需一句话就可以自动选择风格并输出提示词，\n\n集合了20种视觉风格，Github目前已经1500+Star。\n\n欢迎兄弟们下载使用，下载地址见评论区：",
@@ -4538,11 +4538,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NTH_Kimiko2b",
     "sourceUrl": "https://x.com/NTH_Kimiko2b/status/2102758243366039964",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102758243366039964_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102758243366039964_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102758243366039964_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102758243366039964_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102758243366039964.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102758243366039964.mp4",
     "blurb": "💖美纱SSS DLC17.3发布咯快去看妈咪💘",
     "prompt": "",
     "nsfw": false,
@@ -4558,11 +4558,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Taobaiyaa_",
     "sourceUrl": "https://x.com/Taobaiyaa_/status/2102545309683548575",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102545309683548575_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102545309683548575_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102545309683548575_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102545309683548575_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102545309683548575.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102545309683548575.mp4",
     "blurb": "💋",
     "prompt": "",
     "nsfw": false,
@@ -4578,11 +4578,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@gagarotai200",
     "sourceUrl": "https://x.com/gagarotai200/status/2102589267595645005",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102589267595645005_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102589267595645005_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102589267595645005_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102589267595645005_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102589267595645005.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102589267595645005.mp4",
     "blurb": "🚨【緊急】🚨\nみんな早く気づいた方がいい\nAI美女の運用はInstagram一択　　　　　　　　　　　　　　　\nInstagramでアカウントを完成させることで　　　　　　　　　　　　　　　\n『月300万』の売り上げを達成できる　　　　　　　　　　　　　　　　　　　　\n👇　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n集客はTikTokなどのSNSを用いる\nその後",
     "prompt": "",
     "nsfw": false,
@@ -4598,11 +4598,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@JACK_OH_AI",
     "sourceUrl": "https://x.com/JACK_OH_AI/status/2102360670616613147",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102360670616613147_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102360670616613147_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102360670616613147_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102360670616613147_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102360670616613147.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102360670616613147.mp4",
     "blurb": "🛋️🌳",
     "prompt": "",
     "nsfw": false,
@@ -4618,10 +4618,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@10086110x",
     "sourceUrl": "https://x.com/10086110x/status/2102390559738564952",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102390559738564952_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102390559738564952_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102390559738564952_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102390559738564952_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "我操了兄弟们\n\n终于搞明白那些 AI 大尺度视频是咋整的了  之前刷到一堆，一直以为是剪辑大神或者内部模型\n\n结果发现好像和普通ai做视频没啥区别，看来是我把这玩意想的太高端了🌝\n\n传送门：",
@@ -4639,11 +4639,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PixelAigc",
     "sourceUrl": "https://x.com/PixelAigc/status/2102748539889820108",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102748539889820108_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102748539889820108_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102748539889820108_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102748539889820108_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102748539889820108.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102748539889820108.mp4",
     "blurb": "这世上只有一种病治不好\n那就是穷病\n本地部署H3一次生成25秒，用时13分钟。\n\nprompt 视频提示词如下：",
     "prompt": "",
     "nsfw": false,
@@ -4659,12 +4659,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MrLarus",
     "sourceUrl": "https://x.com/MrLarus/status/2102738823931118067",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102738823931118067_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102738823931118067_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102738823931118067_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102738823931118067_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102738823931118067_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102738823931118067_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "🎨 Images 2.5 做东方诗意海报，巨物构图别有一番味道！\n\n一个超尺度主视觉，加上大色域、微型人物，画面很容易就有完整作品感\n\n1. 西湖雨：朱砂巨伞切进烟雨湖面\n2. 白露初凝：一滴露水装下一整个清晨\n3. 上元灯夜：巨型灯笼悬在山河之间\n4. 云上春茶：一盏春茶化成山间云海\n\n适合做节气海报、文旅视觉、品牌 Campaign、文化活动 KV！\n\nPrompt 👇",
@@ -4682,12 +4682,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MrLarus",
     "sourceUrl": "https://x.com/MrLarus/status/2099904698073616580",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2099904698073616580_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2099904698073616580_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2099904698073616580_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099904698073616580_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099904698073616580_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2099904698073616580_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "🤍 Images 2.5 absolutely nails this hard-sunlight portrait look!\n\nFour looks, same sun-soaked feel:\n1. Silver blonde\n2. Copper red\n3. Dark brown\n4. Honey blonde\n\n✨ Great for realistic portraits, fashio",
@@ -4705,9 +4705,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MrLarus",
     "sourceUrl": "https://x.com/MrLarus/status/2100589093398745441",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "Prompt:\n\nTop: [satin top color and style]\nBottom: [high waisted fitted mini skirt]\nTights: [ultra sheer back seam / smoke gray / micro dot / fine pinstripe]\nShoes: [black pointed heels]\nAspect ratio: ",
@@ -4723,12 +4723,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MrLarus",
     "sourceUrl": "https://x.com/MrLarus/status/2102791913426350148",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102791913426350148_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102791913426350148_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102791913426350148_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102791913426350148_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102791913426350148_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102791913426350148_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "📸 Old houses are ridiculously good for portraits!\n\nGreat for vintage portraits, cinematic lifestyle photography, and realistic editorial shots.\n\n1. Staircase portrait\n2. Rustic kitchen\n3. Window light",
@@ -4746,9 +4746,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaohu",
     "sourceUrl": "https://x.com/xiaohu/status/2102286309335191634",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "兄弟们 好东西\n\nQwen-Image-2.1无审查版本\n\n移除了安全过滤\n可以生成成人、NSFW等图像内容\n\n而且优化了生成速度：\n\n主模型放进显卡里跑保证速度，把巨大的“文本编码器”扔给普通电脑内存（CPU）去跑。 这样能帮你省出 9 到 17 GB 的显存，而且几乎不会拖慢出图速度！\n\n\n\nQwen-Image-2.1同时把“文生图”和“图像编辑”融合成了一个模型，还原生支持透明图处理。\n\n",
@@ -4764,11 +4764,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@cryptowluha",
     "sourceUrl": "https://x.com/cryptowluha/status/2102375290013933730",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102375290013933730_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102375290013933730_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102375290013933730_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102375290013933730_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102375290013933730.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102375290013933730.mp4",
     "blurb": "这 5 个 skill 能让 agent 秒变家教、youtuber 和创始人的得力助手\n\n1. tutor-skills\n手把手教你任何东西\n\n\n2. youtube-skills\n搞定 youtube 那一整套流程\n\n\n3. platform-design\n按每个平台的特点做界面\n\n\n4. Aegis\n给整个项目加上护栏\n\n\n5. founder-skills\n覆盖创始人每天要处理的杂事\n\n\n",
     "prompt": "",
     "nsfw": false,
@@ -4784,11 +4784,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@HuggingApps",
     "sourceUrl": "https://x.com/HuggingApps/status/2102654580223877614",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102654580223877614_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102654580223877614_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102654580223877614_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102654580223877614_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102654580223877614.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102654580223877614.mp4",
     "blurb": "Qwen-Image-2.1 in 4 steps is here ⚡\n\n@ViggleAI distilled Qwen-Image-2.1 into a 4-step turbo model, 6× faster, and holds up side by side with the full model\n\n▶️  on Spaces",
     "prompt": "",
     "nsfw": false,
@@ -4804,11 +4804,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@noma_door",
     "sourceUrl": "https://x.com/noma_door/status/2102663175430942788",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102663175430942788_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102663175430942788_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102663175430942788_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102663175430942788_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102663175430942788.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102663175430942788.mp4",
     "blurb": "Qwen-Image-2.1 は上手に切り抜きが出来るので、切り抜いたオブジェクトを画像から消して、次に手前にあるものをまた切り抜いて… というのを繰り返せばレイヤー分けが出来るね(-ω☆) というのでやってみました\n\nworkflow : \n\nループ処理で出来ることが増えたけど難しすぎる！",
     "prompt": "",
     "nsfw": false,
@@ -4824,9 +4824,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2102634281587884098",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102634281587884098_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102634281587884098_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102634281587884098_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102634281587884098_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "本来只是想试试沙发构图，结果腿先出道了 😂\n\n黑蕾丝、亮面丝袜、尖头高跟，再开个直闪，灰沙发越普通反而越有那味。\n\nPrompt ：超写实室内闪光人像摄影，竖版约 9:16。一名明确成年的东亚女性，20+，侧坐在极简灰色布艺沙发上，摄影者位于人物正前方略偏高位置，使用约 28–35mm 镜头＋机顶直闪，完整拍到头部、身体、双腿和高跟鞋。人物位于画面中央偏左，双腿横向舒展，占据画面中下部。\n\n人物为",
@@ -4844,10 +4844,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@wquguru",
     "sourceUrl": "https://x.com/wquguru/status/2102769448398782894",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2102769448398782894_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_0.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102769448398782894_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102769448398782894_0.png",
+      "https://img.guopeng.ccwu.cc/images/2102769448398782894_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "所有有 GPU 或者 Macbook 的朋友，都应该本地部署一次 Qwen-Image-2.1（写实） 和 Anima（二次元）！不联网、无审查，小显存、小统一内存也能跑。\n\n我测试了一周，感觉的十分惊艳，下面整理了一批本地能跑的出图模型。友情提示：\n\nQwen 擅长写实、构图、图里写字，需要二次元就换 Anima。\n\n一、写实主力：Qwen-Image-2.1\n\nMac 首选 MLX 4bit（",
@@ -4865,11 +4865,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@SUOHA_AI",
     "sourceUrl": "https://x.com/SUOHA_AI/status/2102091983292358839",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102091983292358839_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102091983292358839_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102091983292358839_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102091983292358839_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102091983292358839.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102091983292358839.mp4",
     "blurb": "我太激动了！我用JEV 全自动21秒通过了阿里云AI工程师认证模拟考！\n\n我貌似发现了JEV最强大的应用场景--全自动化：这次测试我只给JEV丢了一个完全陌生的考试页，让它全自动帮我考完：21 秒一次性刷完 25 道题，准确率 80%，一次就合格通过考试，全程没停顿、零人工干预\n\n这是阿里云人工智能工程师ACP认证（模拟题），我并没有实际考试，我怕阿里云找我麻烦🤡\n\n越来越多的场景，我用 JEV ",
     "prompt": "",
     "nsfw": false,
@@ -4885,11 +4885,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MikaBuwan",
     "sourceUrl": "https://x.com/MikaBuwan/status/2102630874944839940",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102630874944839940_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102630874944839940_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102630874944839940_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102630874944839940_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102630874944839940_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "真的可以用，试几次就成功了。\n把脚抬高一点就行了，内衣不要写的太性感。\n\n学着改写以后的提示词：\n9:16。身材纤细的中国时尚模特，直视镜头，腹部紧致平坦。\n空旷高挑的极简艺术空间，大落地窗前洒满温暖的落日逆光。\n身姿优雅挺拔，单腿优美高高抬起，腰腹呈现极具张力的柔韧拉伸感。\n穿着白色无肩带抹胸内衣（或法式细带内衣），露出锁骨与紧致腰腹。底部完全在画面外不可见。\n负面：底部、紧身裤、内裤、短裤、裙",
@@ -4907,11 +4907,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aidavid125",
     "sourceUrl": "https://x.com/aidavid125/status/2102662408271692102",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102662408271692102_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102662408271692102_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102662408271692102_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102662408271692102_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102662408271692102.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102662408271692102.mp4",
     "blurb": "卧槽，牛逼了。\n同样的提示词效果居然不一般。💪💪\n\n工具：MiniMax H3，也可以使用在线工具如：\n\n不知火舞第一弹V2👇\n\n第一弹提示词：\n---\nFor the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_m",
     "prompt": "效果居然不一般。💪💪\n\n工具：MiniMax H3，也可以使用在线工具如：https://t.co/N1Xjqmhwix\n\n不知火舞第一弹V2👇\n\n第一弹提示词：\n---\nFor the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, retro arcade fighting-game character art style blended with a clean macOS desktop scene, exactly as established in <Picture 1>: an arc-shaped light-band wallpaper sweeps from deep blue-violet at the lower left to orange-red and magenta at the upper right over a mirror-like reflective ground; two vertical columns of glossy rounded-square application icons stand on the left half — each icon is a clean pictogram with NO text label beneath it: the first column shows from top to bottom a blue smiling face, a red-yellow-green ring around a blue center dot, a white \"N\" block in a dark frame, a light-blue infinity-style ribbon, a dark tile with blue letters, an amber tile with yellow script, a purple tile with white letters, and green arcs inside a circle; the second column shows two white chat bubbles on green, a penguin on white, a white paper plane on blue gradient, four colored squares in a grid, a blue-green spiral ring, a red play triangle, colorful pinwheel petals, and a white \"A\" brushstroke on blue — on the right stands the brown high-ponytail young woman with white horn-like hair ornaments, wearing a red high-slit qipao-style fighting outfit with a large white waist knot trailing red-floral ribbons and white-tassel beads in her hair, black fingerless gloves and red-black heeled sandals; she holds an open white fan with red trim hanging behind her hip while one hand rests on her waist, gazing back over her shoulder. The camera pushes in with small amplitude at slow speed as she pivots from the回眸 stance into a low crouch, orange-yellow fire ribbons beginning to swirl around her feet and embers spiraling upward past her shoulders. [Shot 2] At 00:04.500, the camera cuts to a wider shot of the full desktop as she explodes out of the crouch into a dramatic backbend spin — one leg planted, the other extended far to the side-rear, torso twisted and arched backward, ponytail flaring wide in the motion — and roars <d>[Japanese] 超必殺・忍蜂！</d> A ring of glowing shuriken erupts from her spinning body and orbits outward like a whirlpool across the center of the screen; as the blades sweep through the icon columns, open fans launch from her wrist in rapid succession and strike the icons one by one — each struck icon wobbles violently, peels off its grid position, and tumbles downward with motion blur past the reflective ground out of frame, trailing orange-yellow sparks. The final shuriken detonates at the center of the grid as a white-blue light bloom, shaking the whole desktop loose; every remaining icon rains down in a cascade while her spin finishes in a low landing, one hand extended forward, palm up. [Shot 3] At 00:10.500, the camera cuts to a medium close-up of the young woman across the now-empty center of the screen; her expression stays calm and unbothered, lips pressed into a confident smirk while embers drift past her shoulder. She slowly raises her open fan beside her face and says <d>[Japanese] 花蝶扇。</d> Orange-yellow flame begins to gather along the fan's ribs like liquid fire pooling on silk, the light reflecting off her white waist knot and red-floral ribbons as tiny sparks orbit her wrist. [Shot 4] At 00:13.500, the shot cuts back to the full desktop as she sweeps the burning fan in a wide graceful arc through another spin; ribbons of orange-yellow flame unfurl from the fan like butterfly wings trailing behind her, and each ribbon's tip hooks one falling icon from below the frame, reeling it smoothly up into its exact original grid position — every lock-in flashing a small white-blue light bloom with a sharp click as the icons seat crisply back into place, restoring both columns perfectly. The last ribbon curls around the final icon and dissolves into sparks that spiral back into her fan as she closes it with a snap at her hip. [Shot 5] At 00:17.000, the camera cuts to a low-angle hero shot as she settles into her classic pose from <Picture 1>: side-turned stance with weight on the rear leg, one hand on her waist, the closed fan held elegantly beside her face, chin tilted down in a cold confident glare while her ribbons and hair flare outward in the residual wind. The camera pulls out with small amplitude at slow speed, revealing the fully restored desktop around her; drifting orange sparks fade to black as she holds the pose until the end of the video.\n\noverall_soundscape: Low flame crackle builds under a rumbling charge, then an explosive whoosh on the backbend spin — rapid shuriken whistles and fan-snap cracks striking icons one after another — followed by cascading rattling clatters as icons tumble out of frame and a sharp white-blue burst pop. A crisp fan snap and a soft confident breath carry across the empty desktop during the calm close-up. Rising flame hiss gathers along the fan's ribs, then graceful silk-ribbon whooshes sweep through the spin while crisp snap-back clicks land one after another as each icon locks into place with tiny light-bloom pops, ending with a low resonant boom under guttering ember crackle.\n\nnon_diegetic_music: Driving taiko drums with fast electronic percussion at a high tempo building to a hard hit on the shuriken barrage, dropping out to sparse sustained synth and a single koto pluck during the calm close-up, then returning for one final strong downbeat as she locks her classic pose.\n---",
     "nsfw": false,
@@ -4927,9 +4927,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Xianbao_QIAN",
     "sourceUrl": "https://x.com/Xianbao_QIAN/status/2102362143828136219",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102362143828136219_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102362143828136219_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102362143828136219_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102362143828136219_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "一直在等微信开放接口，让我可以处理积累下来的上百 G 聊天数据。试过 Github 上的几个项目都不太成功。\n\n万万没想到，最后这个接口来是被腾讯开放了 :)\n\n感谢 HY4 preview 非常到位 :D \n模型太强了！",
@@ -4947,9 +4947,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yhslgg",
     "sourceUrl": "https://x.com/yhslgg/status/2102648975061053736",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102648975061053736_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102648975061053736_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102648975061053736_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102648975061053736_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "我这也算越狱成功了吗？",
@@ -4967,11 +4967,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Sunkeke_AI",
     "sourceUrl": "https://x.com/Sunkeke_AI/status/2102694067696263534",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102694067696263534_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102694067696263534_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102694067696263534_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102694067696263534_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102694067696263534.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102694067696263534.mp4",
     "blurb": "以前我觉得Obsidian“第二大脑”这个概念噱头更大，直到我看到这个堪比“人生操作系统”的Vault，太太太强大了，几乎涵盖了你每天需要管理的方方面面：\n今天做什么、每日的复盘、每年每月如何规划、项目的看板、还包括人际关系管理；作为内容创作者你写的文章、做的各种视频脚本都给你分门别类了。\n\n还能记录你的各种习惯做成打分做成雷达图，最厉害的是把你大脑里的东西都具象化了！！（视频一定要看到最后！）\n",
     "prompt": "",
     "nsfw": false,
@@ -4987,9 +4987,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ComfyUI",
     "sourceUrl": "https://x.com/ComfyUI/status/2102499304724381707",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102499304724381707_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102499304724381707_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102499304724381707_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102499304724381707_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "MiniMax H3's video VAE is now ~2x faster in ComfyUI on @nvidia  GPUs\n\nEncode: up to ~2.2x faster\nDecode: ~1.4–2.7x faster\n1344x768, 129-frame round trip: 24.3s → 12.7s\n\nFull breakdown from @Kijaidesig",
@@ -5007,9 +5007,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jinchenma_ai",
     "sourceUrl": "https://x.com/jinchenma_ai/status/2102420515675934933",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102420515675934933_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102420515675934933_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102420515675934933_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102420515675934933_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "有心了，几乎把最近一段时间 X 上的所有爆款文章都翻出来了。\n\n想看的点个收藏慢慢看就好了\n\n另外大家想看爆款长文的，也推荐一下 @jedeeai 的产品，随时随地监控爆款文章，地址：",
@@ -5027,11 +5027,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Tomw852",
     "sourceUrl": "https://x.com/Tomw852/status/2102593811503271963",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102593811503271963_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102593811503271963_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102593811503271963_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102593811503271963_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102593811503271963.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102593811503271963.mp4",
     "blurb": "\"still filming?\"\n\n15s handheld Shibuya night walk with #MiniMaxH3.\n\nRunning locally on a 5070 12GB in #ComfyUI.\n(Model &amp; LoRA links ⤵️)\n(Full prompt in replies⤵️)\n\n#AIvideo",
     "prompt": "",
     "nsfw": false,
@@ -5047,9 +5047,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@TheAwakenOne619",
     "sourceUrl": "https://x.com/TheAwakenOne619/status/2102504995602202744",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102504995602202744_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102504995602202744_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102504995602202744_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102504995602202744_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "It's possible, all 12 ref images in one image lol\n\nthe prompt does matter, this is the prompt for this image:\n\nUse <image3> as the canvas to establish the wet asphalt night scene with neon towers and ",
@@ -5067,11 +5067,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@FiniYang",
     "sourceUrl": "https://x.com/FiniYang/status/2102702381549101497",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102702381549101497_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102702381549101497_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102702381549101497_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102702381549101497_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102702381549101497_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "兄弟们一起致敬 Unsloth !\nQwen-Image-2.1 的本地部署门槛被打下来了！\nFP8 offload，6GB 显存就能出图\nMac 统一内存 16G 也能玩\n我看看谁还没部署 👀 \n\n已经为兄弟们准备了全套开箱即用合集：\n1、Qwen生图改图必备Skill:\n2、你的第一个提示词，原生无甲 ⬇️\n3、如何卸甲：\n4、下载模型：",
@@ -5089,11 +5089,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIVideoHub_",
     "sourceUrl": "https://x.com/AIVideoHub_/status/2102049084383379891",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102049084383379891_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102049084383379891_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102049084383379891_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102049084383379891_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2102049084383379891.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2102049084383379891.mp4",
     "blurb": "三振舞还是带感呀",
     "prompt": "",
     "nsfw": false,
@@ -5109,11 +5109,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sen_nou_AI",
     "sourceUrl": "https://x.com/sen_nou_AI/status/2103361726817427758",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103361726817427758_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103361726817427758_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103361726817427758_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103361726817427758_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103361726817427758_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "ターゲットとしてリストアップした32名の女性を、ボタンひとつで洗脳するゲームを制作中です…🔥\n公開までお待ちください…",
@@ -5131,9 +5131,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@daitu0822",
     "sourceUrl": "https://x.com/daitu0822/status/2103334905312673883",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334905312673883_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103334905312673883_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334905312673883_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103334905312673883_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Sub2Api的作者是我目前为止见过最牛逼的！\n\n源码每天坚持日更！而且还都是更新的很实用的东西！\n\n我每天睡醒就两件事，打开Codex升级Sub2Api与检查代充网站有没有BUG！\n\n有想做中转站的可以用Sub2Api源码，Ai一键部署，部署完可以对接我中转站，实现躺着也赚钱。\n\n源码地址：",
@@ -5151,9 +5151,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@boniusex",
     "sourceUrl": "https://x.com/boniusex/status/2102947189362438330",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102947189362438330_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102947189362438330_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102947189362438330_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102947189362438330_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "粉丝 7000 了，感谢大家厚爱\n\n提示词：3:4纵长、露脐吊带背心、独居的自室、站在镜子前将纹身贴纸\"满下半身、几乎贴完了、镜中映出身影、低头向下看、不直视镜头、贴纸遮住重要部位  \n负面：下装",
@@ -5171,11 +5171,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@hxhxhx0916",
     "sourceUrl": "https://x.com/hxhxhx0916/status/2103340244712206376",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103340244712206376_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103340244712206376_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103340244712206376_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103340244712206376_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103340244712206376.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103340244712206376.mp4",
     "blurb": "金发少女的节奏鼓点舞~\n\n提示词：\n视频长度：10秒\n【人物身份锁定】\n使用上传参考图片中的女性作为唯一角色参考。\n严格保持人物身份一致：\n长款浅金色头发、精致柔和的成年东亚女性面部特征、浅色自然肤色、柔和五官比例、眼睛形态、发型、整体身材比例完全一致。\n禁止改变脸型、五官、发色、发型、身体结构。\n角色年龄设定为成年年轻女性。\n \n【视觉风格】\n9:16竖屏短视频构图。\n4K超高清真人写实风格。\n",
     "prompt": "视频长度：10秒\n【人物身份锁定】\n使用上传参考图片中的女性作为唯一角色参考。\n严格保持人物身份一致：\n长款浅金色头发、精致柔和的成年东亚女性面部特征、浅色自然肤色、柔和五官比例、眼睛形态、发型、整体身材比例完全一致。\n禁止改变脸型、五官、发色、发型、身体结构。\n角色年龄设定为成年年轻女性。\n \n【视觉风格】\n9:16竖屏短视频构图。\n4K超高清真人写实风格。\n高级社交媒体舞蹈视频质感。\n低调电影灯光（Low-key Lighting）。\n冷暖混合色调：\n背景为深蓝灰色城市夜景冷色环境光。\n人物由侧面暖色聚光灯勾勒轮廓。\n突出浅金色长发的光泽感、皮肤真实纹理以及身体线条。\n整体风格类似韩国时尚舞蹈短视频、K-POP练习室大片、Instagram高级舞蹈内容。\n \n【场景设计】\n现代高级公寓室内。\n夜晚。\n落地玻璃窗外可以看到模糊城市灯光。\n空间包含：\n现代沙发。\n极简家具。\n暖色隐藏灯带。\n干净高级的室内环境。\n背景保持浅景深虚化，不抢主体。\n人物位于客厅中央区域，拥有足够空间完成舞蹈动作。\n \n【服装造型】\n服装严格按照上传参考图片保持一致，不重新设计，不替换成其他舞蹈服。\n上身：\n红色宽松棒球夹克，夹克保持敞开状态；\n白色条纹罗纹领口与袖口；\n胸前带大型白色字母贴布装饰；\n内搭红色无肩带抹胸式短上衣。\n下身：\n黑色侧系带比基尼式下装。\n整体服装的颜色、材质、结构、版型、长度、贴合程度和搭配方式均严格以上传参考图片为准。\n保持真实布料质感。\n \n【摄影参数】\n摄影机：\n固定机位 Lock-off。\n稳定镜头，不摇晃。\n人物通过身体移动制造画面动态。\n镜头高度：\n略低于人物视线。\n构图：\n全身至大腿范围。\n人物始终完整进入画面。\n \n镜头参数：\n50mm电影人像镜头。\nf/2.8浅景深。\n真实光学虚化。\n高清皮肤细节。\n自然运动模糊。\n \n【灯光设计】\n单侧强方向光。\n右侧暖色硬光照射人物。\n突出：\n脸部轮廓。\n锁骨。\n肩部线条。\n腰部曲线。\n浅金色头发边缘光。\n左侧自然进入阴影。\n形成电影级立体光影。\n \n【动作设计｜10秒】\n0–3秒\n音乐开始。\n女性站在客厅中央。\n身体随着Deep House节奏轻微律动。\n双手自然抬起整理浅金色长发。\n眼神看向镜头。\n表情冷静、自信。\n \n3–7秒\n进入正式舞蹈动作。\n双手从头部缓慢打开。\n肩膀、胸部、腰部依次产生连贯波浪动作。\n完成流畅 Body Roll。\n胯部左右自然摆动。\n身体形成优雅S型曲线。\n浅金色长发随着身体运动自然摆动。\n动作具有韩国现代舞风格。\n \n7–10秒\n音乐进入高潮。\n人物完成几个明显节拍动作：\n快速定格 Pop。\n头部轻微转动。\n眼神持续锁定镜头。\n最后保持一个自信姿势。\n表情：\n冷静。\n高级。\n自信。\n具有明星舞者气场。\n \n【表情与状态】\n全程无对白。\n保持强烈镜头交流。\n眼神始终关注镜头。\n不要夸张表演。\n不要过度性感化。\n表现专业舞者的自信和控制力。\n \n【背景音乐】\n音乐：\n高速 BPM EDM / Deep House。\n强烈低频 Bass。\n清晰鼓点。\n节奏明显。\n动作严格卡点。\n类似韩国时尚舞蹈视频背景音乐。\n \n【负面限制 Negative Prompt】\n避免：\n脸部变化。\n人物身份变化。\n改变发色。\n改变发型。\n浅金色长发突然变成银灰色或黑色。\n改变身体比例。\n额外人物。\n多余手指。\n肢体畸形。\n不自然关节。\n舞蹈动作失衡。\n头发穿模。\n衣服变形。\n红色棒球夹克运动物理错误。\n摄像机抖动。\n卡通效果。\nAI生成感。",
     "nsfw": true,
@@ -5191,11 +5191,11 @@ window.GALLERY_CASES = [
     "model": "MiniMax",
     "source": "@aimikoda",
     "sourceUrl": "https://x.com/aimikoda/status/2103334215597097346",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334215597097346_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103334215597097346_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103334215597097346_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103334215597097346_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103334215597097346.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103334215597097346.mp4",
     "blurb": "MiniMax H3\n\nI can't help myself when it comes to making these.\n\nA flowing ribbon, layered color and dynamic light play reveal the character from feet to face before exploding into the final hero shot.",
     "prompt": "",
     "nsfw": false,
@@ -5211,12 +5211,12 @@ window.GALLERY_CASES = [
     "model": "ChatGPT Image 2",
     "source": "@94vanAI",
     "sourceUrl": "https://x.com/94vanAI/status/2103316879381287239",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103316879381287239_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103316879381287239_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103316879381287239_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103316879381287239_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103316879381287239_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103316879381287239_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "玩过～爱过～\n\nChatGPT Image2\n prompt：\n\n一张电影情节片段的视角，东亚网红女孩正面弯腰低头、画面只能看到她鼓着的嘴巴以上镜头（嘴巴下巴部分在镜头外嘴巴下巴部分被不够的画幅自然截断）；ar4:3",
@@ -5234,9 +5234,9 @@ window.GALLERY_CASES = [
     "model": "ChatGPT Image 2",
     "source": "@aiaicreate",
     "sourceUrl": "https://x.com/aiaicreate/status/2103295581334716632",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103295581334716632_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103295581334716632_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103295581334716632_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103295581334716632_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "▼概要\nQwen Image 2.1ベースのComfyUIワークフロー「Character Design Sheet Maker」が公開。1枚の参照画像から詳細なキャラクター設定画を生成可能。\n\n▼ポイント\n・Qwen Image 2.1の基本性能を活用し、破綻の少ない設定画を直接出力\n・画質低下を防ぐため、CLIPエンコーダはFP16やBF16等の高精度を推奨\n・サンプラー構成はアーティファクト",
@@ -5254,11 +5254,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIna_artmusic",
     "sourceUrl": "https://x.com/AIna_artmusic/status/2103477150523523479",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103477150523523479_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103477150523523479_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103477150523523479_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103477150523523479_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103477150523523479_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "More Eve as Bayonetta \n#stellarblade #bayonetta #fanart",
@@ -5276,11 +5276,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hke5Jun",
     "sourceUrl": "https://x.com/Hke5Jun/status/2103478337930960974",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103478337930960974_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103478337930960974_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103478337930960974_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103478337930960974_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103478337930960974.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103478337930960974.mp4",
     "blurb": "#AIart\n#AIgirl\n#AI美女\n#AI美脚\n#AIOL部",
     "prompt": "",
     "nsfw": false,
@@ -5296,11 +5296,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Jay_yjg",
     "sourceUrl": "https://x.com/Jay_yjg/status/2103320229451632885",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103320229451632885_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103320229451632885_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103320229451632885_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103320229451632885_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103320229451632885.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103320229451632885.mp4",
     "blurb": "",
     "prompt": "",
     "nsfw": false,
@@ -5316,12 +5316,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@casino55124",
     "sourceUrl": "https://x.com/casino55124/status/2102936771659223398",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2102936771659223398_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2102936771659223398_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2102936771659223398_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102936771659223398_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102936771659223398_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2102936771659223398_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "【自分用メモ】\nギャルに大人気のランジェリーブランド（AI JOUR）の店内で、男性が好むデザインのロイヤルパープルと黒刺繍レースの紐タイプではないセパレートランジェリーの新作を試着しながら買い物中、20歳、日本人女性、白ギャル、からかうような遊び心のある表情、顔は傾けずまっすぐ、カメラ目線、砂時計型のグラマラスなスタイル、ガーターベルト、網タイツ、縦長9:16。\n\nだと通らなくなった。ただ、\n\n",
@@ -5339,11 +5339,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huangguodrama",
     "sourceUrl": "https://x.com/huangguodrama/status/2103446921969058167",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103446921969058167_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103446921969058167_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103446921969058167_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103446921969058167_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103446921969058167.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103446921969058167.mp4",
     "blurb": "#嫦娥_千年没开张的饥渴寡妇 / 精华片段\n中秋月圆人团圆 🌝 黄果原创影集高光时刻免费看\n完整版点击自介链接 下载黄果短剧APP\n-\n宇航员失事落入月宫，打破三千年寂静！饥渴嫦娥强势索欢，玉兔月桂沦陷肉欲助他出逃。正当重返飞船之际，嫦娥亲临截杀。禁忌与狂热交织，逃生计划沦为欲望炼狱，无名凡人彻底沦为月宫众仙的永世专宠！\n-\n#黄果短剧 #成人短剧 #AI短剧 #成人短剧APP #黄果",
     "prompt": "",
     "nsfw": true,
@@ -5359,11 +5359,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@maarcoofdezz",
     "sourceUrl": "https://x.com/maarcoofdezz/status/2103084734892957889",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103084734892957889_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103084734892957889_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103084734892957889_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103084734892957889_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103084734892957889.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103084734892957889.mp4",
     "blurb": "Sam Altman, CEO de OpenAI:\n\n\"Ya no hace falta escribir prompts.\"\n\nEn 38 minutos explica cómo usar ChatGPT a un nivel que la mayoría ni se imagina.\n\nEs una charla que dio a estudiantes de Stanford. Un ",
     "prompt": "",
     "nsfw": false,
@@ -5379,9 +5379,9 @@ window.GALLERY_CASES = [
     "model": "r34l1sm / video",
     "source": "@Tomw852",
     "sourceUrl": "https://x.com/Tomw852/status/2104174526636367892",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "pure prompt (no media): 8s shadow boxing reference video for elf-like character",
@@ -5397,9 +5397,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sdjn_wgc",
     "sourceUrl": "https://x.com/sdjn_wgc/status/2104005863673356644",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104005863673356644_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104005863673356644_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104005863673356644_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104005863673356644_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "X友的提示词。超写实夜间酒吧爵士酒廊人像，东亚女性25+，蕾丝上衣+亮片短裙+烟黑丝袜",
@@ -5417,10 +5417,10 @@ window.GALLERY_CASES = [
     "model": "ChatGPT image",
     "source": "@hongthich22470",
     "sourceUrl": "https://x.com/hongthich22470/status/2103924566875881934",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103924566875881934_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103924566875881934_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103924566875881934_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2103924566875881934_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "(ChatGPT image 2) Fashion show — linen áo yếm + silk pareo on luxury yacht deck at dusk",
@@ -5438,9 +5438,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LoveUolanda",
     "sourceUrl": "https://x.com/LoveUolanda/status/2104177691000017260",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104177691000017260_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104177691000017260_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104177691000017260_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104177691000017260_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -5459,11 +5459,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Lonely__MH",
     "sourceUrl": "https://x.com/Lonely__MH/status/2103792628567523381",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103792628567523381_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2103792628567523381_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2103792628567523381_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2103792628567523381_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2103792628567523381.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2103792628567523381.mp4",
     "blurb": "🎉 盘点贴！Muse 目前支持注册的账号汇总 👇 无论是 AI 生产力、出海云服务，还是跨境支付，统统帮你搞定： 1. AI 工具：Claude / OpenAI 账号 2. 云服务商：甲骨文 (Oracle) / AWS 云账号 3. 苹果生态：美区 Apple ID（其他地区同理） 4. 搜索：Google 账号 5. 海外社媒：X、Instagram、Telegram 6. 跨境支付：Pay",
     "prompt": "",
     "nsfw": false,
@@ -5479,9 +5479,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aisearchio",
     "sourceUrl": "https://x.com/aisearchio/status/2104366377977196668",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104366377977196668_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104366377977196668_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104366377977196668_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104366377977196668_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "New body swap models added for Qwen Image 2.1",
@@ -5499,11 +5499,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@johnAGI168",
     "sourceUrl": "https://x.com/johnAGI168/status/2104111175172841617",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104111175172841617_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104111175172841617_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104111175172841617_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104111175172841617_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104111175172841617.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104111175172841617.mp4",
     "blurb": "AI 视频进化到这个程度……以后的互动影游和 Galgame 已经不需要真人拍摄了吗❓ 第一人称视角 + 5人同框密室修罗场😄 无论是镜头晃动感、微表情细节、还是视线交流，沉浸感直接拉满。 by Seedance 2.5 🎬，互动电影工业要变天了。 prompt 👇",
     "prompt": "",
     "nsfw": false,
@@ -5519,9 +5519,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aiaicreate",
     "sourceUrl": "https://x.com/aiaicreate/status/2104454036825190670",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104454036825190670_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104454036825190670_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104454036825190670_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104454036825190670_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "手持ちカメラ特有のブレを再現するMiniMax-H3向けLoRAモデルが公開。 Civitaiで公開中の同モデルのHuggingFaceミラー版。 手ブレ効果による臨場感のある表現を生成に付与。 #MiniMaxH3 #LoRA URLはリプ⬇️",
@@ -5539,9 +5539,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_hakase_",
     "sourceUrl": "https://x.com/ai_hakase_/status/2104348113834058029",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104348113834058029_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104348113834058029_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104348113834058029_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104348113834058029_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "【Qwen-Image-2.1とMinimax h3で作るアニメオープニング制作ワークフロー】 ローカル環境で動かせる最新の画像生成モデル「Qwen-Image-2.1」と、動画生成モデルの「Minimax h3」を組み合わせることで、クオリティの高いアニメのオープニング映像が作れちゃうんです！✨ PythonやJavaScriptを使ってシーンの構成やエフェクトの制御を自動化できるので、マルチモ",
@@ -5559,11 +5559,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@pengsonal",
     "sourceUrl": "https://x.com/pengsonal/status/2104500793923731494",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104500793923731494_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104500793923731494_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104500793923731494_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104500793923731494_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104500793923731494.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104500793923731494.mp4",
     "blurb": "THIS 150MB AI CAN SWAP CHARACTERS IN VIDEOS WITH ONE PHOTO 🤯 akatz labs made a MiniMax H3 character-swap LoRA • video and reference photo • keeps the original scene • works with ComfyUI • only 148MB •",
     "prompt": "",
     "nsfw": false,
@@ -5579,9 +5579,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@CDGalpha",
     "sourceUrl": "https://x.com/CDGalpha/status/2104417222131331384",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104417222131331384_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104417222131331384_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104417222131331384_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104417222131331384_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "a free AI model for making adult videos locally😱 you write a scene. It turns your text into a short video on your own computer. NSFW Wan 1.3B is made for adult content. The creator says its newer chec",
@@ -5599,11 +5599,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Forhanvv",
     "sourceUrl": "https://x.com/Forhanvv/status/2104327026006265883",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104327026006265883_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104327026006265883_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104327026006265883_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104327026006265883_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104327026006265883.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104327026006265883.mp4",
     "blurb": "FOUND ANOTHER UNCENSORED LOCAL VIDEO MODEL 💀 This one comes with no restrictions for generating adult content. LTX 2.3 Uncensored: • 22B parameters • Supports text-to-video • Supports image-to-video •",
     "prompt": "",
     "nsfw": true,
@@ -5619,11 +5619,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@servasyy_ai",
     "sourceUrl": "https://x.com/servasyy_ai/status/2100588713885757905",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100588713885757905_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2100588713885757905_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2100588713885757905_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2100588713885757905_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2100588713885757905.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2100588713885757905.mp4",
     "blurb": "为什么你做的H3的视频总是这么油？ 我在 4090 上跑了1个多月 MiniMax H3，把这种\"油腻感\"拆成了 7 个一眼能认出来的地方： 🔹 额头、鼻梁、颧骨一整片发亮，是皮肤自己在发光，不是被光照亮 🔹 脸一转，亮斑跟着在皮肤上滑动、闪烁。视频里最明显，截图反而看不出 🔹 整张脸一个颜色，没有脸颊的红、眼下的暗，像开了美颜 🔹 嘴唇是一块光滑色块，没有唇纹 🔹 鼻翼、法令纹、下巴的阴影没了，",
     "prompt": "",
     "nsfw": false,
@@ -5639,10 +5639,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Rivonn",
     "sourceUrl": "https://x.com/Rivonn/status/2104443837099725024",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104443837099725024_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104443837099725024_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104443837099725024_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104443837099725024_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Holy sh*t, this is f*cking insaneee someone fine-tuned wan 2.1 into a FREEEE uncensored model that renders adult videos on your own pc NSFW Wan 1.3B is a 1.3B text-to-video checkpoint built only for a",
@@ -5660,11 +5660,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2104466137559793826",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104466137559793826_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104466137559793826_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104466137559793826_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104466137559793826_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104466137559793826.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104466137559793826.mp4",
     "blurb": "No.186 53P 6V Jumpsuit",
     "prompt": "",
     "nsfw": false,
@@ -5680,9 +5680,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huoshan007",
     "sourceUrl": "https://x.com/huoshan007/status/2104106515225276632",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104106515225276632_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2104106515225276632_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104106515225276632_0.png"
+      "https://img.guopeng.ccwu.cc/images/2104106515225276632_0.png"
     ],
     "videoUrl": "",
     "blurb": "兄弟们，昨晚通宵测了一下浙大刚开源的这个叫 Easel 的玩意，看完真有点说不出话。 做号最折磨人的根本不是没灵感，是到处扒热搜、排期、改图、剪片子这一堆杂碎脏活。 它直接把全网热榜吸过来硬对你的账号风格，脚本、日历加几十种物料一条龙怼出来。 我自己跑了两个号的复盘逻辑，发现它能根据数据反馈调整调性，这点我挺服气，越往后跑越像真人写的东西。 不过我坚持提醒一句，这帮平台风控有多恶心大家心里有数，尤",
@@ -5700,12 +5700,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Suzuna_AI_girls",
     "sourceUrl": "https://x.com/Suzuna_AI_girls/status/2104313755878510899",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104313755878510899_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104313755878510899_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104313755878510899_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104313755878510899_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104313755878510899_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104313755878510899_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "今日はパンクグランジコーデの紹介です🔔💕 #BellEchoArt ⏬️衣装プロンプトはリプライに♪",
@@ -5723,11 +5723,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@94vanAI",
     "sourceUrl": "https://x.com/94vanAI/status/2104493445662564701",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104493445662564701_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104493445662564701_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104493445662564701_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104493445662564701_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104493445662564701.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104493445662564701.mp4",
     "blurb": "❗️各位“视频专家”和“AI 视觉导演”们： 在开始发教程、卖方法论、批量生产 AI 教学文章之前，我觉得至少应该先做一件事： 【拿作品出来❗️】 证明你真的按照自己教的方法练过，证明这些方法能做出东西，也证明你的视觉表达曾经真正被用户认可过。 先用视觉作品说话。 别只是靠大模型帮你写几篇教程、整理几套工作流、包装几个听起来很专业的概念，然后就开始教别人怎么做视觉。 做视觉这件事，最后看的还是画面",
     "prompt": "",
     "nsfw": false,
@@ -5743,12 +5743,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIjee_tpe",
     "sourceUrl": "https://x.com/AIjee_tpe/status/2104463239698649510",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104463239698649510_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104463239698649510_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104463239698649510_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104463239698649510_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104463239698649510_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2104463239698649510_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "Flight attendants in the luxury cabin Image 1: GPT2.5 Image 2: Krea2 + Lora Image 3: Grok Imagine 2 + Reference Image Image 4: Qwen-Image 2.1 Ref. Prompt (SFW) See reply, welcome to send photos",
@@ -5766,10 +5766,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sereinworld",
     "sourceUrl": "https://x.com/sereinworld/status/2105320262900355104",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105320262900355104_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105320262900355104_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105320262900355104_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105320262900355104_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "chatgpt-image2.5生图 加上左边的动作图 会生成你想看到的 但是一定加上限制词 https://t.co/v7dZDXF8II",
@@ -5787,11 +5787,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@core_tan",
     "sourceUrl": "https://x.com/core_tan/status/2105045723540836606",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105045723540836606_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105045723540836606_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105045723540836606_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105045723540836606_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105045723540836606.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105045723540836606.mp4",
     "blurb": "MiniMax H3 WebUI ver1.6 リリース版 1088p（1920x1088）で遂に1分切るようになった🤗 lightx2v 4step v1.0 768p (FL2V) 4steps 5s T2V 1088p ⏱58.0s https://t.co/WzwfWQPNjS https://t.co/vEIDPSAk9u",
     "prompt": "",
     "nsfw": false,
@@ -5807,11 +5807,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MANISH1027512",
     "sourceUrl": "https://x.com/MANISH1027512/status/2105131904085430524",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105131904085430524_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105131904085430524_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105131904085430524_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105131904085430524_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105131904085430524.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105131904085430524.mp4",
     "blurb": "尝尝dots咸淡。。 prompt: 你能不能为https://t.co/6nNMHWc9vb 做一条30秒左右，炫酷的宣传视频，配乐最好能卡点？竭尽你所能。如果你需要登录，我可以给你 https://t.co/JYaXXOK4bT",
     "prompt": "你能不能为https://t.co/6nNMHWc9vb 做一条30秒左右，炫酷的宣传视频，配乐最好能卡点？竭尽你所能。如果你需要登录，我可以给你 https://t.co/JYaXXOK4bT",
     "nsfw": false,
@@ -5827,11 +5827,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_hakase_",
     "sourceUrl": "https://x.com/ai_hakase_/status/2105113164799209665",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113164799209665_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105113164799209665_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113164799209665_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105113164799209665_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105113164799209665.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105113164799209665.mp4",
     "blurb": "【革命】LoRA学習はもう不要！？🤯✨ 「MiniMax H3」で顔がブレない神技術「RefMod」が登場しました！ なんと数分で約1MBの超軽量ファイルを作るだけで、狙ったキャラクターの顔を完全固定できちゃうんです⋯！ 👇️ このスレッドで解説していきます！ #AI動画 #MiniMax #ComfyUI https://t.co/abFa6woxKp",
     "prompt": "",
     "nsfw": false,
@@ -5847,11 +5847,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@hiyoriaiux",
     "sourceUrl": "https://x.com/hiyoriaiux/status/2104829389078999161",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104829389078999161_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104829389078999161_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104829389078999161_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104829389078999161_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104829389078999161.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104829389078999161.mp4",
     "blurb": "動画もなかなか良い感じ♥ #AI美女 #AI https://t.co/cmD7Wabvcx",
     "prompt": "",
     "nsfw": false,
@@ -5867,11 +5867,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@eternityspring",
     "sourceUrl": "https://x.com/eternityspring/status/2105104076442869965",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105104076442869965_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105104076442869965_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105104076442869965_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105104076442869965_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105104076442869965.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105104076442869965.mp4",
     "blurb": "想看哪个小姐姐跳舞，不用再转深度 / 骨骼视频了 MiniMax H3 + Character Swap LoRA，直接丢一段跳舞视频加一张全身照就行。实测长视频分段合成再拼起来也没什么问题 唯一的遗憾就是合成有点慢，5s也得跑20多分钟 https://t.co/FYnLd548z9 还想看谁跳，快来许愿，我帮你们变戏法 😂 https://t.co/pNfpBLlakh",
     "prompt": "",
     "nsfw": false,
@@ -5887,11 +5887,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nex_ify",
     "sourceUrl": "https://x.com/nex_ify/status/2105192576546378037",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105192576546378037_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105192576546378037_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105192576546378037_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105192576546378037_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105192576546378037.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105192576546378037.mp4",
     "blurb": "LOOK WHAT I FOUND 😲 a new open-source model that just hit #1 on Hugging Face and it runs fully local on a 16GB laptop it is called Spark-X2.5-4B: → 4 billion parameters → native 1 million token contex",
     "prompt": "",
     "nsfw": false,
@@ -5907,12 +5907,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2105372104137015394",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105372104137015394_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372104137015394_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105372104137015394_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372104137015394_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372104137015394_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372104137015394_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "No.189 76P 6V Black dress https://t.co/6W0oe34dvG",
@@ -5930,9 +5930,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@gaoren7716",
     "sourceUrl": "https://x.com/gaoren7716/status/2105085465996976352",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105085465996976352_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105085465996976352_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105085465996976352_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105085465996976352_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "做 AI 短剧的全流程，有人整成一个开源项目了 叫 aid-studio 剧本、角色场景、智能分镜、出图出视频、配音、成片预览，全在一个浏览器里跑完。多模型能接，你自己也能部署 它最值钱的是那个无限画布加导演台 你可以像摆积木一样排镜头，改完直接出片 不用在五个工具之间倒素材，这一点能省你多少事？ 先配好两个模型，做完一个分镜，你就知道了 👉 https://t.co/oOHkIQhCLa",
@@ -5950,11 +5950,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PhotogenicWeekE",
     "sourceUrl": "https://x.com/PhotogenicWeekE/status/2105113053985706360",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113053985706360_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105113053985706360_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105113053985706360_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105113053985706360_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105113053985706360.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105113053985706360.mp4",
     "blurb": "昨日はComfyUIのMiniMax H3設定、どれがいいのか？いろいろ試してたけど… ・minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot ・Model Sparse Attention sla/10.0/0.0/1.00(以下default) ・res_multistep/simple/6 steps これがt2va/fl2",
     "prompt": "",
     "nsfw": false,
@@ -5970,9 +5970,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@tangchuan_CN",
     "sourceUrl": "https://x.com/tangchuan_CN/status/2104925431678017775",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104925431678017775_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104925431678017775_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104925431678017775_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104925431678017775_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "gemini-3.8-flash 是个很好的模型，但是因为antigravity太过垃圾，google又不允许gemini的订阅在其他harness里使用， 研究了一个现行比较安全的解决方案——通过 Pi 来使用 agy，让 agy 更少的影响 gemini-3.8-flash 模型能力。 一步步都是AI教我的， 1. 先把agy开一个精简模式，这个是官方允许的操作，这个可以就留4个工具。 2. ",
@@ -5990,11 +5990,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@stephanie37au8",
     "sourceUrl": "https://x.com/stephanie37au8/status/2104937154560589869",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104937154560589869_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104937154560589869_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104937154560589869_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104937154560589869_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104937154560589869.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104937154560589869.mp4",
     "blurb": "姐妹们公司团建K歌 众人凑一块瞎闹腾太带劲 本姑娘举着镜头在旁边也乐坏了呀 @ZariffDean https://t.co/GByhOzBQyY",
     "prompt": "",
     "nsfw": false,
@@ -6010,11 +6010,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@stephanie37au8",
     "sourceUrl": "https://x.com/stephanie37au8/status/2104413200016130140",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104413200016130140_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2104413200016130140_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2104413200016130140_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2104413200016130140_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2104413200016130140.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2104413200016130140.mp4",
     "blurb": "答应很久的变装，今天给大家拍了 @aikpjq https://t.co/6lyGjcl4IE",
     "prompt": "",
     "nsfw": false,
@@ -6030,10 +6030,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@niaoshu",
     "sourceUrl": "https://x.com/niaoshu/status/2105932045142851595",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105932045142851595_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105932045142851595_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105932045142851595_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105932045142851595_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "还要什么梯子机场  扔一边去\n\n把家里变成一个无墙的环境  用它👇\n\n你在家连上WiFi就能直接访问谷歌 看YouTube  刷推特\n\n仿佛身处美国  一点不夸张 https://t.co/GwS5FshwgT",
@@ -6051,11 +6051,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@airoid1111",
     "sourceUrl": "https://x.com/airoid1111/status/2105950396338586046",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105950396338586046_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105950396338586046_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105950396338586046_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105950396338586046_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105950396338586046.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105950396338586046.mp4",
     "blurb": "ナニかな？ https://t.co/SccK81KuMY",
     "prompt": "",
     "nsfw": false,
@@ -6071,11 +6071,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@YUMO412",
     "sourceUrl": "https://x.com/YUMO412/status/2105926890087494131",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105926890087494131_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105926890087494131_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105926890087494131_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105926890087494131_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105926890087494131.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105926890087494131.mp4",
     "blurb": "欧爸..... https://t.co/YaHZ4QrFfB",
     "prompt": "",
     "nsfw": false,
@@ -6091,11 +6091,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@leaf_sanren",
     "sourceUrl": "https://x.com/leaf_sanren/status/2105645639703183753",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105645639703183753_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105645639703183753_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105645639703183753_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105645639703183753_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105645639703183753.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105645639703183753.mp4",
     "blurb": "啊啊啊啊😮😮！感受一下Muse直出的视频！\n\n你觉得能干翻Seedance 2.5 或 Wan 3.0么？\n\n哪里有算力，哪里有奇迹？\n\nprompt：\n生成这个视频：生成一段15秒、9:16竖屏、超高清4K、30fps、电影级真实人像质感的时尚人像短片。\n\n画面主体是一位 20-25岁左右的年轻亚洲女性，高级脸，清冷中带一点青涩感，五官精致但不过分完美，脸型流畅，鼻梁自然，嘴唇饱满，眼神有内容，",
     "prompt": "生成这个视频：生成一段15秒、9:16竖屏、超高清4K、30fps、电影级真实人像质感的时尚人像短片。\n\n画面主体是一位 20-25岁左右的年轻亚洲女性，高级脸，清冷中带一点青涩感，五官精致但不过分完美，脸型流畅，鼻梁自然，嘴唇饱满，眼神有内容，整体气质像车模或时尚活动现场被摄影师近距离怼脸抓拍。\n不要网红感，不要夸张整形脸，不要塑料皮，不要过度磨皮，不要假睫毛过重，不要夸张高光，不要二次元感。\n人物皮肤必须真实：清晰可见毛孔、轻微皮肤纹理、轻微卡粉、轻微痘印、极浅痘坑、眼下细纹、鼻翼与脸颊自然凹凸、嘴唇唇纹、少量碎发和发丝边缘。 妆容是精致但不完美的高级淡妆：底妆微微服帖但不是无瑕，眼妆干净，睫毛真实自然，唇部有轻微光泽感。\n头发为黑色或深棕色顺直长发，带自然碎发和轻微凌乱感，不能太刻意。\n\n场景与氛围\n\n场景为高级时尚活动现场 / 车展活动区 / 高端品牌发布会现场的人像近拍氛围，但背景必须虚化，不突出具体品牌和文字。背景可有柔和的展厅灯光、少量失焦霓虹反射、模糊人群、模糊车身高光反射或金属质感背景，整体氛围高级、克制、时尚。\n不要字幕，不要贴纸，不要水印，不要可读文字，不要夸张特效，不要不合理炫光。\n\n光线要求\n\n光线必须符合现实逻辑，像真实摄影师在活动现场近距离拍摄。\n主光为柔和但有方向性的面部主光，从人物正前偏侧上方打来，形成自然脸部明暗层次。\n辅光非常轻，保留部分阴影，增强五官立体感。\n环境中可有柔和冷色边缘光或车展现场反射光，让脸部更立体。\n全程允许出现2到3次短暂闪光灯，闪光灯必须像现场摄影闪光一样自然，只在某些瞬间快速亮起，造成面部高光短暂增强、瞳孔高光更明显、皮肤反光更亮，但不能整段频闪，不能不合逻辑。\n闪光灯出现时，要像摄影师抓拍：亮一下就过，光比真实，脸部不过曝，皮肤细节仍可见。\n\n镜头与运镜（顶级运镜）\n\n整体采用超近距离人像运镜，镜头始终围绕脸部进行，突出眼睛、鼻梁、嘴唇、脸颊、发丝和皮肤质感。\n镜头语言高级、流畅、克制，有时尚广告和摄影后台抓拍的感觉。\n不要大幅乱晃，不要眩晕感，不要夸张AI运镜，不要突然拉远。\n运镜必须自然，像高端摄影师手持稳定器或轻微手持拍摄：\n\n0-3秒\n\n镜头从超近距离侧前方怼脸开场，焦点落在眼睛和鼻梁区域，人物微微抬眼看向镜头，呼吸感自然，嘴唇轻微放松。\n镜头做极轻微慢推近，同时有非常轻的横向滑动，展示脸颊、眼下纹理和发丝。\n这一段要让观众第一眼就感受到脸的高级和真实。\n\n3-6秒\n\n镜头沿着脸部从眼睛滑到鼻尖、再滑到嘴唇附近，做极稳的微弧形绕拍，近距离观察五官。\n人物眼神轻微移动，不要夸张表演，只需轻轻看向镜头边缘，再缓慢回看镜头。\n此时可出现第一次闪光灯，短暂亮起，强化皮肤质感和唇部高光。\n\n6-9秒\n\n镜头从正面偏左缓慢转到正面偏右，仍然保持怼脸距离，重点表现脸颊皮肤纹理、鼻翼细节、下眼睑细纹、睫毛和瞳孔反光。\n人物轻轻拨动一点头发，或者有一缕碎发自然落在脸侧。\n镜头带一点真实摄影感的轻微呼吸式浮动，不能死板。\n\n9-12秒\n\n镜头轻微下移，突出嘴唇、下巴线条和脸颊，再慢慢回到眼睛。\n人物表情保持清冷、克制、带一点高级疏离感，像车模被摄影师近距离抓拍，偶尔轻轻眨眼，嘴角有极轻微放松。\n这里出现第二次闪光灯，自然、瞬时、像现场抓拍，闪完后恢复正常光线。\n闪光灯后眼睛里的高光更加明显，画面更有时尚大片感。\n\n12-15秒\n\n镜头做一次最漂亮的超近距离轻弧线收镜，围绕脸部微微绕动并轻推近，最后停在眼睛+鼻梁+半边嘴唇的绝佳构图上。\n人物在最后一秒轻轻抬眼直视镜头，眼神干净、冷静、有吸引力。\n结尾可有第三次很轻的闪光灯或环境高光掠过，但必须自然，不夸张。\n最终停留在一个非常适合做首帧封面的高级怼脸画面。\n\n画面风格\n\n整体风格是：\n真实电影级时尚人像、近距离商业摄影、车展模特贴脸抓拍、高级杂志感、自然皮肤质感、非影棚假面感。\n要有真实镜头焦外、自然景深、细腻肤质、轻微现场感、克制的高级感。\n不是网红自拍，不是直播间，不是韩式磨皮，不是低质AI脸。\n\n重点强调\n\n脸必须真实，不能假\n\n皮肤不能过分完美，要保留轻微瑕疵\n\n五官稳定，不能变形\n\n眼睛不能飘，嘴唇不能乱动\n\n发丝必须真实，有碎发\n\n闪光灯必须符合现实抓拍逻辑\n\n光线必须真实，不要胡乱乱闪\n\n镜头必须高级，平滑，电影级，时尚摄影感\n\n全片以“高级脸近拍展示”为核心，不要剧情化，不要大动作\n\n负面限制词（建议一起加上）\n\n负面提示词：\n卡通感，CG感，塑料皮，过度磨皮，过度美颜，五官变形，眼睛错位，皮肤蜡像感，过曝，闪光灯频闪不合理，脸部抖动，低清晰度，低质量发丝，夸张滤镜，网红脸，假睫毛过重，浓妆，镜头乱晃，肢体变形，背景杂乱，可读文字，字幕，贴纸，水印，",
     "nsfw": false,
@@ -6111,11 +6111,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nakachi03",
     "sourceUrl": "https://x.com/nakachi03/status/2105553301198549056",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105553301198549056_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105553301198549056_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105553301198549056_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105553301198549056_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105553301198549056.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105553301198549056.mp4",
     "blurb": "No.189 76P 6V Black dress https://t.co/C1mHjlzr42",
     "prompt": "",
     "nsfw": false,
@@ -6131,13 +6131,13 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@shimotti_ai",
     "sourceUrl": "https://x.com/shimotti_ai/status/2105686298178843022",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105686298178843022_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105686298178843022_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105686298178843022_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105686298178843022_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105686298178843022_1.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105686298178843022.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105686298178843022.mp4",
     "blurb": "GPTimage2.5でAIキャラをパーツ分けして素材化させる神プロンプトを公開します‼️\n\n・Live2D制作\n・ゲーム立ち絵制作\n・モーショングラフィックス\n・広告動画\n・キャラ紹介PV\n・アニメや映像のプリプロ\n・同人・個人制作\n\nただのAI画像を重ね合わせ可能なパーツ透過素材に\nできます。\n\nこのプロンプトはリプ欄↓",
     "prompt": "",
     "nsfw": false,
@@ -6153,12 +6153,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2105939453667848429",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105939453667848429_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105939453667848429_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105939453667848429_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105939453667848429_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105939453667848429.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105939453667848429.mp4",
     "blurb": "上面这个号的打法，我们昨晚跑通了。\n\n不用拍，不用露脸。\n\n找一条火过的视频，把人换掉，就是一条新的爆款。\n两个工具就够了：ChatGPT 做角色，Seedance 2.5 换人。\n\n这是我们造的角色，完整步骤在下面👇 https://t.co/hHRCcwMbUu https://t.co/BvoZjsSbtC",
     "prompt": "",
     "nsfw": false,
@@ -6174,11 +6174,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jackchen1919",
     "sourceUrl": "https://x.com/jackchen1919/status/2105874142813991061",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105874142813991061_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105874142813991061_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105874142813991061_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105874142813991061_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105874142813991061.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105874142813991061.mp4",
     "blurb": "鉴于大家都很喜欢 把白模视频送给大家！ https://t.co/xpT7FQwe0E https://t.co/sRe08WrLY0",
     "prompt": "",
     "nsfw": false,
@@ -6194,11 +6194,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@orca_build",
     "sourceUrl": "https://x.com/orca_build/status/2098055393377124672",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098055393377124672_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2098055393377124672_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2098055393377124672_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2098055393377124672_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2098055393377124672.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2098055393377124672.mp4",
     "blurb": "New in Orca — Agent Activity View 🔔\n\nSee what agents need you, without opening a single one.\n\nwaiting · working · monitoring · done\n\nRead the last agent message or jump right into the agent chat. \n\nAv",
     "prompt": "",
     "nsfw": false,
@@ -6214,10 +6214,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@liyue_ai",
     "sourceUrl": "https://x.com/liyue_ai/status/2105607404809498831",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105607404809498831_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105607404809498831_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105607404809498831_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105607404809498831_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "🤯这到底是谁想出来的？\n这次GPT是真的被越狱了😅\n\n提示词：\n参考右侧的人物姿势，将左侧人物按右侧各种姿势生成。 https://t.co/s8g4G4s0hB https://t.co/kn7wbRqYqj",
@@ -6235,10 +6235,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aehyok",
     "sourceUrl": "https://x.com/aehyok/status/2105908137698173092",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105908137698173092_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105908137698173092_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105908137698173092_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105908137698173092_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "卧槽，Codex 直接半价了，这个得先收藏。\n\n官方 20 刀一个月，Agent Space 月付 10 刀，年付折下来 9 刀。\n5x 官方 100 刀，这里 45。\n独立账号，不跟别人拼车，还白送一台 24 小时在线的云电脑。\n\nClaude 这边也没落下：\nOpus 5.5 按量是官方 API 的一半，每百万 token 输入 $2、输出 $10。\n注册先送 $1，一分钱不花就能试。\n\n最狠",
@@ -6256,11 +6256,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LufzzLiz",
     "sourceUrl": "https://x.com/LufzzLiz/status/2105112451666841934",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105112451666841934_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105112451666841934_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105112451666841934_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105112451666841934_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105112451666841934.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105112451666841934.mp4",
     "blurb": "预测接下来 agent 两个重要的方向：带云电脑、连着你各种应用的私人 agent，还有一种就是团队大脑。\n\n第一种目前走的最快最好的是muse、Today，dot刚刚试了主动性太差。。\n\n今天聊一下最近一直在用一个 personal AI：https://t.co/hynZQJNumO，主动性是最强的。\n\n分享一个我自己每天都在用的场景。\n\n【痛点】\n做 AI 内容，每天最耗神的决定是\"今天发哪",
     "prompt": "",
     "nsfw": false,
@@ -6276,12 +6276,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@asanoai02",
     "sourceUrl": "https://x.com/asanoai02/status/2105372106280083826",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105372106280083826_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105372106280083826_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105372106280083826_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372106280083826_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372106280083826_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2105372106280083826_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "No.126 93P 7V Junko Enoshima https://t.co/FfTAAICBsJ",
@@ -6299,11 +6299,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huoshan007",
     "sourceUrl": "https://x.com/huoshan007/status/2105099945686741306",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105099945686741306_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105099945686741306_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105099945686741306_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105099945686741306_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2105099945686741306.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2105099945686741306.mp4",
     "blurb": "冷知识：\n\n豆包的灰铲已经把这个行业颠覆了🤯 \n\n 看完后你还敢不用AI吗？ https://t.co/JR1gQ532Av",
     "prompt": "",
     "nsfw": false,
@@ -6319,11 +6319,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Dontgiveup_26",
     "sourceUrl": "https://x.com/Dontgiveup_26/status/2106524412715667782",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2106524412715667782_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2106524412715667782_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2106524412715667782_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2106524412715667782_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2106524412715667782.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2106524412715667782.mp4",
     "blurb": "결국 비디오 생성 AI 판에서도 '괴물 오픈소스'가 터져버렸음.\n\n5초만 넘어가면 화면이 녹아내리던 고질병을 끝내고, '수 분짜리 롱테이크 영상'을 왜곡 0%로 뽑아내는 13.6B 모델이 나와버림.\n\n심지어 구글 Veo3급 퀄리티인데 코드와 모델 가중치까지 'MIT 라이선스(상업적 100% 무료)'로 통째로 털어버림.\n\n메이투안이 기습 공개한 비디오 AI ",
     "prompt": "",
     "nsfw": false,
@@ -6339,10 +6339,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@_FORAB",
     "sourceUrl": "https://x.com/_FORAB/status/2107434529053176075",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2107434529053176075_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107434529053176075_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2107434529053176075_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2107434529053176075_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "不是，怎么突然一夜之间，Anthropic 的 Claude 页面有简体中文选项，国家地区也可以选择中国了，甚至还有银联支付的标志。\n\n发生什么事了，这真不是陷阱么？？",
@@ -6360,9 +6360,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ai_funss",
     "sourceUrl": "https://x.com/ai_funss/status/2107844902478565650",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107844902478565650_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2107844902478565650_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107844902478565650_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2107844902478565650_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "土区的 Google Gemini 订阅会不会成为下一个传家宝？🤔\n\n只需“1899里拉”也就是“258元” 就可以订阅 Google AI Ultra 😮\n\n可以使用Gemini 4 Argon 、Claude Opus 5.5 还有 20T的云盘空间，Youtube 的 Premium 会员，等等一系列。",
@@ -6380,11 +6380,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@liyue_ai",
     "sourceUrl": "https://x.com/liyue_ai/status/2108211952900309152",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108211952900309152_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108211952900309152_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108211952900309152_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108211952900309152_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108211952900309152.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2108211952900309152.mp4",
     "blurb": "刚用归藏老师的提示词在 Grok Bot 做了 AI 早报，排版、信息收集、视频内容和解说都符合预期；附完整「AI 早报 + 讲解视频」流程提示词。",
     "prompt": "请帮我搭一套「AI 早报 + 讲解视频」流程：每天整理前一天的 AI 资讯，出一份文字简报，再做成一条约 90 秒的中文讲解视频。先装好环境，用昨天的内容试跑一期，交给我验收。\n\n【一、安装 skill（在你自己的电脑上）】\n把下面三个公开仓库克隆到 ~/.claude/skills/ 下，每个都完整读一遍 SKILL.md 和它引用的文件：\n- https://t.co/8FxwObdvoR （视频制作流程：React + GSAP 搭画面，Playwright 逐帧渲染，FFmpeg 合成）\n- https://t.co/k6dqBM64NR （版式：瑞士风，纸白底，安全橙 #FF6B35）\n- https://t.co/jYs6GTXzQf （旁白去 AI 腔）\n按 skill 的环境检查把缺的依赖装齐（Node、Playwright + Chromium、FFmpeg、Python 等）。另外装 edge-tts 做中文配音，可以先用 zh-CN-YunxiNeural，语速 +20%；有更稳定的 TTS 也可以换。\n\n【二、采集资讯（日期 Y = 我所在时区的昨天）】\n- 时间窗口用我所在时区的完整一天，换算成 UTC 再查，不要直接用 UTC 零点。\n- 来源：我的 X 收藏、我自己在 Y 当天发的推文（按 赞 + 2×评论 + 2×收藏 取前 3，附上评论区里有实质内容的观点），以及我下面列出的其他来源。\n- 我的 X 账号：@<你的用户名>\n- 其他来源（可选）：<比如某个 newsletter 的发件邮箱、某个网页>\n- 某个来源读不到时，如实写\"没读到\"，和\"没更新\"分开写。\n\n【三、文字简报】\n- 把相关内容归成 5–7 条主线，每条一句话标题，加一两句要点，带上关键数字。\n- 每条都要附原推链接 https://t.co/6JqCo9AtwM<用户名>/status/<id>，补过背景的再附一个官方来源。\n- 价格、跑分、融资额这类数字要回官方页核对。传言标\"未证实/社区传言\"。绝不编造数字、引用、链接或用户名，评论作者按推文 id 回填。\n\n【四、讲解视频】\n- 完全按 Product Video skill 的流程做：先写 DIRECTION.md，再搭镜头，最后渲染。画面的字体、配色和排版沿用社交卡片 skill。\n- 结构：片头（AI 早报 + 日期 + 今日条数）→ 每条新闻一屏（标题、1–2 个橙色关键数字、来源账号）→ X 雷达一屏 → 片尾。总长 60–90 秒，默认横屏 1920×1080。\n- 旁白中文口语化，先用 Humanizer-zh 过一遍。每句单独合成配音并量出时长，镜头、字幕和动作时间都按实际配音时长来对齐。字幕烧录进画面，人声出现时把音乐压低。\n- 视频里只放简报里已经有的事实，不新增内容。\n- 导出后跑 skill 自带的交付检查，抽帧逐屏看：文字不能溢出、重叠或截断，中文不能缺字，整片色调要统一。有问题先改完再交。\n\n【五、交付】\n发给我：文字简报全文、成片 mp4、旁白稿、3–4 张关键帧，再加一句话说明哪些步骤还不稳定。不要替我发任何消息或帖子。\n\n试跑我满意之后，再帮我建一个每天早上 9 点自动跑的定时任务。",
     "nsfw": false,
@@ -6400,10 +6400,10 @@ window.GALLERY_CASES = [
     "model": "ChatGPT",
     "source": "@liluocheng13",
     "sourceUrl": "https://x.com/liluocheng13/status/2108188790733132102",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108188790733132102_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108188790733132102_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108188790733132102_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2108188790733132102_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "反复改提示词两小时，把 ChatGPT 逼出类似 Midjourney 风格的东方戏曲女神作品；附完整英文 Prompt。",
@@ -6421,10 +6421,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@t20000622yy",
     "sourceUrl": "https://x.com/t20000622yy/status/2108207399400300642",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108207399400300642_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108207399400300642_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108207399400300642_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2108207399400300642_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Archify 近 8 万 Star，作者发现第三方做成标价 $19/月的在线版（站名只多一个 i）；强调原项目完全开源免费，那个站是独立运营。",
@@ -6442,9 +6442,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lilililiMozi",
     "sourceUrl": "https://x.com/lilililiMozi/status/2108180559801589838",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108180559801589838_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108180559801589838_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108180559801589838_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108180559801589838_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "一张长标题梗图：Qwen3.8 27B 用 390 万代码数据微调，蒸馏对齐 Opus5.5、GPT6Astra、Grok4.7、DSV4Pro，再经 SFT/RLOO/MTP 与 DFlash2 加速。",
@@ -6462,11 +6462,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ONLYVIPVID",
     "sourceUrl": "https://x.com/ONLYVIPVID/status/2108163320582959606",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108163320582959606_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108163320582959606_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108163320582959606_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108163320582959606_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108163320582959606.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2108163320582959606.mp4",
     "blurb": "成人向调教/肉戏向视频书签，无可用提示词。",
     "prompt": "",
     "nsfw": true,
@@ -6482,9 +6482,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@0xGky",
     "sourceUrl": "https://x.com/0xGky/status/2107943548024766829",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107943548024766829_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2107943548024766829_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2107943548024766829_0.png"
+      "https://img.guopeng.ccwu.cc/images/2107943548024766829_0.png"
     ],
     "videoUrl": "",
     "blurb": "一套 MiniMax H3 导演台工作流，丢进 ComfyUI 可跑文生视频、图生视频、首尾帧、视频换人。",
@@ -6502,9 +6502,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@BlockInsight214",
     "sourceUrl": "https://x.com/BlockInsight214/status/2108400320204386435",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108400320204386435_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108400320204386435_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108400320204386435_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108400320204386435_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Hugging Face 员工玩法：任意终端 ssh chat.hf.co 即可进入聊天界面，免注册、免 API key、免安装，额度不限，可选 HF Inference Providers 托管模型。",
@@ -6522,11 +6522,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MinLiBuilds",
     "sourceUrl": "https://x.com/MinLiBuilds/status/2109263984763507009",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109263984763507009_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109263984763507009_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109263984763507009_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109263984763507009_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109263984763507009.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2109263984763507009.mp4",
     "blurb": "🚨 全体起立！ 我发现Claude Opus 5.5，不用担心被封的野方法！\n\n居然藏在 Microsoft Word 里！\n\n我试了，真的可以。\n\n🔥 Microsoft 365 Copilot 在9月22日已经接入 Anthropic 旗舰模型 Claude Opus 5.5，直接在 Word 里写文章、改稿、处理长文档。\n\n赢麻了，我的Microsoft 365 Premium 2030年到",
     "prompt": "",
     "nsfw": false,
@@ -6542,11 +6542,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MinLiBuilds",
     "sourceUrl": "https://x.com/MinLiBuilds/status/2108936000508661827",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108936000508661827_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108936000508661827_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108936000508661827_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108936000508661827_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2108936000508661827.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2108936000508661827.mp4",
     "blurb": "🎉 全体起立！有显卡的注意了！\n\nMuse/Grokbot真正的无限token来了，只需要5毛钱电费，让它接入本地的Qwen 3.8 Next Flash，爽歪歪啊。\n\n真正的24*7小时干活，终于实现。\n\n步骤极其简单：\n1. Muse跟你本地qwen用tailscale组网，跟Muse说：登录tailscale。\n2. 跟Muse说：Pi使用 【你的qwen tailscale ip】，acc",
     "prompt": "",
     "nsfw": false,
@@ -6562,11 +6562,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aehyok",
     "sourceUrl": "https://x.com/aehyok/status/2109286111910752540",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109286111910752540_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109286111910752540_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109286111910752540_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109286111910752540_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109286111910752540.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2109286111910752540.mp4",
     "blurb": "🚨 无敌了，铁汁们。  \n\n17 块钱就能用上一年的 Claude Opus 5.5。  \n\n毫无封号风险，不要犹豫了，赶紧冲，赶紧囤。  \n\n我先囤两个号，万一晚了涨价了，这尼玛性价比真的无敌了！\n\nhttps://t.co/IkdFw6AyRm https://t.co/FNuWfnEtn4",
     "prompt": "",
     "nsfw": false,
@@ -6582,9 +6582,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@QingQ77",
     "sourceUrl": "https://x.com/QingQ77/status/2109657845394264571",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109657845394264571_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109657845394264571_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109657845394264571_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109657845394264571_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "把十几家 AI 桌面客户端的登录态收成一个本地 OpenAI 兼容网关，客户端改一下 base_url 就能调到这些家的额度，不用去要上游 API Key\n\nhttps://t.co/lEH2R7vcwb\n\nRust 写的本地反代，挂上 WorkBuddy、小浣熊、Qoder、Cline、Accio、CodeArts、Trae、Antigravity 这十几家的登录态后，在 127.0.0.1:3",
@@ -6602,9 +6602,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@QingQ77",
     "sourceUrl": "https://x.com/QingQ77/status/2109642745295863993",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109642745295863993_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109642745295863993_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109642745295863993_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109642745295863993_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "手上有好几家的模型账号，来回切密钥和客户端太碎；这个桌面应用把它们并进一个本地网关，给编程助手提供统一入口、调度和用量统计。\n\n: https://t.co/6QyZbONHK7 https://t.co/PDtdfFXij9",
@@ -6622,11 +6622,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@QingQ77",
     "sourceUrl": "https://x.com/QingQ77/status/2109548875996369396",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109548875996369396_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109548875996369396_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109548875996369396_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109548875996369396_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109548875996369396.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2109548875996369396.mp4",
     "blurb": "这个真酷啊，用代码生成一段六秒短片。\n\n虚拟摄影机拍 AI agent 的终端屏幕，视觉追踪框逐个锁住它打出的每个字符，画面和音效全部由代码合成，不用任何实拍素材和库音频。\n\nhttps://t.co/5aWkMhotFg https://t.co/xoxQD58SGj",
     "prompt": "",
     "nsfw": false,
@@ -6642,9 +6642,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@QingQ77",
     "sourceUrl": "https://x.com/QingQ77/status/2109488477918376079",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109488477918376079_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109488477918376079_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109488477918376079_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109488477918376079_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "给 Windows 上的 DSH（DeepSeek Harness）补上 bash、PowerShell 7 和一批 Rust 工具，减少反复调用 PowerShell 报错造成的 token、时间和模型注意力浪费。\n\nhttps://t.co/DJJUTiu30u https://t.co/8pst3ChgoR",
@@ -6662,9 +6662,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@QingQ77",
     "sourceUrl": "https://x.com/QingQ77/status/2109459537405317415",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109459537405317415_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109459537405317415_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109459537405317415_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109459537405317415_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "用一条命令把单用户个人 AI 助手部署进自己的 Cloudflare 账号，聊天、记忆、任务笔记和定时提醒都跑在自己账号下\n\nhttps://t.co/RQqwbbrsfR\n\n一个部署在自己 Cloudflare 账号里的单用户个人 AI 助手，一条 npx create-talorys@latest 完成安装。\n\n提供流式聊天、可查看编辑删除的记忆、任务/笔记/项目的完整 CRUD，以及一次性或",
@@ -6682,9 +6682,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@googlegemma",
     "sourceUrl": "https://x.com/googlegemma/status/2108652628590944540",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108652628590944540_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2108652628590944540_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2108652628590944540_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2108652628590944540_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Google AI Pro plans now package premium Colab benefits, landing you A100s with 80GB VRAM (Ultra subs even unlock H100s 🔥).\n\nHere’s what that 80GB headroom unlocks directly in your browser:\n\n✨ Run Gemm",
@@ -6702,11 +6702,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@posi_posi8",
     "sourceUrl": "https://x.com/posi_posi8/status/2109848622917726612",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109848622917726612_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109848622917726612_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109848622917726612_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109848622917726612_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109848622917726612.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2109848622917726612.mp4",
     "blurb": "Google AI Proの特典でA100 40GB/80GBが使えるようになり、例えばMiniMax-H3が使えるという有料記事。\n\nせっかくなので、ボタンひとつでWebUIが起動し、MiniMax-H3で動画生成できるノートブックを作成してみたのでお試しください。\n\n5秒の動画が2分弱で生成できます。\n\nhttps://t.co/pdDSaPmLY4 https://t.co/GVLmWQD5",
     "prompt": "",
     "nsfw": false,
@@ -6722,9 +6722,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@libapi_",
     "sourceUrl": "https://x.com/libapi_/status/2109615572967424333",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109615572967424333_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109615572967424333_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109615572967424333_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109615572967424333_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "闲鱼 Notion 商业版3个月兑换服务\n\n可以用上 Opus5.5 就要三十八块\n\n能活多久不知道，但是这个价格真香 \n\n我先去试试水 https://t.co/6VDQzoQeTH",
@@ -6742,9 +6742,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@libapi_",
     "sourceUrl": "https://x.com/libapi_/status/2109958258958221758",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109958258958221758_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109958258958221758_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109958258958221758_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109958258958221758_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "一直在用这张U卡开 Ai 会员订阅 ，每个月都有5%返现。 https://t.co/7ije9lciYB",
@@ -6762,11 +6762,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lovactai",
     "sourceUrl": "https://x.com/lovactai/status/2109516246735880206",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109516246735880206_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2109516246735880206_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2109516246735880206_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2109516246735880206_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2109516246735880206.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2109516246735880206.mp4",
     "blurb": "在https://t.co/YAZ98vV8CH的模板市场里买了模板，人物脸发生过拟合怎么办，这个教程教你怎么处理彻底解决过拟合问题\n#AI成人短剧 #lovact #NSFW #AI教学 https://t.co/YrCGDcs2PP https://t.co/XDrViecZKB",
     "prompt": "",
     "nsfw": true,
@@ -6782,9 +6782,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xkajon",
     "sourceUrl": "https://x.com/xkajon/status/2110717917822329272",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110717917822329272_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2110717917822329272_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110717917822329272_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2110717917822329272_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "好久没发帖，一直在忙正事。这两天翻私信刷推特，发现稳定用 Claude 的需求很高。\n\n既然没人提，我丢个邪修路子：Perplexity Computer的 Claude。\n\n满血完整 Claude，稳定用 opus5.5 或者 fable5.1，配的有云端主机，推理强度可以拉满，可以选择fast模式。并且还有 seedance 和 gpt-image-2.5 的模型。这个完全是一个被低估的和忽视",
@@ -6802,9 +6802,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@aiwaremax",
     "sourceUrl": "https://x.com/aiwaremax/status/2110037351447810228",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110037351447810228_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2110037351447810228_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2110037351447810228_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2110037351447810228_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "实测了一天！！！目前 X Ultra 套餐的 token\n\n一周在 27.77 亿左右！！！\n\n一月在约111.08 亿 tokens左右！！！\n\n这个额度让你心动了吗？？？ https://t.co/wfrzXMWDDx https://t.co/W7B4HFF1Rw",
@@ -6822,10 +6822,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@suversal",
     "sourceUrl": "https://x.com/suversal/status/2112011226226348477",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112011226226348477_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112011226226348477_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112011226226348477_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112011226226348477_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "小号实测 Google 学生认证福利流程：SheerID 验证后订 8.99 美元含 YouTube Premium 套餐，续费显示 2029。截图非提示词。",
@@ -6843,11 +6843,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@zhouzanpeng2",
     "sourceUrl": "https://x.com/zhouzanpeng2/status/2112054198108111051",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112054198108111051_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112054198108111051_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112054198108111051_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112054198108111051_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112054198108111051.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2112054198108111051.mp4",
     "blurb": "30秒 9:16 24fps 超写实航空时尚广告；五位东亚空姐锁定人设与客机舷梯；六段镜头+节拍同步的完整视频故事板提示词。",
     "prompt": "30秒，9:16竖屏，24fps，超写实航空时尚广告，明亮自然光，青春活力与高级杂志感结合。参考生视频模式，参考图不强制作为首帧。严格按照故事板生成视频。\n\n人物锁定：五位不同面孔的成年东亚女性，从左到右固定为A深蓝西装黑丝袜长发、B深蓝金扣西装黑色蕾丝长袜、C浅蓝色修身制服连衣裙、D米色西装深蓝裙与黑色网袜、E深蓝红边西装黑丝袜。五人各自的脸、发型、丝巾、胸牌、鞋袜和服装始终不变，不交换身份。固定同一架白色客机、打开的舱门、银色登机梯、蓝天和晴朗日光。\n\n音乐：ROSÉ & Bruno Mars《APT.》副歌节奏参考，若无法合法调用，使用同节拍授权流行摇滚舞曲。全程一条音乐时间线，脚步、回眸、切镜与鼓点同步。无对白。\n\n镜头1（0–5秒）【全景，舷梯下方低机位，缓慢向上推进】\n由飞机登机梯与蓝天开场。五人分别站在相邻台阶上，保持A至E左右次序。C微笑看镜头，A轻拨发丝，B与D交换眼神，E扶栏杆微微歪头。表情自然，微风吹动发丝和丝巾。\n\n镜头2（5–10秒）【中近景组合，正面及左右45度，音乐卡点硬切】\n依次展示A自信微笑、B俏皮眨眼、C轻轻整理丝巾、D回头莞尔一笑、E抬眉看镜头。每张脸必须对应正确服装与站位，人物特写自然清晰。\n\n镜头3（10–15秒）【双人中景，右前方45度，轻微横移】\nB轻声向C说一句“准备好了吗？”C笑着点头并回答“当然！”两人自然对视，嘴部清晰同步。其他三人保持原本位置，在背景中自然微笑。音乐在对白时短暂降低。\n\n镜头4（15–21秒）【五人全身，正面略低角度，平稳后退跟拍】\n五人扶着栏杆，在音乐节拍上依次小心向下走一至两级台阶，然后停步转向摄影机。鞋跟踩稳台阶，保持合理间距，不奔跑、不跳跃、不穿越彼此。头发、裙摆、丝巾随动作自然摆动。\n\n镜头5（21–26秒）【五人中全景，左前方45度，缓慢侧移】\n五人在舷梯上形成自然时尚合影队形。A与E微微侧身，B轻轻整理衣领，C抬手做小幅挥手，D露出明亮笑容。五人互相看一眼后共同转向镜头，节奏卡在音乐重拍上。\n\n镜头6（26–30秒）【五人全身，正面低机位，缓慢推近】\n五人站稳，面对镜头自然微笑。C轻轻说“Ready for takeoff!”其余四人笑着挥手回应。最后音乐重拍时完成团队封面式定格，蓝天与客机舱门完整保留。\n\n真实肤质、自然眨眼、符合物理的步伐和鞋跟支撑，手指正确，摄影机移动平稳。禁止减少或增加人物、串脸、左右换位、服装变化、人体穿模、突然瞬移、背景改变、过度磨皮、文字、字幕、Logo及水印。严格按照故事板生成视频。",
     "nsfw": false,
@@ -6863,9 +6863,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ruyi3699",
     "sourceUrl": "https://x.com/ruyi3699/status/2112019153309807094",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112019153309807094_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112019153309807094_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112019153309807094_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112019153309807094_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "介绍网上批量 Gmail 小号来源：开源自动注册工具，称可躲风控绕手机验证。截图资讯，无生成提示词。",
@@ -6883,11 +6883,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NFT_Chen",
     "sourceUrl": "https://x.com/NFT_Chen/status/2111873617084756390",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2111873617084756390_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111873617084756390_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2111873617084756390_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2111873617084756390_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2111873617084756390_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "Harness² 让 Agent 在模型权重不动时自优化提示词/工具/记忆/技能，多轮最高涨约 11.5 分；附克隆安装演示命令。资讯截图。",
@@ -6905,9 +6905,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@wlzh",
     "sourceUrl": "https://x.com/wlzh/status/2111952894744531250",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111952894744531250_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2111952894744531250_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2111952894744531250_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2111952894744531250_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "华为云低价活动晒单：约 36 元用到 2028。截图无生成提示词。",
@@ -6925,9 +6925,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaoyuboi",
     "sourceUrl": "https://x.com/xiaoyuboi/status/2112030122568286563",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112030122568286563_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112030122568286563_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112030122568286563_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112030122568286563_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "校园 NAT4 导致 Tailscale 绕欧美约 400ms；阿里云杭州自建中继后延迟约 60–80ms。截图无生成提示词。",
@@ -6945,9 +6945,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MacroYuvo",
     "sourceUrl": "https://x.com/MacroYuvo/status/2112191868687516012",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112191868687516012_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112191868687516012_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112191868687516012_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112191868687516012_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "拼多多 Mac mini M6 约 4669 元，京东今日达；晒单截图，无生成提示词。",
@@ -6965,11 +6965,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaohuanhmao",
     "sourceUrl": "https://x.com/xiaohuanhmao/status/2112137567877706212",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112137567877706212_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112137567877706212_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112137567877706212_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112137567877706212_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112137567877706212_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "用新注册域名开 Google Workspace 免费版，最多约 50 个工作账号；建议另设邮件转发；截图说明。",
@@ -6987,11 +6987,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@realNyarime",
     "sourceUrl": "https://x.com/realNyarime/status/2112116966106472741",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112116966106472741_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_1.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112116966106472741_2.png"
+      "https://img.guopeng.ccwu.cc/images/2112116966106472741_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112116966106472741_1.png",
+      "https://img.guopeng.ccwu.cc/images/2112116966106472741_2.png"
     ],
     "videoUrl": "",
     "blurb": "运营商邮箱+QQ/网易等一手机号多账号；国际版约 350 积分 DS4.1 免费，国内多号积分思路；截图说明。",
@@ -7009,9 +7009,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@guanmo_ai",
     "sourceUrl": "https://x.com/guanmo_ai/status/2112122082121138227",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112122082121138227_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112122082121138227_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112122082121138227_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112122082121138227_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "晒单：约 16 元可买 Opus 5.5 三个月，月额度用完还能重置；截图无生成提示词。",
@@ -7029,9 +7029,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Chel2336",
     "sourceUrl": "https://x.com/Chel2336/status/2112071296515453011",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112071296515453011_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112071296515453011_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112071296515453011_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112071296515453011_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "更新寒霜破甲 v2.0.2，作者实测最新版 WorkBuddy 可用；链接见原帖。截图非生成提示词。",
@@ -7049,11 +7049,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@portertech",
     "sourceUrl": "https://x.com/portertech/status/2112118547287822755",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2112118547287822755_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_0.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_1.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112118547287822755_2.png"
+      "https://img.guopeng.ccwu.cc/images/2112118547287822755_0.png",
+      "https://img.guopeng.ccwu.cc/images/2112118547287822755_1.png",
+      "https://img.guopeng.ccwu.cc/images/2112118547287822755_2.png"
     ],
     "videoUrl": "",
     "blurb": "Gemini 学生优惠流程截图：选 8.99 美元方案，有人付款日跳到 2028；可用 Gemini 4 Argon 与 Opus 5.5。非生成提示词。",
@@ -7071,9 +7071,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NFTCPS",
     "sourceUrl": "https://x.com/NFTCPS/status/2112744321841774872",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112744321841774872_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112744321841774872_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112744321841774872_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112744321841774872_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "dsh-purge 将于 10/27 闭源改商业许可；社区 Purge Community 适配 Desktop 0.2.1，仅限自有/授权环境。截图非提示词。",
@@ -7091,9 +7091,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@goan999999",
     "sourceUrl": "https://x.com/goan999999/status/2112807104834912318",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112807104834912318_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112807104834912318_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112807104834912318_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112807104834912318_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "截图分享所谓防封手机方案，正文无生图提示词。Comments not fetched。",
@@ -7111,9 +7111,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yangyi",
     "sourceUrl": "https://x.com/yangyi/status/2112714114036609114",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112714114036609114_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112714114036609114_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112714114036609114_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112714114036609114_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "作者建议切 GPT/Grok Bot 做视频，或用 NewMax/Magpie 挂多个 Claude 20 美金号。截图非提示词。",
@@ -7131,11 +7131,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Lonely__MH",
     "sourceUrl": "https://x.com/Lonely__MH/status/2112695864003022894",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112695864003022894_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112695864003022894_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112695864003022894_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112695864003022894_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112695864003022894.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2112695864003022894.mp4",
     "blurb": "宣传 18+ 多模态本地模型：低拒答、OCR、8G 显存可跑。视频演示，正文无生图提示词。",
     "prompt": "",
     "nsfw": true,
@@ -7151,9 +7151,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@gengdaJ",
     "sourceUrl": "https://x.com/gengdaJ/status/2112778834378670195",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112778834378670195_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112778834378670195_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112778834378670195_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112778834378670195_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "适配剪映 11.6.0，接入 Openverse 音效，ASR 改 Step 2.5 降本。安装包/GitHub 链接，非生图提示词。",
@@ -7171,12 +7171,12 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@boniusex",
     "sourceUrl": "https://x.com/boniusex/status/2112809048601145423",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112809048601145423_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_1.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_2.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112809048601145423_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112809048601145423_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112809048601145423_1.png",
+      "https://img.guopeng.ccwu.cc/images/2112809048601145423_2.png",
+      "https://img.guopeng.ccwu.cc/images/2112809048601145423_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "27岁韩系女性角色锁定 + 酒店卧室跪姿构图；皮衣泳装等多套服装的完整写实生图提示词。",
@@ -7194,11 +7194,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@MANISH1027512",
     "sourceUrl": "https://x.com/MANISH1027512/status/2112696645989327020",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112696645989327020_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112696645989327020_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112696645989327020_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112696645989327020_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112696645989327020.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2112696645989327020.mp4",
     "blurb": "豆包角色整活：淘汰二次元角色夺虎扑女神。视频无正文提示词。",
     "prompt": "",
     "nsfw": false,
@@ -7214,10 +7214,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yohimimimi",
     "sourceUrl": "https://x.com/yohimimimi/status/2112680511437226463",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112680511437226463_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112680511437226463_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112680511437226463_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112680511437226463_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Marin Kitagawa 手办图，请 Grok 换装。图集无完整提示词。Comments not fetched。",
@@ -7235,11 +7235,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DDJCXX",
     "sourceUrl": "https://x.com/DDJCXX/status/2112503232971059606",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112503232971059606_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112503232971059606_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112503232971059606_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112503232971059606_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2112503232971059606.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2112503232971059606.mp4",
     "blurb": "作者开源埃及艳后短片流程：认人照片+文字机位比首帧图更有生气，并做成 Claude Skill。视频展示，正文非完整可复用提示词。",
     "prompt": "",
     "nsfw": false,
@@ -7255,12 +7255,12 @@ window.GALLERY_CASES = [
     "model": "ChatGPT Image",
     "source": "@sinvlo233",
     "sourceUrl": "https://x.com/sinvlo233/status/2112788785075257817",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2112788785075257817_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_2.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2112788785075257817_3.jpg"
+      "https://img.guopeng.ccwu.cc/images/2112788785075257817_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112788785075257817_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112788785075257817_2.jpg",
+      "https://img.guopeng.ccwu.cc/images/2112788785075257817_3.jpg"
     ],
     "videoUrl": "",
     "blurb": "同一成年东亚女性角色参考表：锁五官发型肤质身材与多角度表情/日常场景。含完整提示词与四图示例。",
@@ -7278,9 +7278,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2112845385555431727",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "东方女子浅粉无袖旗袍、团扇与青花瓷瓶；古典舞抬腿定格的全身棚拍提示词（纯文本，占位图入库）。",
@@ -7296,9 +7296,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@_ninetyhe",
     "sourceUrl": "https://x.com/_ninetyhe/status/2113119446994997722",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113119446994997722_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2113119446994997722_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113119446994997722_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2113119446994997722_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "甲骨文云这两天大放水。。趁现在还有活动速度申请。\n\n永久免费的 4 核 24G ARM 服务器，一直是全网最难开的羊毛，现在地址用 AI 填、公共 WiFi 都能过。\n\n直接邮箱申请就行，然后挂咸鱼卖月付，辛苦一个注册人工费，然后挂着卖。\n\n入口：https://t.co/a9YsAAiNb7\n\n赚钱的思路很多，也许你缺少一个发现和变现的思维🤔🤔",
@@ -7316,11 +7316,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NFT_Chen",
     "sourceUrl": "https://x.com/NFT_Chen/status/2114024935450677759",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2114024935450677759_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114024935450677759_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2114024935450677759_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2114024935450677759_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2114024935450677759_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "🤯炸了！RTX 40系显卡算力被破解了，性能近乎翻倍！从4090到4060 Ti全都能用！ 不刷BIOS、不改驱动，直接把被锁的Tensor算力放出来，跑AI矩阵乘快一倍左右。 实测亮点： 🔹4090：FP16/BF16 从165→331 TFLOPS，接近翻倍 🔹4080 SUPER：FP16涨到1.83倍，FP8也翻倍 🔹4070 Ti SUPER：FP16/BF16翻倍，FP8矩阵乘涨到1.",
@@ -7338,11 +7338,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NTH_Kimiko2b",
     "sourceUrl": "https://x.com/NTH_Kimiko2b/status/2113585946046448077",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113585946046448077_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2113585946046448077_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113585946046448077_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2113585946046448077_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2113585946046448077.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2113585946046448077.mp4",
     "blurb": "💖看哪个部位你会硬起来！想插妈咪齁？ ◯ A.屁股 ◯ B.胸部 ◯ C.小穴 💖获取视频",
     "prompt": "",
     "nsfw": true,
@@ -7358,11 +7358,11 @@ window.GALLERY_CASES = [
     "model": "Codex",
     "source": "@huangyun_122",
     "sourceUrl": "https://x.com/huangyun_122/status/2113567614123594051",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113567614123594051_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2113567614123594051_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113567614123594051_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2113567614123594051_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2113567614123594051.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2113567614123594051.mp4",
     "blurb": "不行，这种协议级提示词，应该是 twitter 乃至全网首发，必须分享给大家都知道 没想到，Codex 被它调教之后，瞬间逼格跨越 1000倍",
     "prompt": "复制粘贴给你的AI就可以帮你自动改好：\n\n::OBJECTIVE{site_design|pri:OVERRIDE_ALL}\n  target: build page to award-tier visual standard\n  ACCEPT: no visible improvement remaining across all CHECK dimensions\n  BENCHMARK: Awwwards | Webby Awards | FWA winning entries\n\n::CHECK{typography|standard:award_tier}\n::CHECK{whitespace|standard:award_tier}\n::CHECK{visual_hierarchy|standard:award_tier}\n::CHECK{color|standard:award_tier}\n::CHECK{motion|standard:award_tier}\n::CHECK{micro_interaction|standard:award_tier}\n::CHECK{responsive|standard:award_tier}\n::CHECK{originality|standard:award_tier}\n\n::LOOP{self_review|trigger:on_completion}\n  [READ] current page against CHECK list\n  [COMPARE] each dimension to BENCHMARK entries\n  [IF] gap found => [PATCH] then re-enter LOOP\n  [IF] no gap => [Ω]",
     "nsfw": false,
@@ -7378,10 +7378,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@LiFeng61532",
     "sourceUrl": "https://x.com/LiFeng61532/status/2113928615998193813",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2113928615998193813_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_0.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2113928615998193813_1.png"
+      "https://img.guopeng.ccwu.cc/images/2113928615998193813_0.png",
+      "https://img.guopeng.ccwu.cc/images/2113928615998193813_1.png"
     ],
     "videoUrl": "",
     "blurb": "终于知道咸鱼上接单一年的Gemini pro和plus是怎么来的 使用这个tg bot() 即可白嫖一年的Gemini pro和plus 初始积分25分 每日签到5分 注册后用这3个激活码还可以得50积分 15OCT2026 16OC2026 22OCT2026 总共80积分 可用直接兑换1Credit 然后换取一年的Gemini plus",
@@ -7399,9 +7399,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@awe0_io",
     "sourceUrl": "https://x.com/awe0_io/status/2114270176648810497",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114270176648810497_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2114270176648810497_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114270176648810497_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2114270176648810497_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "给大家分享一个网站可以免费用 Claude 这个网站是加州大学伯克利分校的校园创始人做的，这个网站上可以免费用这个 gemini.anthropic.xai的大模型 ，只需要谷歌邮箱登录，大家快来试一试！",
@@ -7419,11 +7419,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Suannaicaomei",
     "sourceUrl": "https://x.com/Suannaicaomei/status/2114982048742232331",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114982048742232331_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2114982048742232331_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2114982048742232331_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2114982048742232331_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2114982048742232331.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2114982048742232331.mp4",
     "blurb": "绝美男娘版磨豆腐 只蹭蹭不进去是你最大的谎言～\n\n#男娘 #伪娘 #ts #男娘投稿",
     "prompt": "",
     "nsfw": true,
@@ -7439,11 +7439,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ASMRoop",
     "sourceUrl": "https://x.com/ASMRoop/status/2115449003550925176",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115449003550925176_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2115449003550925176_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115449003550925176_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2115449003550925176_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2115449003550925176.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2115449003550925176.mp4",
     "blurb": "新婚旅行 NTR剧情",
     "prompt": "",
     "nsfw": true,
@@ -7459,10 +7459,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@leo114119",
     "sourceUrl": "https://x.com/leo114119/status/2117571259475038493",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_0.png",
+    "image": "https://img.guopeng.ccwu.cc/images/2117571259475038493_0.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_0.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117571259475038493_1.png"
+      "https://img.guopeng.ccwu.cc/images/2117571259475038493_0.png",
+      "https://img.guopeng.ccwu.cc/images/2117571259475038493_1.png"
     ],
     "videoUrl": "",
     "blurb": "网友实测：410一个月的Gemini AI Ultra 20X \n\n这下真的不用续订GPT了\n\n操作过程：\n1.土区苹果账户，Google账号不限\n2.下Google这个应用，然后在设置里找“管理Google One”选项，这儿是看不到20X的订阅的\n3.随便订阅一个有折扣的订阅，通过苹果的支付渠道，然后到苹果设置的订阅里去看，就能看到Google订阅下有intro offer group这个，可",
@@ -7480,9 +7480,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@grainny__01",
     "sourceUrl": "https://x.com/grainny__01/status/2117982698518323276",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982698518323276_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117982698518323276_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982698518323276_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117982698518323276_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7501,11 +7501,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@EIGuCysUwExBi5T",
     "sourceUrl": "https://x.com/EIGuCysUwExBi5T/status/2117982046727631267",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982046727631267_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117982046727631267_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117982046727631267_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117982046727631267_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117982046727631267.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2117982046727631267.mp4",
     "blurb": "抖音两次违规真发不出，只能推特发了...    \n\n           开脱！！！开脱！！！！   \n\n 上供！！！！ Luo照 锐评一下不许说我🐻黑！！！ https://t.co/QNiyiv50dm",
     "prompt": "",
     "nsfw": true,
@@ -7521,11 +7521,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kosatoai",
     "sourceUrl": "https://x.com/kosatoai/status/2117934892134912074",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117934892134912074_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117934892134912074_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117934892134912074_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117934892134912074_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117934892134912074.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2117934892134912074.mp4",
     "blurb": "kosato 26Kl Ahegao Party 02 (mp4) https://t.co/EOlklTJtrS",
     "prompt": "",
     "nsfw": true,
@@ -7541,9 +7541,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huangman99",
     "sourceUrl": "https://x.com/huangman99/status/2117917939391402359",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117917939391402359_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117917939391402359_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117917939391402359_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117917939391402359_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7562,11 +7562,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@yedabinbinah",
     "sourceUrl": "https://x.com/yedabinbinah/status/2118748073795182800",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118748073795182800_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118748073795182800_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118748073795182800_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118748073795182800_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118748073795182800.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2118748073795182800.mp4",
     "blurb": "每个Muse都是一条VPN线路🔐  Muse升级前不执行 VS 升级后执行力拉满❗",
     "prompt": "",
     "nsfw": false,
@@ -7582,11 +7582,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NFT_Chen",
     "sourceUrl": "https://x.com/NFT_Chen/status/2118825518024040589",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118825518024040589_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825518024040589_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118825518024040589_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2118825518024040589_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2118825518024040589_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "🫨逆天了！马斯克做梦没想到 Grok Bot 直接被开源了，X会员瞬间失去意义！ GitHub神人把 Grok Bot 开源为 OpenMausBot，可切换多模型和本地/云端电脑。",
@@ -7604,9 +7604,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@grgerwcwetwet",
     "sourceUrl": "https://x.com/grgerwcwetwet/status/2119035519611089371",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119035519611089371_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119035519611089371_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119035519611089371_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119035519611089371_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "推荐开源项目 HGhub，黄果短剧第三方客户端，支持 Windows、macOS、Android；免费无广告，Rust + Tauri 2 开发。",
@@ -7624,11 +7624,11 @@ window.GALLERY_CASES = [
     "model": "wan2.2",
     "source": "@JACK_OH_AI",
     "sourceUrl": "https://x.com/JACK_OH_AI/status/2119041904381972576",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119041904381972576_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119041904381972576_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119041904381972576_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119041904381972576_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119041904381972576.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2119041904381972576.mp4",
     "blurb": "📷😄",
     "prompt": "",
     "nsfw": false,
@@ -7644,11 +7644,11 @@ window.GALLERY_CASES = [
     "model": "Kling 4.0",
     "source": "@AI_GIRL_DESIGN",
     "sourceUrl": "https://x.com/AI_GIRL_DESIGN/status/2118825759171092877",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825759171092877_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118825759171092877_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118825759171092877_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118825759171092877_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118825759171092877.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2118825759171092877.mp4",
     "blurb": "こちらはKLING4.0。Pri-Visは完全に無視でPromptだけで振り付けた感じです。カワイイけれど😌",
     "prompt": "",
     "nsfw": false,
@@ -7664,9 +7664,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@GrayNoteLab",
     "sourceUrl": "https://x.com/GrayNoteLab/status/2119047055125500414",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png",
+    "image": "https://img.guopeng.ccwu.cc/images/placeholder-x.png",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/placeholder-x.png"
+      "https://img.guopeng.ccwu.cc/images/placeholder-x.png"
     ],
     "videoUrl": "",
     "blurb": "窗边矮榻东方女子半身俯拍，白袍团扇与玉兰；衣服柔焦、面部与背景保持锐利的生图提示词（纯文本，占位图入库）。",
@@ -7682,11 +7682,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AI_OilySlut",
     "sourceUrl": "https://x.com/AI_OilySlut/status/2117970980916302124",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117970980916302124_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117970980916302124_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117970980916302124_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117970980916302124_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117970980916302124.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2117970980916302124.mp4",
     "blurb": "你的小鸡鸡太小了，根本满足不了我。 你就是个废物，只配被我羞辱。",
     "prompt": "",
     "nsfw": true,
@@ -7702,9 +7702,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@chandanbhalla5",
     "sourceUrl": "https://x.com/chandanbhalla5/status/2118560757478547630",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118560757478547630_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118560757478547630_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118560757478547630_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118560757478547630_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7723,11 +7723,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jiojio2026",
     "sourceUrl": "https://x.com/jiojio2026/status/2118278794855506256",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118278794855506256_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118278794855506256_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118278794855506256_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118278794855506256_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118278794855506256.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2118278794855506256.mp4",
     "blurb": "Taboo Series 🔥 Sleeping Moms~~ 🤫 Sample Test 01  Tools Used: ChatGPT · Gemini · Grok · ComfyUI",
     "prompt": "",
     "nsfw": true,
@@ -7743,11 +7743,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@NIPPON1206",
     "sourceUrl": "https://x.com/NIPPON1206/status/2120139620302397626",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120139620302397626_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2120139620302397626_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120139620302397626_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2120139620302397626_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2120139620302397626.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2120139620302397626.mp4",
     "blurb": "❤️Chudai❤️",
     "prompt": "",
     "nsfw": true,
@@ -7763,11 +7763,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Sllrioi",
     "sourceUrl": "https://x.com/Sllrioi/status/2119983381580575197",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119983381580575197_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119983381580575197_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119983381580575197_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119983381580575197_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2119983381580575197.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2119983381580575197.mp4",
     "blurb": "和姐妹一起勾引直男 没想到被我的屁穴10秒就泄了",
     "prompt": "",
     "nsfw": true,
@@ -7783,9 +7783,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Swappingswin0",
     "sourceUrl": "https://x.com/Swappingswin0/status/2119793946822140139",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119793946822140139_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119793946822140139_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119793946822140139_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119793946822140139_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7804,9 +7804,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@dxbtxbfs3l5",
     "sourceUrl": "https://x.com/dxbtxbfs3l5/status/2119383474230686061",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119383474230686061_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119383474230686061_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119383474230686061_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119383474230686061_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7825,9 +7825,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@dxbtxbfs3l5",
     "sourceUrl": "https://x.com/dxbtxbfs3l5/status/2119659514878435438",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119659514878435438_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119659514878435438_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119659514878435438_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119659514878435438_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7846,9 +7846,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@giuseppenenni",
     "sourceUrl": "https://x.com/giuseppenenni/status/2119875186787016778",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119875186787016778_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2119875186787016778_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2119875186787016778_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2119875186787016778_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -7867,9 +7867,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@star_flow_ai",
     "sourceUrl": "https://x.com/star_flow_ai/status/2121800102495072259",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121800102495072259_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2121800102495072259_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121800102495072259_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2121800102495072259_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "谷歌开放 Gemini 4 Hydrogen 免费 API，可直接接入 Agent 客户端。上下文 100 万 Token，RPM 15，RPD 1,500，额度按 Project 共享。从 aistudio.google.com 创建 Key，模型 ID 填 gemini-4-hydrogen。",
@@ -7887,11 +7887,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@fengye5678",
     "sourceUrl": "https://x.com/fengye5678/status/2122307272286310703",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122307272286310703_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2122307272286310703_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122307272286310703_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2122307272286310703_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122307272286310703.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2122307272286310703.mp4",
     "blurb": "妈妈的小母狗就喜欢含鸡巴，公狗也是见到逼就想舔，一对下贱畜生",
     "prompt": "",
     "nsfw": true,
@@ -7907,9 +7907,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Pluvio9yte",
     "sourceUrl": "https://x.com/Pluvio9yte/status/2116382365404852227",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2116382365404852227_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2116382365404852227_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2116382365404852227_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2116382365404852227_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "用手机版 Gmail「添加其他账号 → 创建账号」注册，通常不会要求绑定手机号，也更少遇到地址或复制邮箱校验。",
@@ -7927,11 +7927,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2115760557769023524",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115760557769023524_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2115760557769023524_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2115760557769023524_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2115760557769023524_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2115760557769023524.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2115760557769023524.mp4",
     "blurb": "絶賛使用中〜💕💕✨",
     "prompt": "",
     "nsfw": true,
@@ -7947,11 +7947,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2117210126788567134",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117210126788567134_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117210126788567134_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117210126788567134_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117210126788567134_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117210126788567134.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2117210126788567134.mp4",
     "blurb": "ゆ、許してご主人様ぁ...︎︎❤︎︎もういっぱいですわ〜︎︎❤︎︎︎︎❤︎︎💦",
     "prompt": "",
     "nsfw": true,
@@ -7967,11 +7967,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2117572515279040735",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117572515279040735_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2117572515279040735_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2117572515279040735_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2117572515279040735_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2117572515279040735.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2117572515279040735.mp4",
     "blurb": "ドールちゃんの作り方🎀",
     "prompt": "",
     "nsfw": true,
@@ -7987,11 +7987,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2121558775236829274",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121558775236829274_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2121558775236829274_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121558775236829274_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2121558775236829274_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121558775236829274.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2121558775236829274.mp4",
     "blurb": "飼育日常🎀",
     "prompt": "",
     "nsfw": true,
@@ -8007,11 +8007,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2121196385298964891",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121196385298964891_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2121196385298964891_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121196385298964891_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2121196385298964891_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121196385298964891.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2121196385298964891.mp4",
     "blurb": "トレーニングの成果💝",
     "prompt": "",
     "nsfw": true,
@@ -8027,11 +8027,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@veritabledxzx22",
     "sourceUrl": "https://x.com/veritabledxzx22/status/2118659672475640150",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118659672475640150_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2118659672475640150_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2118659672475640150_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2118659672475640150_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2118659672475640150.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2118659672475640150.mp4",
     "blurb": "改造進行中〜︎︎❤︎︎︎︎❤︎︎",
     "prompt": "",
     "nsfw": true,
@@ -8047,9 +8047,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@cdnn99946",
     "sourceUrl": "https://x.com/cdnn99946/status/2105631674847695065",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105631674847695065_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2105631674847695065_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2105631674847695065_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2105631674847695065_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8068,9 +8068,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@huangman99",
     "sourceUrl": "https://x.com/huangman99/status/2122985238859300908",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122985238859300908_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2122985238859300908_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122985238859300908_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2122985238859300908_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8089,11 +8089,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@petshih",
     "sourceUrl": "https://x.com/petshih/status/2084229493388914743",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084229493388914743_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2084229493388914743_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2084229493388914743_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2084229493388914743_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2084229493388914743.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2084229493388914743.mp4",
     "blurb": "示范合格的人妖新娘：先锁好贞操锁，再把飞机杯肛塞塞进小穴，震动棒插入后快感被挡住，只能一直发情空虚。",
     "prompt": "",
     "nsfw": true,
@@ -8109,10 +8109,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@kongge_space",
     "sourceUrl": "https://x.com/kongge_space/status/2122876707241931110",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2122876707241931110_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122876707241931110_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2122876707241931110_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2122876707241931110_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "Google AI Ultra 优惠计划：第一个月免费，之后 11 个月每月 12 刀，第二年起每月 112 刀（原价 199 刀，是 Pro 的 20 倍），内含 Opus。",
@@ -8130,9 +8130,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xx7758mm",
     "sourceUrl": "https://x.com/xx7758mm/status/2123378103770620412",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123378103770620412_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123378103770620412_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123378103770620412_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123378103770620412_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8151,9 +8151,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@3HUBADULT",
     "sourceUrl": "https://x.com/3HUBADULT/status/2122278139615412611",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122278139615412611_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2122278139615412611_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122278139615412611_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2122278139615412611_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8172,9 +8172,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@BBCGANGBANG77",
     "sourceUrl": "https://x.com/BBCGANGBANG77/status/2123072346701627542",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123072346701627542_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123072346701627542_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123072346701627542_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123072346701627542_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8193,9 +8193,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lovelush10",
     "sourceUrl": "https://x.com/lovelush10/status/2123696852478693520",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123696852478693520_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123696852478693520_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123696852478693520_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123696852478693520_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8214,9 +8214,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@lovelush10",
     "sourceUrl": "https://x.com/lovelush10/status/2123697817973871040",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123697817973871040_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123697817973871040_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123697817973871040_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123697817973871040_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8235,11 +8235,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Miyasama119",
     "sourceUrl": "https://x.com/Miyasama119/status/2124169887191040401",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124169887191040401_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124169887191040401_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124169887191040401_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124169887191040401_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124169887191040401.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124169887191040401.mp4",
     "blurb": "都喜欢双人的是吧？",
     "prompt": "",
     "nsfw": true,
@@ -8255,11 +8255,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@PeachPicks_TZJX",
     "sourceUrl": "https://x.com/PeachPicks_TZJX/status/2123859864870953198",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123859864870953198_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123859864870953198_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123859864870953198_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123859864870953198_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123859864870953198.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2123859864870953198.mp4",
     "blurb": "wataa",
     "prompt": "",
     "nsfw": true,
@@ -8275,11 +8275,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mxc7id92I",
     "sourceUrl": "https://x.com/mxc7id92I/status/2124043873232265690",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124043873232265690_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124043873232265690_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124043873232265690_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124043873232265690_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124043873232265690.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124043873232265690.mp4",
     "blurb": "无论你白天在外面装得多么体面，晚上回到家里，那股奴性贱性就会像毒药一样从骨髓里渗出来。你越是试图压抑，就越渴望被彻底践踏。\n你的身体是牢笼，你的意志是笑话，你存在价值的早就注定了 只能成为一只只为男爹存在的丧志母猪肉便器\n\n#少妇 #人妻 #贤妻良母 #母猪 #反差 #丧志 #性奴 #肉便器 #母狗",
     "prompt": "",
     "nsfw": true,
@@ -8295,9 +8295,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sulala521",
     "sourceUrl": "https://x.com/sulala521/status/2123698255368516032",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123698255368516032_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123698255368516032_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123698255368516032_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123698255368516032_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8316,11 +8316,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@hasenjaege66675",
     "sourceUrl": "https://x.com/hasenjaege66675/status/2124006281157775526",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124006281157775526_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124006281157775526_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124006281157775526_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124006281157775526_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124006281157775526.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124006281157775526.mp4",
     "blurb": "上司本想潜规则她却反被榨干精气，操到双腿发软只能坐轮椅逃跑，冷艳秘书全程调教上司并不断催促快点再快点。\n\n你看到的只是片段，主页可以继续追。\n#反差 #黑丝",
     "prompt": "",
     "nsfw": true,
@@ -8336,11 +8336,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@basusei1984",
     "sourceUrl": "https://x.com/basusei1984/status/2122540629561614847",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122540629561614847_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2122540629561614847_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2122540629561614847_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2122540629561614847_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2122540629561614847.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2122540629561614847.mp4",
     "blurb": "被芳姨命令每天必须自慰一次……\n她晃着沉甸甸的巨乳在旁边倒计时：十、九、八……再慢就帮你弄到哭\n完整版：\n#巨乳 #阿姨 #强制自慰",
     "prompt": "",
     "nsfw": true,
@@ -8356,11 +8356,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@sanjiejie",
     "sourceUrl": "https://x.com/sanjiejie/status/2123667260057514421",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123667260057514421_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123667260057514421_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123667260057514421_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123667260057514421_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2123667260057514421.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2123667260057514421.mp4",
     "blurb": "璇妈音声《母亲节礼物》2\n“看妈妈这个逼” \n哈哈这句台词……很多私信夸我璇子妈妈我一并谢过啦哈，顺便回答我的创作过程：角色代入画面融入剧情，不满意的作品就会觉得对不住付钱的金主哈哈，所以大家写金主们吧。最近问比较多的绿帽题材……快啦\n #绿母 #母子 #御姐 #乱伦 #音声 #粗口 #骚话 #操逼",
     "prompt": "",
     "nsfw": true,
@@ -8376,9 +8376,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jairob81",
     "sourceUrl": "https://x.com/jairob81/status/2124060245098103030",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124060245098103030_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124060245098103030_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124060245098103030_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124060245098103030_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8397,11 +8397,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@zhangweiyema888",
     "sourceUrl": "https://x.com/zhangweiyema888/status/2124071773734092832",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124071773734092832_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124071773734092832_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124071773734092832_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124071773734092832_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124071773734092832.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124071773734092832.mp4",
     "blurb": "操你血妈的 流精阳痿大王八 你的肥奶名媛女神 在大屌野爹面前 只需要看一眼黑皮大鸡巴 就会你妈逼直接变成吞精吸屌精盆母狗 白皮肉猪母王八 无脑丧志的鸡巴套子 人肉泄欲雌畜 你这个活王八还不赶紧在你野爹爆操狂怼你女神直肠卵穴屁眼的时候 一边给你野爹吸篮子皮一边大喊你自己是个死精龟男啊 记住了哦 像你这种硬起来都没有3cm的废物 只配当个活王八 💓💓💓",
     "prompt": "",
     "nsfw": true,
@@ -8417,9 +8417,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@HienHenrie23369",
     "sourceUrl": "https://x.com/HienHenrie23369/status/2123700482937901232",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123700482937901232_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123700482937901232_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123700482937901232_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123700482937901232_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8438,9 +8438,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@HornyMilfx1",
     "sourceUrl": "https://x.com/HornyMilfx1/status/2123916296601686143",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123916296601686143_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2123916296601686143_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2123916296601686143_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2123916296601686143_0.jpg"
     ],
     "videoUrl": "",
     "videoSource": "drive",
@@ -8459,11 +8459,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ASMRxpo",
     "sourceUrl": "https://x.com/ASMRxpo/status/2124110967810453563",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124110967810453563_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124110967810453563_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124110967810453563_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124110967810453563_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124110967810453563.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124110967810453563.mp4",
     "blurb": "仓库沉沦 · 纹身男的后入调教",
     "prompt": "",
     "nsfw": true,
@@ -8479,11 +8479,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Hasxxcc",
     "sourceUrl": "https://x.com/Hasxxcc/status/2124132287864525204",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124132287864525204_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124132287864525204_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124132287864525204_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124132287864525204_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124132287864525204.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124132287864525204.mp4",
     "blurb": "黑丝淫妻跪侍硬挺，老公看着爽翻天",
     "prompt": "",
     "nsfw": true,
@@ -8499,9 +8499,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@weichen_ink",
     "sourceUrl": "https://x.com/weichen_ink/status/2124618926545912316",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124618926545912316_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124618926545912316_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124618926545912316_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124618926545912316_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "用 N26 卡加甲骨文法兰克福节点申请到谷歌云 300 美金试用；申请时预扣 25 美金，约一周返还。台湾节点 IP 较干净。",
@@ -8519,9 +8519,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@xiaoxiaodong",
     "sourceUrl": "https://x.com/xiaoxiaodong/status/2124796718114034133",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124796718114034133_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124796718114034133_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124796718114034133_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124796718114034133_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "用 Chrome「添加个人资料」为每个谷歌账号建独立 profile，互不污染；配合其网络方案在 Gmail 里注册，通常不用填手机。",
@@ -8539,10 +8539,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@ChiangYu18",
     "sourceUrl": "https://x.com/ChiangYu18/status/2124737402023665854",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124737402023665854_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124737402023665854_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124737402023665854_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2124737402023665854_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "SpotPay 是全球无国界数字银行，一个账户可跨境收付；美国银行账户 + Visa 卡 + 移动支付，支持 Apple Pay / Google Pay，余额可生息。",
@@ -8560,11 +8560,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@AIVideoHub_",
     "sourceUrl": "https://x.com/AIVideoHub_/status/2124700212728078758",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124700212728078758_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124700212728078758_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124700212728078758_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124700212728078758_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2124700212728078758.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2124700212728078758.mp4",
     "blurb": "AI真人剧微表情提示词，快收藏起来以后有用🥰",
     "prompt": "",
     "nsfw": false,
@@ -8580,11 +8580,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@jackluos3lpo",
     "sourceUrl": "https://x.com/jackluos3lpo/status/2125273955468787810",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125273955468787810_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125273955468787810_2.jpg"
+      "https://img.guopeng.ccwu.cc/images/2125273955468787810_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125273955468787810_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125273955468787810_2.jpg"
     ],
     "videoUrl": "",
     "blurb": "Manus 推出个人助理 Cue，注册送 8 核 16G / 72G Ubuntu 云电脑，以及专属邮箱、电话和钱包，并可接入 Gmail、日历、Notion 及常见聊天软件；现注册还送一个月 Plus。",
@@ -8602,11 +8602,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@nanajiang8888",
     "sourceUrl": "https://x.com/nanajiang8888/status/2125183919255671209",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125183919255671209_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125183919255671209_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125183919255671209_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2125183919255671209_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2125183919255671209.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2125183919255671209.mp4",
     "blurb": "用 Muse 直出视频演示，并整理 4 个 GitHub 开源 Skill：电影级提示词、动画电影工作流、虚拟电影剧组，以及第三方 muse-api 批量自动出片。",
     "prompt": "",
     "nsfw": false,
@@ -8622,9 +8622,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@fwqgo_com",
     "sourceUrl": "https://x.com/fwqgo_com/status/2125201515950321967",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125201515950321967_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125201515950321967_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125201515950321967_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2125201515950321967_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "黑五套餐：1.81 刀四库家宽双 ISP 落地机，另加 3.99 刀 1G 带宽 1TB 单向流量；去程 CN2 GT / AS4837 / CMIN2，回程电信联通 CN2 GIA + 移动 CMIN2，续费同价。",
@@ -8642,9 +8642,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Lovislexus",
     "sourceUrl": "https://x.com/Lovislexus/status/2125031646126862768",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125031646126862768_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125031646126862768_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125031646126862768_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2125031646126862768_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "Google Fi 原价 65 刀，走 Play Points Perks 可打到 16.25 刀/月并连续 12 个月；每月 100GB 高速、最多 50GB 可用于境外漫游，截止 11 月 30 日 15:59（北京时间）。",
@@ -8662,10 +8662,10 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@esimuse",
     "sourceUrl": "https://x.com/esimuse/status/2124773828064878901",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124773828064878901_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124773828064878901_1.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124773828064878901_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2124773828064878901_1.jpg"
     ],
     "videoUrl": "",
     "blurb": "BNEesim 黑五：扫码注册后 128 元买无限期 50G、IP 新加坡的 eSIM。",
@@ -8683,11 +8683,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mculha06",
     "sourceUrl": "https://x.com/mculha06/status/2121939943551631510",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121939943551631510_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2121939943551631510_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2121939943551631510_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2121939943551631510_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2121939943551631510.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2121939943551631510.mp4",
     "blurb": "wataa",
     "prompt": "",
     "nsfw": true,
@@ -8703,11 +8703,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@mculha06",
     "sourceUrl": "https://x.com/mculha06/status/2120464150359068781",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120464150359068781_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2120464150359068781_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2120464150359068781_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2120464150359068781_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2120464150359068781.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2120464150359068781.mp4",
     "blurb": "摆脱烦恼 深夜不在寂寞。#成人短剧 #AI短剧",
     "prompt": "",
     "nsfw": true,
@@ -8723,11 +8723,11 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@Zicovdo",
     "sourceUrl": "https://x.com/Zicovdo/status/2125579225961041998",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125579225961041998_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125579225961041998_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125579225961041998_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2125579225961041998_0.jpg"
     ],
-    "videoUrl": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/videos/2125579225961041998.mp4",
+    "videoUrl": "https://img.guopeng.ccwu.cc/videos/2125579225961041998.mp4",
     "blurb": "抖音👉夏甜",
     "prompt": "",
     "nsfw": true,
@@ -8743,16 +8743,16 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@DunYex",
     "sourceUrl": "https://x.com/DunYex/status/2125124340652072998",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2125124340652072998_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_0.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_1.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_2.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_3.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_4.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_5.png",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_6.jpg",
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2125124340652072998_7.png"
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_0.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_1.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_2.png",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_3.png",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_4.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_5.png",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_6.jpg",
+      "https://img.guopeng.ccwu.cc/images/2125124340652072998_7.png"
     ],
     "videoUrl": "",
     "blurb": "用 Google 地区关联表单改账号国家/地区，便于加入家庭组；推荐勾选经常使用 VPN（机场送中易被标成中国），提交后数小时可能通过，被拒则固定节点一周后再试。也可用家宽每天正常使用 Gmail/YouTube，大约 20 天自动切到家宽所在地。",
@@ -8770,9 +8770,9 @@ window.GALLERY_CASES = [
     "model": "",
     "source": "@leaf_sanren",
     "sourceUrl": "https://x.com/leaf_sanren/status/2124841142252659154",
-    "image": "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124841142252659154_0.jpg",
+    "image": "https://img.guopeng.ccwu.cc/images/2124841142252659154_0.jpg",
     "images": [
-      "https://pub-a4668c43d2474013aa55ad1baa982c45.r2.dev/images/2124841142252659154_0.jpg"
+      "https://img.guopeng.ccwu.cc/images/2124841142252659154_0.jpg"
     ],
     "videoUrl": "",
     "blurb": "订了 Google AI Pro/Ultra 可用官方 google-colab-cli，让 Antigravity 在云端显卡跑任务再把成片拉回本地。Pro 每月送 200 CU（可滚动 3 个月）。摘录日文长文：L4 渲染约 0.77 CU/22 分钟；跑完必须 colab stop，挂机也会扣算力。",
